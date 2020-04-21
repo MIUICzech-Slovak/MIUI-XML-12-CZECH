@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fileCount">
+        <item quantity="other">Položek: %d</item>
+        <item quantity="one">Položek: %d</item>
+    </plurals>
+    <plurals name="first_space_notification_format">
+        <item quantity="other">%d upozornění v Primárním profilu</item>
+        <item quantity="one">%d upozornění v Druhém profilu</item>
+    </plurals>
+    <plurals name="second_space_notification_format">
+        <item quantity="other">%d upozornění v Primárním profilu</item>
+        <item quantity="one">%d upozornění v Druhém profilu</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+         <item quantity="other">Vyhledat %d apl.</item>
+         <item quantity="one">Vyhledat %d apl.</item>
+     </plurals>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="alphabet">Abeceda</string>
+  <string name="app_name">SIM Toolkit</string>
+  <string name="app_name2">SIM Toolkit2</string>
+  <string name="app_name3">SIM Toolkit3</string>
+  <string name="button_cancel">Zrušit</string>
+  <string name="button_no">Ne</string>
+  <string name="button_ok">OK</string>
+  <string name="button_yes">Ano</string>
+  <string name="default_call_setup_msg">Probíhá hovor...</string>
+  <string name="default_close_channel_msg">Kanál uzavřen</string>
+  <string name="default_open_channel_msg">Otevřít kanál?</string>
+  <string name="default_receive_data_msg">Přijímání dat</string>
+  <string name="default_send_data_msg">Odesílání dat</string>
+  <string name="default_setup_call_msg">Je sestavován hovor</string>
+  <string name="default_tone_dialog_msg">Playing Tone</string>
+  <string name="digits">Znaky (0-9, *, #, +)</string>
+  <string name="disable_app">Vypnuto</string>
+  <string name="enable_app">Zapnuto</string>
+  <string name="help">Nápověda</string>
+  <string name="menu_back">Zpět</string>
+  <string name="menu_end_session">Konec relace</string>
+  <string name="service_name">Název služby</string>
+  <string name="stk_app_state">Status aplikace</string>
+  <string name="stk_dialog_accept">ANO</string>
+  <string name="stk_dialog_reject">NE</string>
+  <string name="stk_dialog_title">SIM ToolKit</string>
+  <string name="stk_no_service">Služba nedostupná</string>
+</resources>

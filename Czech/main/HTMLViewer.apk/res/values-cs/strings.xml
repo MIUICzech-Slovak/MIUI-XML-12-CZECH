@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">HTML Viewer</string>
+  <string name="app_name_which_call">Aplikace: %s</string>
+  <string name="app_version_which_call">Verze: %s</string>
+  <string name="ime_privacy_policy">Zvolte klávesnici</string>
+  <string name="license_host_unreachable">Nelze se připojit k síti. Pro zobrazení jděte na %s</string>
+  <string name="loading">Načítání...</string>
+  <string name="mibi_license">Podmínky používání MiKreditů</string>
+  <string name="open_wifi_connect_summary">Zobrazit podrobnosti.</string>
+  <string name="open_wifi_connect_title">Připojit k %1$s</string>
+  <string name="permdesc_accessDrm">Povolí aplikaci přístup k DRM chráněnému obsahu.</string>
+  <string name="policy_name">Podmínky: %s</string>
+  <string name="pre_installed_apps">Předinstalované aplikace</string>
+  <string name="settings_license_activity_loading">Načítání...</string>
+  <string name="settings_license_activity_title">Licence Open source</string>
+  <string name="settings_license_activity_unavailable">Nastal problém s načtením licence.</string>
+  <string name="settings_safetylegal_activity_loading">Načítání...</string>
+  <string name="settings_safetylegal_activity_title">Bezpečnostní informace</string>
+  <string name="settings_safetylegal_activity_unreachable">Nemáte připojení k internetu. Pro zobrazení této informace navštivte %s z vašeho PC připojeného k internetu.</string>
+  <string name="settings_safetylegal_title">Bezpečnostní informace</string>
+</resources>

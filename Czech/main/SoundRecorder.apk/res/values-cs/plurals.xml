@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="record_downloading_complete_count">
+        <item quantity="other">Stažené nahrávky: %d</item>
+        <item quantity="one">Stažené nahrávky: %d</item>
+    </plurals>
+    <plurals name="local_records_count">
+        <item quantity="other">Položek: %d</item>
+        <item quantity="one">Položek: %d</item>
+    </plurals>
+    <plurals name="unsynced_records_count">
+        <item quantity="other">Nesynchr.: %d</item>
+        <item quantity="one">Nesynchr.: %d</item>
+    </plurals>
+     <plurals name="notification_warning">
+        <item quantity="other">Nedostatek úložiště (méně, než  %d minut)</item>
+         <item quantity="one">Nedostatek úložiště (méně, než %d minuta)</item>
+     </plurals>
+     <plurals name="btn_clear_records">
+         <item quantity="other">Vymazat nahrávky (%d)</item>
+         <item quantity="one">Vymazat nahrávky (%d)</item>
+     </plurals>
+     <plurals name="choose_call_records_count">
+         <item quantity="other">Položky: %d</item>
+         <item quantity="one">Položky: %d</item>
+     </plurals>
+     <plurals name="search_result">
+        <item quantity="other">Nalezených: %d</item>
+        <item quantity="one">Nalezena: %d</item>
+     </plurals>
+        <plurals name="confirm_delete_cloud_records">
+        <item quantity="other">Vymazat (%d) nahrávky z cloudu?</item>
+        <item quantity="one">Vymazat (%d) nahrávky z cloudu?</item>
+    </plurals>
+    <plurals name="confirm_delete_records">
+        <item quantity="other">Vymazat (%d) nahrávky?</item>
+        <item quantity="one">Vymazat (%d) nahrávky?</item>
+    </plurals>
+</resources>

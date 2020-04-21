@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Vymazat zvolené položky?</item>
+        <item quantity="one">Vymazat zvolenou položku?</item>
+    </plurals>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Zaostřeno. Nalezeno %d tváří.</item>
+        <item quantity="one">Zaostřeno. Nalezena %d tvář.</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Dávkové snímání dokončeno, zhotoveno %1$s snímků</item>
+        <item quantity="one">Dávkové snímání dokončeno, zhotoveno %1$s snímků</item>
+    </plurals>	
+</resources>

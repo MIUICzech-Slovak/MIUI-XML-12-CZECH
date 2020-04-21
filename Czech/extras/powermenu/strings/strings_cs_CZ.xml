@@ -1,0 +1,13 @@
+<resources>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+    <string name="label_airplane_mode">Letadlo</string>
+    <string name="label_silent_mode">Tichý režim</string>
+    <string name="label_reboot">Restart</string>
+    <string name="label_shutdown">Vypnout</string>
+    <string name="label_alert_reboot">Restart</string>
+    <string name="label_alert_shutdown">Vypnout</string>
+    <string name="label_blank">Zpět</string>
+    <string name="label_emergency_call">Nouzový hovor</string>
+    <string name="label_alert_recovery">Recovery</string>
+    <string name="label_alert_fastboot">Fastboot</string>      
+</resources>

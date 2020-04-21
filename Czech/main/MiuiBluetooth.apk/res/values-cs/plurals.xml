@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">Stiskněte a podržte tlačítko na krabičce %1$ds</item>
+        <item quantity="one">Stiskněte a podržte tlačítko na krabičce %1$ds</item>
+    </plurals>
+        <plurals name="fast_connect_reset_air2_se">
+        <item quantity="other">Stlačte a podržte dotykovou plochu na sluchátku %1$ds</item>
+        <item quantity="one">Stlačte a podržte dotykovou plochu na sluchátku %1$ds</item>
+    </plurals>
+</resources>

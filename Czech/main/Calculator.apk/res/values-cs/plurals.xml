@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="age_label_days">
+        <item quantity="other">%d dní</item>
+        <item quantity="one">%d den</item>
+        <item quantity="few">%d dny</item>
+        <item quantity="many">%d dne</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%d měsíců</item>
+        <item quantity="one">%d měsíc</item>
+        <item quantity="few">%d měsíce</item>
+        <item quantity="many">%d měsíce</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">let</item>
+        <item quantity="one">rok</item>
+        <item quantity="few">roky</item>
+        <item quantity="many">roku</item>
+    </plurals>
+    <plurals name="entries">
+        <item quantity="other">%d položek</item>
+        <item quantity="one">%d položka</item>
+        <item quantity="few">%d položky</item>
+        <item quantity="many">%d položky</item>
+    </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Podrobné splátky (%d let)</item>
+        <item quantity="one">Podrobné splátky (%d rok)</item>
+        <item quantity="few">Podrobné splátky (%d roky)</item>
+        <item quantity="many">Podrobné splátky (%d roku)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Podrobné splátky (%d let), CNY</item>
+        <item quantity="one">Podrobné splátky (%d rok), CNY</item>
+        <item quantity="few">Podrobné splátky (%d roky), CNY</item>
+        <item quantity="many">Podrobné splátky (%d roku), CNY</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="other">%1$d let (%2$d měsíců)</item>
+        <item quantity="one">%1$d rok (%2$d měsíců)</item>
+        <item quantity="few">%1$d roky (%2$d měsíců)</item>
+        <item quantity="many">%1$d roku (%2$d měsíců)</item>
+    </plurals>
+    <plurals name="tenure_months">
+        <item quantity="other">%d měsíců</item>
+        <item quantity="one">%d měsíc</item>
+        <item quantity="few">%d měsíce</item>
+        <item quantity="many">%d měsíce</item>
+    </plurals>
+</resources>

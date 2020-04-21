@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">Souborů: %1$d</item>
+        <item quantity="one">Souboru: %1$d</item>
+    </plurals>
+</resources>

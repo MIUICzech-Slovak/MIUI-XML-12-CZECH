@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Oznámení</string>
+  <string name="default_list_type">Seřadit podle času přijetí</string>
+  <string name="disable_float_notification">Plovoucí oznámení jsou zakázána</string>
+  <string name="disable_lockscreen_notification">Oznámení na Zamykací obrazovce jsou zakázána</string>
+  <string name="disable_show_badge_notification">Bubliny oznámení jsou zakázány</string>
+  <string name="enable_float_notification">Plovoucí oznámení jsou povolena</string>
+  <string name="enable_lockscreen_notification">Oznámení na Zamykací obrazovce jsou povolena</string>
+  <string name="enable_show_badge_notification">Bubliny oznámení jsou povoleny</string>
+  <string name="expand_top_notification">Rozbalit první upozornění</string>
+  <string name="expandable_under_keyguard">Otevřít Oznamovací roletku na Zamykací obrazovce</string>
+  <string name="float_notifications">Plovoucí oznámení</string>
+  <string name="hint_search_all">Vyhledat aplikace</string>
+  <string name="hint_search_in_disabled_apps">Vyhledat aplikace, které nemohou zobrazovat oznámení</string>
+  <string name="hint_search_in_enabled_apps">Vyhledat aplikace, které mohou zobrazovat oznámení</string>
+  <string name="list_title_disable_notification">Oznámení jsou zakázána</string>
+  <string name="loading">Načítání...</string>
+  <string name="lock_screen_display_rules">Formát</string>
+  <string name="lock_screen_tip_toast">Nejprve povolte oznámení v \"Oznámení aplikací\"</string>
+  <string name="lockscreen_notifications">Zámek</string>
+  <string name="not_sent_recently">Žádná v nedávné době</string>
+  <string name="notch_and_status_bar_setting">Výřez a lišta upozornení</string>
+  <string name="notification_display_setting">Oznamovací roletka</string>
+  <string name="notification_display_style">Styl oznámení</string>
+  <string name="notification_fold_summary">Všechna nedůležitá oznámení budou zobrazena v oddělené složce</string>
+  <string name="notification_fold_title">Složka oznámení</string>
+  <string name="notification_manager">Oznámení aplikací</string>
+  <string name="notification_style_android">Android</string>
+  <string name="notification_style_miui">MIUI</string>
+  <string name="off">Vypnuto</string>
+  <string name="on">Zapnuto</string>
+  <string name="settings_guide_title">Hledáte další nastavení?</string>
+  <string name="show_badge_notifications">Bubliny</string>
+  <string name="status_bar_setting">Lišta upozornění</string>
+  <string name="summary_disable_float_notification">Plovoucí oznámení jsou zakázána</string>
+  <string name="summary_disable_lockscreen_notification">Oznámení na Zamykací obrazovce jsou zakázána</string>
+  <string name="summary_disable_show_badge_notification">Bubliny oznámení jsou zakázány</string>
+  <string name="summary_enable_float_notification">Plovoucí oznámení jsou povolena</string>
+  <string name="summary_enable_lockscreen_notification">Oznámení na Zamykací obrazovce jsou povolena</string>
+  <string name="summary_enable_show_badge_notification">Bubliny oznámení jsou povoleny</string>
+  <string name="summary_float_enable_notification_first">Pro plovoucí oznámení nejprve povolte zobrazování oznámení</string>
+  <string name="summary_lock_screen_enable_notification_first">Pro oznámení na Zamykací obrazovce nejprve povolte zobrazování oznámení</string>
+  <string name="summary_show_badge_enable_notification_first">Pro Bubliny oznámení nejprve povolte zobrazování oznámení</string>
+     <string name="last_sent_time_second">Právě nyní</string>
+</resources>

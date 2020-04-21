@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="payment_record_menu_select_num">
+        <item quantity="other">Selected %s items</item>
+        <item quantity="one">Selected %s item</item>
+    </plurals>
+    <plurals name="payment_record_dialog_delete_message">
+        <item quantity="other">Delete %s items from payment?</item>
+        <item quantity="one">Delete %s item from payment?</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">Před %dmin</item>
+        <item quantity="one">Před %dmin</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">Před %dh</item>
+        <item quantity="one">Před %dh</item>
+    </plurals>
+    <plurals name="main_delete_desc">
+        <item quantity="other">Odstranit %s položek?</item>
+        <item quantity="one">Odstranit %s položku?</item>
+    </plurals>
+    <plurals name="main_mark_select_num">
+        <item quantity="other">Vybráno %s</item>
+        <item quantity="one">Vybráno %s</item>
+    </plurals>
+    <plurals name="main_mark_fav_num">
+        <item quantity="other">Marked %s items as important</item>
+        <item quantity="one">Marked %s item as important</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">In %d minutes</item>
+        <item quantity="one">In %d minute</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">In %d hours</item>
+        <item quantity="one">In %d hour</item>
+    </plurals>
+    <plurals name="sms_day_suffix">
+        <item quantity="other">In %d days</item>
+        <item quantity="one">In %d day</item>
+    </plurals>
+    <plurals name="sms_title_hours">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">%d hour</item>
+    </plurals>
+    <plurals name="sms_title_minutes">
+        <item quantity="other">Označených %d</item>
+        <item quantity="one">Označených %d</item>
+    </plurals>
+     <plurals name="agenda_count_down">
+        <item quantity="other">Za %d minut</item>
+        <item quantity="one">Za %d minutu</item>
+     </plurals>
+     <plurals name="assistant_day">
+        <item quantity="other">Za %d dní</item>
+        <item quantity="one">Za %d den</item>
+     </plurals>
+    <plurals name="steps">
+        <item quantity="other">%d|kroků</item>
+        <item quantity="zero">%d|kroků</item>
+        <item quantity="one">%d|krok</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">Před %1$dmin</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Před %1$dh</item>
+    </plurals>	
+    <plurals name="days_ago">
+        <item quantity="other">Před %1$dd</item>
+    </plurals>	
+</resources>

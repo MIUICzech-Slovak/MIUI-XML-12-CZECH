@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="slideshow_time_entries">
+        <item>5 min.</item>
+        <item>15 min.</item>
+        <item>30 min.</item>
+        <item>1 hod.</item>
+        <item>Bez limitu</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Chlapec</item>
+        <item>Dívka</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Otec</item>
+        <item>Matka</item>
+        <item>Dědeček z otcovy strany</item>
+        <item>Babička z otcovy strany</item>
+        <item>Dědeček z matčiny strany</item>
+        <item>Babička z matčiny strany</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>já</item>
+        <item>dítě</item>
+        <item>rodina</item>
+        <item>kolega</item>
+        <item>spolužák</item>
+        <item>kamarád</item>
+        <item>neznámý</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+         <item>Otec</item>
+         <item>Matka</item>
+         <item>Děda z otcové strany</item>
+         <item>Babička z otcové strany</item>
+         <item>Děda z matčiné strany</item>
+         <item>Babička z matčiné strany</item>
+     </string-array>
+     <string-array name="collage_month">
+         <item>Led</item>
+         <item>Úno</item>
+        <item>Bře</item>
+         <item>Dub</item>
+         <item>Kvě</item>
+         <item>Čer</item>
+         <item>Črv</item>
+         <item>Srp</item>
+         <item>Zář</item>
+         <item>Říj</item>
+         <item>Lis</item>
+         <item>Pro</item>
+     </string-array>
+     <string-array name="menu_copy_or_move">
+        <item>Přesunout</item>
+        <item>Kopírovat</item>
+        <item>Zrušit</item>
+    </string-array>	
+    <string-array name="activities_title">
+        <item>Speciální den</item>
+        <item>Pamětní den</item>
+        <item>Nejkrásnější momenty</item>
+     </string-array>
+     <string-array name="card_last_week_day">
+        <item>Minulé Pondělí</item>
+        <item>Minulé Úterý</item>
+        <item>Minulou Středa</item>
+        <item>Minulý Čtvrtek</item>
+        <item>Minulý Pátek</item>
+     </string-array>
+     <string-array name="last_month">
+        <item>Leden</item>
+        <item>Únor</item>
+        <item>Březen</item>
+        <item>Duben</item>
+        <item>Květen</item>
+        <item>Červen</item>
+        <item>Červenec</item>
+        <item>Srpen</item>
+        <item>Září</item>
+        <item>Říjen</item>
+        <item>Listopad</item>
+        <item>Prosinec</item>
+     </string-array>
+     <string-array name="last_weekend_title">
+        <item>Moje víkendy</item>
+        <item>Kousky života</item>
+        <item>Vzpomínky na víkend</item>
+     </string-array>
+     <string-array name="month">
+        <item>Leden</item>
+        <item>Únor</item>
+        <item>Březen</item>
+        <item>Duben</item>
+        <item>Květen</item>
+        <item>Červen</item>
+        <item>Červenec</item>
+        <item>Srpen</item>
+        <item>Září</item>
+        <item>Říjen</item>
+        <item>Listopad</item>
+        <item>Prosinec</item>
+     </string-array>
+     <string-array name="month_last_year">
+        <item>Minulý Leden</item>
+        <item>Minulý Únor</item>
+        <item>Minulý Březen</item>
+        <item>Minulý Duben</item>
+        <item>Minulý Květen</item>
+        <item>Minulý Červen</item>
+        <item>Minulý Červenec</item>
+        <item>Minulý Srpen</item>
+        <item>Minulý Září</item>
+        <item>Minulý Říjen</item>
+        <item>Minulý Listopad</item>
+        <item>Minulý Prosinec</item>
+     </string-array>
+     <string-array name="season">
+        <item>Jaro</item>
+        <item>Léto</item>
+        <item>Podzim</item>
+        <item>Zima</item>
+     </string-array>
+     <string-array name="season_last_year">
+        <item>Minulé Jaro</item>
+        <item>Minulé Léto</item>
+        <item>Minulý Podzim</item>
+        <item>Minulou Zimu</item>
+     </string-array>
+     <string-array name="weekend_title">
+        <item>Minulé víkendy</item>
+        <item>Pamětní dny</item>
+        <item>Denní události</item>
+        <item>Běžné a vyjímečné</item>
+     </string-array>
+     <string-array name="backup_automatically_key_words">
+        <item>Zálohovat fotografie</item>
+        <item>Zálohovat fotografie na MiCloud</item>
+    </string-array>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_prompt_label">
+        <item>Zodpovědně</item>
+        <item>Dlouho</item>
+        <item>Příliš dlouho</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>Čas na pohyb!</item>
+        <item>Zjistit více</item>
+        <item>Napíjte se vody a projděte se.</item>
+        <item>Zjistit více</item>
+        <item>Vystoupejte pár schodů</item>
+        <item>Zjistit více</item>
+        <item>Neseďte příliš dlouho</item>
+        <item>Zjistit více</item>
+    </string-array>
+     <string-array name="splash_loading">
+        <item>Výpočet cíle aktivity…</item>
+        <item>Cíl: %1$d kroků</item>
+        <item>Ušli jste %1$d kroků</item>
+        <item>Výpočet cíle spánku…</item>
+        <item>Cíl: %1$d h</item>
+        <item>Žádné údaje o spánku</item>
+        <item>Otvírání Mi Zdraví</item>
+     </string-array>
+    <string-array name="arr_time_label">
+        <item>1 hodina</item>
+        <item>2 hodiny</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item>"  kcal"</item>
+        <item>"  kJ"</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>"  cm"</item>
+        <item>"  m"</item>
+        <item>"  km"</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>Den</item>
+        <item>Týden</item>
+        <item>Měsíc</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>Žádné omezení</item>
+        <item>Omezit aktivitu na pozadí</item>
+        <item>Zastavit po 10 minútach</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>"  km/h"</item>
+        <item>"  m/s"</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>°C</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="week">
+        <item>Neděle</item>
+        <item>Pondělí</item>
+        <item>Úterý</item>
+        <item>Středa</item>
+        <item>Čtvrtek</item>
+        <item>Pátek</item>
+        <item>Sobota</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Úte</item>
+        <item>Stř</item>
+        <item>Čtv</item>
+        <item>Pát</item>
+        <item>Sob</item>
+    </string-array>
+</resources>

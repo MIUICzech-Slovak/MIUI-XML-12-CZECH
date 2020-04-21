@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="timer_message_with_minutes">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%ddny</item>
+        <item quantity="one">%dden</item>
+    </plurals>	
+    <plurals name="timer_message_with_seconds">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Odložit o %d min</item>
+        <item quantity="one">Odložit o %d min</item>
+    </plurals>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d h "</item>
+        <item quantity="one">"%1$d h "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d min "</item>
+        <item quantity="one">"%1$d min "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Ztišeno za %d min.</item>
+        <item quantity="one">Ztišeno za %d min.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">Budík bude ztišený po %d min.</item>
+        <item quantity="one">Budík bude ztišený po %d min.</item>
+    </plurals>
+     <plurals name="delete_alarm_confirm">
+        <item quantity="other">Vymazat vybrané budíky?</item>
+        <item quantity="one">Vymazat tento budík?</item>
+     </plurals>
+     <plurals name="delete_timezone_confirm">
+        <item quantity="other">Vymazat vybrané časové zóny?</item>
+        <item quantity="one">Vymazat tuto časovou zónu?</item>
+     </plurals>
+      <plurals name="second">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
+     </plurals>
+     <plurals name="snooze_duration_summary">
+        <item quantity="other">Budík se vypne %2$s krát (%1$s min. každý)</item>
+        <item quantity="one">Budík se vypne %2$s krát (%1$s min.)</item>
+    </plurals>
+     <plurals name="hour">
+         <item quantity="other">%dh</item>
+         <item quantity="one">%dh</item>
+     </plurals>
+     <plurals name="life_post_wake_up_item_acumu_day">
+         <item quantity="other">%1$dd</item>
+         <item quantity="one">%1$dd</item>
+     </plurals>
+     <plurals name="minute">
+         <item quantity="other">%dmin</item>
+         <item quantity="one">%dmin</item>
+     </plurals>	 
+     <plurals name="snooze_duration_changed_info">
+        <item quantity="other">Změněný interval na %d min.</item>
+        <item quantity="one">Změněný interval na %d min.</item>
+     </plurals>
+     <plurals name="snooze_duration_desc">
+        <item quantity="other">Každých %1$s min, vypnout %2$s krát</item>
+        <item quantity="one">Každých %1$s min, vypnout %2$s krát</item>
+    </plurals>	   
+     <plurals name="snooze_duration_count">
+        <item quantity="other">Vypnout %1$s krát</item>
+        <item quantity="one">Vypnout %1$s krát</item>
+     </plurals>
+     <plurals name="snooze_duration_min">
+        <item quantity="other">Každých %1$s min.</item>
+        <item quantity="one">Každou %1$s min.</item>
+     </plurals>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$sh</item>
+        <item quantity="one">%1$sh</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$sh</item>
+        <item quantity="one">%1$sh</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$smin</item>
+        <item quantity="one">%1$smin</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$smin</item>
+        <item quantity="one">%1$smin</item>
+    </plurals>	 
+</resources>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="casting_tips">Vysílání...</string>
+  <string name="console_guide_btn_got_it">Rozumím</string>
+  <string name="console_guide_subtitle_hang_up">Nepřerušovat vysílání když se vypne obrazovka telefonu.</string>
+  <string name="console_guide_subtitle_private">Nezobrazovat upozornění v plovoucích oknech, příchozí hovory, a ostatní citlivá oznámení</string>
+  <string name="console_guide_subtitle_small_window">Minimalizovat vysílané okno pro možnost používání ostatních funkcí zařízení během vysílání</string>
+  <string name="dialog_can_not_find_device">Nenašli se žádné zařízení</string>
+  <string name="dialog_cancle">Zrušit</string>
+  <string name="dialog_connect_fail">Nebylo možné připojit</string>
+  <string name="dialog_connect_retry">Zkusit znova</string>
+  <string name="dialog_connect_verify_perssion">Autorizujte vysílání na vaší TV</string>
+  <string name="dialog_connect_verify_perssion_fail">Nebylo možné autorizovat vysílání na vaší TV. Počkejte minutu nebo dvě a zkuste to znova.</string>
+  <string name="dialog_connected">Připojené</string>
+  <string name="dialog_connecting">Připojování...</string>
+  <string name="dialog_only_suport_content">Vysílat fotografie, videa nebo hudbu</string>
+  <string name="dialog_open_wifi_bt">Povolit</string>
+  <string name="dialog_please_make_sure_tv_ok">Cílové zařízení vyžaduje aktivaci bezdrátového vysílání.</string>
+  <string name="dialog_please_make_sure_tv_ok_or_help">Zkontrolujte zda cílové zařízení podporuje bezdrátové vysílání.
+Pro více informací si přečtěte Pomoc.</string>
+  <string name="dialog_recent_connected">Nedávné</string>
+  <string name="dialog_retry">Zkusit znova</string>
+  <string name="dialog_scanning_device">Vyhledávání zařízení...</string>
+  <string name="dialog_scanning_precondition">Povolte Wi-Fi a Bluetooth na vašem telefonu pro používání Wireless Display.</string>
+  <string name="dialog_select_tv">Vyberte zařízení pro připojení</string>
+  <string name="dialog_show_help">Pomoc</string>
+  <string name="disconnect">zastavit vysílání</string>
+  <string name="hang_up">Vysílat i když zhasne displej</string>
+  <string name="hang_up_alert_dialog_content">Vysílání nebude přerušeno když zhasne displej na vašem telefonu. Stlačte tlačítko zapínání pro rozsvícení displeje.</string>
+  <string name="hang_up_alert_dialog_neg">Zrušit</string>
+  <string name="hang_up_alert_dialog_pos">OK</string>
+  <string name="hang_up_alert_dialog_title">Vysílání s vypnutým displejem</string>
+  <string name="notification_show_more">Více funkcí</string>
+  <string name="privacy_agree">Souhlasím</string>
+  <string name="privacy_text_1">　Používáním této funkce souhlasíte s našimi Podmínkami používání a Ochranou soukromí.</string>
+  <string name="privacy_text_2"/>
+  <string name="privacy_text_pemission">"　　• Wi-Fi je používaná pro vyhledávání zařízení.
+　　•Bluetooth je používané pro vyhledávání zařízení."</string>
+  <string name="private_protect">Chránit soukromí</string>
+  <string name="san_wait_msg_1">Cílové zařízení potřebuje spustit screencast</string>
+  <string name="san_wait_msg_2">Vyhledávání zařízení může chvilku trvat...</string>
+  <string name="san_wait_msg_3">Zařízení se lépe vyhledávají když jsou připojené na stejné Wi-Fi síti</string>
+  <string name="san_wait_msg_4">Stiskněte \"Pomoc\" pokud nemůžete najít zařízení</string>
+  <string name="small_window">Minimalizovat okno</string>
+  <string name="status_bar_in_casting">Vysílání</string>
+  <string name="status_bar_in_casting_long">Zobrazit více funkcí</string>
+  <string name="tile_label">Vysílat</string>
+  <string name="toast_guide_show_more">Více</string>
+  <string name="toast_guide_title">Více funkcí</string>
+  <string name="toast_msg_for_multi_window">Tato funkce není dostupná při rozdělené obrazovce</string>
+  <string name="toast_msg_for_small_window">Po otevření aplikace kterou chcete vysílat na TV, použijte malé okno pro vysílání.</string>
+  <string name="toast_title_for_small_window">Použijte malé okno pro vysílání.</string>
+  <string name="actionbar_button_up_description">Zpět</string>
+  <string name="nfc_connect_failed_toast">Nebylo možné vysílat. Zkuste to znova.</string>
+  <string name="small_window_not_supported">Není možné minimalizovat aplikaci pokud právě vysílá</string>
+</resources>

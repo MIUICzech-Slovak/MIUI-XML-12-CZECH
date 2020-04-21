@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="install_game_count_title">
+        <item quantity="other">Přidaných apl.: %d</item>
+        <item quantity="one">Přidaných apl.: %d</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">Nepřidaných apl.: %d</item>
+        <item quantity="one">Nepřidaných apl.: %d</item>
+    </plurals>
+    <plurals name="found_apps_title">
+         <item quantity="other">Nepřidaných apl.: %d</item>
+         <item quantity="zero">Nepřidaných apl.: 0</item>
+         <item quantity="one">Nepřidaných apl.: %d</item>
+     </plurals>
+     <plurals name="find_applications">
+         <item quantity="other">Vyhledat mezi %d apl.</item>
+         <item quantity="one">Vyhledat mezi %d apl.</item>
+     </plurals>	
+</resources>

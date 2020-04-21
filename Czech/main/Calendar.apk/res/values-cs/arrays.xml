@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Notifikace</item>
+        <item>E-mail</item>
+        <item>SMS</item>
+        <item>Alarm</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Bez připomenutí</item>
+        <item>0 minut</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 hodina</item>
+        <item>12 hodin</item>
+        <item>1 den</item>
+        <item>2 dny</item>
+        <item>1 týden</item>
+        <item>2 týdny</item>
+    </string-array>
+    <integer-array name="reminder_minutes_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>20160</item>
+    </integer-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Bez připomenutí</item>
+        <item>0 minut</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 hodina</item>
+        <item>12 hodin</item>
+        <item>1 den</item>
+        <item>2 dny</item>
+        <item>1 týden</item>
+        <item>2 týdny</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>20160</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Výchozí (Podle jazyka zařízení)</item>
+        <item>Sobota</item>
+        <item>Neděle</item>
+        <item>Pondělí</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marshallovy ostrovy</item>
+        <item>Midwayské ostrovy</item>
+        <item>Havaj</item>
+        <item>Aljaška</item>
+        <item>Tichomorie</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Horský čas</item>
+        <item>Střední Amerika</item>
+        <item>Centrální čas</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogotá</item>
+        <item>Východní čas</item>
+        <item>Venezuela</item>
+        <item>Atlantický čas</item>
+        <item>Atlantický čas (Kanada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Nový Foundland</item>
+        <item>Brazílie</item>
+        <item>Buenos Aires</item>
+        <item>Grónsko</item>
+        <item>Montevideo</item>
+        <item>Středoatlantický</item>
+        <item>Azory</item>
+        <item>Kapverdské ostrovy</item>
+        <item>Casablanca</item>
+        <item>Londýn, Dublin</item>
+        <item>Amsterdam, Berlín</item>
+        <item>Bělehrad</item>
+        <item>Brusel</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Západoafrický čas</item>
+        <item>Ammán, Jordánsko</item>
+        <item>Atény, Istanbul</item>
+        <item>Bejrút, Libanon</item>
+        <item>Káhira</item>
+        <item>Helsinky</item>
+        <item>Jeruzalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdád</item>
+        <item>Moskva</item>
+        <item>Kuvajt</item>
+        <item>Nairobi</item>
+        <item>Teherán</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Jerevan</item>
+        <item>Dubaj</item>
+        <item>Kábul</item>
+        <item>Islámábád, Karáčí</item>
+        <item>Uralsk</item>
+        <item>Jekatěrinburg</item>
+        <item>Kalkata</item>
+        <item>Srí Lanka</item>
+        <item>Káthmandú</item>
+        <item>Astana</item>
+        <item>Rangún</item>
+        <item>Krasnojarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Tchaj-pej</item>
+        <item>Soul</item>
+        <item>Tokio, Ósaka</item>
+        <item>Jakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fidži</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Zaneprázdněný</item>
+        <item>Dostupný</item>
+	      <item>Nezávazný</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Výchozí nastavení</item>
+        <item>Soukromá</item>
+        <item>Veřejná</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>poslední</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(bez odpovědi)</item>
+        <item>Ano</item>
+        <item>Možná</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Pouze tato událost</item>
+        <item>Tato a budoucí události</item>
+        <item>Všechny události</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Tato a budoucí události</item>
+        <item>Všechny události</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Pouze tato instance</item>
+        <item>Všechny instance události</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Den</item>
+        <item>Týden</item>
+        <item>Měsíc</item>
+        <item>Agenda</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Budu mít trochu zpoždění.</item>
+        <item>Budu tam za 10 min.</item>
+        <item>Začněte beze mě.</item>
+        <item>"Omlouvám se, ale nestíhám. Musíme to přesunout na někdy jindy."</item>
+    </string-array> 
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Vždy</item>
+        <item>Pouze v tichém režimu</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Černý průhledný</item>
+        <item>Bílé pozadí</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>Den</item>
+        <item>Týden</item>
+        <item>Měsíc</item>
+        <item>Rok</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+        <item>12.</item>
+        <item>13.</item>
+        <item>14.</item>
+        <item>15.</item>
+        <item>16.</item>
+        <item>17.</item>
+        <item>18.</item>
+        <item>19.</item>
+        <item>20.</item>
+        <item>21.</item>
+        <item>22.</item>
+        <item>23.</item>
+        <item>24.</item>
+        <item>25.</item>
+        <item>26.</item>
+        <item>27.</item>
+        <item>28.</item>
+        <item>29.</item>
+        <item>30.</item>
+        <item>31.</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Po</item>
+        <item>Út</item>
+        <item>St</item>
+        <item>Čt</item>
+        <item>Pá</item>
+        <item>So</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Led</item>
+        <item>Úno</item>
+        <item>Bře</item>
+        <item>Dub</item>
+        <item>Kvě</item>
+        <item>Čer</item>
+        <item>Čvc</item>
+        <item>Srp</item>
+        <item>Zář</item>
+        <item>Říj</item>
+        <item>Lis</item>
+        <item>Pro</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>První</item>
+        <item>Druhý</item>
+        <item>Třetí</item>
+        <item>Čtvrtý</item>
+        <item>Poslední</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Po - Pá</item>
+        <item>Víkend</item>
+        <item>Celý týden</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Nikdy</item>
+        <item>Čas</item>
+        <item>Odpočítávání</item>
+    </string-array>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>0 minut</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 hodina</item>
+        <item>12 hodin</item>
+        <item>1 den</item>
+        <item>2 dny</item>
+        <item>1 týden</item>
+        <item>2 týdny</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+         <item>Bez připomenutí</item>
+         <item>5 minut</item>
+         <item>10 minut</item>
+         <item>15 minut</item>
+         <item>30 minut</item>
+         <item>1 hodina</item>
+         <item>1 den</item>
+         <item>2 dny</item>
+         <item>1 týden</item>
+     </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 h</item>
+        <item>4 h</item>
+        <item>5 h</item>
+        <item>6 h</item>
+        <item>1 den</item>
+    </string-array>
+    <string-array name="miui_preferences_default_reminder_labels">
+        <item>Bez připomenutí</item>
+        <item>0 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>15 min</item>
+        <item>30 min</item>
+        <item>1 hod</item>
+        <item>12 hod</item>
+        <item>1 den</item>
+        <item>2 dny</item>
+        <item>1 týden</item>
+        <item>2 týdny</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner_plural">
+        <item>dní</item>
+        <item>týdny</item>
+        <item>měsíce</item>
+        <item>roky</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+         <item>Nikdy</item>
+         <item>Měsíčně</item>
+         <item>Ročně</item>
+     </string-array>
+     <string-array name="date_calculate_spinner">
+         <item>Dopředu</item>
+         <item>Dozadu</item>
+     </string-array>
+     <string-array name="week_header_name">
+         <item>NED</item>
+         <item>PON</item>
+         <item>ÚTE</item>
+         <item>STŘ</item>
+         <item>ČTV</item>
+         <item>PÁT</item>
+         <item>SOB</item>
+     </string-array>
+     <string-array name="default_reminder_later_time_labels">
+         <item>5 minut</item>
+         <item>10 minut</item>
+         <item>15 minut</item>
+         <item>30 minut</item>
+         <item>1 hodinu</item>
+     </string-array>
+     <string-array name="repeat_monthly_on_day_count_values">
+        <item>první Pondělí</item>
+        <item>první Úterý</item>
+        <item>první Středa</item>
+        <item>první Čtvrtek</item>
+        <item>první Pátek</item>
+        <item>první Sobota</item>
+        <item>první Neděle</item>
+        <item>druhé Pondělí</item>
+        <item>druhé Úterý</item>
+        <item>druhá Středa</item>
+        <item>druhý Čtvrtek</item>
+        <item>druhý Pátek</item>
+        <item>druhý Sobota</item>
+        <item>druhá Neděle</item>
+        <item>třetí Pondělí</item>
+        <item>třetí Úterý</item>
+        <item>třetí Středa</item>
+        <item>třetí Čtvrtek</item>
+        <item>třetí Pátek</item>
+        <item>třetí Sobota</item>
+        <item>třetí Neděle</item>
+        <item>čtvrté Pondělí</item>
+        <item>čtvrté Úterý</item>
+        <item>čtvrtá Středa</item>
+        <item>čtvrtý Čtvrtek</item>
+        <item>čtvrtý Pátek</item>
+        <item>čtvrtá Sobota</item>
+        <item>čtvrtá Neděle</item>
+        <item>poslední Pondělí</item>
+        <item>poslední Úterý</item>
+        <item>poslední Středa</item>
+        <item>poslední Čtvrtek</item>
+        <item>poslední Pátek</item>
+        <item>poslední Sobota</item>
+        <item>poslední Neděle</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Pouze tentokrát</item>
+        <item>Vypnout opakování budíku</item>
+    </string-array>	
+    <string-array name="open_alarm_repeating_labels">
+        <item>Pouze tentokrát</item>
+        <item>Nastavit opakování budíku</item>
+    </string-array>
+     <string-array name="prefEntries_alerts_popup">
+        <item>Vyp</item>
+        <item>Pro všechny události</item>
+        <item>Pro relevantní události</item>
+     </string-array>
+     <string-array name="prefEntries_alerts_popup_new">
+        <item>Vyp</item>
+        <item>Pro všechny události</item>
+        <item>Pro časové události</item>
+     </string-array>
+     <string-array name="response_labels2">
+        <item>Neodpovídat</item>
+        <item>Přijmout</item>
+        <item>Později</item>
+        <item>Odmítnout</item>
+     </string-array>
+</resources>

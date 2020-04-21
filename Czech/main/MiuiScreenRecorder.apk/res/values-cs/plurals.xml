@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="home_title_selected">
+        <item quantity="other">Vybráno: %1$d</item>
+        <item quantity="one">Vybráno: %1$d</item>
+    </plurals>
+    <plurals name="delete_confirm_text">
+         <item quantity="other">Vymazat nahrávky (%1$d)?</item>
+         <item quantity="one">Vymazat nahrávku?</item>
+     </plurals>	
+</resources>

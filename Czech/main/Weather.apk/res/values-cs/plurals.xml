@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">Před %d min</item>
+        <item quantity="one">Před %d min</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">Před %d h</item>
+        <item quantity="one">Před %d h</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">Před %d dny</item>
+        <item quantity="one">Před %d dnem</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Jasno</item>
+        <item quantity="one">Jasno</item>
+     </plurals>
+    <plurals name="daily_forcast_drawer_on_top">
+        <item quantity="other">Předpověď na %1$s dní</item>
+        <item quantity="one">Předpověď na %1$s den</item>
+    </plurals>
+     <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">%1$s seconds after the feedback</item>
+        <item quantity="one">%1$s second after the feedback</item>
+     </plurals>
+     <plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">Předpověď na %1$s dní</item>
+        <item quantity="one">Předpověď na %1$s den</item>
+     </plurals>
+</resources>
