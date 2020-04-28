@@ -226,7 +226,7 @@ musíte nejprve vytvořit iCloudovou zálohu."</string>
   <string name="import_from_xiaomi_account_hint2">Pokud již zálohu máte, klepněte na Další.</string>
   <string name="import_from_xiaomi_account_hint_title">K zálohování kontaktů na různých zařízeních používejte aplikaci Mi Talk.</string>
   <string name="import_tip_summary">Kvůli problémům s kompatibilitou, můžete z iOS zařízení přenést pouze část dat. Před zahájením přenosu nezapomeňte vytvořit zálohu iCloudu.</string>
-  <string name="lack_perm_msg">Přesun do nového zařízení vyžaduje následující povolení: &lt;b&gt;%s&lt;/b&gt;.</string>
+  <string name="lack_perm_msg">Přesun do nového zařízení vyžaduje následující povolení: %s .</string>
   <string name="lack_perm_title">Vyžadována povolení</string>
   <string name="list_footer_tip_title">Tipy:</string>
   <string name="loading_data">Načítání dat</string>
@@ -680,4 +680,55 @@ Velikost aktualizace delta: %2$s"</string>
   <string name="local_no_backup_data">Žádné zálohy</string>
   <string name="local_restore_select_activity">Spravovat zálohy</string>
   <string name="local_restore_select_data_activity">Obnovit ze zálohy</string>
+  <string name="new_britem_audio">Zvuk</string>
+     <string name="new_britem_doc">Soubory</string>
+     <string name="new_britem_other">Ostatní</string>
+     <string name="new_britem_pic">Obrázky</string>
+     <string name="new_britem_video">Videa</string>
+     <string name="new_confirm_enable_encrypt_content">MIUI spojí zašifrované zálohy s vaším Mi účtem. Pro obnovení dat se budete muset přihlásit ke svému Mi účtu.</string>
+     <string name="new_confirm_enable_encrypt_title">Zašifrovat</string>
+     <string name="new_local_button_backup">Zálohovat</string>
+     <string name="new_local_button_restore">Obnovit</string>
+     <string name="new_local_click_to_jump">Zobrazit podrobné informace</string>
+     <string name="new_local_detail_description">"Poznámka:
+%1$d. Zkopírujte zálohy do vašeho PC pro případ ztráty dat. %2$s.
+%3$d. Zálohy budou uložené v MIUI-Backup-AllBackup."</string>
+     <string name="new_local_tab_backup">Zálohovat do mobilního zařízení</string>
+     <string name="new_local_tab_restore">Obnovit z mobilního zařízení</string>
+     <string name="new_low_storage_title">Není dostatek volného místa na úložišti</string>
+     <string name="new_more_settings_label">Další nastavení</string>
+     <string name="new_pc_backup_content1">%1$d. Otevřete \"%2$s\".</string>
+     <string name="new_pc_backup_content2">%d. Počkejte na zálohu všech položek.</string>
+     <string name="new_pc_backup_content3">%d. Najděte zálohu v MIUI-Backup-AllBackup.</string>
+     <string name="new_pc_backup_content4">%d. Zkopírujte ji do vašeho PC.</string>
+     <string name="new_pc_backup_restore_link">Mobilní zařízení</string>
+     <string name="new_pc_backup_summary1">Vyberte položky a stlačte \"Zálohovat\".</string>
+     <string name="new_pc_backup_summary2">Připojte vaše mobilní zařízení k PC přes USB.</string>
+     <string name="new_pc_backup_summary4">Poznámka: Můžete také zkopírovat vaše fotografie a videa z MIUI-DCIM.</string>
+     <string name="new_pc_restore_content1">%d. Připojte vaše mobilní zařízení k PC přes USB.</string>
+     <string name="new_pc_restore_content2">%d. Zkopírujte zálohu z vašeho PC do MIUI-Backup-AllBackup.</string>
+     <string name="new_pc_restore_content3">%1$d. Otevřete \"%2$s\" a vyberte položky které chcete obnovit.</string>
+     <string name="new_pc_title">Zkopírovat zálohy</string>
+     <string name="new_select_file">Zvuk, videa, a soubory</string>
+     <string name="new_select_message">SMS, kontakty, a historii hovorů</string>
+     <string name="new_select_pic">Obrázky</string>
+     <string name="new_select_system">Ostatní data systémových aplikací</string>
+     <string name="new_select_tencent">QQ a WeChat</string>
+     <string name="new_select_third">Nainstalované aplikace a jejich data</string>
+     <string name="new_select_third_apk">Nainstalované aplikace</string>
+     <string name="new_select_third_data">Data nainstalovaných aplikací</string>
+     <string name="new_tab_pc_backup">Zálohovat do PC</string>
+     <string name="new_tab_pc_restore">Obnovit z PC</string>
+     <string name="new_task_finished">Hotovo</string>
+     <string name="new_usb_detail_description">"Poznámka:
+%1$d. Tento způsob umožňuje zálohovat nainstalované aplikace a jejich data.
+%2$d. Ujistěte se, že je dostatek volného místa na USB úložišti."</string>
+     <string name="new_usb_disconnect_dialog_message">Nejdříve připojte USB úložiště.</string>
+     <string name="new_usb_disconnect_dialog_title">Nebylo možné najít USB úložiště</string>
+     <string name="new_usb_select_data_no_space">Je dostupných jen %s na USB úložišti. Uvolněte místo na úložišti.</string>
+     <string name="new_usb_tab_backup">Zálohovat na USB úložiště</string>
+     <string name="new_usb_tab_restore">Obnovit z USB úložiště</string>
+     <string name="not_set">Není nastavené</string>
+     <string name="preference_copied">\"%1$s\" zkopírované do schránky.</string>
+     <string name="search_menu_title">Vyhledat</string>
 </resources>
