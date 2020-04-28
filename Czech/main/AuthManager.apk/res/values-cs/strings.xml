@@ -357,4 +357,23 @@
   <string name="virtual_reject_notice_title_contacts">%1$s se pokoušela o přístup ke kontaktům</string>
   <string name="virtual_reject_notice_title_phonestate">%1$s se pokouší o přístup k informacím o zařízení</string>
   <string name="virtual_reject_notice_title_sms">%1$s se pokouší o přístup k SMS</string>
+  <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Nahrává zvuk a uskutečňuje hovory</string>
+     <string name="HIPS_Perm_Intl_group_desc_auto_start">Spouští aplikace na pozadí</string>
+     <string name="HIPS_Perm_Intl_group_desc_calendar">Přístup k událostem v kalendáři</string>
+     <string name="HIPS_Perm_Intl_group_desc_call_log">Přístup k historii hovorů</string>
+     <string name="HIPS_Perm_Intl_group_desc_camera">Zhotovuje fotografie a videa</string>
+     <string name="HIPS_Perm_Intl_group_desc_contact">Upravuje kontakty</string>
+     <string name="HIPS_Perm_Intl_group_desc_location">Přístup k přesné poloze (GPS a podle sítě)</string>
+     <string name="HIPS_Perm_Intl_group_desc_storage">Ukladá soubory na interním úložišti</string>
+     <string name="HIPS_Perm_Intl_group_name_audio_recorder">Mikrofon</string>
+     <string name="HIPS_Perm_Intl_group_name_auto_start">Autostart</string>
+     <string name="HIPS_Perm_Intl_group_name_calendar">Kalendář</string>
+     <string name="HIPS_Perm_Intl_group_name_call_log">Historie hovorů</string>
+     <string name="HIPS_Perm_Intl_group_name_camera">Fotoaparát</string>
+     <string name="HIPS_Perm_Intl_group_name_contact">Kontakty</string>
+     <string name="HIPS_Perm_Intl_group_name_location">Poloha</string>
+     <string name="HIPS_Perm_Intl_group_name_storage">Úložiště</string>
+     <string name="permission_group_title_sensitive_privacy_related">Citlivá povolení</string>
+     <string name="permission_list_include">"Včetně následujících:
+"</string>
 </resources>
