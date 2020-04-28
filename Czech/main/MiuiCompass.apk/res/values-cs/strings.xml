@@ -58,6 +58,7 @@
   <string name="shake_enter_tip">Zatřesením zkalibrujete</string>
   <string name="using_camera_confirm_cancel">Ukončit</string>
   <string name="using_camera_confirm_ok">OK</string>
-     <string name="preference_other">Ostatní</string>
-     <string name="preference_privacy_title">Ochrana soukromí</string>
+  <string name="preference_other">Ostatní</string>
+  <string name="preference_privacy_title">Ochrana soukromí</string>
+  <string name="cta_agree_desc">Povolte této aplikaci přístup na internet a požadované povolení pro její správné fungování.</string>
 </resources>
