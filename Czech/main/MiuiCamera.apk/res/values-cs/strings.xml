@@ -865,4 +865,25 @@ skenované dokumenty automaticky"</string>
   <string name="search_menu_title">Vyhledat</string>
   <string name="super_eis_pro">Super EIS Pro</string>
   <string name="super_eis_pro_disabled_hint">Super EIS Pro je vypnuté</string>
+  <string name="mode_edit_cancel">Zrušit</string>
+     <string name="mode_edit_exit">Ukončit</string>
+     <string name="mode_edit_exit_message">Všechny změny budou ztraceny. Přesto chcete ukončit?</string>
+     <string name="module_name_clone">Klonovat</string>
+     <string name="module_name_edit">Upravit</string>
+     <string name="module_name_edit_favorite_title">Hlavní stránka</string>
+     <string name="module_name_edit_full_toast">Hlavní stránka je plná</string>
+     <string name="module_name_edit_sub_title">Stlačte a podržte pro přemístění</string>
+     <string name="module_name_edit_title">Funkce</string>
+     <string name="module_name_edit_unfavorite_title">Více funkcí</string>
+     <string name="module_name_more">Více</string>
+     <string name="module_name_multi_camera">Přední a zadní</string>
+     <string name="module_name_vlog">VLOG</string>
+     <string name="pref_camera_long_pressing_burst_shooting_entry_record">Nahrát video</string>
+     <string name="pref_camera_video_show_faceview_title">Zobrazit rámeček okolo tváře ve videu</string>
+     <string name="pref_custom_feature_layout_title">Rozložení funkcí</string>
+     <string name="pref_custom_shutter_sound_title">Zvuk</string>
+     <string name="pref_custom_tint_title">Barvy</string>
+     <string name="pref_customization_title">Upravit</string>
+     <string name="pref_dual_camera_video">Přední a zadní</string>
+     <string name="pref_retain_camera_common_mode_summary">Otevřít Fotoaparát v posledním použitém režimu</string>
 </resources>
