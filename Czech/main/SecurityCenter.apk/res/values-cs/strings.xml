@@ -3822,7 +3822,7 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="privacy_permission_call">Přístup k historii hovorů</string>
      <string name="privacy_permission_call_title">Chránit hovory</string>
      <string name="privacy_permission_camera_title">Omezit používání fotoaparátu na pozadí</string>
-     <string name="privacy_permission_contacts">Přístup ke kontaktům/string>
+     <string name="privacy_permission_contacts">Přístup ke kontaktům</string>
      <string name="privacy_permission_location">Přístup k poloze</string>
      <string name="privacy_permission_management">Spravovat povolení</string>
      <string name="privacy_permission_management_summary">Aplikace které používají povolení pro přístup k hovorům, SMS, a kontaktům</string>
