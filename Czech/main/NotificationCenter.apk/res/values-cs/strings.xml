@@ -42,5 +42,24 @@
   <string name="summary_float_enable_notification_first">Pro plovoucí oznámení nejprve povolte zobrazování oznámení</string>
   <string name="summary_lock_screen_enable_notification_first">Pro oznámení na Zamykací obrazovce nejprve povolte zobrazování oznámení</string>
   <string name="summary_show_badge_enable_notification_first">Pro Bubliny oznámení nejprve povolte zobrazování oznámení</string>
-     <string name="last_sent_time_second">Právě nyní</string>
+  <string name="last_sent_time_second">Právě nyní</string>
+  <string name="menu_setting_recommend_to_minus">Zobrazit méně upozornění</string>
+     <string name="menu_setting_recommend_to_normal">Neredukovat upozornení</string>
+     <string name="menu_setting_show_in_home">Nevytvářet skupiny</string>
+     <string name="menu_setting_tip_recommend_minus">Budete vidět méně upozornění od %s</string>
+     <string name="menu_setting_tip_recommend_normal">Upozornění od %s nebudou zredukovány</string>
+     <string name="menu_setting_tip_show_in_home">Upozornění od %s nebudou ve skupině</string>
+     <string name="menu_setting_tip_unfold">Všechny upozornění od této aplikace budou označeny jako důležité</string>
+     <string name="menu_setting_toast_recommend_minus">Uvidíte méně upozornění od %s</string>
+     <string name="menu_setting_toast_recommend_normal">Upozornění od %s nebudou zredukovány</string>
+     <string name="menu_setting_toast_show_in_home">Upozornění od %s nebudou ve skupině</string>
+     <string name="menu_setting_unfold">Důležité</string>
+     <string name="notification_aggregate_description1">MIUI může automaticky vytvořit skupinu pro reklamní upozornení.</string>
+     <string name="notification_aggregate_description2">Naše algoritmy analyzují obsah upozornění a neaplikují tuto funkci pro důležité upozornení a od chatovacích aplikací.</string>
+     <string name="notification_aggregate_summary">Povolte MIUI automaticky seskupit upozornení</string>
+     <string name="notification_aggregate_summary_inner">Povolte pro vytvoření skupiny pro reklamní upozornení</string>
+     <string name="notification_aggregate_title">Skupina pro upozornení</string>
+     <string name="notification_setting_menu_feedback_text">"Toto upozornení by nemělo být tady?
+Nahlašte tento problém &gt;"</string>
+     <string name="swipe_to_delete">Potáhněte nalevo nebo napravo pro vymazání</string>
 </resources>
