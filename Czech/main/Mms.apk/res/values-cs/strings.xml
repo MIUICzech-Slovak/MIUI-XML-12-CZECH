@@ -891,4 +891,20 @@ Pokus: %s."</string>
   <string name="recommend_smart_sms_setting_summary">Inteligentní zprávy poskytují rozpoznání názvu odesílatele.</string>
   <string name="turn_on">Povolit</string>
   <string name="user_term">Podmínky používání</string>
+  <string name="home_tab_ad">Reklamní</string>
+  <string name="home_tab_common">Normální</string>
+  <string name="menu_correct_as_ad">Přesunout do reklamních</string>
+  <string name="menu_correct_as_normal">Přesunout do normálních</string>
+  <string name="notification_ad_content">Dostali jste reklamní SMS od %s</string>
+  <string name="pref_summary_collapse_ad_notification">Zobrazit všechny reklamní SMS ve speciální složce</string>
+  <string name="pref_summary_collapse_ad_notification_mms">Zobrazit všechny reklamní MMS ve speciální složce</string>
+  <string name="pref_title_collapse_ad_notification">Seskupit upozornění o reklamních SMS</string>
+  <string name="private_entry_available">Pusťte pro otevření soukromé složky</string>
+  <string name="private_entry_default">Potáhněte nížeji pro otevření soukromé složky</string>
+  <string name="recent_label">Nedávné kontakty</string>
+  <string name="release_end">Pusťte pro zastavení</string>
+  <string name="system_permission_declare_privacy_declare_new">Tato aplikace vyžaduje připojení na internet a následující povolení pro její správné fungování:</string>
+  <string name="tab_finance">Finanční</string>
+  <string name="tab_message">SMS</string>
+  <string name="tab_promotions">reklamní</string>
 </resources>
