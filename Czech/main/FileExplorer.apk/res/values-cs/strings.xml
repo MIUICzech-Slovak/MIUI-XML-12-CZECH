@@ -738,4 +738,12 @@ Bylo přičteno dalších %1$s"</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
   <string name="error_hint_copy_folder_to_self_or_sub">Není možné přesunout nebo zkopírovat složky samy do sebe</string>
+  <string name="fab_menu_sort">Třídit</string>
+  <string name="view_type">Zobrazení</string>
+  <string name="guide_newfunc_content">Nyní můžete seřadit soubory podle formátu, přesouvat položky a přepínat mezi zobrazením.</string>
+  <string name="guide_newfunc_title">Nová funkce</string>
+  <string name="sort_hint_name">Seřazené podle názvu</string>
+  <string name="sort_hint_time">Seřazené podle času</string>
+  <string name="sort_hint_type">Seřazené podle typu</string>
+  <string name="imm_str_storage">Úložiště</string>
 </resources>
