@@ -2128,7 +2128,7 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
      <string name="qs_control_customize_sub_title">Přesuňte přidané přepínače pro jejich uspořádání</string>
      <string name="qs_control_customize_title">Přidané přepínače</string>
      <string name="qs_control_expand_detail_title">Moje data</string>
-     <string name="qs_control_header_tiles_title">Centrum ovládání</string>
+     <string name="qs_control_header_tiles_title">Ovladače</string>
      <string name="small_window_guide_title">Plovoucí okno</string>
      <string name="small_window_notification_text">Dotykem se naučíte více o této funkci MIUI %d</string>
      <string name="small_window_notification_title">Plovoucí okna</string>
