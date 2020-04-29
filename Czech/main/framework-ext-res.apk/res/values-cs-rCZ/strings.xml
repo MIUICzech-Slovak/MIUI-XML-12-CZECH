@@ -268,4 +268,11 @@
   <string name="input_method_clipboard_settings_button">Nastavení</string>  
   <string name="input_method_phrase_edit">Upravit</string>
   <string name="input_method_phrase_top">Připnout</string>
+  <string name="device_status_failed">Nebylo možné odeslat</string>
+  <string name="device_status_sending">Odesílání…</string>
+  <string name="device_status_success">Odesláno</string>
+  <string name="device_status_waiting">Čekání…</string>
+  <string name="open_close_tip_action">Rozumím</string>
+  <string name="open_close_tip_content">Pro zavření plovoucího okna stlačte a podržte lištu a potáhněte nahoru</string>
+  <string name="security_share_text">Ochrana soukromí</string>
 </resources>
