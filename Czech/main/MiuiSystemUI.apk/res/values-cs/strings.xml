@@ -950,7 +950,7 @@ Použijte síťovou nabíječku."</string>
   <string name="keyguard_password_enter_pin_prompt">Nový PIN SIM karty</string>
   <string name="keyguard_password_enter_puk_code">Zadejte kód PUK SIM karty a nový kód PIN</string>
   <string name="keyguard_password_enter_puk_prompt">Kód PUK SIM karty</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Klepnut&amp;#237;m zad&amp;#225;te heslo&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">Heslo zadejte po klepnutí</string>
   <string name="keyguard_password_wrong_pin_code">Nesprávný kód PIN.</string>
   <string name="keyguard_permanent_disabled_sim_instructions">"Vaše SIM karta byla natrvalo zablokována.
  Požádejte svého poskytovatele bezdrátových služeb o další SIM kartu."</string>
@@ -2094,4 +2094,46 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="how_to_use_app_quick_hide_line_summary">Potáhněte ze zdola nahoru, potom vlevo  nebo vpravo</string>
   <string name="how_to_use_app_quick_summary">Potáhněte vlevo nebo vpravo z indikátoru nebo zespodu displeje</string>
   <string name="screenshot_failed_in_landscape_mode">Dlouhý screenshot není podporovaný v režimu na šířku</string>
+  <string name="character_counter_content_description">Zadané znaky %1$d z %2$d</string>
+     <string name="character_counter_overflowed_content_description">Překročen limit znaků %1$d z %2$d</string>
+     <string name="choose_clock_panel_title">Rozložení zámku obrazovky</string>
+     <string name="choose_clock_third_theme_hint_text">Použitý zámek obrazovky ze současného tématu</string>
+     <string name="clear_text_end_icon_content_description">Vymazat text</string>
+     <string name="icon_content_description">Ikona</string>
+     <string name="lock_screen_signature_msg">Zobrazit podpis na zamykací obrazovce</string>
+     <string name="lock_screen_signature_title">Info o vlastníkovi na zamykací obrazovce</string>
+     <string name="mtrl_chip_close_icon_content_description">Odebrat %1$s</string>
+     <string name="mtrl_picker_cancel">Zrušit</string>
+     <string name="mtrl_picker_confirm">Uložit</string>
+     <string name="mtrl_picker_date_format">dd. MMM yyyy</string>
+     <string name="mtrl_picker_header_prompt">Vybrat datum</string>
+     <string name="mtrl_picker_range_header_prompt">Vybrat rozpětí</string>
+     <string name="notification_aggregate_text">Upozornění od %1$s označit jako nedůležité</string>
+     <string name="notification_info_disabled_text">Blokované upozornení od %1$s</string>
+     <string name="notification_info_enabled_text">Upozornění od %1$s</string>
+     <string name="notification_menu_aggregate_description">Nastavení seskupení</string>
+     <string name="owner_info_settings_edit_text_hint">Např., Steve Jobs Android.</string>
+     <string name="password_toggle_content_description">Zobrazit heslo</string>
+     <string name="qs_control_big_tile_state_closed">Vyp</string>
+     <string name="qs_control_big_tile_state_closing">Vypínání…</string>
+     <string name="qs_control_big_tile_state_connected">Připojeno</string>
+     <string name="qs_control_big_tile_state_connecting">Připojování…</string>
+     <string name="qs_control_big_tile_state_disconnected">Nepřipojeno</string>
+     <string name="qs_control_big_tile_state_disconnecting">Odpojování…</string>
+     <string name="qs_control_big_tile_state_opened">Zap</string>
+     <string name="qs_control_big_tile_state_opening">Zapínání…</string>
+     <string name="qs_control_big_tile_state_unavailable">Není dostupné</string>
+     <string name="qs_control_customize_other_tiles_title">Dostupné přepínače</string>
+     <string name="qs_control_customize_save_text">Hotovo</string>
+     <string name="qs_control_customize_sub_title">Přesuňte přidané přepínače pro jejich uspořádání</string>
+     <string name="qs_control_customize_title">Přidané přepínače</string>
+     <string name="qs_control_expand_detail_title">Moje data</string>
+     <string name="qs_control_header_tiles_title">zkratky</string>
+     <string name="small_window_guide_title">Plovoucí okno</string>
+     <string name="small_window_notification_text">Dotykem se naučíte více o této funkci MIUI %d</string>
+     <string name="small_window_notification_title">Plovoucí okna</string>
+     <string name="status_bar_clock_date_weekday_format">dd.MM EEEE</string>
+     <string name="status_bar_clock_date_weekday_format_12">dd.MM EEEE</string>
+     <string name="wifi_security_none_owe">Žádné</string>
+     <string name="wifi_security_short_none_owe">Žádné</string>
 </resources>
