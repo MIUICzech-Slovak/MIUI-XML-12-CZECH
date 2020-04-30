@@ -12,5 +12,9 @@
     <plurals name="toast_burst_snap_finished_summary">
         <item quantity="other">Dávkové snímání dokončeno, zhotoveno %1$s snímků</item>
         <item quantity="one">Dávkové snímání dokončeno, zhotoveno %1$s snímků</item>
-    </plurals>	
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Můžete vytvořit najednou maximálně %d klonů.</item>
+        <item quantity="one">Můžete vytvořit najednou maximálně %d klon.</item>
+     </plurals>
 </resources>
