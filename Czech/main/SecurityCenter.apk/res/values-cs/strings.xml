@@ -3739,7 +3739,7 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="cta_agree_desc">Pro používání této aplikace povolte přístup na internet a požadované povolení.</string>
      <string name="debug_open_final_tip">Povolit USB ladění?</string>
      <string name="debug_open_title">Tato funkce je určená pro vývojáře a zkušené uživatelé. Povolení USB ladění přinese tyto změny:</string>
-     <string name="empty_title_installed_apps">Prázdné</string>
+
      <string name="expand_button_title">Rozšířené</string>
      <string name="gb_advance_settings_vibration_4d_summary2">Vibrovat během zabíjení v hrách</string>
      <string name="intl_perm_intro_message">Přizpůsobit nastavení povolení pro zabránění úniku vašich dat</string>
