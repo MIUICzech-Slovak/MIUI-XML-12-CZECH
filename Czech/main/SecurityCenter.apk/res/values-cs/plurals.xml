@@ -622,4 +622,56 @@
         <item quantity="other">Odeslané %3$d prázdné zprávy mezi %1$s a %2$s</item>
         <item quantity="one">Odeslaná %3$d prázdná zpráva mezi %1$s a %2$s</item>
     </plurals>
+    <plurals name="app_behavior_desc_allow_minute">
+        <item quantity="other">Povolené %2$d krát za %1$s</item>
+        <item quantity="one">Povolené %2$d krát za %1$s</item>
+     </plurals>
+     <plurals name="app_behavior_desc_deny_minute">
+        <item quantity="other">Zakázané %2$d krát za %1$s</item>
+        <item quantity="one">Zakázané %2$d krát za %1$s</item>
+     </plurals>
+     <plurals name="app_behavior_desc_virtual_minute">
+        <item quantity="other">Odeslané %2$d prázdné zprávy za %1$s</item>
+        <item quantity="one">Odeslané %2$d prázdné zprávy za %1$s</item>
+     </plurals>
+     <plurals name="app_behavior_wakepath_multiple">
+        <item quantity="other">%1$1s spuštěné %2$d apl.</item>
+        <item quantity="one">%1$1s spuštěna %2$d apl</item>
+     </plurals>
+     <plurals name="app_behavior_wakepath_multiple_single">
+        <item quantity="other">Tato aplikace spustila %1$d jiných apl.</item>
+        <item quantity="one">Tato aplikace spustila %1$d jinou apl.</item>
+     </plurals>
+     <plurals name="ew_alert_second_after">
+        <item quantity="other">Za %ds</item>
+        <item quantity="one">Za %ds</item>
+     </plurals>
+     <plurals name="pc_battery_history_hour">
+        <item quantity="other">" h"</item>
+        <item quantity="one">" h"</item>
+     </plurals>
+     <plurals name="pc_battery_history_minute">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+     </plurals>
+     <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">Rozumím (%ds)</item>
+        <item quantity="one">Rozumím (%ds)</item>
+     </plurals>
+     <plurals name="power_off_warning_notification_message">
+        <item quantity="other">Vaše zařízení sa vypne za %ds. Připojte nabíječku.</item>
+        <item quantity="one">Vaše zařízení sa vypne za %ds. Připojte nabíječku.</item>
+     </plurals>
+     <plurals name="privacy_permission_summary">
+        <item quantity="other">%s apl. má permanentní přístup</item>
+        <item quantity="one">%s apl. má permanentní přístup</item>
+     </plurals>
+     <plurals name="privacy_pop_times">
+        <item quantity="other">%s krát</item>
+        <item quantity="one">%s krát</item>
+     </plurals>
+     <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Tovární nastavení (%ds)</item>
+        <item quantity="one">Tovární nastavení (%ds)</item>
+     </plurals>
 </resources>
