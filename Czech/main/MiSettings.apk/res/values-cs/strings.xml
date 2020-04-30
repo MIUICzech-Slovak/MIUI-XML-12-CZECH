@@ -332,4 +332,16 @@
      <string name="usage_runtime_per_des_title">Pro ukládání souborů na interní úložiště</string>
      <string name="usage_runtime_summary">Tato povolení jsou požadována pro správné fungování aplikace.</string>
      <string name="usage_runtime_title">Primární povolení</string>
+     <string name="control_center_title">Čas displeje</string>
+     <string name="usage_creating_weekly_report">Vytváření týdenního přehledu…</string>
+     <string name="usage_focus_new_summary">Buďte více soustředění</string>
+     <string name="usage_home_premission_second_summary_double_link_prefix">Vaše osobní informace chráníme v souladu s příslušnými zákony, nařízeními a zásadami ochrany osobních údajů. Pokud nesouhlasíte s udělením takových povolení nebo sdílením a odevzdávaním svých osobních údajů, nebudete moci tuto aplikácia používat. Autorizaci můžete kdykoliv odvolat v Čas displeje - Nastavení - Vypnout čas displeje.</string>
+     <string name="usage_home_premission_second_summary_double_link_suffix">Před používaním této aplikace musíte souhlasit s našimi Podmínkami používání a Ochranou soukromí.</string>
+     <string name="usage_no_net_summary">Zkontrolujte nastavení sítě a zkuste to znova</string>
+     <string name="usage_refresh">Zkusit znova</string>
+     <string name="usage_request_error_summary">Neznámá chyba</string>
+     <string name="usage_request_timeout_summary">časový požadavek vypršel</string>
+     <string name="usage_special_feature">Speciální funkce</string>
+     <string name="usage_weekly_report_summary">Naučte se jak trávit čas se svým zařízením</string>
+     <string name="usage_weekly_report_title">Týdenní report</string>
 </resources>
