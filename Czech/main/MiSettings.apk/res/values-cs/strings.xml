@@ -333,6 +333,7 @@
      <string name="usage_runtime_summary">Tato povolení jsou požadována pro správné fungování aplikace.</string>
      <string name="usage_runtime_title">Primární povolení</string>
      <string name="control_center_title">Čas displeje</string>
+     <string name="control_center_title_new">Čas displeje</string>
      <string name="usage_creating_weekly_report">Vytváření týdenního přehledu…</string>
      <string name="usage_focus_new_summary">Buďte více soustředění</string>
      <string name="usage_home_premission_second_summary_double_link_prefix">Vaše osobní informace chráníme v souladu s příslušnými zákony, nařízeními a zásadami ochrany osobních údajů. Pokud nesouhlasíte s udělením takových povolení nebo sdílením a odevzdávaním svých osobních údajů, nebudete moci tuto aplikácia používat. Autorizaci můžete kdykoliv odvolat v Čas displeje - Nastavení - Vypnout čas displeje.</string>
