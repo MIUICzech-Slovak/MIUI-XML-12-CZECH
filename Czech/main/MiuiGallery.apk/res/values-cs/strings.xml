@@ -1895,4 +1895,6 @@
   <string name="vlog_clip_cut_fail_min_time">Klip musí být alespoň %1$ss dlouhý</string>
   <string name="downloading_title_file">Stahování položek z MiCloud...</string>
   <string name="vlog_bottom_view_exit">Ukončit</string>
+  <string name="help">Nenašlo se zařízení?</string>
+  <string name="help_content">Pokud nemůžete nalézt zařízení které hádáte, zapněte MiShare na druhém zařízení.</string>
 </resources>
