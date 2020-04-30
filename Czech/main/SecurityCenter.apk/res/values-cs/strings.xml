@@ -3831,7 +3831,7 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="privacy_permission_status">Aktuálně použité povolení</string>
      <string name="privacy_permission_storage">Přístup k úložišti</string>
      <string name="privacy_permission_summary_none">Žádné aplikace nemají permanentní přístup</string>
-     <string name="privacy_permission_use_times">Naučte se jak jednotlivé aplikace používají vaše povolení</string>
+     <string name="privacy_permission_use_times">Zjistěte jak jednotlivé aplikace používají vaše povolení</string>
      <string name="privacy_permission_use_warning">Upozornění na povolení</string>
      <string name="privacy_pop_call">Dnes četla historii hovorů</string>
      <string name="privacy_pop_contact">Dnes četla kontakty</string>
