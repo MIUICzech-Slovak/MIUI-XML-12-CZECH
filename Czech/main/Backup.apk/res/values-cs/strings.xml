@@ -693,8 +693,8 @@ Velikost aktualizace delta: %2$s"</string>
      <string name="new_local_detail_description">"Poznámka:
 %1$d. Zkopírujte zálohy do vašeho PC pro případ ztráty dat. %2$s.
 %3$d. Zálohy budou uložené v MIUI-Backup-AllBackup."</string>
-     <string name="new_local_tab_backup">Zálohovat do mobilního zařízení</string>
-     <string name="new_local_tab_restore">Obnovit z mobilního zařízení</string>
+     <string name="new_local_tab_backup">Zálohovat</string>
+     <string name="new_local_tab_restore">Obnovit</string>
      <string name="new_low_storage_title">Není dostatek volného místa na úložišti</string>
      <string name="new_more_settings_label">Další nastavení</string>
      <string name="new_pc_backup_content1">%1$d. Otevřete \"%2$s\".</string>
@@ -717,8 +717,8 @@ Velikost aktualizace delta: %2$s"</string>
      <string name="new_select_third">Nainstalované aplikace a jejich data</string>
      <string name="new_select_third_apk">Nainstalované aplikace</string>
      <string name="new_select_third_data">Data nainstalovaných aplikací</string>
-     <string name="new_tab_pc_backup">Zálohovat do PC</string>
-     <string name="new_tab_pc_restore">Obnovit z PC</string>
+     <string name="new_tab_pc_backup">Zálohovat</string>
+     <string name="new_tab_pc_restore">Obnovit</string>
      <string name="new_task_finished">Hotovo</string>
      <string name="new_usb_detail_description">"Poznámka:
 %1$d. Tento způsob umožňuje zálohovat nainstalované aplikace a jejich data.
@@ -726,8 +726,8 @@ Velikost aktualizace delta: %2$s"</string>
      <string name="new_usb_disconnect_dialog_message">Nejdříve připojte USB úložiště.</string>
      <string name="new_usb_disconnect_dialog_title">Nebylo možné najít USB úložiště</string>
      <string name="new_usb_select_data_no_space">Je dostupných jen %s na USB úložišti. Uvolněte místo na úložišti.</string>
-     <string name="new_usb_tab_backup">Zálohovat na USB úložiště</string>
-     <string name="new_usb_tab_restore">Obnovit z USB úložiště</string>
+     <string name="new_usb_tab_backup">Zálohovat</string>
+     <string name="new_usb_tab_restore">Obnovit</string>
      <string name="not_set">Není nastavené</string>
      <string name="preference_copied">\"%1$s\" zkopírované do schránky.</string>
      <string name="search_menu_title">Vyhledat</string>
