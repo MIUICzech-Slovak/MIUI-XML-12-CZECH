@@ -6540,5 +6540,7 @@ Před použitím našich služeb si přečtěte a souhlaste s našimi %s."</stri
      <string name="use_control_panel">Centrum ovládání</string>
      <string name="wifi_security_none_owe">Žádné</string>
      <string name="wifi_security_short_none_owe">Žádné</string>
+  <string name="oldman_mode_settings">Jednoduchý režim</string>
+  <string name="video_tool_box_title">Video nástroje</string>
 </resources>
 
