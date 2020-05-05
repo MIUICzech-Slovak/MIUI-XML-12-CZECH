@@ -789,6 +789,7 @@ Chyba: \"%s\""</string>
   <string name="multi_number_menu_group">Nová skupina</string>
   <string name="multi_number_menu_message">Zpráva</string>
   <string name="multi_number_title">Konferenční hovor</string>
+  <string name="multi_select">Vybrat</string>
   <string name="multipleContactDeleteConfirmation">Smazáním tohoto kontaktu smažete informace z více účtů.</string>
   <string name="multipleContactDeleteConfirmationDetail">Vymazání \"%s\" vymaže údaje z více účtů.</string>
   <string name="my_in_call_show">Moje video</string>
