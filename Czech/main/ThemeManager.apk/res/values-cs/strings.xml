@@ -509,7 +509,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="theme_user_agreement_remind_summary">Použít při dalším spuštění</string>
   <string name="theme_user_agreement_title">Prohlášení</string>
   <string name="theme_yes">Ano</string>
-  <string name="third_party_pickers_activity_title">Přidat %1$s</string>
+  <string name="third_party_pickers_activity_title">%1$s</string>
   <string name="title_component">Upravit téma</string>
   <string name="title_my_audio_resource">Moje zvonění</string>
   <string name="title_my_miwallpaper_desktop_effects">Efekty domácí plochy</string>
@@ -610,6 +610,12 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>  
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
+  <string name="super_wallpaper">Super tapety</string>
+  <string name="title_my_wallpaper">Moje tapety</string>
+  <string name="accessibiliy_description_content_favorite">Oblíbené</string>
+  <string name="de_icon_text_favorite">Oblíbené</string>
+  <string name="theme_settings_title">Témata</string>
+  <string name="current_using">Současné</string>
 </resources>
   
