@@ -95,4 +95,12 @@
   <string name="using_record_confirm_cancel">Odmítnout</string>
   <string name="using_record_confirm_ok">Povolit</string>
   <string name="warning_recording_when_a2dp_connect">Vaše zařízení nepodporuje nahrávání systémových zvuků, když je připojeno Bluetooth handsfree.</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potáhněte dolů pro obnovení</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnoveno</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovování…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pusťte pro obnovení</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>  
 </resources>

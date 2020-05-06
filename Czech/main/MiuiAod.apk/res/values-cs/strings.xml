@@ -138,4 +138,13 @@ dd.M"</string>
      <string name="super_wallpaper_date_lunar">"YY 
 N e"</string>
      <string name="tip_to_open_aod_mode">Always-on displej je vypnutý. Chcete ho povolit?</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potáhněte dolů pro obnovení</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnoveno</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovování…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pusťte pro obnovení</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>     
 </resources>
+

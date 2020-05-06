@@ -944,7 +944,7 @@ skenované dokumenty automaticky"</string>
      <string name="pref_camera_video_tag_description">Stlačte \"Označit\" během nahrávání videa pro označení místa při přehrávání</string>
      <string name="preference_copied">\"%1$s\" zkopírované do schránky.</string>
      <string name="pro_color_mode">Pro barvy</string>
-     <string name="speech_shutter_open_tip">Řekněte \"拍照\" nebo \"茄子\" pro vyfocení</string>
+     <string name="speech_shutter_open_tip">Řekněte \"Pāizhào\" nebo \"Qiézi\" pro vyfocení</string>
      <string name="speech_shutter_tip">Hlasová spoušť</string>
      <string name="super_night_se_tip">Noční režim</string>
      <string name="watermark_tab_city">Město</string>
@@ -952,4 +952,12 @@ skenované dokumenty automaticky"</string>
      <string name="watermark_tab_general">Bežné</string>
      <string name="watermark_tab_scene">Scéna</string>
      <string name="watermark_tab_spots">Sport</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potáhněte dolů pro obnovení</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnoveno</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovování…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pusťte pro obnovení</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>     
 </resources>

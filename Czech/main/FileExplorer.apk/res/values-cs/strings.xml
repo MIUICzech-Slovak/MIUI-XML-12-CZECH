@@ -746,4 +746,12 @@ Bylo přičteno dalších %1$s"</string>
   <string name="sort_hint_time">Seřazené podle času</string>
   <string name="sort_hint_type">Seřazené podle typu</string>
   <string name="imm_str_storage">Úložiště</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potáhněte dolů pro obnovení</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnoveno</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovování…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pusťte pro obnovení</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>  
 </resources>

@@ -484,25 +484,17 @@
      <string name="switch_personal_assistant_google">Google</string>
      <string name="switch_personal_assistant_none">Žádná</string>
      <string name="task_access_locked_app_msg">Povolit zámek aplikací</string>
-
      <string name="expand_button_title">Rozšířené</string>
-
      <string name="launcher_search_bar_value_disable">Vyp</string>
      <string name="launcher_search_bar_value_enable">Zap</string>
-
      <string name="not_set">Není nastaveno</string>
      <string name="permdesc_uninstall_widget">Povolí aplikací odebrat widgety bez dalších akcí.</string>
      <string name="permlab_uninstall_widget">Odinstalovat widgety</string>
-
      <string name="preference_copied">\"%1$s\" zkopírované do schránky.</string>
      <string name="recent_menu_item_info">Info</string>
-     
      <string name="recents_exit_multi_window_mode">Ukončit</string>
-
      <string name="recents_incompatible_app_message">Tato aplikace nepodporuje rozdělenou obrazovku</string>
      <string name="recents_smallwindow_text">Pusťte pro přidání</string>
-
-
      <string name="recents_tv_small_window_text">Plovoucí okna</string>
      <string name="search_menu_title">Vyhledat</string>
      <string name="slide_to_open_newhome">Potáhněte nahoru pro otevření Centra obsahu</string>
@@ -513,6 +505,14 @@
      <string name="small_window_select_title">Dostupné aplikace</string>
      <string name="small_window_title_text">Dotykem otevřete plovoucí okno</string>
      <string name="small_window_toast">Můžete přidat maximálně %d aplikací</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potáhněte dolů pro obnovení</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnoveno</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovování…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pusťte pro obnovení</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>     
 </resources>
 
 

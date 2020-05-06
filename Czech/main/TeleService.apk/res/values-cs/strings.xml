@@ -1732,4 +1732,12 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="msim_setting_no_sim_package_info">Žádné informace</string>
   <string name="msim_setting_pop_text">Vyberte SIM kartu pro hovory</string>
   <string name="msim_setting_set_package">Vyberte datový balíček</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potáhněte dolů pro obnovení</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnoveno</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovování…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pusťte pro obnovení</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>  
 </resources>
