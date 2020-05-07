@@ -6554,5 +6554,6 @@ Před použitím našich služeb si přečtěte a souhlaste s našimi %s."</stri
 <string name="scanning_status_text_wifi_on_ble_on">Wi-Fi a Bluetooth vyhledávání je zapnuté</string>
   <string name="accessibility_toggle_master_balance_title">Vyvážení zvuku</string>
   <string name="zone_auto_title">Časové pásmo podle sítě</string>
+    <string name="control_panel_switch_side">Přepnout stranu Ovladačů</string>  
 </resources>
 
