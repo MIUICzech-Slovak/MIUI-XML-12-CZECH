@@ -1105,4 +1105,11 @@ Postupujte dle pokynů"</item>
         <item>Upozornění budou zobrazeny v roletce</item>
         <item>Upozornění budou zobrazeny ve složce</item>
     </string-array>
+	<string-array name="wifi_signal">
+        <item>Slabý</item>
+        <item>Slabý</item>
+        <item>Průměrný</item>
+        <item>Dobrý</item>
+        <item>Výborný</item>
+    </string-array>
 </resources>
