@@ -229,4 +229,10 @@
         <item>Povolení</item>
         <item>Citlivé akce</item>
     </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Na vašem zařízení bude možné přistupovat a upravovat soubory pomocí počítače.</item>
+        <item>Bude povolena instalace aplikací do vašeho zařízení bez vašeho výslovného povolení.</item>
+        <item>"Budete moci vzdáleně sledovat a nahrávat obsah obrazovky."</item>
+        <item>Bude možné získat přístup k podrobným informacím o vašem zařízení.</item>
+    </string-array>
 </resources>
