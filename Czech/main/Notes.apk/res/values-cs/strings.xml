@@ -425,5 +425,9 @@ http://www.miuios.cz/rom
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>  
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
+  <string name="btn_next">Další</string>
+  <string name="note_gesture_guide_step1">Stlačte a podržte tlačítko pro vytvoření hlasové poznámky</string>
+  <string name="note_gesture_guide_step2">Stlačte a podržte poznámku pro seskupení do složky</string>
+  <string name="note_gesture_guide_step3">Stlačte a podržte poznámku pro přesunutí poznámky</string>
 </resources>
