@@ -6549,6 +6549,10 @@ Před použitím našich služeb si přečtěte a souhlaste s našimi %s."</stri
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>  
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
+  <string name="scanning_status_text_wifi_off_ble_off">Wi-Fi a Bluetooth vyhledávání je vypnuté</string>
+<string name="scanning_status_text_wifi_on_ble_on">Wi-Fi a Bluetooth vyhledávání je zapnuté</string>
+  <string name="accessibility_toggle_master_balance_title">Vyvážení zvuku</string>
+  <string name="zone_auto_title">Časové pásmo podle sítě</string>
 </resources>
 
