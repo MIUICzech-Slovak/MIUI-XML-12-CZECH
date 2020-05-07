@@ -1908,5 +1908,8 @@
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>  
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
+  <string name="security_share_subtitle_default">Ochrana soukromí</string>
+  <string name="security_share_subtitle_hide">Poloha je odstraněná</string>
+  <string name="security_share_subtitle_no_hide">Obsahuje polohu</string>
 </resources>
