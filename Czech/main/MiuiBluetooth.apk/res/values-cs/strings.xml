@@ -93,5 +93,6 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
   <string name="bluetooth_paired">Uloženo</string>
+  <string name="fast_connect_reset_common">Resetujte toto zařízení pro možnost ho spárovat</string>
 </resources>
 
