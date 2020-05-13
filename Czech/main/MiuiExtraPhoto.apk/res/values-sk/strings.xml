@@ -31,5 +31,8 @@
   <string name="doc_photo_idcard_mode_title">Karta</string>
   <string name="doc_photo_idcard_portrait">Přední strana</string>
   <string name="doc_photo_not_support">Není možné upravit tento obrázek jako dokument</string>
-  <string name="doc_photo_view_effect">Náhled</string>  
+  <string name="doc_photo_view_effect">Náhled</string>
+  <string name="doc_photo_cancel">Zrušit</string>
+  <string name="doc_photo_confirm">Ukončit</string>  
+  <string name="doc_photo_idcard_alert_msg">Odstranit všechny změny a ukončit?</string>
 </resources>
