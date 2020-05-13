@@ -959,5 +959,27 @@ skenované dokumenty automaticky"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>     
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
+  <string name="more_mode_style">Vyberte jak chcete uspořádát všechny režimy kamery</string>
+  <string name="more_mode_style_popup">Panel</string>
+  <string name="more_mode_style_tab">Karta</string>
+  <string name="parameter_ambilight_title">Dlouhá expozice</string>
+  <string name="pref_more_mode_style_title">Režimy kamery</string>
+  <string name="ambilight_description_title">O dlouhé expozici</string>
+  <string name="ambilight_intro_crowd_moving_part1">Při fotografování na přeplněné ulici požádejte subjekt, aby se zastavil. Ostatní lidi se objeví jako rozmazané čáry.</string>
+  <string name="ambilight_intro_crowd_moving_part2">Můžete též fotografovat rušný provoz a pohybující se davy lidí. Dlouhá expozice udrží budovy ostré, ale všechny pohybující se objekty budou rozmazané.</string>
+  <string name="ambilight_intro_light_track">Pomocí světelného zdroje \"malujte\" na tmavé scéně tak, aby se všechny osvětlené kousky spojily do jednoho obrázku.</string>
+  <string name="ambilight_intro_magic_star">Tento režim používejte na místech se slabým světlem. Expozice se nastaví na %d sekund, takže použijte stativ.</string>
+  <string name="ambilight_intro_silky_water_part1">Tento režim použíjte při snímání pohyblivých mraků. Tím získá obloha efekt "olejomalby".</string>
+  <string name="ambilight_intro_silky_water_part2">V tomto režimu vypadá pohybující se voda (řeky, vodopády a jezera) jako saténová.</string>
+  <string name="ambilight_intro_star_track">"Dlohé fotografování hvězdné oblohy může zachytit trajektorie hvězd. Nezapomeňte použít stativ a fotografujte nepřetržitě minimálně %d minut."</string>
+  <string name="ambilight_intro_traffic_light">V noci můžete zachytit trajektorii jasných pohybujících se světel (například na autech a lodích). Tento režim umožňuje zobrazit ukázku konečného výsledku na obrazovce v reálném čase.</string>
+  <string name="ambilight_scene_crowd_moving">Pohybující se dav</string>
+  <string name="ambilight_scene_light_track">Malování světlem</string>
+  <string name="ambilight_scene_magic_star">Hvězdná obloha</string>
+  <string name="ambilight_scene_silky_water">Hedvábná voda</string>
+  <string name="ambilight_scene_star_track">Stopy hvězd</string>
+  <string name="ambilight_scene_traffic_light">Stopy neónu</string>
+  <string name="ambilight_tips_for_using_tripod">Použijte stativ</string>
 </resources>
+  
