@@ -275,4 +275,5 @@
   <string name="open_close_tip_action">Rozumím</string>
   <string name="open_close_tip_content">Pro zavření plovoucího okna stlačte a podržte lištu a potáhněte nahoru</string>
   <string name="security_share_text">Ochrana soukromí</string>
+  <string name="serviceEnabled">Služba byla povolena</string>
 </resources>
