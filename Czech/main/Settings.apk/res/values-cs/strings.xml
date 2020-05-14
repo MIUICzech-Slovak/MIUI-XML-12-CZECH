@@ -6556,7 +6556,7 @@ Před použitím našich služeb si přečtěte a souhlaste s našimi %s."</stri
   <string name="zone_auto_title">Časové pásmo podle sítě</string>
   <string name="control_panel_switch_side">Přepnout stranu Ovladačů</string>
   <string name="bluetooth_paired">Uloženo</string> 
-  <string name="reset_confirm_directory">"Poznámka: Předtím jak obnovíte položky, zkontrolujte zda existuje složka \"MIUI-Backup-AllBackup\" ve vašem zařízení. Pokud ne, vytvořte ji."</string>
+  <string name="reset_confirm_directory">"Poznámka: Předtím než obnovíte položky, zkontrolujte zda existuje složka \"MIUI-Backup-AllBackup\" ve vašem zařízení. Pokud ne, vytvořte ji."</string>
   <string name="reset_remove_data_hint">Všechny položky budou navždy vymazané. Zálohujte všechny důležité soubory do vašeho PC nebo MiCloudu předtím než budete pokračovat.</string>
   <string name="restore_oaid_dialog_content">Několik aplikací používá vaše virtuální ID. Pokud ho resetujete nyní, některé vaše data mohou být ztraceny. Resetovat virtuální ID?</string>
   <string name="miui_sos_remind_close">Nouzový SOS režim je zapnutý. Chcete ho vypnout i se všemi jeho funkcemi?</string>
