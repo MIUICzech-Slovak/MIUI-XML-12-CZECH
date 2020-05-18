@@ -1228,6 +1228,8 @@
   <string name="privacy_permission_request_negative">Zakázat</string>
   <string name="privacy_permission_request_positive">Povolit</string>
   <string name="privacy_permission_request_title">Jsou vyžadována povolení</string>
+  <string name="private_entry_lock_state_activated_text">Uvolněním otevřete soukromou složku</string>
+  <string name="private_entry_lock_state_enterd_text">Potáhnutím dolů otevřete soukromou složku</string>
   <string name="projection_cancel">Zrušit</string>
   <string name="projection_checkbox_text">Pamatovat toto zařízení</string>
   <string name="projection_device_connection_failed">Připojení k TV selhalo</string>
