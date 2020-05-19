@@ -420,5 +420,10 @@
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>  
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
+  <string name="add_common_timer">Přidat časovač</string>
+  <string name="common_timer_selector">Vybrat časovač</string>
+  <string name="stopwatch_reset_notification">Stopky byly obnoveny</string>
+  <string name="stopwatch_running_notification">Stopky</string>
+  <string name="white_noise_selector">Vybrat zvuk</string>  
 </resources>
