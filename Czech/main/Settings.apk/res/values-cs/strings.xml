@@ -6561,5 +6561,7 @@ Před použitím našich služeb si přečtěte a souhlaste s našimi %s."</stri
   <string name="restore_oaid_dialog_content">Několik aplikací používá vaše virtuální ID. Pokud ho resetujete nyní, některé vaše data mohou být ztraceny. Resetovat virtuální ID?</string>
   <string name="miui_sos_remind_close">Nouzový SOS režim je zapnutý. Chcete ho vypnout i se všemi jeho funkcemi?</string>
   <string name="miui_sos_remind_close_confirm">Vypnout</string>
+  <string name="content_miui_music_mute_by_user">Přehrát zvuk médií když je aktivní Tichý režim?</string>
+  <string name="title_miui_music_mute_by_user">Tichý režim</string>
 </resources>
 
