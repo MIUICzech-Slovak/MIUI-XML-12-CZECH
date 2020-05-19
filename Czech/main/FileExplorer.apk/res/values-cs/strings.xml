@@ -754,5 +754,8 @@ Bylo přičteno dalších %1$s"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>  
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
+  <string name="otg_data_transfer_success">Přenesené</string>
+  <string name="otg_data_transferring">Přenos souborů... Neodpojujte externí úložiště.</string>
+  <string name="release_enter_private">Uvolněte pro otevření soukromé složky</string>
 </resources>
