@@ -117,4 +117,12 @@
         <item quantity="other">%sh dozadu</item>
         <item quantity="one">%sh dozadu</item>
      </plurals>
+    <plurals name="stopwatch_running_notification_day">
+        <item quantity="other">Stopky běželi %s dní.</item>
+        <item quantity="one">Stopky běželi %s den.</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">Stopky běželi %s hodin.</item>
+        <item quantity="one">Stopky běželi %s hodinu.</item>
+    </plurals>
 </resources>
