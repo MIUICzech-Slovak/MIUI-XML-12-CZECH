@@ -981,5 +981,7 @@ skenované dokumenty automaticky"</string>
   <string name="ambilight_scene_star_track">Stopy hvězd</string>
   <string name="ambilight_scene_traffic_light">Stopy neónu</string>
   <string name="ambilight_tips_for_using_tripod">Použijte stativ</string>
+  <string name="pref_module_settings">Režimy</string>  
+  <string name="clone_recapture_alert">Začít znova?</string>
 </resources>
   
