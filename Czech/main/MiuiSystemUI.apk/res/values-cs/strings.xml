@@ -2152,4 +2152,6 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Vypnout</string>
   <string name="notification_storage_float">Externí úložiště</string>
   <string name="storage_is_connecting">%1$s je připojené</string>
+  <string name="auto_brightness_off">Automatický jas je vypnutý</string>
+  <string name="auto_brightness_on">Automatický jas je zapnutý</string>
 </resources>
