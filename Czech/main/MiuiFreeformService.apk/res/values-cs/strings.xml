@@ -22,6 +22,6 @@
   <string name="how_to_notification_drop_down_summary">Stlačte a podržte, potom potáhněte dolů lištu upozornění</string>
   <string name="how_to_open_freeform">Otevření upozornění v plovoucím okně</string>
   <string name="how_to_slide_up_to_close">Zavřít plovoucí okno</string>
-  <string name="how_to_slide_up_to_close_summary">Potáhněte dolů lištu plovoucího okna</string>
+  <string name="how_to_slide_up_to_close_summary">Potáhněte nahoru lištu plovoucího okna</string>
   <string name="how_to_use_freeform">Jak používat plovoucí okna</string>
 </resources>
