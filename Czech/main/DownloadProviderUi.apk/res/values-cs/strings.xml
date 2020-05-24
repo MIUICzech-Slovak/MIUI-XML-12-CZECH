@@ -52,6 +52,7 @@
   <string name="dialog_confirm_delete_downloads_message">Vymazat úlohy (%d)?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Vymazat tyto úlohy</string>
   <string name="dialog_content_limit_max">Bez limitu</string>
+  <string name="dialog_delete_positive">Vymazat</string>
   <string name="dialog_failed_body">Chcete opakovat stahování souboru později nebo odstranit z fronty?</string>
   <string name="dialog_file_already_exists">Nelze stáhnout. Soubor již existuje.</string>
   <string name="dialog_file_missing_body">Stažený soubor nelze nalézt.</string>
