@@ -2154,4 +2154,14 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="storage_is_connecting">%1$s je připojené</string>
   <string name="auto_brightness_off">Automatický jas je vypnutý</string>
   <string name="auto_brightness_on">Automatický jas je zapnutý</string>
+  <string name="accessibility_expand_button">Rozbalit</string>
+  <string name="partial_screenshot_edit">Upravit</string>
+  <string name="partial_screenshot_repaint">Znova</string>
+  <string name="partial_screenshot_save">Uložit</string>
+  <string name="partial_screenshot_save_successful">Uloženo</string>
+  <string name="partial_screenshot_share">Sdílet</string>  
+  <string name="accessibility_detail_switch">Přepnout přepínač</string>
+  <string name="accessibility_detail_switch_disable">nedostupné</string>
+  <string name="accessibility_detail_switch_off">vyp</string>
+  <string name="accessibility_detail_switch_on">zap</string>
 </resources>
