@@ -1742,4 +1742,5 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
   <string name="fiveg_hosted_mode_summary">Přepnout na nejlepší dostupné sítě pokud je slabý signál 5G</string>
   <string name="fiveg_hosted_mode_title">Inteligentní přepnutí 5G</string>
+  <string name="msim_setting_default_voice_description">SIM %d pro hovory</string>
 </resources>
