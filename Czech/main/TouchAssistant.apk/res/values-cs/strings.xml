@@ -55,5 +55,10 @@
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>  
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
+  <string name="edge_distance_pref_summary">Dotkněte se místa blízko hran displeje pro zobrazení rychlého ovládání</string>
+  <string name="edge_distance_pref_title">Zóny probuzení</string>
+  <string name="edge_mode_custom_summary">Přizpůsobit velikost míst probuzení při hranách displeje</string>
+  <string name="edge_mode_custom_title">Vlastní</string>
+  <string name="edge_mode_default_title">Předvolené</string>
 </resources>
