@@ -3971,4 +3971,6 @@ Formátování vymaže všechny soubory na ^2. Zálohujte je na jiný ^3 nebo za
   <string name="menu_white">Výjimka</string>
   <string name="oaid_reset_content_tip">Pokud deaktivujete virtuální ID, některé aplikace nemusí fungovat správně.</string>
   <string name="oaid_reset_final_tip">Deaktivovat virtuální ID?</string>
+  <string name="app_behavior_start_from_widget">%1s bylo spuštěné widgetem</string>
+  <string name="app_behavior_start_from_widget_single">Tato aplikace byla spuštěna widgetem</string>
 </resources>
