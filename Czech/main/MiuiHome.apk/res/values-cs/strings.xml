@@ -512,7 +512,9 @@
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>     
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
+  <string name="perfect_icons_switch_summary">Zobrazit animaci na ikonách doinstalovaných aplikací</string>
+  <string name="perfect_icons_switch_title">Globální animace ikon</string>
 </resources>
 
 
