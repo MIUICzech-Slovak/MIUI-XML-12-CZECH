@@ -864,4 +864,14 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
   <string name="help_and_feedback">Pomoc a podpora</string>  
   <string name="micloud_find_device_guide_desc_pad">Přihlašte se na i.mi.com pro vyhledání, uzamknutí nebo vymazání vašeho zařízení v případě jeho ztráty či krádeže.</string>
   <string name="micloud_find_device_guide_desc_phone">Přihlašte se na i.mi.com pro vyhledání, uzamknutí nebo vymazání vašeho zařízení v případě jeho ztráty či krádeže.</string>
+  <string name="micloud_dspt_provision_china">Použíjte Xiaomi Cloud pro synchr. vašich dat a vyhledání vašeho zařízení.</string>
+  <string name="micloud_dspt_provision_xms_china">Použít Xiaomi Cloud na synchronizaci dat.</string>
+  <string name="micloud_notif_content_depend_wifi_china">Připojte se k Wi-Fi pro synchr.</string>
+  <string name="micloud_setting_wifi_summary_china">Wi-Fi nastavení</string>
+  <string name="micloud_sync_result_wifi_only_china">Tato položka je příliš velká. Synchr. když jste připojení na Wi-Fi.</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only_china">Použít Wi-Fi pro synchr. fotografií</string>
+  <string name="soundrecorder_sync_only_in_wifi_china">Použít jen Wi-Fi pro synchr.</string>
+  <string name="soundrecorder_sync_only_in_wifi_summary_china">Záznamník bude používat jen Wi-Fi pro synchr. nahrávek</string>
+  <string name="sub_sync_item_sms_title_wifi_only_china">Použít jen Wi-Fi pro synchr. MMS</string>
+  <string name="sync_dspt_entrance_provision_network_china">Tato aplikace vyžaduje připojení na internet pro její správné fungování.</string>
 </resources>
