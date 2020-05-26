@@ -235,4 +235,18 @@
         <item>"Budete moci vzdáleně sledovat a nahrávat obsah obrazovky."</item>
         <item>Bude možné získat přístup k podrobným informacím o vašem zařízení.</item>
     </string-array>
+    <string-array name="perm_intercept_notification">     
+        <item>Číst všechny vaše upozornení, včetně obsahu SMS a ostatních položek ktoré mohou obsahovat soukromné informace</item>
+        <item>Omezit povolení upozornění pro některé aplikace</item>
+        <item>Simulovat dotyky a otevřít aplikace</item>
+        <item>Zapnout nebo vypnout režim Nerušit</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Shromažďovat data o vašich zájmech a chování podle aplikací které používáte</item>
+        <item>Přístup k nastavením vašeho operátora, jazyka a dalších podrobností</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Aplikace které nepochází z Google Play, mohou způsobit nestabilitu nebo nesprávné fungování systému.</item>
+        <item>Některé neověřené aplikace mohou obsahovat virus nebo malware.</item>
+    </string-array>
 </resources>
