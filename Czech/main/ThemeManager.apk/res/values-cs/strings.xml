@@ -628,5 +628,30 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="theme_component_video_wallpaper">Dynamické tapety</string>  
   <string name="theme_component_title_aod">AOD</string>  
   <string name="de_mix_mode_aod">AOD</string>
+  <string name="accessibiliy_description_content_comment">Komentáře</string>
+  <string name="accessibiliy_description_content_more">Více</string>
+  <string name="apply_not_support_aod">"Na tomto zařízení není Always-on displej podporován"</string>
+  <string name="de_author_follow">Sledovat</string>
+  <string name="de_author_following">Sledovaný</string>
+  <string name="de_component_aod_author">Tvůrce</string>
+  <string name="de_component_author">Autor</string>
+  <string name="de_mix">Sestavit</string>
+  <string name="de_mix_dialog_title">Sestavte si svoje téma</string>
+  <string name="de_mix_mode_aod">Always-on displej</string>
+  <string name="de_mix_mode_aod_desc">Přizpůsobit pozadí a hodiny</string>
+  <string name="de_mix_mode_desktop">Domácí plocha</string>
+  <string name="de_mix_mode_desktop_desc">Tapeta a hodiny</string>
+  <string name="de_mix_mode_global">Části systému</string>
+  <string name="de_mix_mode_global_desc">Roletka, Telefon, SMS, atd.</string>
+  <string name="de_mix_mode_icon">Ikony</string>
+  <string name="de_mix_mode_icon_desc">Ikony aplikací</string>
+  <string name="de_mix_mode_lockscreen">Zámek</string>
+  <string name="de_mix_mode_lockscreen_desc">Tapeta a hodiny</string>
+  <string name="de_more_info">Více</string>
+  <string name="theme_not_include_module_desc">Toto téma neobsahuje tyto položky: %s</string>   
+  <string name="apply_choosen_type_resource">Použít vybrané položky</string>
+  <string name="resource_comment_wonderful_comments">Populární komentáře</string>
+  <string name="support_theme_store_des">Dobrá témata vždy vytvářejí talentovaní dizajnéři.  Naše aplikace obsahuje malé množství reklam, které nám umožňují podporovat jejich práci.</string>
+  <string name="support_theme_store_title">Podpořte naše dizajnéry</string>
 </resources>
   
