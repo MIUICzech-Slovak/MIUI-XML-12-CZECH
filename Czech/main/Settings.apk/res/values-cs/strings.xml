@@ -3553,7 +3553,7 @@ Zvolte Váš operační systém:"</string>
   <string name="privacy_authorize_cloud_msg">Pro zajištění bezpečnosti vašeho účtu se přihlaste na i.mi.com, pokud chcete odmítnout autorizaci pro služby MiCloud.</string>
   <string name="privacy_authorize_dialog_agree">Souhlasím</string>
   <string name="privacy_authorize_dialog_exit">Ukončit</string>
-  <string name="privacy_authorize_dialog_message">%1$s vyžaduje souhlas s %2$s. Aplikace vyžaduje připojení na internet. Souhlasíte?</string>
+  <string name="privacy_authorize_dialog_message">Aplikace vyžaduje připojení na internet. Souhlasíte?</string>
   <string name="privacy_authorize_network_error">Připojte se k síti a zkuste to znovu.</string>
   <string name="privacy_authorize_privacy_policy">Ochranou soukromí</string>
   <string name="privacy_authorize_revoke">Odmítnout</string>
