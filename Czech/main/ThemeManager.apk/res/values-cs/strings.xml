@@ -637,7 +637,6 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="de_component_author">Autor</string>
   <string name="de_mix">Sestavit</string>
   <string name="de_mix_dialog_title">Sestavte si svoje téma</string>
-  <string name="de_mix_mode_aod">Always-on displej</string>
   <string name="de_mix_mode_aod_desc">Přizpůsobit pozadí a hodiny</string>
   <string name="de_mix_mode_desktop">Domácí plocha</string>
   <string name="de_mix_mode_desktop_desc">Tapeta a hodiny</string>
@@ -653,5 +652,6 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="resource_comment_wonderful_comments">Populární komentáře</string>
   <string name="support_theme_store_des">Dobrá témata vždy vytvářejí talentovaní dizajnéři.  Naše aplikace obsahuje malé množství reklam, které nám umožňují podporovat jejich práci.</string>
   <string name="support_theme_store_title">Podpořte naše dizajnéry</string>
-</resources>
+</resources> 
+
   
