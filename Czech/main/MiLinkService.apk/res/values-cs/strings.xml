@@ -53,4 +53,79 @@ Pro více informací si přečtěte Pomoc.</string>
   <string name="actionbar_button_up_description">Zpět</string>
   <string name="nfc_connect_failed_toast">Nebylo možné vysílat. Zkuste to znova.</string>
   <string name="small_window_not_supported">Není možné minimalizovat aplikaci pokud právě vysílá</string>
+
+    <string name="help_page_text_01">Nápověda</string>
+    <string name="help_page_text_02">Co je přenášení?</string>
+    <string name="help_page_text_03">Přenášení je proces, při kterém jsou položky z vašeho telefonu promítány na větší externí monitor. Můžete tak sdílet fotografie a videa s vašimi přáteli nebo rodinou bez nutnosti použití mobilních dat.</string>
+    <string name="help_page_text_04">Jak mohu přenášet položky na externí monitor?</string>
+    <string name="help_page_text_05">1. krok: Zkontrolujte nastavení sítě obou zařízení</string>
+    <string name="help_page_text_06">"1. Při přenosu položek z Mi telefonu na Mi TV není vyžadováváno přípojení k internetu.
+2. Pokud sem vám však nedaří navázat spojení mezi oběma zařízeními, zkuste obě zařízení připojit ke stejné Wi-Fi síti."</string>
+    <string name="help_page_text_06_global">"1. Mi TV, Mi Box a Mi Projektor:
+Pro lepší výsledek připojte telefon a externí monitor ke stejné Wi-Fi síti. Pokud jsou zařízení připojena k různým sítím, vyhledání a připojení externího monitoru může trvat déle.
+Poznámka: Starší modely Mi TV nemusejí podporovat přenos obrazu mezi různými Wi-Fi sítěmi.
+2. Pokud používáte televizi, set-top box nebo projektor jiné značky připojte obě zařízení ke stejné Wi-Fi síti.
+Pokud nemůžete obě zařízení připojit ke stejné síti, zapněte na externím monitoru funkci Miracast. Název funkce Miracast se může lišit v závislosti na typu a modelu externího monitoru."</string>
+    <string name="help_page_text_08">2. krok: Zapnutí přenosu</string>
+    <string name="help_page_text_09">Klepněte na \"Přenos\" v Oznamovací roletce na displeji telefonu. Pro stabilnější přenos zapněte jak Wi-Fi tak Bluetooth.</string>
+    <string name="help_page_text_10">Pokud chcete přenášet položky z aplikací Galerie nebo Mi Video, můžete využít vestavěnou funkci pro přenos obrazu přímo v těchto aplikacích.</string>
+    <string name="help_page_text_11">Krok 3.: Výběr zařízení</string>
+    <string name="help_page_text_12">Pro zahájení přenosu vyberte dostupné zařízení ze seznamu externích zařízení.</string>
+    <string name="help_page_text_13">Nemůžete se připojit k externímu zařízení?</string>
+    <string name="help_page_text_14">"1. Pokud chcete pro přenos použít Xiaomi zařízení, ale nemůžete jej v seznamu najít, zkuste:
+Připojit obě zařízení, váš telefon a externí monitor (např. vaši televizi) ke stejné Wi-Fi síti. Externí monitor můžete také připojit k hotspotu telefonu. Pokud nemáte k dispozici Wi-Fi síť nebo nemůžete obě zařízení připojit ke stejné síti, zkontrolujte, zda je verze pro přenášení obrazu na externím monitoru aktuální. Zapněte Bluetooth na obou zařízeních a současně také zapněte funkci Miracast na vaší televizi. 
+2. Pokud se pokoušíte o přenos obrazu na externí monitor společnosti Xiaomi poprvé, musíte nejprve dokončit proces ověření. 
+3. Pokud chcete použít jiné než Xiaomi zařízení, ale nemůžete jej v seznamu dostupných zařízení najít, zkuste:
+Připojit obě zařízení, váš telefon a externí monitor (např. vaši televizi) ke stejné Wi-Fi síti. Externí monitor můžete také připojit k hotspotu telefonu. Pokud to nepomůže, nainstalujte aplikaci LeEco na vaší televizi a postupujte dle zobrazených instrukcí."</string>
+    <string name="help_page_text_14_global">"1. Pokud chcete pro přenos použít Xiaomi zařízení, ale nemůžete jej v seznamu najít, zkuste:
+Připojit obě zařízení, váš telefon a externí monitor (např. vaši televizi) ke stejné Wi-Fi síti. Externí monitor můžete také připojit k hotspotu telefonu. Pokud nemáte k dispozici Wi-Fi síť nebo nemůžete obě zařízení připojit ke stejné síti, zkontrolujte, zda je verze pro přenášení obrazu na externím monitoru aktuální. Zapněte Bluetooth na obou zařízeních a současně také zapněte funkci Miracast na vaší televizi. 
+2. Pokud se pokoušíte o přenos obrazu na externí monitor společnosti Xiaomi poprvé, musíte nejprve dokončit proces ověření. 
+3. Pokud chcete použít jiné než Xiaomi zařízení, ale nemůžete jej v seznamu dostupných zařízení najít, zkuste:
+Připojit obě zařízení, váš telefon a externí monitor (např. vaši televizi) ke stejné Wi-Fi síti. Externí monitor můžete také připojit k hotspotu telefonu."</string>
+    <string name="help_page_text_15">Funkce Miracast na jiných zařízeních</string>
+    <string name="help_page_text_16">Mi TV/Mi Projektor</string>
+    <string name="help_page_text_17">"Položky z vašeho Mi telefonu můžete promítat na většinu modelů Mi TV pomocí Bluetooth. Použití funkce Miracast není nutné.
+Pokud chcete funkci Miracast přesto zapnout, stiskněte [MENU] na ovladači televize a zvolte Moje aplikace > Přenášení > Miracast."</string>
+    <string name="help_page_text_17_1">Zákaznická linka Xiaomi: 400-100-5678</string>
+    <string name="help_page_text_18">Samsung TV</string>
+    <string name="help_page_text_19">Nejprve se ujistěte, že vaše zařízení podporuje funkci Miracast. Pro zapnutí přenosu obrazu, stiskněte tlačítko [SOURCE] na ovladači televize a zvolte \"Zrcadlení obrazu\" (Screen Mirroring). Na některých modelech televizorů je tato funkce již zapnuta automaticky.</string>
+    <string name="help_page_text_20">Zákaznická linka Samsung: 400-810-5858</string>
+    <string name="help_page_text_21">LG TV</string>
+    <string name="help_page_text_22">Nejprve se ujistěte, že vaše zařízení podporuje funkci Miracast. Na většině modelů televizorů je tato funkce již zapnuta automaticky.</string>
+    <string name="help_page_text_23">Zákaznická linka LG: 400-819-9999</string>
+    <string name="help_page_text_24">Philips TV</string>
+    <string name="help_page_text_25">Nejprve se ujistěte, že vaše zařízení podporuje funkci Miracast. Na většině modelů televizorů je tato funkce již zapnuta automaticky.</string>
+    <string name="help_page_text_26">Zákaznická linka Philips: 400-880-0008</string>
+    <string name="help_page_text_27">TPV</string>
+    <string name="help_page_text_28">Nejprve se ujistěte, že vaše zařízení podporuje funkci Miracast. Na některých modelech televizorů můžete přenos obrazu nastavit stisknutím tlačítka [MENU] na ovladači televizoru - Nastavení > Připojení > Síť > Multi displej (Multiple screens).</string>
+    <string name="help_page_text_29">Zákaznická linka TVP: 400-887-8007</string>
+    <string name="help_page_text_30">Hisense</string>
+    <string name="help_page_text_31">Nejprve se ujistěte, že vaše zařízení podporuje funkci Miracast. Na většině modelů televizorů můžete nastavit přenos obrazu stisknutím tlačítka [SMART] na ovladači televizoru - Přenášení > Bezdrátový displej. Některé modely zařízení také podporují přenášení obrazu během hraní her: Hi Cast > Přenos her > Android.</string>
+    <string name="help_page_text_32">Zákaznická linka Hisense: 400-611-1111</string>
+    <string name="help_page_text_33">Skyworth</string>
+    <string name="help_page_text_34">Nejprve se ujistěte, že vaše zařízení podporuje funkci Miracast. Na většině modelů televizorů můžete přenos obrazu nastavit klepnutím na Aplikace > Přenášení > Android zařízení > Miracast.</string>
+    <string name="help_page_text_35">Zákaznická linka Skyworth: 95105555</string>
+    <string name="help_page_text_36">Sony</string>
+    <string name="help_page_text_37">Nejprve se ujistěte, že vaše zařízení podporuje funkci Miracast. Pro zapnutí přenosu obrazu, stiskněte tlačítko [SOURCE] na ovladači televize a zvolte \"Zrcadlení obrazu\" (Screen Mirroring) nebo změnou v nastavení Sítě > Wi-Fi Direct. Na některých modelech televizorů je tato funkce již zapnuta automaticky.</string>
+    <string name="help_page_text_38">Zákaznická linka Sony: 400-810-9000</string>
+    <string name="help_page_text_39">Panasonic</string>
+    <string name="help_page_text_40">Nejprve se ujistěte, že vaše zařízení podporuje funkci Miracast. Na většině modelů televizorů můžete přenos obrazu nastavit klepnutím na Aplikace > Zrcadlení obrazu (Screen Mirroring).</string>
+    <string name="help_page_text_41">Zákaznická linka Panasonic: 400-881-1315</string>
+    <string name="help_page_text_42">Changhong</string>
+    <string name="help_page_text_43">Zkontrolujte nastavení vaší televize a ujistěte se, za externí monitor podporuje funkci Miracast.</string>
+    <string name="help_page_text_44">Zákaznická linka Changhong: 400-811-1666</string>
+    <string name="help_page_text_45">TCL</string>
+    <string name="help_page_text_46">Nejprve se ujistěte, že vaše zařízení podporuje funkci Miracast. Na většině modelů televizorů můžete přenos obrazu nastavit klepnutím na Aplikace > Bezdrátový displej.</string>
+    <string name="help_page_text_47">Zákaznická linka TCL: 400-812-3456</string>
+    <string name="help_page_text_48">AODIN</string>
+    <string name="help_page_text_49">Nejprve se ujistěte, že vaše zařízení podporuje funkci Miracast. Na většině modelů televizorů můžete přenos obrazu nastavit v sekci Aplikace > Wi-Fi displej.</string>
+    <string name="help_page_text_50">Zákaznická linka AODIN: 400-810-5858</string>
+    <string name="help_page_text_51">LeEco</string>
+    <string name="help_page_text_52">Nejprve se ujistěte, že vaše zařízení podporuje funkci Miracast. Na většině modelů televizorů můžete přenos obrazu nastavit v sekci Nastavení > Sítě > Multiple screens > Bezdrátový displej (Wireless Display).</string>
+    <string name="help_page_text_53">Zákaznická linka LeEco: 10109000</string>
+    <string name="help_page_text_55">"Pokud se nemůžete připojit k síti, ujistěte se, že externí monitor podporuje funkci Miracast a že je tato funkce zapnuta. Na některých modelech zařízení může být tato funkce nazývána Bezdrátový displej, Zrcadlení obrazu nebo Multi displej. Více informací o tom jak zapnout Miracast se dočtete níže.
+4. Pokud narazíte na jakýkoli problém, dejte nám vědět pomocí aplikace \"Služby a zpětná vazba\"."</string>
+    <string name="help_page_text_55_global">"Pokud se nemůžete připojit k síti, ujistěte se, že externí monitor podporuje funkci Miracast a že je tato funkce zapnuta. Na některých modelech zařízení může být tato funkce nazývána Bezdrátový displej, Zrcadlení obrazu nebo Multi displej.
+4. Pokud narazíte na jakýkoli problém, dejte nám vědět pomocí aplikace \"Služby a zpětná vazba\"."</string>
+    <string name="help_page_text_end">Pokud značka vašeho televizoru není na tomto seznamu, pro více informací o přenosu obrazu kontaktujte výrobce zařízení.</string>  
 </resources>

@@ -984,5 +984,44 @@ skenované dokumenty automaticky"</string>
   <string name="pref_module_settings">Režimy</string>  
   <string name="clone_recapture_alert">Začít znova?</string>
   <string name="pref_camera_heic_image_format_description2">Vysoce efektivní formát pro fotografie šetří místo na úložišti, ale není podporovaný některými aplikacemi.</string>
+  
+    <string name="parameter_description_pro_capture_title">PRO funkce pro focení</string>
+    <string name="parameter_description_pro_video_title">PRO funkce pro natáčení videa</string>
+    <string name="parameter_description_sub_title">Všechny funkce focení a nahrávání videa jako na dlani</string>
+    <string name="parameter_ef_split_description">Pro lepší výsledek ostření můžete přesunout expoziční kroužek dále od ostřícího kroužku a upravit oba parametry samostatně.</string>
+    <string name="parameter_ef_split_title">Samostatné zaostření a měření expozice</string>
+    <string name="parameter_et_description">Automatická rychlost závěrky je určena expozimetrem fotoaparátu. Při manuálním nastavení rychlosti závěrky platí, že čím déle je závěrka otevřena, tím více světla dopadá na senzor, díky čemuž je obraz světlejší.</string>
+    <string name="parameter_et_title">Rychlost závěrky</string>
+    <string name="parameter_exposure_description">Pomocí této funkce můžete manuálně vyrovnávat expozici obrazu pro jeho zesvětlení nebo ztmavení nezávisle na doporučení měřiče.</string>
+    <string name="parameter_exposure_feecback_description">Zvýraznit pod-exponovaná (modře) a pře-exponovaná (červeně) místa pro snadnější úpravu vyvážené expozice.</string>
+    <string name="parameter_exposure_feecback_title">Zvýraznění pře-/pod-expozice</string>
+    <string name="parameter_exposure_title">Vyrovnání expozice</string>
+    <string name="parameter_focus_description">Ostření můžete provádět jak automaticky tak manuálně. Čím větší hodnotu na posuvníku zvolíte, tím vzdálenější objekt bude objektivem zaostřen.</string>
+    <string name="parameter_focus_title">Ostření</string>
+    <string name="parameter_histogram_description">Histogram je reprezentace expozice v reálném čase. Nejtmavší části scény se nachází na levé straně a postupně přechází do nejjasnější části na pravé straně. Svislá část stupnice ukazuje, jak je scéna jasná nebo tmavá.</string>
+    <string name="parameter_histogram_title">Histogram</string>
+    <string name="parameter_iso_description">Hodnoty ISO mohou být rozpoznány automaticky pomocí expozimetru. Můžete je však také nastavit manuálně. Při vyšších ISO hodnotách je fotoaparát citlivější na množství světla, ale také náchylnější na množství digitálního šumu.</string>
+    <string name="parameter_iso_title">Citlivost ISO</string>
+    <string name="parameter_lens_description">"Můžete přepínat mezi několika dostupnými objektivy: "</string>
+    <string name="parameter_lens_marco">, MACRO (makro)</string>
+    <string name="parameter_lens_st">, S-TELE (přibližovací)</string>
+    <string name="parameter_lens_t">, TELE (teleobjektiv)</string>
+    <string name="parameter_lens_tele_2x">, TELE-2X (teleobjektiv)</string>
+    <string name="parameter_lens_tele_5x">, TELE-5X (teleobjektiv)</string>
+    <string name="parameter_lens_title">Objektivy</string>
+    <string name="parameter_lens_uw">, UW (ultra širokoúhlý)</string>
+    <string name="parameter_lens_w">WIDE (širokoúhlý)</string>
+    <string name="parameter_log_format_description">Tento formát nahrává video pomocí logaritmické funkce zobrazené expoziční křivkou. Pomocí této funkce můžete zachytit více detailů ve světlých a stinných místech a využít tyto informace při dalším zpracování obrazu.</string>
+    <string name="parameter_log_format_title">LOG formát</string>
+    <string name="parameter_metering_description">Poměrové měření zahrnuje všechny oblasti a funguje nejlépe pro snímky s rovnoměrně osvětlenou scénou. Měření se zvýhodněným středem se zaměřuje hlavně na centrální oblast obrazu a zohledňuje jas okolního prostoru. Tento režim je vhodný pro fotografování objektů umístěných ve středu obrazu. Bodové měření se soustředí pouze na jedno místo, díky čemuž máte přesnější kontrolu nad expozicí.</string>
+    <string name="parameter_metering_title">Měřící režimy</string>
+    <string name="parameter_peak_focus_description">Při ručním ostření můžete využít funkci Zvýraznění pro označení zaostřené roviny pomocí barevně (červeně) zvýrazněných kontur.</string>
+    <string name="parameter_peak_focus_title">Zvýraznění</string>
+    <string name="parameter_peak_raw_description">Tento formát obrazu zachycuje všechna obrazová data zaznamenaná senzorem při fotografování. Nekomprimovaná data vám tak poskytnou více možností při dalším zpracování.</string>
+    <string name="parameter_peak_raw_title">RAW formát</string>
+    <string name="parameter_wb_description">Kromě přednastavených možností vyvážení bíle barvy (umělé osvětlení, denní světlo, bleskové světlo, zataženo), můžete také nastavit vlastní hodnoty vyvážení v rozmezí 2000–8000 Kelvin.</string>
+    <string name="parameter_wb_title">Vyvážení bílé</string>
+    <string name="parameter_zoom_slider_description">Potažením posuvníku nahoru a dolů můžete snadno změnit snímek z dlouhého záběru na detailní.</string>
+    <string name="parameter_zoom_slider_title">Přiblížení</string>  
 </resources>
   
