@@ -6563,5 +6563,6 @@ Před použitím našich služeb si přečtěte a souhlaste s našimi %s."</stri
   <string name="miui_sos_remind_close_confirm">Vypnout</string>
   <string name="content_miui_music_mute_by_user">Přehrát zvuk médií když je aktivní Tichý režim?</string>
   <string name="title_miui_music_mute_by_user">Tichý režim</string>
+  <string name="error_apn_restrict_string">APN nemůže obsahovat %1$s</string>
 </resources>
 

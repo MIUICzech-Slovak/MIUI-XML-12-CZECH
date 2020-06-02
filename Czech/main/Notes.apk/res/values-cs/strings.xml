@@ -430,4 +430,10 @@ http://www.miuios.cz/rom
   <string name="note_gesture_guide_step1">Stlačte a podržte tlačítko pro vytvoření hlasové poznámky</string>
   <string name="note_gesture_guide_step2">Stlačte a podržte poznámku pro seskupení do složky</string>
   <string name="note_gesture_guide_step3">Stlačte a podržte poznámku pro přesunutí poznámky</string>
+  <string name="float_todo_guide_message_v2">Zkratky gestem umožňují zobrazit nebo vytvořit nové úlohy potáhnutím z hrany displeje.</string>
+  <string name="float_todo_guide_ok_v2">Povolit</string>
+  <string name="float_todo_guide_title_v2">Zkratky gestem</string>
+  <string name="pref_remind_type_summary_new">Ignorovat Tichý režim a přehrávat zvuk při zvonění budíku</string>
+  <string name="pref_remind_type_title_new">Vysoká priorita připomínek</string>
+  <string name="toast_refuse_to_record_when_in_multi_window_new">Tuto funkci není možné použít v rozdělené obrazovce nebo v plovoucím okně</string>
 </resources>

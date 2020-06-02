@@ -1022,6 +1022,9 @@ skenované dokumenty automaticky"</string>
     <string name="parameter_wb_description">Kromě přednastavených možností vyvážení bíle barvy (umělé osvětlení, denní světlo, bleskové světlo, zataženo), můžete také nastavit vlastní hodnoty vyvážení v rozmezí 2000–8000 Kelvin.</string>
     <string name="parameter_wb_title">Vyvážení bílé</string>
     <string name="parameter_zoom_slider_description">Potažením posuvníku nahoru a dolů můžete snadno změnit snímek z dlouhého záběru na detailní.</string>
-    <string name="parameter_zoom_slider_title">Přiblížení</string>  
+    <string name="parameter_zoom_slider_title">Přiblížení</string>
+    <string name="ambilight_tips_for_longtime_using_tripod">Pro delší expozici použíjte stativ</string>
+    <string name="ambilight_tips_for_suggest_using_tripod">Použíjte stativ</string>
+    <string name="super_macro_mode">Super makro</string>	
 </resources>
   

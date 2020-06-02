@@ -188,4 +188,7 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
   <string name="agree_description">Povolte této aplikaci připojení na internet pro její správné fungování.</string>
+  <string name="app_record">Nahrávky aplikace</string>
+  <string name="app_record_preference_title">Nahrávky aplikace</string>
+  <string name="record_list_app">Nahrávky aplikace</string>
 </resources>

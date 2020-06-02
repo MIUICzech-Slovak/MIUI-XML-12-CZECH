@@ -133,4 +133,8 @@
         <item quantity="other">Odemknuto %d krát</item>
         <item quantity="one">Odemknuto %d krát</item>
      </plurals>
+	 <plurals name="usage_new_home_total_unlocks_new">
+        <item quantity="other">Odemknuto %1$d krát ve %2$s</item>
+        <item quantity="one">Odemknuto %1$d krát ve %2$s</item>
+    </plurals>	
 </resources>

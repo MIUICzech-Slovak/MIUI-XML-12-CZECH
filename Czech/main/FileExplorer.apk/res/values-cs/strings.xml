@@ -758,4 +758,10 @@ Bylo přičteno dalších %1$s"</string>
   <string name="otg_data_transfer_success">Přenesené</string>
   <string name="otg_data_transferring">Přenos souborů... Neodpojujte externí úložiště.</string>
   <string name="release_enter_private">Uvolněte pro otevření soukromé složky</string>
+  <string name="cancel_msg">Odznačit všechno?</string>
+  <string name="file_name_existed">Název už existuje</string>
+  <string name="rename_msg">Soubor s tímto názvem \"%s\" už existuje.</string>
+  <string name="replace">Nahradit</string>
+  <string name="skip">Preskočit</string>
+  <string name="use_to_all">Použít na všechno</string>  
 </resources>
