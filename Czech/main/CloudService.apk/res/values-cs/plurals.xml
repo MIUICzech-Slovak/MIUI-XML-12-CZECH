@@ -92,4 +92,8 @@
         <item quantity="other">Není možné vybrat více jak %d položek</item>
         <item quantity="one">Není možné vybrat více jak %d položku</item>
     </plurals>
+	<plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d Wi-Fi sítí</item>
+        <item quantity="one">%d Wi-Fi síť</item>
+    </plurals>	
 </resources>

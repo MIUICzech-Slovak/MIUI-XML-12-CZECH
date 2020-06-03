@@ -40,4 +40,15 @@
         <item>Pro identifikaci vašeho zařízení</item>
         <item>Pro získání polohy vašeho zařízení</item>
     </string-array>
+	<string-array name="micloud_entrance_subtitleArray_china">
+        <item>Synchr. vaše kontakty, SMS, poznámky, kalendář a další..</item>
+        <item>Zálohujte aplikace, rozložení plochy a tapety</item>
+        <item>Zálohujte důležitá nastavení včetně Wi-Fi</item>
+        <item>Uzamknete vaše zařízení na dálku v případě ztrátyt nebo odcizení</item>
+    </string-array>	
+    <string-array name="settings_search_wlan_china">
+        <item>Synchr. Wi-Fi nastavení s Xiaomi Cloudem</item>
+        <item>Povolit synchr.</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+    </string-array>
 </resources>
