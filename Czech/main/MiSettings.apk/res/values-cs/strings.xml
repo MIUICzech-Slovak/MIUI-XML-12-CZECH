@@ -398,4 +398,7 @@
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="usage_new_home_app_limit_summary">Nastavte pro tuto aplikaci denní časový limit používání</string>
+  <string name="usage_new_home_app_limit_title">Omezit čas používání</string>
+  <string name="usage_new_home_classify_manage">Spravujte kategorie aplikací</string>
 </resources>
