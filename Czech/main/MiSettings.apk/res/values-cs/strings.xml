@@ -382,8 +382,8 @@
   <string name="switch_audio_dialog_title">Přepnout zvuk na</string>
   <string name="usage_app_limit_reach_summay_new">Dotykem přidáte %d minut</string>
   <string name="usage_app_limit_reach_title_new" formatted="false">Zbývající čas pro %1s: %2s</string>
-  <string name="usage_new_home_day_category_title_new">Čas displeje pro kategorie aplikací za %s</string>
-  <string name="usage_new_home_day_usage_title_new">Čas displeje za %s</string>
+  <string name="usage_new_home_day_category_title_new">Čas displeje pro kategorie aplikací %s</string>
+  <string name="usage_new_home_day_usage_title_new">Čas displeje %s</string>
   <string name="usage_week_avg_usage_title">Průměrně tento týden</string>
   <string name="usage_week_avg_usage_title2">Průměrný čas</string> 
   <string name="fmt_date_long_month">MMMM</string>
