@@ -134,7 +134,7 @@
         <item quantity="one">Odemknuto %d krát</item>
      </plurals>
 	 <plurals name="usage_new_home_total_unlocks_new">
-        <item quantity="other">Odemknuto %1$d krát %2$s</item>
-        <item quantity="one">Odemknuto %1$d krát %2$s</item>
+        <item quantity="other">%2$s odemknuto %1$d krát </item>
+        <item quantity="one">%2$s odemknuto %1$d krát </item>
     </plurals>	
 </resources>
