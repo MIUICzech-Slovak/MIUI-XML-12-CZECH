@@ -386,4 +386,5 @@
   <string name="usage_new_home_day_usage_title_new">Čas displeje za %s</string>
   <string name="usage_week_avg_usage_title">Průměrně tento týden</string>
   <string name="usage_week_avg_usage_title2">Průměrný čas</string> 
+  <string name="fmt_date_short_month_day">d MMM</string>  
 </resources>
