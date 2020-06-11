@@ -2014,7 +2014,7 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="pc_battery_detail_curve_reference_now">Nyní</string>
   <string name="pc_battery_detail_device_item_title">spotřeba baterie</string>
   <string name="pc_battery_history_battery_detail_menu_item">Podrobnosti</string>
-  <string name="pc_battery_history_consume_rank_menu_item">Hodnocení</string>
+  <string name="pc_battery_history_consume_rank_menu_item">Seznam</string>
   <string name="pc_battery_history_rank_mha_menu_item">mAh</string>
   <string name="pc_battery_history_rank_percent_menu_item">Procenta</string>
   <string name="pc_install_manager">Správce instalací</string>
