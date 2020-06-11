@@ -515,6 +515,17 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
   <string name="perfect_icons_switch_summary">Zobrazit animaci na ikonách doinstalovaných aplikací</string>
   <string name="perfect_icons_switch_title">Globální animace ikon</string>
+  <string name="launcher_search_provider_title">Poskytovatel vyhledávání na ploše</string>
+  <string name="accessibility_all_app_custom_category_finish">Hotovo</string>
+  <string name="accessibility_all_app_custom_category_item_remove">Odstranit \"%1$s\" z kategorií</string>
+  <string name="accessibility_clear_search_bar_text">Vymazat vyhledávání</string>
+  <string name="accessibility_enter_all_app_mode">Otevřít seznam aplikací</string>
+  <string name="accessibility_enter_all_app_settings">Otevřít nastavení seznamu aplikací</string>
+  <string name="all_apps_setting_classic_title">Klasická</string>
+  <string name="back">Zpět</string>
+  <string name="common_home_search_delete">Odstranit lištu vyhledávání z plochy</string>
+  <string name="launcher_slide_up_search_provider_title">Poskytovatel vyhledávání gesta nahoru</string>  
+  <string name="launcher_search_bar_provider_title">Poskytovatel vyhledávání na ploše</string>
 </resources>
 
 

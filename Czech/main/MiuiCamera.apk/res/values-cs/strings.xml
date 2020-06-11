@@ -1025,6 +1025,11 @@ skenované dokumenty automaticky"</string>
     <string name="parameter_zoom_slider_title">Přiblížení</string>
     <string name="ambilight_tips_for_longtime_using_tripod">Pro delší expozici použíjte stativ</string>
     <string name="ambilight_tips_for_suggest_using_tripod">Použíjte stativ</string>
-    <string name="super_macro_mode">Super makro</string>	
+    <string name="super_macro_mode">Super makro</string>
+	<string name="timer_burst">Dávkový časovač</string>
+    <string name="timer_burst_manu_param_interval">Časový interval (neobsahuje čas expozice)</string>
+    <string name="timer_burst_param_interval">Časový interval</string>
+    <string name="timer_burst_param_total_count">Celkový počet snímků</string>
+    <string name="timer_burst_setting_total_count">Počet: %1$s</string>
 </resources>
   

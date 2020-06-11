@@ -1105,4 +1105,10 @@ Postupujte dle pokynů"</item>
         <item>Upozornění budou zobrazeny v roletce</item>
         <item>Upozornění budou zobrazeny ve složce</item>
     </string-array>
+	<string-array name="charge_animation_style_entries">
+        <item>Vypnutá</item>
+        <item>Proud</item>
+        <item>Záře</item>
+        <item>Vlna</item>
+    </string-array>
 </resources>

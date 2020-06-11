@@ -2781,7 +2781,7 @@ V tomto zařízení jsou přítomni další uživatelé.
   <string name="miui_sos_call_log_summary">Odeslat historii hovorů za poslední hodinu nouzovému kontaktu</string>
   <string name="miui_sos_call_log_time_unit">%1$dm %2$ds</string>
   <string name="miui_sos_call_log_title">Odeslat historii hovorů</string>
-  <string name="miui_sos_call_warning_sim_unable">Žádný signál. Nelze odeslat SMM.</string>
+  <string name="miui_sos_call_warning_sim_unable">Žádný signál. Nelze odeslat SMS.</string>
   <string name="miui_sos_calling_summary">Vaše zařízení automaticky zavolá vašemu nouzovému kontaktu a přehraje nouzovou hlasovou zprávu, kterou jste nahráli. Hovor se ukončí po přijetí zprávy.</string>
   <string name="miui_sos_calling_title">Autom. hovor</string>
   <string name="miui_sos_contacts_add">Nouzové kontakty</string>
@@ -2789,9 +2789,9 @@ V tomto zařízení jsou přítomni další uživatelé.
   <string name="miui_sos_emergency_contacts">Nouzové kontakty</string>
   <string name="miui_sos_emergency_contacts_quantity">%d přidáno</string>
   <string name="miui_sos_emergency_delete">Vymazat</string>
-  <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) již akceptoval.</string>
-  <string name="miui_sos_emergency_delivered_sms_noname">%1s již akceptoval</string>
-  <string name="miui_sos_emergency_failed_sms" formatted="false">Nelze odeslat SMS %1s (%2s)."</string>
+  <string name="miui_sos_emergency_delivered_sms">%1$s (%2$s) již akceptoval.</string>
+  <string name="miui_sos_emergency_delivered_sms_noname">%1$s již akceptoval</string>
+  <string name="miui_sos_emergency_failed_sms" formatted="false">Nelze odeslat SMS %1$s (%2$s)."</string>
   <string name="miui_sos_emergency_failed_sms_noname">Nelze odeslat SMS %1s.</string>
   <string name="miui_sos_enable_switch_summary">Rychle stiskněte tlačítko zapínání 5x pro odeslání nouzové SOS SMS s vaší polohou nouzovým kontaktům.</string>
   <string name="miui_sos_enable_switch_title">Nouzová SOS</string>
@@ -6551,7 +6551,7 @@ Před použitím našich služeb si přečtěte a souhlaste s našimi %s."</stri
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
   <string name="scanning_status_text_wifi_off_ble_off">Wi-Fi a Bluetooth vyhledávání je vypnuté</string>
-<string name="scanning_status_text_wifi_on_ble_on">Wi-Fi a Bluetooth vyhledávání je zapnuté</string>
+  <string name="scanning_status_text_wifi_on_ble_on">Wi-Fi a Bluetooth vyhledávání je zapnuté</string>
   <string name="accessibility_toggle_master_balance_title">Vyvážení zvuku</string>
   <string name="zone_auto_title">Časové pásmo podle sítě</string>
   <string name="control_panel_switch_side">Přepnout stranu Ovladačů</string>
@@ -6564,5 +6564,7 @@ Před použitím našich služeb si přečtěte a souhlaste s našimi %s."</stri
   <string name="content_miui_music_mute_by_user">Přehrát zvuk médií když je aktivní Tichý režim?</string>
   <string name="title_miui_music_mute_by_user">Tichý režim</string>
   <string name="error_apn_restrict_string">APN nemůže obsahovat %1$s</string>
+  <string name="charge_animation_style_summary">Vyberte si styl animace nabíjení na zamknuté obrazovce</string>
+  <string name="charge_animation_style_title">Animace nabíjení</string>
 </resources>
 

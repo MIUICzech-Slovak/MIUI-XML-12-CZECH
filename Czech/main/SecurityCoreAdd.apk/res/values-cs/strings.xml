@@ -395,10 +395,10 @@ Můžete je i znovu stáhnout."</string>
   <string name="xspace_uninstall_dialog_title">Odinstalovat klonovanou apl.</string>
   <string name="xspace_uninstalling">Odinstalace...</string>
   <string name="xspace_whatsapp_title">WhatsApp</string>
-     <string name="xspace_disable">Není vytvořené</string>
-     <string name="xspace_enable">Vytvořené</string>
-     <string name="xspace_notification">Upozornění klonovaných aplikací</string>
-     <string name="xspace_settins">Nastavit</string>
+  <string name="xspace_disable">Není vytvořené</string>
+  <string name="xspace_enable">Vytvořené</string>
+  <string name="xspace_notification">Upozornění klonovaných aplikací</string>
+  <string name="xspace_settins">Nastavit</string>
   <string name="greenguard_install_cancle">Ne</string>
   <string name="greenguard_install_confirm">Instalovat</string>
   <string name="greenguard_install_message">Rodinný ochránce je systémová aplikace. Není potřebné připojení na internet pro její instalaci.</string>
@@ -410,5 +410,7 @@ Můžete je i znovu stáhnout."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>  
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
+  <string name="secondspace_homepage">"Nastavte zámek obrazovky pro Druhý profil.
+Oddělte a zabezpečte svá data."</string>  
 </resources>
