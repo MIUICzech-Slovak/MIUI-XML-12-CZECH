@@ -3982,7 +3982,6 @@ Formátování vymaže všechny soubory na ^2. Zálohujte je na jiný ^3 nebo za
   <string name="gb_wonderful_moment_toast_window_new_pop">"Nahrávejte klíčové momenty
 z vašeho hraní her"</string>
   <string name="gb_wonderful_video_goto_box">Otevřít Zrychlení her</string>
-  <string name="gb_wonderful_video_save_suc">Uložené</string>
   <string name="intl_app_manager_card_permission_title">Soukromí a povolení</string>
   <string name="intl_perm_privacy_control_calendar">Aplikace může číst nebo upravit kalendář jen když ji používáte</string>
   <string name="intl_perm_privacy_control_calllog">Aplikace může číst nebo upravit historii hovorů jen když ji používáte</string>
@@ -3996,3 +3995,4 @@ z vašeho hraní her"</string>
   <string name="intl_perm_privacy_control_storage">Aplikaci může číst nebo upravit soubory na úložišti jen když ji používáte</string>
   <string name="intl_perm_privacy_control_title">Kontrola soukromí</string>
 </resources>
+  
