@@ -1914,4 +1914,7 @@
   <string name="security_share_subtitle_default">Ochrana soukromí</string>
   <string name="security_share_subtitle_hide">Poloha je odstraněná</string>
   <string name="security_share_subtitle_no_hide">Obsahuje polohu</string>
+  <string name="album_tab_page_switch_view_style_to_grid">Mřížka</string>
+  <string name="album_tab_page_switch_view_style_to_linear">Seznam</string>
+  <string name="picker_title_format_video">Vyberte videa (%1$d)</string>
 </resources>
