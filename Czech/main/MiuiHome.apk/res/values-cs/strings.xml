@@ -479,7 +479,7 @@
      <string name="shortcut_share_dialog_content">Soubory, které posíláte z vašeho telefonu tak i příjemce si vybíráte sami. Dávejte si pozor jaké soubory vybíráte a komu je posíláte. Telefon byste neměli používat na přenos virů, malvéru, trojských koní, časovaných bomb a nebezpečných objektů druhým lidem. Nepoužívejte váš telefon na přenos softvéru, který může ovlivnit bežné používání zařízení příjemce tak i položek, které mohou poškodit, zasahovat, shromažďovat nebo zneškodňovat jakékoliv systémové údaje nebo osobní informace na mobilních terminálových zařízeních. Budete zodpovědni za jakékoliv poškození způsobené ostatním uživatelům nebo na mobilních terminálových zařízeních. Společnost Xiaomi udělá všechno proto, aby zabezpečila funkcionalitu sdílení tak i technologie a zajistila, že informace budou bezpečené, efektivní, přesné a spolehlivé. Avšak z důvodu současných technologických omezení společnost Xiaomi neručí, že funkcionalita sdílení bude plynulá a budete s ní plně spokojení.</string>
      <string name="shortcut_share_dialog_positive_button">Rozumím</string>
      <string name="shortcut_share_dialog_title">Oznámení</string>
-     <string name="status_bar_recent_memory_info1">%1$sB z %2$sB dostupné</string>
+     <string name="status_bar_recent_memory_info1">%1$s z %2$s dostupné</string>
      <string name="switch_personal_assistant_app_vault">Asistent</string>
      <string name="switch_personal_assistant_google">Google</string>
      <string name="switch_personal_assistant_none">Žádná</string>

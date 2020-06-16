@@ -43,7 +43,7 @@ přidat karty"</string>
     <string name="all_records">Všechny záznamy</string>
     <string name="altitude">Nadmořská výška</string>
     <string name="altitude_range">Nadmořská výška</string>
-    <string name="audio_permission_dialog_desc">Aby bylo možné analyzovat váš spánkový cyklus, potřebuje Xiaomi Health povolení k nahrávání zvuku pro záznamy mluvení a chrápání.</string>
+    <string name="audio_permission_dialog_desc">Aby bylo možné analyzovat váš spánkový cyklus, potřebuje Xiaomi Zdraví povolení k nahrávání zvuku pro záznamy mluvení a chrápání.</string>
     <string name="audio_permission_dialog_title">Povolit nahrávání zvuku</string>
     <string name="audio_record_perm_description">Pro záznam mluvení a chrápání při analýze spánkového cyklu</string>
     <string name="audio_record_permission_description">Pro nahrávání mluvení a chrápání při analýze vašeho spánku</string>
@@ -191,7 +191,7 @@ Aplikace vás bude upozorňovat pouze na důležitá oznámení."</string>
     <string name="dialog_sleep_record_auto_start">Pro přesnější data o vašem spánku povolte aplikaci Xiaomi Zdraví autom. spouštění.</string>
     <string name="dialog_sure">OK</string>
     <string name="dialog_user_agreement_purpose">Vítejte v aplikaci Xiaomi Zdraví! Pomocí této aplikace můžete počítat kroky, sledovat průběh spánku, menstruace, změny váhy a synchronizovat zaznamenané údaje s cloudem.</string>
-    <string name="dialog_user_agreement_purpose2">Vítejte v Xiaomi Health! Pomocí této aplikace můžete počítat své kroky, analyzovat spánek, sledovat periodu, zaznamenávat hmotnost a další.</string>
+    <string name="dialog_user_agreement_purpose2">Vítejte v Xiaomi Zdraví! Pomocí této aplikace můžete počítat své kroky, analyzovat spánek, sledovat periodu, zaznamenávat hmotnost a další.</string>
     <string name="disable">Vypnuto</string>
     <string name="dream_talk">Mluvení %1$s</string>
     <string name="dream_talk_record">Byli jste nahráni, když jste během spánku mluvili</string>
