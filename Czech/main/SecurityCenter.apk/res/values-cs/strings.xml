@@ -3994,5 +3994,18 @@ z vašeho hraní her"</string>
   <string name="intl_perm_privacy_control_notification_title">Chraňte vaše soukromí</string>
   <string name="intl_perm_privacy_control_storage">Aplikaci může číst nebo upravit soubory na úložišti jen když ji používáte</string>
   <string name="intl_perm_privacy_control_title">Kontrola soukromí</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">Vyčištené %s. Vaše zařízení je nyní o %d%% rychlejší.</string>
+  <string name="menu_summary_optimize_manage">Vyčistit paměť</string>
+  <string name="menu_summary_optimize_manage_1">Zrychlete vaše zařízení o %d%%</string>
+  <string name="menu_text_optimize_manage_1">Zrychlit</string>
+  <string name="om_optimzing_big_button_text">Zrychlit</string>
+  <string name="om_running_app_info_summary">Uvolnit %s</string>
+  <string name="om_shortcut_added_toast_text">Přidáno</string>
+  <string name="om_shortcut_dialog_summary">RAM Jet umožní vymazat paměť a zrychlit vaše zařízení jediným dotykem. Přidat odkaz na RAM Jet na plochu?</string>
+  <string name="om_shortcut_dialog_title">RAM Jet</string>
+  <string name="security_bottom_guide_to_pm_text">Otevírání…</string>
+  <string name="security_guide_bubble_text">Otevřít</string>
+  <string name="security_guide_summary">Nástroje na jednom místě</string>
+  <string name="security_guide_title">MIUI Nástroje</string> 
 </resources>
   

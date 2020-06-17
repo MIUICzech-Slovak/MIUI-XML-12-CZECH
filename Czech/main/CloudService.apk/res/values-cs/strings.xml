@@ -879,4 +879,9 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
   <string name="micloud_notif_content_master_depend_wifi_china">Připojte se k Wi-Fi nebo změňte nastavení synchronizace. Dotykem změníte.</string>
   <string name="privacy_dialog_sync_all_purpose_china">Vítejte v Xiaomi Cloudu! Můžete využít Xiaomi Cloud pro synchr. vašich SMS, historie hovorů, kontaktů, poznámek, fotografií, Wi-Fi nastavení, nahrávek.</string>
   <string name="privacy_doc_cloudservice_china">"Vítejte v Xiaomi Cloudu! Můžete využít Xiaomi Cloud pro synchr. vašich SMS, historie hovorů, kontaktů, poznámek, fotografií, Wi-Fi nastavení, nahrávek, aplikací a kalendáře. K synchronizovaným položkám máte přístup na i.mi.com. Pro aktivaci této služby bude odeslána běžná SMS. Pro správné fungovaní této služby jsou vyžadována tato povolení:&lt;br /&gt;• Kalendář:&lt;br /&gt;Pro synchronizaci událostí&lt;br /&gt;• Přístup k SMS:&lt;br /&gt;Pro synchr. SMS&lt;br /&gt;• Přístup k MMS:&lt;br /&gt;Pro synch. MMS&lt;br /&gt;• Přístup ke kontaktům:&lt;br /&gt;Pro synchr. kontaktů&lt;br /&gt;• Upravit kontakty:&lt;br /&gt;Pro synchr. kontaktů&lt;br /&gt;• Úložiště:&lt;br /&gt;Pro ukládání souborů (např. obrázků, videí, skladeb)&lt;br /&gt;Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí"</string>
+  <string name="find_device_status_summary">Vyhledat a uzamknouz vaše zařízení nebo vymazat data na dálku.</string>
+  <string name="find_device_status_title_pad">Vyhledat zařízení</string>
+  <string name="find_device_status_title_phone">Vyhledat zařízení</string>
+  <string name="send_last_location_summary">Synch. informace o poloze když se zařízení vypíná</string>
+  <string name="send_last_location_title">Získat polohu před vypnutím</string>
 </resources>

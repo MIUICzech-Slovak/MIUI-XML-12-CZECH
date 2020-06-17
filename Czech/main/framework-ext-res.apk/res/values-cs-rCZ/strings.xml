@@ -276,4 +276,8 @@
   <string name="open_close_tip_content">Pro zavření plovoucího okna stlačte a podržte lištu a potáhněte nahoru</string>
   <string name="security_share_text">Ochrana soukromí</string>
   <string name="serviceEnabled">Služba byla povolena</string>
+  <string name="bluetooth_disable_notification_content">%s vypnuté Bluetooth</string>
+  <string name="bluetooth_disable_notification_title">Bluetooth je vypnuté</string>
+  <string name="bluetooth_enable_notification_content">%s zapnuté Bluetooth</string>
+  <string name="bluetooth_enable_notification_title">Bluetooth je zapnuté</string>  
 </resources>

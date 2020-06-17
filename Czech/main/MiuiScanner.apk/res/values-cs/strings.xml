@@ -212,4 +212,12 @@
   <string name="wifi_security">"Bezpečnost: "</string>
   <string name="wifi_ssid">"SSID: "</string>
   <string name="flight_mode_connecting_to_wifi">Zapněte Wi-Fi manuálně když je zapnutý režim Letadlo</string>
+  <string name="scanHistory">Historie skenování</string>
+  <string name="scanHistory_close">Povolit</string>
+  <string name="scanHistory_isOpen">Začít ukládat historii skenování?</string>
+  <string name="scanHistory_open">Povolit</string>  
+  <string name="create">Generovat QR kód</string>
+  <string name="createFail">Nebylo možné vygenerovat QR kód. Vaša zpráva je příliš dlouhá.</string>
+  <string name="function">Funkce</string>
+  <string name="if_open_result">Zobrazit výsledky skenování po návratu do aplikace</string>
 </resources>

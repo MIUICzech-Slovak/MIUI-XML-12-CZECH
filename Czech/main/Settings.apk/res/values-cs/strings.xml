@@ -6566,5 +6566,12 @@ Před použitím našich služeb si přečtěte a souhlaste s našimi %s."</stri
   <string name="error_apn_restrict_string">APN nemůže obsahovat %1$s</string>
   <string name="charge_animation_style_summary">Vyberte si styl animace nabíjení na zamknuté obrazovce</string>
   <string name="charge_animation_style_title">Animace nabíjení</string>
+  <string name="control_center">Prepínače</string>
+  <string name="double_knock">Dvojité poklepání</string>
+  <string name="input_method_quick_cloud_tips">Typ upozornění</string>
+  <string name="wifi_assistant_auto_confirm_data_help">Můžete tuto funkci vypnout v nastaveních Wi-Fi sítě.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">Potvrďte na zařízení</string>
+  <string name="bluetooth_unlock_reject">Připojené zařízení odmítlo odemknutí</string>
+  <string name="bluetooth_unlock_unsupport">Nepodporovaná verze</string> 
 </resources>
 

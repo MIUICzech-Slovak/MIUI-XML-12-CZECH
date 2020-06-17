@@ -78,14 +78,10 @@
   <string name="warning_tip_content">Chybí připojení na Wi-Fi síť. Stahování tohoto souboru může navýšit vaše poplatky za mobilní data."</string>
   <string name="warning_tip_ok">Zastavit</string>
   <string name="warning_tip_title">Využívání mobilních dat</string>
-  <string name="wifi_recommended_body" formatted="false">"Stahování přes mobilní data：
-
-%s (%s)
-
-Stažení tohoto souboru může výrazně zvýšit poplatky za mobilní internet"</string>
+  <string name="wifi_recommended_body">"Spuštění tohoto %1$s stahování může navýšit spotřebu vašich mobilních dat.
+Stlačte %2$s pro spuštění stahování po připojení na Wi-Fi."</string>
   <string name="wifi_recommended_title">Zařadit do fronty pro pozdější stažení?</string>
-  <string name="wifi_required_body" formatted="false">"K dokončení tohoto stahování o velikosti %s je třeba připojení Wi-Fi.
-    
-Chcete-li stahování spustit při příštím připojení k síti Wi-Fi, dotkněte se možnosti %s."</string>
+  <string name="wifi_required_body">"Připojte se k Wi-Fi pro dokončení tohoto %1$s stahování. 
+Stlačte %2$s pre spustenie sťahovania po pripojení na Wi-Fi."</string>
   <string name="wifi_required_title">Stahovaný soubor je pro síť operátora příliš velký</string>
 </resources>
