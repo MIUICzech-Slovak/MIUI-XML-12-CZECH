@@ -262,8 +262,8 @@ Vzorkovací frekvence"</string>
   <string name="call_record_auto_whitelist_summary">Čísel: %d</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 číslo</string>
   <string name="call_record_loading_content">Načítání...</string>
-  <string name="call_record_off_summary">Nahrávání deaktivováno</string>
-  <string name="call_record_on_summary">Nahrávání aktivováno</string>
+  <string name="call_record_off_summary">Vypnuto</string>
+  <string name="call_record_on_summary">Zapnuto</string>
   <string name="call_record_setting">Nahrávání hovorů</string>
   <string name="call_record_whitelist_custom">Vlastní seznam</string>
   <string name="call_recording_notification_message">Zobrazit.</string>
