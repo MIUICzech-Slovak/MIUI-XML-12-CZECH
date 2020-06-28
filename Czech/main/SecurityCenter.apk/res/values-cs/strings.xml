@@ -3859,7 +3859,7 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="privacy_search_key_9">Virtuální ID</string>
      <string name="privacy_show_password">Zobrazit heslo</string>
      <string name="privacy_show_password_summary">Ponechat hesla viditelná na krátky čas</string>
-     <string name="privacy_special_permission_summary">Sledovat jako aplikace používají citlivá povolení</string>
+     <string name="privacy_special_permission_summary">Sledovat jak aplikace používají citlivá povolení</string>
      <string name="privacy_special_permission_title">Speciální povolení</string>
      <string name="privacy_summary">Naučte se o ochraně soukromí v MIUI 12</string>
      <string name="privacy_type_open">Zap.</string>
