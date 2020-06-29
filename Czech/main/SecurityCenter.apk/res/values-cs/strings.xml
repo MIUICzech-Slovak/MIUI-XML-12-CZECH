@@ -3139,10 +3139,10 @@ Respektujeme a chráníme vaše soukromí."</string>
   <string name="top_no_network_detial">Nelze načíst, zkontrolujte nastavení sítě</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Měsíční balíček změněn na %s.</string>
   <string name="traffic_alert_auto_modify_notification_titile">Datový plán aktualizován</string>
-  <string name="traffic_alert_auto_modify_package_summary">"Automatically adjust data package according to the carrier's info"</string>
+  <string name="traffic_alert_auto_modify_package_summary">"Automaticky upravit datový balíček podle informací operátora"</string>
   <string name="traffic_config_alert_auto_modify">Automaticky aktualizovat měsíční balíček</string>
-  <string name="traffic_config_alert_body">"Your carrier's accounting show you have used %s
-Update your data usage info?"</string>
+  <string name="traffic_config_alert_body">"Účtování vašeho operátora ukazuje, že jste použili %s
+Aktualizovat informace o využití dat?"</string>
   <string name="traffic_config_alert_body_extra">"
 Bylo zakoupeno %1$s dodatečných dat tento měsíc. Manuálně zadáno %2$s."</string>
   <string name="traffic_config_alert_body_extra_notset">"
@@ -3161,9 +3161,9 @@ Rolled over extra data"</string>
   <string name="traffic_correction_start_correction_failed">Požadavek selhal, zkontrolujte nastavení operátora</string>
   <string name="traffic_correction_success">Spotřeba dat aktualizována</string>
   <string name="traffic_correction_success_notify_message">Zobrazit podrobnosti</string>
-  <string name="traffic_limit_error_alert_body">Zbývající objem mobilních dat zjištěný vašim operátorem operátorem je %1$s. To je více, než váš nastavený limit %2$s.</string>
+  <string name="traffic_limit_error_alert_body">Zbývající objem mobilních dat zjištěný vašim operátorem je %1$s. To je více, než váš nastavený limit %2$s.</string>
   <string name="traffic_limit_error_alert_package">"
-Remaining data includes data that has been rolled over from the previous month."</string>
+Zbývající data zahrnují i data, která byla převedena z předchozího měsíce."</string>
   <string name="traffic_limit_error_alert_title">Upozornění na limit dat %s</string>
   <string name="traffic_none">Žádný</string>
   <string name="traffic_over_purchase_body">Zobrazit podrobnosti</string>
@@ -3176,7 +3176,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_protection_text_hint">Nastavit limit mobilních dat pro %s</string>
   <string name="traffic_protection_unknown">Zadat později</string>
   <string name="traffic_protection_use_data">Data povolena</string>
-  <string name="traffic_purchase_body">Tap to top up your balance.</string>
+  <string name="traffic_purchase_body">Klepnutím doplníte zůstatek.</string>
   <string name="traffic_purchse_suggestion">Navýšit</string>
   <string name="traffic_saving_button_mng">Aplikace</string>
   <string name="traffic_saving_button_sorted">Žebříček</string>
