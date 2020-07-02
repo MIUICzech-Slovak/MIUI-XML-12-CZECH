@@ -246,4 +246,5 @@ Zadejte město manuálně"</string>
   <string name="rain_sound_setting_title_text">Zvukové efekty</string>
   <string name="request_cta_connect_net">Povolte této aplikaci připojení na internet a požadovaná povolení.</string>
   <string name="widget_cta_not_agree">Dotkněte se pro info o počasí</string>
+  <string name="minute_rain">Předpověď srážek</string>
 </resources>
