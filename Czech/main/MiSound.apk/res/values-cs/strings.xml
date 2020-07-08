@@ -148,5 +148,26 @@
   <string name="sound_assist_title">Zvukový asistent</string>  
   <string name="multi_music_coexistence_summary">Nepřizpůsobovat hlasitost médií během přicházejících upozornění nebo přehrávání zvuku z jiného zdroje</string>
   <string name="multi_music_coexistence_title">Vícero zvukových zdrojů</string>
+  <string name="music_audio_visual_wake_lock">Ponechat zapnutou obrazovku</string>
+  <string name="music_audio_visual_wake_lock_summary">"Pokud jsou zobrazeny vizuální efekty, obrazovka se nevypne"</string>
+  <string name="music_headset_audio_visual">Vizuální efekty</string>
+  <string name="music_headset_audio_visual_apply">Použít</string>
+  <string name="music_headset_audio_visual_style">Styly vizuálních efektů</string>
+  <string name="music_headset_audio_visual_style_summary">Výběr stylu vizuálních efektů</string>
+  <string name="music_headset_audio_visual_summary">Doprovázení zvuku vizuálním efektem zobrazeným na zamykací obrazovce</string>
+  <string name="music_headset_audio_visual_toast">Úspěšně použito</string>
+  <string name="music_headset_control_setting">Ovládání sluchátek</string>
+  <string name="music_headset_effect_settings">Zvukové efekty</string>
+  <string name="music_headset_improve_sound">Upravit zvuk podle sluchátek</string>
+  <string name="music_headset_is_open">Zapnuto</string>
+  <string name="music_headset_not_open">Vypnuto</string>
+  <string name="music_headset_open">Upravit zvuk podle sluchátek</string>
+  <string name="music_headset_optimization">Optimalizace zvuku</string>
+  <string name="music_headset_scenario_intelligent">Chytrý</string>
+  <string name="music_headset_scenario_music">Hudba</string>
+  <string name="music_headset_scenario_select">Přednastavené</string>
+  <string name="music_headset_scenario_video">Video</string>
+  <string name="music_headset_scenario_vocal">Hlas</string>
+  <string name="music_headset_select_settings">Výběr sluchátek</string>
 </resources>
 
