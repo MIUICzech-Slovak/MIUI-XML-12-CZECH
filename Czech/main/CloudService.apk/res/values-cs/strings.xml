@@ -71,6 +71,7 @@ Naposledy: %2$s"</string>
   <string name="connect_network">Připojte se k Wi-Fi nebo vložte SIM kartu</string>
   <string name="connect_wlan">Připojte se k Wi-Fi</string>
   <string name="contact">Kontaktů</string>
+  <string name="data_merge_dialog_title">Sloučit položky</string>
   <string name="data_protection_title">Ochrana dat</string>
   <string name="deskclock_backup">Záloha hodin a budíků</string>
   <string name="detect_sim_card">Vyhledat SIM kartu</string>

@@ -598,8 +598,8 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="wallpaper_settings_pad_more_page_title">Více tapet</string>
   <string name="wallpaper_settings_page_title">Tapeta</string>
   <string name="wallpaper_static">Statické</string>
-     <string name="lab">Experimentální</string>
-     <string name="like_list">Oblíbené</string>
+  <string name="lab">Experimentální</string>
+  <string name="like_list">Oblíbené</string>
   <string name="present_local_themes_subtitle">Přizpůsobte si zařízení</string>
   <string name="already_latest_version">Aktuální</string>
   <string name="update_check">Kontrola aktualizací</string>
@@ -652,6 +652,13 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="resource_comment_wonderful_comments">Populární komentáře</string>
   <string name="support_theme_store_des">Dobrá témata vždy vytvářejí talentovaní dizajnéři.  Naše aplikace obsahuje malé množství reklam, které nám umožňují podporovat jejich práci.</string>
   <string name="support_theme_store_title">Podpořte naše dizajnéry</string>
-</resources> 
+  <string name="system_cta_agree_desc">Povolte této aplikaci připojení k internetu a udělte výše uvedená oprávnění.</string>
+  <string name="system_cta_all_purpose">Vítejte v Tématech! Pomocí této aplikace můžete spravovat témata, tapety, vyzváněcí tóny a písma. </string>
+  <string name="system_cta_main_purpose">Spravujte a používejte online a offline témata, tapety, vyzváněcí tóny, písma a video tapety</string>
+  <string name="system_cta_runtime_perm_desc_get_accounts">Pro přístup k IMEI a poskytování služeb stahování</string>
+  <string name="system_cta_runtime_perm_desc_read_phone_state">Přístup k ID zařízení pro identifikaci zařízení</string>
+  <string name="system_cta_runtime_perm_desc_storage">Pro ukládání stažených témat a dalších položek</string>
+</resources>
+   
 
   
