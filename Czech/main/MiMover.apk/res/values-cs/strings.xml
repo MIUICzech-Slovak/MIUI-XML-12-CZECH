@@ -384,7 +384,7 @@ zvuky, videa, dokumenty a další aplikace do nového zařízení"</string>
     <string name="dialog_request_permission_message_buttom_content">Povolte této aplikaci připojení k internetu a udělte výše uvedená oprávnění.</string>
     <string name="dialog_request_permission_message_extra_summary">Tato oprávnění jsou vyžadována pro zpřístupnění základních funkcí a služeb této aplikace.</string>
     <string name="dialog_request_permission_message_extra_title">Oprávnění</string>
-    <string name="dialog_request_permission_message_link" formatted="false">&lt;Data&gt;"Prosím přečtěte si a souhlaste s našimi &amp;lt;a href='%1s'&amp;gt;Podmínky používání&amp;lt;/a&amp;gt; a &amp;lt;a href='%2s'&amp;gt;Ochranu soukromí&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+    <string name="dialog_request_permission_message_link">Prosím přečtěte si a souhlaste s našimi Podmínkami používání a Ochranou soukromí</string>
     <string name="dialog_request_permission_message_provision_link">Prosím přečtěte si a souhlaste s našimi %1$s a %2$s.</string>
     <string name="dialog_request_permission_title">Upozornění</string>
     <string name="permission_calender_summary">Pro přenos událostí kalendáře z iCloud</string>
