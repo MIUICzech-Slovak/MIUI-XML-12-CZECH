@@ -650,8 +650,8 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="theme_not_include_module_desc">Toto téma neobsahuje tyto položky: %s</string>   
   <string name="apply_choosen_type_resource">Použít vybrané položky</string>
   <string name="resource_comment_wonderful_comments">Populární komentáře</string>
-  <string name="support_theme_store_des">Dobrá témata vždy vytvářejí talentovaní dizajnéři.  Naše aplikace obsahuje malé množství reklam, které nám umožňují podporovat jejich práci.</string>
-  <string name="support_theme_store_title">Podpořte naše dizajnéry</string>
+  <string name="support_theme_store_des">Dobrá témata vždy vytvářejí talentovaní výtvarníci.  Naše aplikace obsahuje malé množství reklam, které nám umožňují podporovat jejich práci.</string>
+  <string name="support_theme_store_title">Podpořte naše výtvarníky</string>
   <string name="system_cta_agree_desc">Povolte této aplikaci připojení k internetu a udělte výše uvedená oprávnění.</string>
   <string name="system_cta_all_purpose">Vítejte v Tématech! Pomocí této aplikace můžete spravovat témata, tapety, vyzváněcí tóny a písma. </string>
   <string name="system_cta_main_purpose">Spravujte a používejte online a offline témata, tapety, vyzváněcí tóny, písma a video tapety</string>
