@@ -134,5 +134,5 @@ Pokud chcete funkci Miracast přesto zapnout, stiskněte [MENU] na ovladači tel
   <string name="dialog_scan_message_china">"1. Připojte telefon a TV na stejnou Wi-Fi síť.
 
 2. Na některých modelech TV je potřeba povolit zrcadlení obrazu v nastaveních."</string>    
-  <string name="enable_screen_projection_summary">Vysílat obsah displeje na externí monitor</strinng>	
+  <string name="enable_screen_projection_summary">Vysílat obsah displeje na externí monitor</string>	
 </resources>
