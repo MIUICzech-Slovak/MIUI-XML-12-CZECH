@@ -6572,6 +6572,9 @@ Před použitím našich služeb si přečtěte a souhlaste s našimi %s."</stri
   <string name="wifi_assistant_auto_confirm_data_help">Můžete tuto funkci vypnout v nastaveních Wi-Fi sítě.</string>
   <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">Potvrďte na zařízení</string>
   <string name="bluetooth_unlock_reject">Připojené zařízení odmítlo odemknutí</string>
-  <string name="bluetooth_unlock_unsupport">Nepodporovaná verze</string> 
+  <string name="bluetooth_unlock_unsupport">Nepodporovaná verze</string>
+  <string name="location_modem_summary">Operátoři získají informace o vaší poloze</string>
+  <string name="location_modem_title">sdílet informace o poloze s vaším operátorem</string>
+  <string name="permission_action_prompt">Zeptat se</string>  
 </resources>
 

@@ -48,4 +48,20 @@
         <item quantity="other">Vyhledat mezi %d nahrávkami</item>
         <item quantity="one">Vyhledat mezi %d nahrávkou</item>
     </plurals>
+	<plurals name="recovery_failed_dialog_message">
+        <item quantity="other">Nebylo možné obnovit %d položek.</item>
+        <item quantity="one">Nebylo možné obnovit %d položku.</item>
+    </plurals>
+    <plurals name="time_left_for_clear_file">
+        <item quantity="other">%d dní zůstává</item>
+        <item quantity="one">%d den zůstává</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">Vymazat %d vybrané nahrávky?</item>
+        <item quantity="one">Vymazat %d vybranou nahrávku?</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">Vymazané položky mohou být uložené v koši do %d dní</item>
+        <item quantity="one">Vymazané položky mohou být uložené v koši do %d dne</item>
+    </plurals>
 </resources>

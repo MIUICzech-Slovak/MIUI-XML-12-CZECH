@@ -127,5 +127,12 @@ Pokud chcete funkci Miracast přesto zapnout, stiskněte [MENU] na ovladači tel
 4. Pokud narazíte na jakýkoli problém, dejte nám vědět pomocí aplikace \"Služby a zpětná vazba\"."</string>
     <string name="help_page_text_55_global">"Pokud se nemůžete připojit k síti, ujistěte se, že externí monitor podporuje funkci Miracast a že je tato funkce zapnuta. Na některých modelech zařízení může být tato funkce nazývána Bezdrátový displej, Zrcadlení obrazu nebo Multi displej.
 4. Pokud narazíte na jakýkoli problém, dejte nám vědět pomocí aplikace \"Služby a zpětná vazba\"."</string>
-    <string name="help_page_text_end">Pokud značka vašeho televizoru není na tomto seznamu, pro více informací o přenosu obrazu kontaktujte výrobce zařízení.</string>  
+  <string name="help_page_text_end">Pokud značka vašeho televizoru není na tomto seznamu, pro více informací o přenosu obrazu kontaktujte výrobce zařízení.</string>
+  <string name="dialog_scan_message">"1. Připojte telefon a TV na stejnou Wi-Fi síť.
+
+2. Na některých modelech TV je potřeba povolit zrcadlení obrazu v nastaveních."</string>
+  <string name="dialog_scan_message_china">"1. Připojte telefon a TV na stejnou Wi-Fi síť.
+
+2. Na některých modelech TV je potřeba povolit zrcadlení obrazu v nastaveních."</string>    
+  <string name="enable_screen_projection_summary">Vysílat obsah displeje na externí monitor</strinng>	
 </resources>

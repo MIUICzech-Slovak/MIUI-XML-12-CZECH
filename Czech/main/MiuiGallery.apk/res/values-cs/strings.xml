@@ -1917,4 +1917,26 @@
   <string name="album_tab_page_switch_view_style_to_grid">Mřížka</string>
   <string name="album_tab_page_switch_view_style_to_linear">Seznam</string>
   <string name="picker_title_format_video">Vyberte videa (%1$d)</string>
+  <string name="burst_save_video">Uložit jako video</string>
+  <string name="burst_save_video_fail">Nebylo možné uložit</string>
+  <string name="burst_save_video_progerss">Vytváření videa...</string>
+  <string name="burst_save_video_title">Rozlišení videa</string>
+  <string name="filter_category_classic">Klasické</string>
+  <string name="filter_category_popular">Populární</string>
+  <string name="filter_popular_humanity">Dokumentární</string>
+  <string name="filter_popular_lnk">Atrament</string>
+  <string name="filter_popular_purple">Fialový</string>
+  <string name="filter_portrait_greyish">Popel</string>
+  <string name="filter_portrait_mist">Mlha</string>
+  <string name="filter_portrait_painting">Malba</string>
+  <string name="loading_text_format" formatted="false">Odstraňování citlivých informací z fotografie (%d/%d)…</string>
+  <string name="screen_editor_btn_shell_off">Odstranit rám zařízení</string>
+  <string name="screen_editor_btn_shell_on">Přidat rám zařízení</string>
+  <string name="screen_editor_crop_disallowed_with_shell">Není možné ořezat screenshot s rámem zařízení</string>
+  <string name="screen_editor_shell_disallowed_with_crop">Není možné přidat rám zařízení k ořezaným screenshotům</string>
+  <string name="screen_editor_shell_net_error">Připojte se k síti pro stáhnutí rámu zařízení</string>
+  <string name="screen_editor_shell_res_downloading">Stahování rámu...</string>
+  <string name="screen_editor_shell_storage_insufficient">Není možné stáhnout</string>
+  <string name="time_burst_photo_enter">Načasované dávkové snímání</string>
+  <string name="time_burst_preview_title">Načasované dávkové snímání</string>
 </resources>

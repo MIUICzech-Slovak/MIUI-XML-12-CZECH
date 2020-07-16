@@ -526,6 +526,41 @@
   <string name="common_home_search_delete">Odstranit lištu vyhledávání z plochy</string>
   <string name="launcher_slide_up_search_provider_title">Poskytovatel vyhledávání gesta nahoru</string>  
   <string name="launcher_search_bar_provider_title">Poskytovatel vyhledávání na ploše</string>
+  <string name="navigation_type_full_screen">Gesta</string>
+  <string name="navigation_type_title">Ovládání</string>
+  <string name="navigation_type_virtual_key">Tlačítka</string>  
+  <string name="fsg_mistake_touch_summary">V některých situacích jako např. hry a videa, musí být gesta vykonány 2x</string>
+  <string name="fsg_mistake_touch_title">Dvojité použití gest</string>
+  <string name="navigation_guide_app_quick_switch_hide_line_summary">Potáhněte ze zdola nahoru, a dále vlevo nebo vpravo</string>
+  <string name="navigation_guide_app_quick_switch_summary">Potáhněte vlevo nebo vpravo z indikátoru nebo zespodu displeje</string>
+  <string name="navigation_guide_app_quick_switch_title">Přepínání mezi aplikacemi</string>
+  <string name="navigation_guide_gesture_line_dialog_summary">Po skrytí indikátoru celého displeje bude pro přepínání aplikací použito nové gesto. Chcete se ho naučit?</string>
+  <string name="navigation_guide_gesture_line_dialog_title">Naučte se nové gesto</string>
+  <string name="navigation_guide_hide_gesture_line_summary">Nezobrazovat indikátor celého displeje při ovládání gesty</string>
+  <string name="navigation_guide_hide_gesture_line_title">Skrýt indikátor</string>
+  <string name="navigation_guide_app_summary">Potáhněte vlevo nebo vpravo z hrany v horní části displeje</string>
+  <string name="navigation_guide_app_title">Vyvolat akci aplikace</string>
+  <string name="navigation_guide_appswitch_anim_summary">Potáhněte prstem od hrany pro přepnutí aplikací</string>
+  <string name="navigation_guide_appswitch_anim_title">Přepnout na předchozí aplikaci</string>
+  <string name="navigation_guide_appswitch_click">Nejprve povolte \"Přepnout na předch. apl.\"</string>
+  <string name="navigation_guide_appswitch_summary">Posuňte prstem vpravo nebo vlevo od hrany displeje a chvíli podržte</string>
+  <string name="navigation_guide_appswitch_title">Přepnout na předchozí aplikaci</string>
+  <string name="navigation_guide_back_anim_summary">Gesto Zpět s animací</string>
+  <string name="navigation_guide_back_anim_title">Animace gesta Zpět</string>
+  <string name="navigation_guide_back_summary">Potáhněte vlevo nebo vpravo</string>
+  <string name="navigation_guide_back_title">Zpět na předchozí stránku</string>
+  <string name="navigation_guide_dialog_dont_show_again">Více nezobrazovat</string>
+  <string name="navigation_guide_dialog_ok">Naučit se</string>
+  <string name="navigation_guide_dialog_skip">Přeskočit</string>
+  <string name="navigation_guide_dialog_summary">Použít gesta namísto tlačítek.</string>
+  <string name="navigation_guide_dialog_title">Ukázat gesta</string>
+  <string name="navigation_guide_home_summary">Potáhněte nahoru</string>
+  <string name="navigation_guide_home_title">Zpět na domácí obrazovku</string>
+  <string name="navigation_guide_recent_summary">Potáhněte nahoru a zastavte na 1s</string>
+  <string name="navigation_guide_recent_title">Nedávné</string>
+  <string name="navigation_guide_settings">Lekce</string>
+  <string name="switch_screen_button_order">Přepnout pořadí tlačítek</string>
+  <string name="switch_screen_button_order_desc">Gesto posunutím dolů ukryje tlačítka</string>
 </resources>
 
 

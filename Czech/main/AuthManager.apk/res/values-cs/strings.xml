@@ -376,4 +376,8 @@
      <string name="permission_group_title_sensitive_privacy_related">Citlivá povolení</string>
      <string name="permission_list_include">"Včetně následujících:
 "</string>
+  <string name="perm_action_allow">Povolit</string>
+  <string name="perm_action_deny">Nikdy</string>
+  <string name="perm_modem_location">Přístup k vaší poloze</string>
+  <string name="perm_modem_location_desc">Váš operátor se pokouší o přístup k vaší poloze. Chcete pro operátora povolit informace o poloze?</string>
 </resources>

@@ -191,4 +191,11 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="app_record">Nahrávky aplikace</string>
   <string name="app_record_preference_title">Nahrávky aplikace</string>
   <string name="record_list_app">Nahrávky aplikace</string>
+  <string name="recovery">Obnovit</string>
+  <string name="recovery_failed_dialog_button">Rozumím</string>
+  <string name="recovery_failed_dialog_title">Upozornění</string>
+  <string name="save_record_dialog_title">Uložit nahrávky</string>
+  <string name="trash_box">Nedávno vymazané položky</string>
+  <string name="trash_box_close_tip">Zavřít</string>
+  <string name="trash_box_delete_all">Vymazat všechny položky z koše?</string>
 </resources>

@@ -425,5 +425,7 @@
   <string name="common_timer_selector">Vybrat časovač</string>
   <string name="stopwatch_reset_notification">Stopky byly obnoveny</string>
   <string name="stopwatch_running_notification">Stopky</string>
-  <string name="white_noise_selector">Vybrat zvuk</string>  
+  <string name="white_noise_selector">Vybrat zvuk</string>
+  <string name="alert_vibrate_enable_summary">Vibrovat po ukončení budíku</string>
+  <string name="ringtone_more">Ostatní</string>  
 </resources>
