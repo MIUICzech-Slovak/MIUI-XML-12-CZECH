@@ -380,7 +380,7 @@
   <string name="wake_up_ringtone">Zvonění budíku</string>
   <string name="wake_up_time">Probuďte se</string>
   <string name="alert_ringtone">Zvonění budíku</string>
-  <string name="alert_volume">Hlasitosť zvonenia</string>
+  <string name="alert_volume">Hlasitost zvonění</string>
   <string name="alert_volume_summary">Nastavit hlasitost zvonění pro budíky a časovač</string>
   <string name="auto_silence_summary">Nastavit čas po kterém budou budíky a časovač stišeny</string>
   <string name="edit_label">Upravit název budíku</string>
