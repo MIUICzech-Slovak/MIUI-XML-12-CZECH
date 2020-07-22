@@ -6575,6 +6575,10 @@ Před použitím našich služeb si přečtěte a souhlaste s našimi %s."</stri
   <string name="bluetooth_unlock_unsupport">Nepodporovaná verze</string>
   <string name="location_modem_summary">Operátoři získají informace o vaší poloze</string>
   <string name="location_modem_title">sdílet informace o poloze s vaším operátorem</string>
-  <string name="permission_action_prompt">Zeptat se</string>  
+  <string name="permission_action_prompt">Zeptat se</string>
+  <string name="accessibility_settings_tabs_general">Všeobecné</string>
+  <string name="accessibility_settings_tabs_hearing">Sluch</string>
+  <string name="accessibility_settings_tabs_physical">Fyzické</string>
+  <string name="accessibility_settings_tabs_visual">Zrak</string>
 </resources>
 
