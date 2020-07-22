@@ -725,4 +725,23 @@ Aktualizovat nyní?"</string>
     <string name="write_strorage_perm_description">Pro uložení informací o problémech, se kterými se setkáte</string>
     <string name="year">Rok</string>
     <string name="yesterday">Včera</string>
+    <string name="added_data_source">Přidané zdroje</string>
+    <string name="current_phone">Toto zařízení</string>
+    <string name="health_cloud_service">Cloudové služby</string>
+    <string name="health_data_cloud_sync_subtitle">Synchronizujte svá zdravotní data s cloudem a přistupujte k nim z jakéhokoli zařízení</string>
+    <string name="health_data_cloud_sync_title">Synchronizace s cloudem</string>
+    <string name="health_setting">Zdravotní nastavení</string>
+    <string name="medical_file_desc1">Důležité lékařské informace nezbytné v případě nouze</string>
+    <string name="medical_file_desc2">Zaznamenejte základní informace o svém zdraví, abyste je mohli v případě nouze ukázat poskytovatelům zdravotní péče.</string>
+    <string name="medical_file_desc3">Xiaomi Zdraví respektuje vaše soukromí a všechny informace uloží lokálně, aniž by je shromažďovala, ukládala nebo nahrávala jinde.</string>
+    <string name="medical_first_aid_files">Pohotovostní lékařské ID</string>
+    <string name="manual_input">Zadejte ručně</string>
+    <string name="my_data_source">Zdroje dat</string>
+    <string name="setting_data_cloud_sync_tip">Pomocí této funkce můžete zálohovat položky z tohoto zařízení a synchronizovat údaje o stavu z jiných zařízení</string>
+    <string name="sync_status">Stav synchronizace</string>
+    <string name="sync_status_failure_retry">"Nelze synchronizovat. Zkuste to znovu později."</string>
+    <string name="sync_status_in_progress">Synchronizování…</string>
+    <string name="sync_status_network_failure">"Nelze synchronizovat.  Připojte se k síti a zkuste to znovu."</string>
+    <string name="sync_status_never_done">Nesynchronizováno</string>
+    <string name="sync_status_oauth_error">"Nelze synchronizovat data.  Nejprve udělte požadovaná oprávnění."</string>
 </resources>
