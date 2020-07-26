@@ -439,6 +439,8 @@ Pro aktivaci této služby bude odeslána bežná SMS."</string>
   <string name="mx_stranger_recommend_msg">Dotykem zablokujete Mi zprávy z neznámých čísel</string>
   <string name="mx_type_guide">Cloudové zprávy umožňují MIUI odesílat zdarma SMS přes Wi-Fi nebo mobilní data</string>
   <string name="need_download">Čekání na synchr...</string>
+  <string name="net_sms_subscribed">Úspěšné přihlášení</string>
+  <string name="net_sms_unsubscribe">Úspěšné odhlášení</string>
   <string name="network_error_description">Chyba sítě. Zkuste to znova později.</string>
   <string name="networking_allow_continue">OK</string>
   <string name="networking_allow_desc">Cloudové zprávy vyžadují přístup k internetu pro jejich správné fungování.</string>
