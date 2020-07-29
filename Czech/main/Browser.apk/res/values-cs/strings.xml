@@ -1159,4 +1159,12 @@ Chcete opustit tuto stránku?"</string>
   <string name="mw_save_password_never">Nikdy</string>
   <string name="mw_save_password_notnow">Teď ne</string>
   <string name="mw_save_password_remember">Zapamatovat si</string>
+  <string name="security_permission_desc_get_accounts">Pro přihlášení a správu systémového účtu</string>
+  <string name="security_permission_desc_read_phone">Pro přístup k IMEI za účelem identifikace vašeho zařízení</string>
+  <string name="security_permission_desc_storage">Pro přístup, ukládání, nahrávání a stahování obrázků a dalších souborů</string>
+  <string name="security_permission_main_purpose">Procházení webu, vyhledávání, čtení knih a zpráv, sledování videí atd.</string>
+  <string name="security_permission_message_location">"Tato aplikace potřebuje přístup k vaší poloze, aby mohla poskytovat služby založené na poloze. Pokud nebudete souhlasit s udělením těchto oprávnění, nebudete moci používat některé funkce této aplikace, jeho základní funkce však bude stále k dispozici. V Nastavení můžete vždy omezit oprávnění nebo zrušit autorizaci."</string>
+  <string name="security_permission_negative_btn_location">Zrušit</string>
+  <string name="security_permission_positive_btn_location">Souhlasím</string>
+  <string name="security_permission_title_location">Povolit přístup k vaší poloze</string>
 </resources>
