@@ -247,4 +247,10 @@ Zadejte město manuálně"</string>
   <string name="request_cta_connect_net">Povolte této aplikaci připojení na internet a požadovaná povolení.</string>
   <string name="widget_cta_not_agree">Dotkněte se pro info o počasí</string>
   <string name="minute_rain">Předpověď srážek</string>
+  <string name="settings_atmospheric_pressure_atm">Standardní atmosféra (atm)</string>
+  <string name="settings_atmospheric_pressure_hpa">Hektopascal (hPa)</string>
+  <string name="settings_atmospheric_pressure_inhg">Palec rtuti (inHg)</string>
+  <string name="settings_atmospheric_pressure_mbar">Milibar (mbar)</string>
+  <string name="settings_atmospheric_pressure_mmhg">Milimetr rtuti (mmHg)</string>
+  <string name="settings_atmospheric_pressure_title">Atmosférické tlakové jednotky</string>
 </resources>
