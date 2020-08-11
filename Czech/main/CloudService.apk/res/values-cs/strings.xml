@@ -885,4 +885,5 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
   <string name="find_device_status_title_phone">Vyhledat zařízení</string>
   <string name="send_last_location_summary">Synch. informace o poloze když se zařízení vypíná</string>
   <string name="send_last_location_title">Získat polohu před vypnutím</string>
+  <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
 </resources>

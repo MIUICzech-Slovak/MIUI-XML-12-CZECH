@@ -1752,4 +1752,6 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="smart_dual_sim_prompt">Vaše zařízení se připojí k mobilním datům pomocí druhé SIM karty pokud je na této SIM slabý signál.</string>
   <string name="smart_dual_sim_summary">Připojit k mobilním datům pomocí druhé SIM karty pokud je na této SIM slabý signál. Pokud se signál zlepší, mobilní data se přepnout napůvodní SIM kartu.</string>
   <string name="smart_dual_sim_title">Inteligentní dual SIM</string>
+  <string name="smart_dual_sim_prompt_ok">Nastavení</string>
+  <string name="smart_dual_sim_prompt_title">Upozornění na spotřebu dat (SIM %s)</string>
 </resources>

@@ -731,4 +731,15 @@ Velikost: %2$s"</string>
 Velikost delta aktualizace: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Aplikace %1$s aktualizována!</string>
     <string name="year" />
+    <string name="investment_invalid_duration">Trvání investice musí být víc než nula</string>
+    <string name="investment_type_once">Jednorázová</string>
+    <string name="investment_type_recurring">Opakovaně</string>
+    <string name="item_page_title_investment">Výpočet investice</string>
+    <string name="item_title_investment">Investice</string>
+    <string name="label_investment_duration">Trvání</string>
+    <string name="label_total_investment">Celková investici</string>
+    <string name="label_total_value">Celková hodnota</string>
+    <string name="tv_recurrence_monthly">Měsíčně</string>
+    <string name="tv_recurrence_quaterly">Čtvrtletně</string>
+    <string name="tv_recurrence_yearly">Ročně</string>
 </resources>

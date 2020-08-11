@@ -1407,6 +1407,9 @@ Vyberte si z následujících možností:</string>
   <string name="wednesday">Středa</string>
   <string name="wednesday_short">Stř</string>
   <string name="wednesday_shortest">S</string>
+  <string name="theme_dialog_confirm_button">Rozumím</string>
+  <string name="theme_dialog_confirm_content">Tato verze Kontaktů nepodporuje aktuálně nastavený vzhled.</string>
+  <string name="theme_dialog_confirm_title">Není možné použít téma</string>
 </resources>
 
 

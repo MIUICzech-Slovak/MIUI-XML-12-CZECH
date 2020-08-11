@@ -2737,7 +2737,7 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="st_call_settings">Ignorování hovorů</string>
   <string name="st_call_stranger_group">Hovory z neznámých čísel</string>
   <string name="st_common_setting_group">Nastavení filtrování</string>
-  <string name="st_confirm_dialog_btn_open">Otevřít</string>
+  <string name="st_confirm_dialog_btn_open">Blokovat</string>
   <string name="st_confirm_dialog_summary_contact_call">Upozornění! Všechny hovory od kontaktů budou ignorovány.</string>
   <string name="st_confirm_dialog_summary_oversea_call">Blokovat příchozí hovory ze zahraničí.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Upozornění! Všechny hovory z neznámých čísel budou ignorovány.</string>

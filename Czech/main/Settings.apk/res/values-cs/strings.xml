@@ -6580,5 +6580,18 @@ Před použitím našich služeb si přečtěte a souhlaste s našimi %s."</stri
   <string name="accessibility_settings_tabs_hearing">Sluch</string>
   <string name="accessibility_settings_tabs_physical">Fyzické</string>
   <string name="accessibility_settings_tabs_visual">Zrak</string>
+  <string name="app_function">Funkce aplikace</string>
+  <string name="forget_passpoint_wifi_message">Vaše zařízení sa přestane automaticky připojovat k této Wi-Fi síti.</string>
+  <string name="input_method_function_switch_keyboard_language">Přepnout jazyky</string>
+  <string name="input_method_function_switch_keyboard_language_des">Dotykem přepněte jazyk</string>
+  <string name="input_method_function_switch_keyboard_type">Přepnout klávesnice</string>
+  <string name="input_method_function_switch_keyboard_type_des">Dotykem přepněte mezi různými klávesnicemi</string>
+  <string name="passpoint_r1_privacy_dialog_message">"Passpoint je spolehlivá a bezpečná technologie bezdrátového připojení, kterou uvedla síť Wi-Fi Alliance. Automaticky konfiguruje účty, aby se dosáhlo bezproblémového spojení mezi sítěmi Wi-Fi a mobilními zařízeními.
+
+Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registraci účtu. Vaše údaje zpracujeme v souladu s naší %s."</string>
+  <string name="passpoint_r1_privacy_dialog_no">Zrušit</string>
+  <string name="passpoint_r1_privacy_dialog_title">Upozornění</string>
+  <string name="passpoint_r1_privacy_dialog_url_text">Ochranou soukromí</string>
+  <string name="passpoint_r1_privacy_dialog_yes">Souhlasím</string>
 </resources>
 
