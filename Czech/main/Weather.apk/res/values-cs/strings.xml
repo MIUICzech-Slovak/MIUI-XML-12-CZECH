@@ -253,4 +253,8 @@ Zadejte město manuálně"</string>
   <string name="settings_atmospheric_pressure_mbar">Milibar (mbar)</string>
   <string name="settings_atmospheric_pressure_mmhg">Milimetr rtuti (mmHg)</string>
   <string name="settings_atmospheric_pressure_title">Atmosférické tlakové jednotky</string>
+  <string name="indices_title_chance_of_rain">Možnost deště</string>
+  <string name="indices_title_wind_speed">Rychlost větru</string>
+  <string name="international_details_chance_of_rain">MOŽNOST DEŠTĚ</string>
+  <string name="international_details_humidity">VLHKOST VZDUCHU</string>
 </resources>
