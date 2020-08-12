@@ -6593,5 +6593,20 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
   <string name="passpoint_r1_privacy_dialog_title">Upozornění</string>
   <string name="passpoint_r1_privacy_dialog_url_text">Ochranou soukromí</string>
   <string name="passpoint_r1_privacy_dialog_yes">Souhlasím</string>
+  <string name="app_enable_bluetooth_record">Aplikace které zapínají Bluetooth</string>
+  <string name="back_double_tap">Dvojité poklepání</string>
+  <string name="back_tap">Poklepání</string>
+  <string name="back_triple_tap">Trojité poklepání</string>
+  <string name="bluetooth_unlock_settings_devices_prompt">Jsou podporované pouze vybrané Bluetooth zařízení (např. MiBand a MiWatch)</string>
+  <string name="bt_absVolume_open_dialog_summary">Kvůli problémům s kompatibilitou, mohou mít některé Bluetooth zařízení nesprávnou úroveň hlasitosti, to může být vyřešeno vypnutím této funkce.</string>
+  <string name="bt_absVolume_open_dialog_title">Upozornění</string>
+  <string name="bt_absVolume_pre_title">Absolutní hlasitost</string>
+  <string name="bt_absVolume_summary">Ponechat hlasitost Bluetooth zařízení a telefonu na stejné úrovni</string>
+  <string name="custom_gesture_title">Vlastní gesta</string>
+  <string name="device_opcust_version">Současná verze</string>
+  <string name="launch_calculator">Kalkulačka</string>
+  <string name="launch_control_center">Ovládače</string>
+  <string name="launch_notification_center">Roletka</string>
+  <string name="mute">Tichý režim</string>
 </resources>
 
