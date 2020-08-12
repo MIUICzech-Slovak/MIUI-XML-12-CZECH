@@ -71,5 +71,8 @@ Nahlašte tento problém &gt;"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
   <string name="back">Zpět</string>
+  <string name="float_notifications_short">Plovoucí</string>
+  <string name="lockscreen_notifications_short">Zamknutá obrazovka</string>
+  <string name="show_badge_notifications_short">Bubliny</string>
 </resources>
 

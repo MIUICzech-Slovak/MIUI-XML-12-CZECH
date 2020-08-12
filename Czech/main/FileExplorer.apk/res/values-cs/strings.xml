@@ -763,5 +763,10 @@ Bylo přičteno dalších %1$s"</string>
   <string name="rename_msg">Soubor s tímto názvem \"%s\" už existuje.</string>
   <string name="replace">Nahradit</string>
   <string name="skip">Přeskočit</string>
-  <string name="use_to_all">Použít na všechno</string>  
+  <string name="use_to_all">Použít na všechno</string>
+  <string name="drag_not_support_with_dir">Není možné přesouvat složky</string>
+  <string name="save_file_to_mishare">Uložené</string>
+  <string name="app_all_purpose">Vítejte v aplikaci Soubory!</string>
+  <string name="aggree_desc">Povolte této aplikaci připojení k síti a požadovaná povolení.</string>
+  <string name="optional_change_wifi">Pro správu souborů přes Wi-Fi</string>  
 </resources>

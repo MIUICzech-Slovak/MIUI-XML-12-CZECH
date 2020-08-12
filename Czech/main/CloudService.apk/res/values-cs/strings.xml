@@ -886,4 +886,6 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
   <string name="send_last_location_summary">Synch. informace o poloze když se zařízení vypíná</string>
   <string name="send_last_location_title">Získat polohu před vypnutím</string>
   <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
+  <string name="storage_manage_cloud_data_title">Zobrazit položky v cloudu</string>
+  <string name="storage_manage_normal_summary">Zmenit předplatné</string>
 </resources>

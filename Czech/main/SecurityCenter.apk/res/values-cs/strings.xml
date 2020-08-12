@@ -1701,7 +1701,7 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="menu_summary_garbage_cleanup">Žádný odpad</string>
   <string name="menu_summary_garbage_cleanup_2">Odpad</string>
   <string name="menu_summary_garbage_cleanup_3">Vyčistit odpad</string>
-  <string name="menu_summary_garbage_cleanup_ex">Vyčistit %s odpadu</string>
+  <string name="menu_summary_garbage_cleanup_ex">Vyčistit %s</string>
   <string name="menu_summary_networkassistants">Správa mobilních dat</string>
   <string name="menu_summary_networkassistants_2">Limit překročen</string>
   <string name="menu_summary_networkassistants_3">Dostatek dat</string>
@@ -4039,6 +4039,7 @@ z vašeho hraní her"</string>
   <string name="settings_tip">Galerie &gt; Nastavení</string>
   <string name="settings_title">Bezpečné sdílení</string>
   <string name="text_security">Soukromí</string>
-  <string name="gb_storage_game_uninstall">Odinstalování her</string>  
+  <string name="gb_storage_game_uninstall">Odinstalování her</string>
+  <string name="menu_summary_garbage_cleanup_new">%d%% z úložiště</string>  
 </resources>
   

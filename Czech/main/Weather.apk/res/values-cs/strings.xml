@@ -59,7 +59,7 @@
   <string name="daily_forecast_detail_date">d.M.</string>
   <string name="daily_forecast_no_data">"Načítání dat selhalo.
   Manuálně potáhněte dolů pro obnovení dat o počasí"</string>
-  <string name="data_provided_by"/>
+  <string name="data_provided_by">"Data poskytuje "</string>
   <string name="edit_alert_city_title">Spravovat varování</string>
   <string name="edit_city">Upravit</string>
   <string name="empty_view_net_loading">Aktualizace...</string>
@@ -109,11 +109,11 @@
   <string name="information_settings_title">Info o Počasí</string>
   <string name="install">Instalovat</string>
   <string name="international_detail_menu_title">Podrobnosti</string>
-  <string name="international_details_pressure_title">Tlak</string>
-  <string name="international_details_real_feel_title">"Pocitově "</string>
+  <string name="international_details_pressure_title">TLAK</string>
+  <string name="international_details_real_feel_title">POCITOVĚ</string>
   <string name="international_details_title">Podrobnosti</string>
-  <string name="international_details_uv_index_title">UV Index</string>
-  <string name="international_details_wind_title">Vítr</string>
+  <string name="international_details_uv_index_title">UV INDEX</string>
+  <string name="international_details_wind_title">VÍTR</string>
   <string name="international_version_first_start_network_msg">Používáním této aplikace souhlasíte s Xiaomi %1$s a %2$s. Tato aplikace využívá připojení na internet.</string>
   <string name="it_is_going_to_rain">Bude pršet</string>
   <string name="locate_fail_detail_err">"Nelze najít Vaši polohu.
@@ -257,4 +257,5 @@ Zadejte město manuálně"</string>
   <string name="indices_title_wind_speed">Rychlost větru</string>
   <string name="international_details_chance_of_rain">MOŽNOST DEŠTĚ</string>
   <string name="international_details_humidity">VLHKOST VZDUCHU</string>
-</resources>
+  <string name="international_details_humidity_title">VLHKOST</string>
+ </resources>
