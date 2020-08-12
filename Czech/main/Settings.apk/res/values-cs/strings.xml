@@ -6617,5 +6617,6 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
   <string name="gesture_settings_title">Zkratky gesty</string>
   <string name="key_combination_power_volume_down">Hlasitost dolů + Zapínání</string>
   <string name="long_press_power_key_half_second">Stlačte a podržte tlačítko Zapínání 0.5 sekundy</string>
+  <string name="sim_card_lock">Stav SIM karty</string>
+  <string name="smart_home_title">SmartHome</string>
 </resources>
-

@@ -28,7 +28,7 @@ dd.M"</string>
      <string name="super_wallpaper_setting_view_height_title">Nadmořská výška</string>
      <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
      <string name="wallpaper_setting_find_more_text">Více online tapet</string>
-     <string name="wallpaper_setting_home_wallpaper_banner_button_text">Domácí ploha</string>
+     <string name="wallpaper_setting_home_wallpaper_banner_button_text">Domácí plocha</string>
      <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Zámek</string>
      <string name="wallpaper_setting_online_wallpaper_actionbar_title">Online tapety</string>
      <string name="wallpaper_setting_online_wallpaper_none_title">Objevte tapety</string>
@@ -42,5 +42,6 @@ dd.M"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>     
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
+  <string name="title_system_wallpaper_resource">Systémové tapety</string>     
 </resources>
