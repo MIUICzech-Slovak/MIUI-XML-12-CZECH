@@ -1964,6 +1964,7 @@
   <string name="ocr_using_cellular_positive">Zrušit</string>
   <string name="ocr_using_cellular_text">Rozpoznávání textu pomocí mobilních dat může být operátorem zpoplatněno. Přesto pokračovat?</string>
   <string name="operation_hide_time">Skrýt datum</string>
+  <string name="operation_move">Přesunout</string>
   <string name="operation_show_time">Zobrazit datum</string>
   <string name="operation_sort">Seřadit</string>
 </resources>
