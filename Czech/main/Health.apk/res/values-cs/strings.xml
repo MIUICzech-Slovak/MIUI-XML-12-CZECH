@@ -1271,4 +1271,22 @@ Velikost: %2$s"</string>
 Velikost aktualizace Delta: %2$s"</string>
      <string name="xiaomi_update_sdk_dialog_title">%1$s aktualizace!</string>
      <string name="xiaomi_update_sdk_external_storage_unavailable">Úložiště není k dispozici, zkontrolujte kartu SD.</string>
+     <string name="heart_rate">Tepová frekvence</string>
+     <string name="hr_heart_rate_unit">Tepová frekvence (BPM)</string>
+     <string name="hr_input_heart_rate">Záznam tepové frekvence</string>
+     <string name="hr_state">Stav</string>
+     <string name="hr_state_active">Aktivní</string>
+     <string name="hr_state_fast">Rychlá</string>
+     <string name="hr_state_normal">Normální</string>
+     <string name="hr_state_regular">Pravidelná</string>
+     <string name="hr_state_resting">Klidová</string>
+     <string name="hr_state_slow">Pomalá</string>
+     <string name="resting_heart_rate">Klidová tepová frekvence</string>
+     <string name="resting_heart_rate_desc">Normální srdeční frekvence u dospělých v klidu se pohybuje od 60 do 100 tepů za minutu. Může se lišit v závislosti na věku, pohlaví a dalších faktorech.</string>
+     <string name="tb_heart_rate_max_min">Tepová frekvence. Nejvyšší: %1$d. Nejnižší: %2$d.</string>
+     <string name="tb_home_heart_rate_card">Tepová frekvence. %1$d tepů za minutu. Zaznamenáno %2$s.</string>
+     <string name="tb_home_heart_rate_card_no_data">Tepová frekvence. Žádná data.</string>
+     <string name="tb_range">Z %1$s na %2$s</string>
+     <string name="tb_resting_heart_rate_avg">Průměrná klidová srdeční frekvence: %1$d. Stav: %2$s.</string>
+     <string name="tb_resting_heart_rate_avg2">Průměrná klidová srdeční frekvence. Nejvyšší: %1$d. Nejnižší: %2$d.</string>
 </resources>
