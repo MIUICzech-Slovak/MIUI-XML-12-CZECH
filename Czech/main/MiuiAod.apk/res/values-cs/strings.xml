@@ -156,7 +156,7 @@ N e"</string>
   <string name="component_step">Kroky</string>
   <string name="continue_to_use">Pokračovat</string>
   <string name="step_component_info_active_tip">Počet kroků je poskytován aplikací Mi Zdraví.</string>
-  <string name="step_component_info_desc">Počet kroků sa po dosažení cíle změní na trofej.</string>
+  <string name="step_component_info_desc">Počet kroků se po dosažení cíle změní na trofej.</string>
   <string name="step_component_info_tip">Počet kroků je poskytován aplikací Mi Zdraví. Nainstalujte nebo aktualizujte aplikaci Mi Zdraví.</string>
 </resources>
 
