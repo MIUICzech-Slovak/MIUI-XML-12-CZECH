@@ -658,6 +658,30 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="system_cta_runtime_perm_desc_get_accounts">Pro přístup k IMEI a poskytování služeb stahování</string>
   <string name="system_cta_runtime_perm_desc_read_phone_state">Přístup k ID zařízení pro identifikaci zařízení</string>
   <string name="system_cta_runtime_perm_desc_storage">Pro ukládání stažených témat a dalších položek</string>
+  <string name="anonymous_resource_link_error">Nebylo možné přidat</string>
+  <string name="anonymous_resource_link_hint">Některé položky nejsou přidány do vašeho účtu. Přidat nyní?</string>
+  <string name="anonymous_resource_link_now">Přidat</string>
+  <string name="anonymous_resource_link_retry">Nastala chyba. Zkuste to znova.</string>
+  <string name="anonymous_resource_link_retry_cancel">Zrušit</string>
+  <string name="anonymous_resource_link_retry_confirm">Znova</string>
+  <string name="anonymous_resource_link_success">Přidáno</string>
+  <string name="anonymous_resource_linking">Přidávání...</string>
+  <string name="anonymous_resource_login_confirm">Přihlásit se</string>
+  <string name="anonymous_resource_login_title">Nejprve se přihlašte</string>
+  <string name="anonymous_resource_unlink">Ne</string>
+  <string name="anonymous_resource_unlink_cancel">Zrušit</string>
+  <string name="anonymous_resource_unlink_confirm">Nepřidávat</string>
+  <string name="anonymous_resource_unlink_hint">Pokud položky nepřidáte, nebudou spárovány s vaším účtem.</string>
+  <string name="anonymous_resource_unlink_title">Potvrďte vaší akci</string>
+  <string name="miuix_compat_contact">Kontakty</string>
+  <string name="miuix_compat_dialog_button">Rozumím</string>
+  <string name="miuix_compat_dialog_cancel">Zrušit</string>
+  <string name="miuix_compat_dialog_checkbox">Více nezobrazovat</string>
+  <string name="miuix_compat_dialog_content">Současná verze \"%s\" není kompatibilní s tímto tématem.</string>
+  <string name="miuix_compat_dialog_ok">OK</string>
+  <string name="miuix_compat_dialog_title">Použito předvolené téma pro \"%s\"</string>
+  <string name="miuix_compat_dialog_update_title">Je vyžadována aktualizace</string>
+  <string name="miuix_compat_mms">Zprávy</string>
 </resources>
    
 

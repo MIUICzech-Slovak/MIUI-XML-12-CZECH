@@ -1110,5 +1110,9 @@ Postupujte dle pokynů"</item>
         <item>Proud</item>
         <item>Záře</item>
         <item>Vlna</item>
+    </string-array>    
+    <string-array name="screen_reader_mode_input_type_selector_titles">
+        <item>Dotyk</item>
+        <item>Dvojité poklepání</item>
     </string-array>
 </resources>

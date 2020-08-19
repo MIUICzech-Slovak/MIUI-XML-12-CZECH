@@ -24,5 +24,37 @@
 	    <plurals name="wallpaper_quantity">
         <item quantity="other">Obrázků: %1$d</item>
         <item quantity="one">Obrázků: %1$d</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_aod">
+        <item quantity="other">%1$d AOD</item>
+        <item quantity="one">%1$d AOD</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_font">
+        <item quantity="other">%1$d písem</item>
+        <item quantity="one">%1$d písmo</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_icon">
+        <item quantity="other">%1$d ikon</item>
+        <item quantity="one">%1$d ikona</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_theme">
+        <item quantity="other">%1$d témat</item>
+        <item quantity="one">%1$d téma</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_title">
+        <item quantity="other">Přidat %1$d položky</item>
+        <item quantity="one">Přidat %1$d položku</item>
+    </plurals>
+    <plurals name="anonymous_resource_link_success_message">
+        <item quantity="other">Přidány do vašeho účtu %1$d.</item>
+        <item quantity="one">Přidáno do vašeho účtu %1$d.</item>
+    </plurals>
+    <plurals name="anonymous_resource_login_message">
+        <item quantity="other">Můžete stáhnout jen %1$d položek bez přihlášení se.</item>
+        <item quantity="one">Můžete stáhnout jen %1$d položku bez přihlášení se.</item>
+    </plurals>
+    <plurals name="anonymous_resource_view">
+        <item quantity="other">Nepřidány %1$d položky do vašeho účtu</item>
+        <item quantity="one">Nepřidána %1$d položka do vašeho účtu</item>
     </plurals>	
 </resources>

@@ -887,5 +887,10 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
   <string name="send_last_location_title">Získat polohu před vypnutím</string>
   <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
   <string name="storage_manage_cloud_data_title">Zobrazit položky v cloudu</string>
-  <string name="storage_manage_normal_summary">Zmenit předplatné</string>
+  <string name="storage_manage_normal_summary">Změnit předplatné</string>
+  <string name="low_battery_locate_summary">Automaticky nahlásit polohu pokud je slabá baterie</string>
+  <string name="low_battery_locate_title">Nahlásit polohu pokud je slabá baterie</string>
+  <string name="power_off_locate_summary">"Nahlásit polohu dlouhým podržením tlačítka Zapínání.
+Poloha nebude odeslána pokud je slabý signál sítě."</string>
+  <string name="power_off_locate_title">Nahlásit polohu před vypnutím</string>
 </resources>
