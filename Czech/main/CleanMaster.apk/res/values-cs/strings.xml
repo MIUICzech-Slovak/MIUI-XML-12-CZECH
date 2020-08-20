@@ -29,9 +29,9 @@
   <string name="analying">Analýza...</string>
   <string name="apk_status_damage">Poškozené</string>
   <string name="apk_status_duplicate">Duplicitní</string>
-  <string name="apk_status_install">Nainstalovaná</string>
+  <string name="apk_status_install">Nainstalováno</string>
   <string name="apk_status_installed_old">Stará verze</string>
-  <string name="apk_status_uninstalled">Není nainstalována</string>
+  <string name="apk_status_uninstalled">Není nainstalováno</string>
   <string name="app_clean_group_document_recv">Přijaté soubory</string>
   <string name="app_clean_group_document_send">Odeslané soubory</string>
   <string name="app_clean_group_image_recv">Přijaté obrázky</string>
@@ -148,6 +148,8 @@
   <string name="deep_clean_uninstall_completed_tips">Odinstalováno</string>
   <string name="deepclean_1_k_clean">Čištění jedním tlačítkem</string>
   <string name="deepclean_apk_content">Vymazat APK nebo nepotřebné aplikace</string>
+  <string name="deepclean_apk_group_hint_checked">Označit vše</string>
+  <string name="deepclean_apk_group_hint_unchecked">Odznačit vše</string>
   <string name="deepclean_apk_summary_empty">Vše se zdá být v pořádku, žádné APK k vymazání.</string>
   <string name="deepclean_apk_version_error">Neznámé</string>
   <string name="deepclean_app_content">Odinstalovat aplikace nepoužívané více, než 30 dní</string>
