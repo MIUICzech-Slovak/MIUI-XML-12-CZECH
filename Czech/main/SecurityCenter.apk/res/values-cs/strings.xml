@@ -3926,6 +3926,7 @@ Pro používání tohoto ^1, to musíte nejprve připojit."</string>
 Pro používání tohoto ^1 s tímto zařízením, to musíte nejprve nastavit."</string>
      <string name="storage_format_failure">Nebylo možné formátovat %1$s</string>
      <string name="storage_format_success">Zformátované %1$s</string>
+     <string name="storage_item_apk_name">Instalační APK</string>
      <string name="storage_item_appdata_name">Aplikace a data</string>
      <string name="storage_item_audio_name">Zvuk</string>
      <string name="storage_item_clean_name">Uvolnit místo</string>
