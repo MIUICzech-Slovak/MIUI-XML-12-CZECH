@@ -2164,4 +2164,14 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="accessibility_detail_switch_disable">nedostupné</string>
   <string name="accessibility_detail_switch_off">vyp</string>
   <string name="accessibility_detail_switch_on">zap</string>
+  <string name="quick_settings_wireless_label">Reverzní bezdrátové nabíjení</string>
+  <string name="wireless_charging_connected_message">"Reverzní bezdrátové nabíjení nelze použít, když se zařízení nabíjí bezdrátově."</string>
+  <string name="wireless_charging_low_battery_level_message">"Reverzní bezdrátové nabíjení nelze použít, když je nabití baterie pod 30%"</string>
+  <string name="wireless_charging_ok">Chápu</string>
+  <string name="wireless_charging_saver_cancel">Vypnout</string>
+  <string name="wireless_charging_saver_message">Spořič baterie je nyní zapnutý. Ponechat k dispozici reverzní bezdrátové nabíjení?</string>
+  <string name="wireless_charging_saver_ok">Ponechat</string>
+  <string name="wireless_charging_tips_disable">"Znovu nezobrazovat"</string>
+  <string name="wireless_charging_tips_message">Umístěte zařízení podporující bezdrátové nabíjení Qi (telefony, příslušenství atd.) na zadní stranu tohoto zařízení.</string>
+  <string name="wireless_charging_tips_title">Reverzní bezdrátové nabíjení</string>
 </resources>

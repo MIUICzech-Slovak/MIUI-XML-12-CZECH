@@ -276,4 +276,72 @@
         <item quantity="few">%1$d roky</item>
         <item quantity="many">%1$d roku</item>
     </plurals>
+	<plurals name="a_hour_ago">
+        <item quantity="other">před 1 hodinou</item>
+     </plurals>
+     <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">před 1 hodinou</item>
+     </plurals>
+     <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Před půl hodinou</item>
+     </plurals>
+     <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za 1 hodinu</item>
+     </plurals>
+     <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Za půl hodiny</item>
+     </plurals>
+     <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Ihned</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 min</item>
+     </plurals>
+     <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Právě teď</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Před %d min</item>
+        <item quantity="one">Před 1 min</item>
+     </plurals>
+     <plurals name="birthday_format">
+        <item quantity="other">" (%1$d roků starý)"</item>
+        <item quantity="one">" (%1$d rok starý)"</item>
+     </plurals>
+     <plurals name="half_hour_ago">
+        <item quantity="other">Před půl hodinou</item>
+     </plurals>
+     <plurals name="in_a_hour">
+        <item quantity="other">Za 1 hodinu</item>
+     </plurals>
+     <plurals name="in_half_hour">
+        <item quantity="other">Za půl hodiny</item>
+     </plurals>
+     <plurals name="in_less_than_one_minute">
+        <item quantity="other">Ihned</item>
+     </plurals>
+     <plurals name="in_num_minutes">
+        <item quantity="other">za %d minut</item>
+        <item quantity="one">za 1 minutu</item>
+     </plurals>
+     <plurals name="last_measure_date_interval">
+        <item quantity="other">%1$d dny od posledního navážení</item>
+        <item quantity="one">%1$d den od posledního navážení</item>
+     </plurals>
+     <plurals name="last_measure_day_body_weight">
+        <item quantity="other">%1$d dny od posledního navážení</item>
+        <item quantity="one">%1$d den od posledního navážení</item>
+     </plurals>
+     <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Právě teď</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nová oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+     </plurals>
+     <plurals name="num_minutes_ago">
+        <item quantity="other">Před %d minutami</item>
+        <item quantity="one">Před 1 minutou</item>
+     </plurals>
 </resources>
