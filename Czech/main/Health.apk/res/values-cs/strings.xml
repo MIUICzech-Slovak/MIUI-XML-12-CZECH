@@ -87,7 +87,7 @@ přidat karty"</string>
     <string name="cancel_edit">Zrušit změny</string>
     <string name="cancel_mark_end">Měsíčky ještě nezačaly</string>
     <string name="cancel_mark_start">Smazat tento záznam</string>
-    <string name="card_on_using">Použitím</string>
+    <string name="card_on_using">Používané</string>
     <string name="certain">OK</string>
     <string name="channel_desc_background">Pro poskytování služeb na pozadí</string>
     <string name="channel_id_background_service">Služby na pozadí</string>
