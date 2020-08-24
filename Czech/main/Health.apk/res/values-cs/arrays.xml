@@ -44,17 +44,17 @@
         <item>" m/s"</item>
     </string-array>
     <string-array name="temperature_unit">
-        <item>℃</item>
+        <item>°C</item>
         <item>°F</item>
     </string-array>
     <string-array name="week">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
+        <item>Neděle</item>
+        <item>Pondělí</item>
+        <item>Úterý</item>
+        <item>Středa</item>
+        <item>Čtvrtek</item>
+        <item>Pátek</item>
+        <item>Sobota</item>
     </string-array>
     <string-array name="week_label">
         <item>Ne</item>
@@ -65,4 +65,60 @@
         <item>Pá</item>
         <item>So</item>
     </string-array>
+    <string-array name="contact_relation_array">
+        <item>Nenastaveno</item>
+        <item>Rodič</item>
+        <item>Sestra</item>
+        <item>Bratr</item>
+        <item>Manžel/Manželka</item>
+        <item>Partner/Partnerka</item>
+        <item>Přítel/Přítelkyně</item>
+        <item>Kolega/Kolegyně</item>
+        <item>Spolužák/Spolužačka</item>
+     </string-array>
+     <string-array name="gender_array">
+        <item>Nenastaveno</item>
+        <item>Mužský</item>
+        <item>Ženský</item>
+     </string-array>
+     <string-array name="normal_blood_array">
+        <item>Nenastaveno</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+     </string-array>
+     <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Pon, Stř, Pát</item>
+        <item>Úte, Čtv, Sob</item>
+        <item>Stř, Pát, Ned</item>
+     </string-array>
+     <string-array name="repeat_mode_week_array">
+        <item>Každé pondělí</item>
+        <item>Každé úterý</item>
+        <item>Každou středu</item>
+        <item>Každý čtvrtek</item>
+        <item>Každý pátek</item>
+        <item>Každou sobotu</item>
+        <item>Každou neděli</item>
+     </string-array>
+     <string-array name="rh_blood_array">
+        <item>Nenastavemo</item>
+        <item>Negativní</item>
+        <item>Pozitivní</item>
+     </string-array>
+     <string-array name="stand_guide_page_content1">
+        <item>"Posedávání neprospívá vašemu zdraví. I když nemůžete zkrátit čas, který trávíte sezením, je dobré se jednou za čas postavit."</item>
+        <item>Tato funkce vám připomene, abyste strávili alespoň 1 minutu každou hodinu stáním. Pomůže vám to vyhnout ss rizikům sedavého životního stylu.</item>
+        <item>Klepněte na \"Pokračovat\" pro dozvědět se více a tuto funkci zapnout.</item>
+     </string-array>
+     <string-array name="stand_guide_page_content2">
+        <item>Xiaomi Zdraví dokáže detekovat a zaznamenat, když vstanete. Můžete také dostávat připomenutí, aby jste se postavili po 1 hodině nečinnosti.</item>
+        <item>Tato funkce sleduje váš pohyb a na základě výsledků odesílá připomenutí.</item>
+     </string-array>
+     <string-array name="yes_no_array">
+        <item>Nenastaveno</item>
+        <item>Ano</item>
+        <item>Ne</item>
+     </string-array>
 </resources>

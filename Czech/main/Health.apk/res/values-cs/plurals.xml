@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="count_duration_standard">
-        <item quantity="other">%1$d-%2$d times</item>
-        <item quantity="one">%1$d-%2$d time</item>
-        <item quantity="few">%1$d-%2$d times</item>
-        <item quantity="many">%1$d-%2$d times</item>
+        <item quantity="other">%1$d-%2$d doby</item>
+        <item quantity="one">%1$d-%2$d doby</item>
+        <item quantity="few">%1$d-%2$d doby</item>
+        <item quantity="many">%1$d-%2$d doby</item>
     </plurals>
     <plurals name="cousume_unit_format">
         <item quantity="other">%1$d Cal</item>
@@ -13,10 +13,10 @@
         <item quantity="many">%1$d Cal</item>
     </plurals>
     <plurals name="daily_suggestions_steps">
-        <item quantity="other">Walk at least %1$d steps every day</item>
-        <item quantity="one">Walk at least %1$d step every day</item>
-        <item quantity="few">Walk at least %1$d steps every day</item>
-        <item quantity="many">Walk at least %1$d steps every day</item>
+        <item quantity="other">Ujděte alespoň %1$d kroků každý den</item>
+        <item quantity="one">Ujděte alespoň %1$d krok každý den</item>
+        <item quantity="few">Ujděte alespoň %1$d kroků každý den</item>
+        <item quantity="many">Ujděte alespoň %1$d kroků každý den</item>
     </plurals>
     <plurals name="day_index">
         <item quantity="other">%1$d dní</item>
@@ -25,16 +25,16 @@
         <item quantity="many">%1$d dne</item>
     </plurals>
     <plurals name="dialog_choose_items">
-        <item quantity="other">Selected %1$d items</item>
-        <item quantity="one">Selected %1$d item</item>
-        <item quantity="few">Selected %1$d items</item>
-        <item quantity="many">Selected %1$d items</item>
+        <item quantity="other">Vybráno %1$d položek</item>
+        <item quantity="one">Vybrána %1$d položka</item>
+        <item quantity="few">Vybrány %1$d položky</item>
+        <item quantity="many">Vybráno %1$d položek</item>
     </plurals>
     <plurals name="dialog_delete_records_confirm">
-        <item quantity="other">Delete %1$d records?</item>
-        <item quantity="one">Delete %1$d record?</item>
-        <item quantity="few">Delete %1$d records?</item>
-        <item quantity="many">Delete %1$d records?</item>
+        <item quantity="other">Smazat %1$d záznamů?</item>
+        <item quantity="one">Smazat %1$d záznam?</item>
+        <item quantity="few">Smazat %1$d záznamy?</item>
+        <item quantity="many">Smazat %1$d záznamů?</item>
     </plurals>
     <plurals name="distance_unit_kilometre">
         <item quantity="other">%1$.1f km</item>
@@ -49,58 +49,58 @@
         <item quantity="many">%1$d nahrávky</item>
     </plurals>
     <plurals name="dream_talk_segment_unit">
-        <item quantity="other">" instances"</item>
-        <item quantity="one">" instance"</item>
-        <item quantity="few">" instances"</item>
-        <item quantity="many">" instances"</item>
+        <item quantity="other">" případů"</item>
+        <item quantity="one">" případ"</item>
+        <item quantity="few">" případy"</item>
+        <item quantity="many">" případů"</item>
     </plurals>
     <plurals name="duration_unit_hour_format">
-        <item quantity="other">%1$d hrs</item>
-        <item quantity="one">%1$d hr</item>
-        <item quantity="few">%1$d hrs</item>
-        <item quantity="many">%1$d hrs</item>
+        <item quantity="other">%1$d hod.</item>
+        <item quantity="one">%1$d hod.</item>
+        <item quantity="few">%1$d hod.</item>
+        <item quantity="many">%1$d hod.</item>
     </plurals>
     <plurals name="duration_unit_minute_format">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
-        <item quantity="few">%1$d mins</item>
-        <item quantity="many">%1$d mins</item>
+        <item quantity="other">%1$d min.</item>
+        <item quantity="one">%1$d min.</item>
+        <item quantity="few">%1$d min.</item>
+        <item quantity="many">%1$d min.</item>
     </plurals>
     <plurals name="duration_unit_second_format">
-        <item quantity="other">%1$d secs</item>
-        <item quantity="one">%1$d sec</item>
-        <item quantity="few">%1$d secs</item>
-        <item quantity="many">%1$d secs</item>
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sek.</item>
+        <item quantity="few">%1$d sek.</item>
+        <item quantity="many">%1$d sek.</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">Cíl: %1$d kroků</item>
         <item quantity="one">Cíl: %1$d krok</item>
         <item quantity="few">Cíl: %1$d kroky</item>
-        <item quantity="many">Cíl: %1$d kroku</item>
+        <item quantity="many">Cíl: %1$d kroků</item>
     </plurals>
     <plurals name="goal_unit">
         <item quantity="other">" kroků"</item>
         <item quantity="one">" krok"</item>
         <item quantity="few">" kroky"</item>
-        <item quantity="many">" kroku"</item>
+        <item quantity="many">" kroků"</item>
     </plurals>
     <plurals name="goal_unit_with_number">
-        <item quantity="other">%1$d steps</item>
-        <item quantity="one">%1$d step</item>
-        <item quantity="few">%1$d steps</item>
-        <item quantity="many">%1$d steps</item>
+        <item quantity="other">%1$d kroků</item>
+        <item quantity="one">%1$d krok</item>
+        <item quantity="few">%1$d kroky</item>
+        <item quantity="many">%1$d kroků</item>
     </plurals>
     <plurals name="hours">
-        <item quantity="other">%1$d hrs</item>
-        <item quantity="one">%1$d hr</item>
-        <item quantity="few">%1$d hrs</item>
-        <item quantity="many">%1$d hrs</item>
+        <item quantity="other">%1$d hod.</item>
+        <item quantity="one">%1$d hod.</item>
+        <item quantity="few">%1$d hod.</item>
+        <item quantity="many">%1$d hod.</item>
     </plurals>
     <plurals name="length_unit_meter_format">
-        <item quantity="other">%1$d meters</item>
-        <item quantity="one">%1$d meter</item>
-        <item quantity="few">%1$d meters</item>
-        <item quantity="many">%1$d meters</item>
+        <item quantity="other">%1$d metrů</item>
+        <item quantity="one">%1$d metr</item>
+        <item quantity="few">%1$d metry</item>
+        <item quantity="many">%1$d metrů</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">%1$ddenní menstruace</item>
@@ -109,46 +109,46 @@
         <item quantity="many">%1$ddenní menstruace</item>
     </plurals>
     <plurals name="mesens_card_title_day_in_predict">
-        <item quantity="other">Day %1$d (expected)</item>
-        <item quantity="one">Day %1$d (expected)</item>
-        <item quantity="few">Day %1$d (expected)</item>
-        <item quantity="many">Day %1$d (expected)</item>
+        <item quantity="other">Den %1$d (očekávaný)</item>
+        <item quantity="one">Den %1$d (očekávaný)</item>
+        <item quantity="few">Den %1$d (očekávaný)</item>
+        <item quantity="many">Den %1$d (očekávaný)</item>
     </plurals>
     <plurals name="mesens_card_title_days">
-        <item quantity="other">Day %1$d</item>
-        <item quantity="one">Day %1$d</item>
-        <item quantity="few">Day %1$d</item>
-        <item quantity="many">Day %1$d</item>
+        <item quantity="other">Den %1$d</item>
+        <item quantity="one">Den %1$d</item>
+        <item quantity="few">Den %1$d</item>
+        <item quantity="many">Den %1$d</item>
     </plurals>
     <plurals name="mesens_card_title_predict_date">
-        <item quantity="other">Next period in %1$d days</item>
-        <item quantity="one">Next period in %1$d day</item>
-        <item quantity="few">Next period in %1$d days</item>
-        <item quantity="many">Next period in %1$d days</item>
+        <item quantity="other">Příští perioda za %1$d dní</item>
+        <item quantity="one">Příští perioda za %1$d den</item>
+        <item quantity="few">Příští perioda za %1$d dny</item>
+        <item quantity="many">Příští perioda za %1$d dní</item>
     </plurals>
     <plurals name="minutes">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
-        <item quantity="few">%1$d mins</item>
-        <item quantity="many">%1$d mins</item>
+        <item quantity="other">%1$d min.</item>
+        <item quantity="one">%1$d min.</item>
+        <item quantity="few">%1$d min.</item>
+        <item quantity="many">%1$d min.</item>
     </plurals>
     <plurals name="minutes_ago">
-        <item quantity="other">%1$d mins ago</item>
-        <item quantity="one">%1$d min ago</item>
-        <item quantity="few">%1$d mins ago</item>
-        <item quantity="many">%1$d mins ago</item>
+        <item quantity="other">%1$d min. před</item>
+        <item quantity="one">%1$d min. před</item>
+        <item quantity="few">%1$d min. před</item>
+        <item quantity="many">%1$d min. před</item>
     </plurals>
     <plurals name="sleep_goal_by_hour">
-        <item quantity="other">Goal: %1$d hours</item>
-        <item quantity="one">Goal: %1$d hour</item>
-        <item quantity="few">Goal: %1$d hours</item>
-        <item quantity="many">Goal: %1$d hours</item>
+        <item quantity="other">Cíl: %1$d hod.</item>
+        <item quantity="one">Cíl: %1$d hod.</item>
+        <item quantity="few">Cíl: %1$d hod.</item>
+        <item quantity="many">Cíl: %1$d hod.</item>
     </plurals>
     <plurals name="sleep_management_exp_hours">
-        <item quantity="other">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item>
-        <item quantity="one">"Current settings won't guarantee you %1$d hour of sleep daily. You need more than that."</item>
-        <item quantity="few">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item>
-        <item quantity="many">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item>
+        <item quantity="other">"Aktuální nastavení vám nezaručí %1$d hodin spánku denně. Potřebujete víc než to."</item>
+        <item quantity="one">"Aktuální nastavení vám nezaručí %1$d hodinu spánku denně. Potřebujete víc než to."</item>
+        <item quantity="few">"Aktuální nastavení vám nezaručí %1$d hodiny spánku denně. Potřebujete víc než to."</item>
+        <item quantity="many">"Aktuální nastavení vám nezaručí %1$d hodin spánku denně. Potřebujete víc než to."</item>
     </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d kroků</item>
@@ -187,10 +187,10 @@
         <item quantity="many">%1$ddenní cyklus</item>
     </plurals>
     <plurals name="time_duration_compare_standard">
-        <item quantity="other">≤%1$d minutes</item>
-        <item quantity="one">≤%1$d minute</item>
-        <item quantity="few">≤%1$d minutes</item>
-        <item quantity="many">≤%1$d minutes</item>
+        <item quantity="other">≤%1$d min.</item>
+        <item quantity="one">≤%1$d min.</item>
+        <item quantity="few">≤%1$d min.</item>
+        <item quantity="many">≤%1$d min.</item>
     </plurals>
     <plurals name="time_duration_hour_float">
         <item quantity="other">%1$.2f hod.</item>
@@ -211,22 +211,22 @@
         <item quantity="many">%1$.1f-%2$.1f hodiny</item>
     </plurals>
     <plurals name="time_duration_minute">
-        <item quantity="other">%1$d minutes</item>
-        <item quantity="one">%1$d minute</item>
-        <item quantity="few">%1$d minutes</item>
-        <item quantity="many">%1$d minutes</item>
+        <item quantity="other">%1$d minut</item>
+        <item quantity="one">%1$d minuta</item>
+        <item quantity="few">%1$d minuty</item>
+        <item quantity="many">%1$d minut</item>
     </plurals>
     <plurals name="time_duration_minute_standard">
-        <item quantity="other">%1$d-%2$d minutes</item>
-        <item quantity="one">%1$d-%2$d minute</item>
-        <item quantity="few">%1$d-%2$d minutes</item>
-        <item quantity="many">%1$d-%2$d minutes</item>
+        <item quantity="other">%1$d-%2$d minut</item>
+        <item quantity="one">%1$d-%2$d minuta</item>
+        <item quantity="few">%1$d-%2$d minuty</item>
+        <item quantity="many">%1$d-%2$d minut</item>
     </plurals>
     <plurals name="time_duration_time">
-        <item quantity="other">%1$d times</item>
-        <item quantity="one">%1$d time</item>
-        <item quantity="few">%1$d times</item>
-        <item quantity="many">%1$d times</item>
+        <item quantity="other">%1$d doby</item>
+        <item quantity="one">%1$d doby</item>
+        <item quantity="few">%1$d doby</item>
+        <item quantity="many">%1$d doby</item>
     </plurals>
     <plurals name="times_format">
         <item quantity="other">%1$dkrát</item>
@@ -253,10 +253,10 @@
         <item quantity="many">Přibližně %1$d. den menstruace</item>
     </plurals>
     <plurals name="title_today_exercise_steps">
-        <item quantity="other">%1$d steps today</item>
-        <item quantity="one">%1$d step today</item>
-        <item quantity="few">%1$d steps today</item>
-        <item quantity="many">%1$d steps today</item>
+        <item quantity="other">Dnes %1$d kroků</item>
+        <item quantity="one">Dnes %1$d krok</item>
+        <item quantity="few">Dnes %1$d kroky</item>
+        <item quantity="many">Dnes %1$d kroku</item>
     </plurals>
     <plurals name="unit_days">
         <item quantity="other">" dní"</item>
@@ -265,16 +265,16 @@
         <item quantity="many">" dne"</item>
     </plurals>
     <plurals name="unit_times">
-        <item quantity="other">" times"</item>
-        <item quantity="one">" time"</item>
-        <item quantity="few">" times"</item>
-        <item quantity="many">" times"</item>
+        <item quantity="other">" doby"</item>
+        <item quantity="one">" doby"</item>
+        <item quantity="few">" doby"</item>
+        <item quantity="many">" doby"</item>
     </plurals>
     <plurals name="user_age_display_format_year">
         <item quantity="other">%1$d let</item>
         <item quantity="one">%1$d rok</item>
         <item quantity="few">%1$d roky</item>
-        <item quantity="many">%1$d roku</item>
+        <item quantity="many">%1$d roků</item>
     </plurals>
 	<plurals name="a_hour_ago">
         <item quantity="other">před 1 hodinou</item>
