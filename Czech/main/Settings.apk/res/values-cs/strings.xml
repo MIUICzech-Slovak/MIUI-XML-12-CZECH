@@ -6628,4 +6628,9 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
   <string name="zen_mode_turned_off">Zap</string>
   <string name="zen_mode_turned_on">Vyp</string>
   <string name="mute_media_sound_title">Ztišit média v Tichém režimu</string>
+  <string name="exceptional_case">Výjimky</string>
+  <string name="ringer_mode_setting_summary">Ztiší příchozí hovory a oznámení</string>
+  <string name="ringer_mode_setting_title">Tichý režim</string>
+  <string name="search_dndm_alarm_content">Výjimky</string>
+  <string name="sound_mode">Tichý režim &amp; Nerušit</string>  
 </resources>
