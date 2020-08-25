@@ -112,15 +112,19 @@ přidat karty"</string>
     <string name="daily_distance_label">Vzdálenost</string>
     <string name="daily_steps">Kroky</string>
     <string name="daily_time_label">Čas</string>
+	<string name="date_format_h_m">H:mm</string>
+    <string name="date_format_h_m_s">HH:mm:ss</string>
     <string name="date_format_m_d">d/M</string>
     <string name="date_format_m_d_2">dd.MM</string>
     <string name="date_format_m_d_3">dd.MM</string>
+	<string name="date_format_m_d_h_m">dd-MM HH:mm</string>
     <string name="date_format_mm_dd">dd. MMM</string>
     <string name="date_format_mm_dd_2">dd.MM</string>
+	<string name="date_format_y">yyyy</string>
     <string name="date_format_y_2">yyyy</string>
     <string name="date_format_y_m">MMM yyyy</string>
     <string name="date_format_y_m_d">dd/MM/yyyy</string>
-    <string name="date_format_y_m_d_2">MMM dd, yyyy</string>
+    <string name="date_format_y_m_d_2">dd MMM, yyyy</string>
     <string name="date_format_y_m_d_h_m">dd/MM/yyyy HH:mm</string>
     <string name="date_format_y_m_d_h_m_2">dd MMM, yyyy HH:mm</string>
     <string name="date_format_y_m_d_h_m_3">dd.MM.yyyy HH:mm</string>
@@ -535,7 +539,7 @@ Pokud je pro vás stále obtížné usnout po 30 minutách v posteli, snižte fa
     <string name="sleep_detection_question_one_answer">"Když je zařízení vypnuto, restartováno nebo je vybitá baterie, sledování spánku se přeruší, protože senzory nemohou shromažďovat a analyzovat data. V takových případech se statistiky spánku zdají neúplné.
 Pokud k tomuto problému dochází často, zkontrolujte v zařízení v Automatické úlohy plánované vypnutí nebo aktualizace systému přes noc."</string>
     <string name="sleep_detection_question_one_answer_1">"Hluboké a lehké spánkové fáze jsou detekovány na základě údajů o pohybu těla shromážděných senzory vašeho zařízení. Z tohoto důvodu možná nebudete moci zobrazit statistiky:
-1. Xiaomi Zdraví nemohla sbírat data. K tomu může dojít, když je vaše zařízení vypnuté, uspané, jeho baterie je příliš nízká nebo aplikace nemá povoleno pracovat na pozadí. Povolte Xiaomi Zdrví autostart, přidejte jej do výjimky spořiče baterie a zamkněte v RAM, abyste tomu zabránili.
+1. Xiaomi Zdraví nemohla sbírat data. K tomu může dojít, když je vaše zařízení vypnuté, uspané, jeho baterie je příliš nízká nebo aplikace nemá povoleno pracovat na pozadí. Abyste tomu zabránili, povolte Xiaomi Zdraví autostart, přidejte ji do výjimky spořiče baterie a zamkněte v RAM.
 2. Xiaomi Zdraví nemohla analyzovat shromážděná data. To se může stát, když je váš telefon při spánku příliš daleko od těla. Alternativně může být pohyb vašeho těla příliš jemný na to, aby bylo možné získat nejaká data o změnách vašeho spánkového cyklu. Neustále vylepšujeme naše algority, aby Xiaomi Zdraví analyzovala váš spánek lépe."</string>
     <string name="sleep_detection_question_one_title">Proč jsou moje statistiky neúplné?</string>
     <string name="sleep_detection_question_one_title_1">"Proč nevidím statistiky spánkového cyklu?"</string>
@@ -725,7 +729,7 @@ Aktualizovat nyní?"</string>
     <string name="update_notify_dialog_title">Dostupná aktualizace</string>
     <string name="update_notify_no_update_log">Žádné informace.</string>
     <string name="user_agreement">Smluvní podmínky</string>
-    <string name="user_birthday_display_format">dd/MM/yyyy</string>
+    <string name="user_birthday_display_format">dd.MM.yyyy</string>
     <string name="user_invalid_value">--</string>
     <string name="v7_preference_off">Vypnutí</string>
     <string name="v7_preference_on">ZAP</string>
@@ -1030,6 +1034,7 @@ Zašlete prosím tento kód technikovi."</string>
      <string name="month_september_shortest">Zář</string>
      <string name="mtrl_badge_numberless_content_description">Nové oznámení</string>
      <string name="mtrl_chip_close_icon_content_description">Odstranit %1$s</string>
+	 <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
      <string name="mtrl_picker_date_header_title">Vyberte datum</string>
      <string name="mtrl_picker_date_header_unselected">Vybrané datum</string>
      <string name="mtrl_picker_range_header_title">Vybrat časové období</string>
