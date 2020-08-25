@@ -17,4 +17,16 @@
         <item quantity="other">Můžete vytvořit najednou maximálně %d klonů.</item>
         <item quantity="one">Můžete vytvořit najednou maximálně %d klon.</item>
      </plurals>
+	 <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d fotografií</item>
+        <item quantity="one">%d fotografie</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Interval: %d s</item>
+        <item quantity="one">Interval: %d s</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Trvání: %d s</item>
+        <item quantity="one">Trvání: %d s</item>
+    </plurals>
 </resources>

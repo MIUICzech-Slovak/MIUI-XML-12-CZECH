@@ -206,5 +206,8 @@
   <string name="gb_pannel_control_mode_custom">Vlastní</string>
   <string name="gb_pannel_control_mode_high_quality">Vysoká kvalita</string>
   <string name="gb_pannel_control_mode_normal">Předvolené</string>
-  <string name="gb_pannel_control_mode_power_saving">Úspora energie</string>	 
+  <string name="gb_pannel_control_mode_power_saving">Úspora energie</string>
+  <string name="tool_box_active_loading">Načítání...</string>
+  <string name="tool_box_active_no_networ">Nebylo možné připojit se k síti</string>
+  <string name="tool_box_active_reload">Obnovit</string>  
 </resources>

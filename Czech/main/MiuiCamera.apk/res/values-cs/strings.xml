@@ -1043,5 +1043,10 @@ skenované dokumenty automaticky"</string>
   <string name="unsupported_microphones_3d_record_tips">3D zvuk není podporovaný ext. mikrofonem</string>
   <string name="unsupported_microphones_audio_zoom_tips">Audio zoom nepodporuje ext. mikrofon</string>
   <string name="user_disagree">Nesouhlasím</string>
+  <string name="pano_click_to_toggle_direction">Dotykem na šípku změníte směr</string>
+  <string name="pano_go_on_moving">Pohybujte zařízením plynule podle čáry</string>
+  <string name="pref_camera_delay_capture_10s">%ds zpoždění</string>
+  <string name="pref_camera_delay_capture_3s">%ds zpoždění</string>
+  <string name="pref_camera_delay_capture_5s">%ds zpoždění</string>
 </resources>
   
