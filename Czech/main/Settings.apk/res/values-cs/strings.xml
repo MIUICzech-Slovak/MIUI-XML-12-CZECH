@@ -6621,4 +6621,10 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
   <string name="smart_home_title">SmartHome</string>
   <string name="screen_reader_mode_input_type_summary">Vyberte gesto pro aktivaci klávesnice pokud je aktivní TalkBack</string>
   <string name="screen_reader_mode_input_type_title">Zadávání textu</string>
+  <string name="zen_mode_effected_always">Vždy</string>
+  <string name="zen_mode_screen_locked_only">Když je zařízení uzamčeno</string>
+  <string name="zen_mode_summary">Ztiší příchozí hovory, oznámení, média a vypne vibrace</string>
+  <string name="zen_mode_title">Nerušit</string>
+  <string name="zen_mode_turned_off">Zap</string>
+  <string name="zen_mode_turned_on">Vyp</string>
 </resources>

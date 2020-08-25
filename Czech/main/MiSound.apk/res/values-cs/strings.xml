@@ -169,5 +169,7 @@
   <string name="music_headset_scenario_video">Video</string>
   <string name="music_headset_scenario_vocal">Hlas</string>
   <string name="music_headset_select_settings">Výběr sluchátek</string>
+  <string name="ringtone_output_device_summary">Pokud je připojeno periferní zařízení (kabelová sluchátka nebo Bluetooth zařízení), bude přehrávano vyzvánění nebo upozornění také v reproduktoru telefonu</string>
+  <string name="ringtone_output_device_title">Ponechte reproduktor vyzvánět</string>
 </resources>
 
