@@ -6625,8 +6625,8 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
   <string name="zen_mode_screen_locked_only">Když je zařízení uzamčeno</string>
   <string name="zen_mode_summary">Ztiší příchozí hovory, oznámení, média a vypne vibrace</string>
   <string name="zen_mode_title">Nerušit</string>
-  <string name="zen_mode_turned_off">Zap</string>
-  <string name="zen_mode_turned_on">Vyp</string>
+  <string name="zen_mode_turned_off">Zapnout</string>
+  <string name="zen_mode_turned_on">Vypnout</string>
   <string name="mute_media_sound_title">Ztišit média v Tichém režimu</string>
   <string name="exceptional_case">Výjimky</string>
   <string name="ringer_mode_setting_summary">Ztiší příchozí hovory a oznámení</string>
