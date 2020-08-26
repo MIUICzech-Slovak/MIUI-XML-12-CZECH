@@ -281,5 +281,7 @@
   <string name="bluetooth_enable_notification_content">%s zapnuté Bluetooth</string>
   <string name="bluetooth_enable_notification_title">Bluetooth je zapnuté</string>
   <string name="bluetooth_close">Tato aplikace vypla Bluetooth</string>
-  <string name="bluetooth_open">Tato aplikace zapla Bluetooth</string>  
+  <string name="bluetooth_open">Tato aplikace zapla Bluetooth</string>
+  <string name="input_method_clipboard_move_cursor_guide1">Stlačte a podržte modrou oblast pro pohyb kurzoru ~</string>
+  <string name="input_method_clipboard_move_cursor_guide2">Pohněte prstem vodorovně ~</string>  
 </resources>

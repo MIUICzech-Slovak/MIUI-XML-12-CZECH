@@ -2174,4 +2174,6 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="wireless_charging_tips_disable">"Znovu nezobrazovat"</string>
   <string name="wireless_charging_tips_message">Umístěte zařízení podporující bezdrátové nabíjení Qi (telefony, příslušenství atd.) na zadní stranu tohoto zařízení.</string>
   <string name="wireless_charging_tips_title">Reverzní bezdrátové nabíjení</string>
+  <string name="sim_state_locked_dialog_title">Chybná SIM karta</string>
+  <string name="sim_state_locked_puk_dialog_message">Zadali jste nesprávný PUK kód 10 krát. Vaše SIM karta je zablokovaná a musíte ji vyměnit.</string>
 </resources>

@@ -6632,5 +6632,11 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
   <string name="ringer_mode_setting_summary">Ztiší příchozí hovory a oznámení</string>
   <string name="ringer_mode_setting_title">Tichý režim</string>
   <string name="search_dndm_alarm_content">Výjimky</string>
-  <string name="sound_mode">Tichý režim &amp; Nerušit</string>  
+  <string name="sound_mode">Tichý režim &amp; Nerušit</string>
+  <string name="bt_show_notification_summary">zobrazit permanentní upozornění v roletce</string>
+  <string name="bt_show_notification_title">Upozornit na Bluetooth připojení</string>  
+  <string name="input_method_middle_function_move_cursor">Pohněte kurzorem</string>
+  <string name="input_method_middle_function_move_cursor_des">Stlačte a podržte střední oblast pro pohyb kurzoru</string>
+  <string name="input_method_middle_function_no_function_des">Nepřidělovat akce</string>
+  <string name="middle_function_key">Centrální oblast</string>  
 </resources>
