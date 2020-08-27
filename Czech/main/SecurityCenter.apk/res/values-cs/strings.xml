@@ -4041,6 +4041,9 @@ z vašeho hraní her"</string>
   <string name="settings_title">Bezpečné sdílení</string>
   <string name="text_security">Soukromí</string>
   <string name="gb_storage_game_uninstall">Odinstalování her</string>
-  <string name="menu_summary_garbage_cleanup_new">%d%% z úložiště</string>  
+  <string name="menu_summary_garbage_cleanup_new">%d%% z úložiště</string>
+  <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Zvýšit rychlost připojení o 10%-20% pokud jste připojený k Mi/Redmi routru</string>
+  <string name="gtb_setting_item_title_smart_wlan_speed">Mi Wi-Fi zrychlení</string>
+  <string name="gtb_wlan_speed_tips">Používání Mi Wi-Fi…</string>  
 </resources>
   

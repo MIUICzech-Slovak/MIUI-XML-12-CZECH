@@ -158,5 +158,9 @@ N e"</string>
   <string name="step_component_info_active_tip">Počet kroků je poskytován aplikací Mi Zdraví.</string>
   <string name="step_component_info_desc">Počet kroků se po dosažení cíle změní na trofej.</string>
   <string name="step_component_info_tip">Počet kroků je poskytován aplikací Mi Zdraví. Nainstalujte nebo aktualizujte aplikaci Mi Zdraví.</string>
+  <string name="item_view_role_description">Karta</string>
+  <string name="material_slider_range_end">Konec rozsahu,</string>
+  <string name="material_slider_range_start">Začátek rozsahu,</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Více než %1$d upozornění</string>
 </resources>
 
