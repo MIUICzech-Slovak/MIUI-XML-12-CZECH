@@ -268,4 +268,18 @@ Poznámka: Data doinstalovaných aplikací nebudou zálohované na Xiaomi Cloud.
   <string name="cloud_backup_detail_state_summary_china">Vytvořit Xiaomi Cloud zálohu automaticky po připojení na Wi-Fi.</string>
   <string name="dialog_msg_restore_require_wlan_china">Obnovení zálohy vyžaduje připojení na Wi-Fi.</string>
   <string name="dialog_title_require_wlan_china">Připojit na Wi-Fi</string>
+  <string name="backup_action_buy_cloud_space">Získat více místa na úložišti</string>
+  <string name="backup_action_check_network">Zkontrolujte nastavení sítě</string>
+  <string name="backup_action_clean_disk_space">Uvolnit místo</string>
+  <string name="backup_action_retry_now">Zkusit znova</string>  
+  <string name="backup_remind_buy_cloud_space">Navyšte předplatné cloudového úložiště</string>
+  <string name="backup_remind_clean_disk_space">Uvolnit místo na úložišti</string>
+  <string name="backup_remind_cloud_space_cost">Velikost zálohy: %s</string>
+  <string name="backup_warning_reason_cloud_space_not_enough">Není možné zálohovat</string>
+  <string name="backup_warning_reason_disk_space_not_enough">"Není dostatek volného místa
+Není možné zálohovat"</string>
+  <string name="backup_warning_reason_network_error">"Chyba sítě
+Není možné zálohovat"</string>
+  <string name="backup_warning_reason_no_server_response">"Připojení bylo přerušené
+Zkuste to znova"</string>
 </resources>

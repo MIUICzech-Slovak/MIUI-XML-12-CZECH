@@ -561,6 +561,9 @@
   <string name="navigation_guide_settings">Lekce</string>
   <string name="switch_screen_button_order">Přepnout pořadí tlačítek</string>
   <string name="switch_screen_button_order_desc">Gesto posunutím dolů ukryje tlačítka</string>
+  <string name="auto_disable_screenbuttons_summary">Dvakrát poklepte na některé navigační tlačítko pro povolení</string>
+  <string name="auto_disable_screenbuttons_title">Automaticky deaktivovat navigační tlačítka</string>
+  <string name="key_shortcut_settings_title">Zkratky tlačítka</string>
 </resources>
 
 

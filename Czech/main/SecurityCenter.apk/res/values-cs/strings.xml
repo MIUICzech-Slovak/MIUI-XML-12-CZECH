@@ -4044,6 +4044,18 @@ z vašeho hraní her"</string>
   <string name="menu_summary_garbage_cleanup_new">%d%% z úložiště</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Zvýšit rychlost připojení o 10%-20% pokud jste připojený k Mi/Redmi routru</string>
   <string name="gtb_setting_item_title_smart_wlan_speed">Mi Wi-Fi zrychlení</string>
-  <string name="gtb_wlan_speed_tips">Používání Mi Wi-Fi…</string>  
+  <string name="gtb_wlan_speed_tips">Používání Mi Wi-Fi…</string>
+  <string name="clean_master_icon_recall_button_text">Pridat</string>
+  <string name="clean_master_icon_recall_summary">Přidejte si odkaz na plochu pro co nejrychlejší čištění.</string>
+  <string name="clean_master_icon_recall_title">Vyčištěte rychleji</string>
+  <string name="clean_master_icon_recall_toast_text">Odkaz byl přidán</string>  
+  <string name="charger_detect_button_ok">Rozumím</string>
+  <string name="charger_detect_info1">Zkontrolujte zda je kabel správně připojený.</string>
+  <string name="charger_detect_info2">Nabíjení může být pomalé pokud nepoužíváte originální nabíječku nebo USB kábel.</string>
+  <string name="charger_detect_no_remind">Více nezobrazovat</string>
+  <string name="charger_detect_title">Nabíjaní je pomalé</string>
+  <string name="vb_fps_display_unit">Hz</string>
+  <string name="vb_fps_settings">Automatická obnovovací frekvence</string>
+  <string name="vb_fps_settings_tips">Tato funkce přizpůsobí obnovovací frekvenci displeje podle FPS videa, čímž šetří baterii a přehrávání je plynulejší.</string>  
 </resources>
   
