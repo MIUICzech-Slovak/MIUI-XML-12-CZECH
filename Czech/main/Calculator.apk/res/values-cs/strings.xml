@@ -742,4 +742,5 @@ Velikost delta aktualizace: %2$s"</string>
     <string name="tv_recurrence_monthly">Měsíčně</string>
     <string name="tv_recurrence_quaterly">Čtvrtletně</string>
     <string name="tv_recurrence_yearly">Ročně</string>
+    <string name="item_title_loan">Půjčka</string>
 </resources>
