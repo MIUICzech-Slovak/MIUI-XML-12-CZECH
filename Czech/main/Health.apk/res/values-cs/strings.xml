@@ -138,7 +138,7 @@ přidat karty"</string>
     <string name="deep_sleep">Hluboký spánek</string>
     <string name="deep_sleep_duration">Trvání hluboké spánku</string>
     <string name="deep_sleep_duration_decrease_description">Váš hluboký spánek je příliš krátký</string>
-    <string name="deep_sleep_duration_description">"Když lidé spí, dojde k pravidelným rychlým pohybům očí, takže spánek lze rozdělit na spánek s rychlým pohybem očí a spánek bez rychlého pohybu očí. Hluboký spánek se vyskytuje během období spánku bez rychlého pohybu očí, což představuje asi 20 až 25% veškerého nočního spánku. Během hlubokého spánku dochází k méně vědomé aktivitě a mozek je v relativně statickém stavu, který je obtížné probudit."</string>
+    <string name="deep_sleep_duration_description">"Když lidé spí, dojde k pravidelným rychlým pohybům očí, takže spánek lze rozdělit na spánek s rychlým pohybem očí a spánek bez rychlého pohybu očí. Hluboký spánek se vyskytuje během období spánku bez rychlého pohybu očí, což představuje asi 20 až 25%% veškerého nočního spánku. Během hlubokého spánku dochází k méně vědomé aktivitě a mozek je v relativně statickém stavu, který je obtížné probudit."</string>
     <string name="deep_sleep_duration_increase_description">Váš hluboký spánek je příliš dlouhý</string>
     <string name="deep_sleep_duration_normal_description">Vaše tělo má dostatek hlubokého spánku</string>
     <string name="delete">Odstranit</string>
