@@ -209,7 +209,7 @@ Aplikace vás bude upozorňovat pouze na důležitá oznámení."</string>
     <string name="enable_go_now">Zapnout</string>
     <string name="enable_not_now">Teď ne</string>
     <string name="enable_right_now">Zapnout</string>
-    <string name="enough">Ukončit</string>
+    <string name="enough">Dostatek</string>
     <string name="excessive">Příliš mnoho</string>
     <string name="exercise">Cvičení</string>
     <string name="exercise_consume">Spáleno %1$d Cal</string>
@@ -785,7 +785,7 @@ Aktualizovat nyní?"</string>
     <string name="stand_notice_title6">Postavili jste se za poslední hodinu?</string>
     <string name="stand_setting">Nastavení</string>
     <string name="standing_already">"Stáli jste"</string>
-	 <string name="achieve_goals">Dosažených cílů</string>
+	<string name="achieve_goals">Dosažených cílů</string>
      <string name="achieve_stand_goals">Dosažených cílů</string>
      <string name="actionbar_button_up_description">Zpět</string>
      <string name="add">Přidat</string>
@@ -851,7 +851,7 @@ Aktualizovat nyní?"</string>
      <string name="close_stand_notice_and_detection_tip">Zapněte připomenutí</string>
      <string name="close_stand_notice_tip">Začněte sledovat stání</string>
      <string name="collect_diagnosis_log">Sbírat diagnostický protokol</string>
-     <string name="completed_stand">Vstal jsi</string>
+     <string name="completed_stand">Vstali jste</string>
      <string name="confirm_opening">Zapnout</string>
      <string name="contact_permission_desc">Pro nastavení nouzových kontaktů</string>
      <string name="custom_scheme">Vlastní</string>
