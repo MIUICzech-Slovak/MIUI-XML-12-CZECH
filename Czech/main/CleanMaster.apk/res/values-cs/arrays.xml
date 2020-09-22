@@ -58,9 +58,10 @@
       </string-array>
       <string-array name="low_memory_clean_menu">
          <item>Vyčistit</item>
+     </string-array>		
+     <string-array name="uninstalled_app_sort_type">
+        <item>Velikost</item>
+        <item>Frekvence používaní</item>
+        <item>Čas instalace</item>
      </string-array>	
-     <plurals name="whatsapp_delete_files">
-        <item quantity="other">Vymazat soubory (%1$d)?</item>
-        <item quantity="one">Vymazat soubory (%1$d)?</item>
-    </plurals>	
 </resources>

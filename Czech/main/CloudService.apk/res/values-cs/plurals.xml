@@ -95,5 +95,9 @@
 	<plurals name="dirty_wlan_count_china">
         <item quantity="other">%d Wi-Fi sítí</item>
         <item quantity="one">%d Wi-Fi síť</item>
+    </plurals>
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">Nebylo možné synchr. %s položek</item>
+        <item quantity="one">Nebylo možné synchr. %s položku</item>
     </plurals>	
 </resources>

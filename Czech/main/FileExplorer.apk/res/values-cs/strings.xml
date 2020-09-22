@@ -768,5 +768,13 @@ Bylo přičteno dalších %1$s"</string>
   <string name="save_file_to_mishare">Uložené</string>
   <string name="app_all_purpose">Vítejte v aplikaci Soubory!</string>
   <string name="aggree_desc">Povolte této aplikaci připojení k síti a požadovaná povolení.</string>
-  <string name="optional_change_wifi">Pro správu souborů přes Wi-Fi</string>  
+  <string name="optional_change_wifi">Pro správu souborů přes Wi-Fi</string>
+  <string name="encrypt_setting">Šifrování</string>
+  <string name="not_use">Později</string>
+  <string name="operation_encrypt_summary">Zašifrujte soubory ve skryté složce. Šifrování velkých souborů může trvat déleji.</string>
+  <string name="operation_encrypt_title">Šifrovat soukromé soubory</string>
+  <string name="private_folder_update_msg">Aplikace Soubory poskytuje šifrování souborů!</string>
+  <string name="private_folder_update_msg_summary">Dešifrování souborů může zpomalit jejich vymazávání.</string>
+  <string name="private_folder_update_tips">Nová funkce</string>
+  <string name="use">Použít</string>  
 </resources>

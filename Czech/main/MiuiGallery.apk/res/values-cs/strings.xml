@@ -1970,4 +1970,7 @@
   <string name="burst_save_dialog_title">Vyberte které fotografie chcete ponechat</string>
   <string name="photo_page_rotate_screen">Otočit obrazovku</string>
   <string name="time_burst_save_dialog_title">Exportovat položky</string>
+  <string name="filter_sky_download_failed_msg">"Nelze stáhnout. Zkontrolujte nastavení sítě a zkuste to znovu."</string>
+  <string name="filter_sky_download_with_metered_network_msg">Používání mobilních dat ke stahování souborů může vést k účtování poplatků operátorem. Stáhnout přesto?</string>
+  <string name="filter_sky_download_with_metered_network_title">Použití mobilních dat</string>
 </resources>

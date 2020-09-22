@@ -426,4 +426,11 @@
         <item>Později</item>
         <item>Odmítnout</item>
      </string-array>
+	 <string-array name="account_sync_frequency">
+        <item>Ručne</item>
+        <item>Každých 15 minut</item>
+        <item>Každou hodinu</item>
+        <item>Každé 4 hodiny</item>
+        <item>Každých 12 hodin</item>
+     </string-array>
 </resources>

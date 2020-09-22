@@ -6638,5 +6638,26 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
   <string name="input_method_middle_function_move_cursor">Pohněte kurzorem</string>
   <string name="input_method_middle_function_move_cursor_des">Stlačte a podržte střední oblast pro pohyb kurzoru</string>
   <string name="input_method_middle_function_no_function_des">Nepřidělovat akce</string>
-  <string name="middle_function_key">Centrální oblast</string>  
+  <string name="middle_function_key">Centrální oblast</string>
+  <string name="smart_home_value_none">Žádný</string>
+  <string name="smart_home_value_unknown">Neznámý</string>
+  <string name="wifi_connect_channel">Wi-Fi kanál:</string>
+  <string name="wifi_connect_frequency">Wi-Fi frekvence:</string>
+  <string name="wifi_generation_title">Technologie</string>
+  <string name="wifi_generation_status">Wi-Fi %1$d</string>  
+  <string name="activity_check_context">Vaše zařízení se pokouší připojit k internetu.</string>
+  <string name="activity_check_title">Připojování k internetu</string>
+  <string name="dialog_check_button_negative">Zkusit znova</string>
+  <string name="dialog_check_button_positive">Připojit k Wi-Fi</string>
+  <string name="dialog_check_context">"Vaše zařízení se nemůže připojit k internetu.
+1. Stlačte \"Připojit k Wi-Fi\" pro výběr dostupné sítě.
+2. Pokud chcete použít mobilní data, stlačte \"Zkusit znova\" nebo znova vložte SIM kartu."</string>
+  <string name="dialog_check_title">Není možné se připojit k internetu</string>
+  <string name="dialog_wifi_button_negative">Ne</string>
+  <string name="dialog_wifi_button_positive">Ano</string>
+  <string name="dialog_wifi_context">Musíte se připojit k internetu pro dokončení nastavení zařízení. Použít mobilní data?</string>
+  <string name="dialog_wifi_title">Použít mobilní data</string>
+  <string name="launch_noapp_dialog_cancel">Zrušit</string>
+  <string name="launch_noapp_dialog_install">Instalovat</string>
+  <string name="launch_noapp_dialog_replace">Nastavení</string>  
 </resources>

@@ -406,4 +406,11 @@
   <string name="dc_light_hint_other">DC ztmavení může ovlivnit zobrazovací frekvenci displeje.</string>
   <string name="dc_lignt_enable_hint">Anti-flicker režim nastaví frekvenci displeje na 60Hz. Chcete zapnout Anti-flicker režim?</string>
   <string name="usage_device_limit_app_prolong_time5">Přidat čas jen jednou</string>
+  <string name="fps_nature_summary">Vyšší obnovovací frekvence udrží ostrý a čístý obraz</string>
+  <string name="fps_nature_title">Vysoká</string>
+  <string name="fps_smooth_summary">Střední obnovovací frekvence zlepší plynulost animací</string>
+  <string name="fps_smooth_title">Střední</string>
+  <string name="fps_standard_summary">Standardní obnovovací frekvence šetří baterii</string>
+  <string name="fps_standard_title">Standardní</string>
+  <string name="fps_user_tip">Tyto animace jsou přehrávané pomaleji kvůli ukázce rozdílu v obnovovací frekvenci.</string>
 </resources>

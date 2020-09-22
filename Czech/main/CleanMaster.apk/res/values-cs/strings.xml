@@ -714,6 +714,10 @@
   <string name="notification_uninstalled_clean_with_name">Pozůstatky %s</string>
   <string name="notification_uninstalled_clean_without_name">Odinstalované aplikace zanechávají po sebe pozůstatky</string>
   <string name="notification_whatsapp_clean_button_text">Vyčistit</string>
-  <string name="notification_whatsapp_clean_size">WhatsApp cache dosáhla %s</string>     
+  <string name="notification_whatsapp_clean_size">WhatsApp cache dosáhla %s</string>
+  <string name="permission_dialog_storage_btn1">Nastavení</string>
+  <string name="permission_dialog_storage_btn2">Zrušit</string>
+  <string name="permission_dialog_storage_content">Čistič vyžaduje povolení pro přístup k internímu úložišti.</string>
+  <string name="permission_dialog_storage_title">Vyžadují se povolení</string>  
 </resources>
 

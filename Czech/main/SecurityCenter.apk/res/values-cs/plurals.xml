@@ -689,5 +689,13 @@
 	<plurals name="om_running_apps_num">
         <item quantity="other">%d apl.</item>
         <item quantity="one">%d apl.</item>
+    </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Můžete používat zámek aplikací s %1$s apl.</item>
+        <item quantity="one">Můžete používat zámek aplikací s %1$s apl.</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s apl. bude chráněných zámkem aplikací</item>
+        <item quantity="one">%s apl. bude chráněná zámkem aplikací</item>
     </plurals>	
 </resources>

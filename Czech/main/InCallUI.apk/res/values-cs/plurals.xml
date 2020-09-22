@@ -36,5 +36,9 @@
     <plurals name="call_title_redialing_with_times">
         <item quantity="other">Znovu vytočené %dx</item>
         <item quantity="one">Znovu vytočené %dx</item>
+    </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Odpojí se za %1$ss…</item>
+        <item quantity="one">Odpojí se za %1$ss…</item>
     </plurals>	
 </resources>

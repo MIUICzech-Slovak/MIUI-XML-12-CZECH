@@ -163,4 +163,16 @@
         <item quantity="other">Hlasové zprávy: %1$d</item>
         <item quantity="one">Hlasové zprávy: %1$d</item>
     </plurals>
+	<plurals name="whatsapp_delete_files">
+        <item quantity="other">Vymazat soubory (%1$d)?</item>
+        <item quantity="one">Vymazat soubory (%1$d)?</item>
+    </plurals>
+	<plurals name="install_find_application">
+        <item quantity="other">Vyhledat mezi %d apl.</item>
+        <item quantity="one">Vyhledat mezi %d apl.</item>
+    </plurals>
+    <plurals name="install_find_application_num">
+        <item quantity="other">Nalezených %d apl.</item>
+        <item quantity="one">Nalezených %d apl.</item>
+    </plurals>
 </resources>
