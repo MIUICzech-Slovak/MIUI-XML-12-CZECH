@@ -739,7 +739,7 @@
   <string name="miuix_appcompat_deselect_all_description">Odznačit</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Zrušit</string>
   <string name="miuix_appcompat_search_input_description">Vyhledat</string>
-  <string name="miuix_appcompat_select_all_description">Vše</strin>
+  <string name="miuix_appcompat_select_all_description">Vše</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Více než %1$d nových upozornění</string>
   <string name="mtrl_slider_range_content_description">%1$s do %2$s</string>
   <string name="setting_import_events">Importovat události</string>
