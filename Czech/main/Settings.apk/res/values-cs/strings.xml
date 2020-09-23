@@ -6642,9 +6642,7 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
   <string name="smart_home_value_none">Žádný</string>
   <string name="smart_home_value_unknown">Neznámý</string>
   <string name="wifi_connect_channel">Wi-Fi kanál:</string>
-  <string name="wifi_connect_frequency">Wi-Fi frekvence:</string>
-  <string name="wifi_generation_title">Technologie</string>
-  <string name="wifi_generation_status">Wi-Fi %1$d</string>  
+  <string name="wifi_connect_frequency">Wi-Fi frekvence:</string>  
   <string name="activity_check_context">Vaše zařízení se pokouší připojit k internetu.</string>
   <string name="activity_check_title">Připojování k internetu</string>
   <string name="dialog_check_button_negative">Zkusit znova</string>
