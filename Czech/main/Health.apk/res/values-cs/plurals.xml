@@ -344,4 +344,24 @@
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před 1 minutou</item>
      </plurals>
+     <plurals name="days_in_menstrual_period">
+        <item quantity="other">Doba trvání: %1$d dny</item>
+        <item quantity="one">Doba trvání: %1$d den</item>
+     </plurals>
+     <plurals name="days_in_period">
+        <item quantity="other">Trvání cyklu: %1$d dny</item>
+        <item quantity="one">Trvání cyklu: %1$d den</item>
+     </plurals>
+     <plurals name="group_unit">
+        <item quantity="other">%1$d cyklů</item>
+        <item quantity="one">%1$d cyklus</item>
+     </plurals>
+     <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">Období pravděpodobně začne v %1$d dnech</item>
+        <item quantity="one">Období pravděpodobně začne v %1$d dni</item>
+     </plurals>
+     <plurals name="unit_group">
+        <item quantity="other">" cykly"</item>
+        <item quantity="one">" cyklus"</item>
+     </plurals>
 </resources>
