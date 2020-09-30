@@ -209,5 +209,6 @@
   <string name="switch_audio_device_hfp_hint">Přepínání zpět na předvolený výstup</string>
   <string name="switch_audio_device_hfp_toast_hint">Vyberte předvolený výstup zvuku pro spuštění přehrávání na tomto zařízení.</string>
   <string name="switch_audio_device_phone_summary">Přehrát zvuk na tomto zařízení</string>
-  <string name="switch_audio_dialog_title">Vyberte výstup zvuku</string> 
+  <string name="switch_audio_dialog_title">Vyberte výstup zvuku</string>
+  <string name="switch_audio_device_switch_hint">Oznámení o připojených zařízeních můžete vypnout v Nastavení > Bluetooth > Upřesnit nastavení.</string>
 </resources>
