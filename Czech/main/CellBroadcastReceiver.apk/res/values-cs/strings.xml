@@ -95,4 +95,13 @@
   <string name="show_cmas_opt_out_title">Zobrazit dialog pro odhlášení</string>
   <string name="sms_cb_settings">Nastavení zpráv informačních služeb</string>
   <string name="view_details_title">Podrobnosti upozornění</string>
+  <string name="alert_preferences_title">Předvolby upozornění</string>
+  <string name="cell_broadcast_setting">Nastavená mobilního vysílání</string>
+  <string name="emergency_alert_history_title">Historie nouzových výstrah</string>
+  <string name="emergency_alert_title">Nouzová výstraha</string>
+  <string name="enable_alerts_master_toggle_summary">Příjem nouzových oznámení</string>
+  <string name="enable_alerts_master_toggle_title">Povolit upozornění</string>
+  <string name="enable_emergency_alerts_message_title">Nouzové výstrahy</string>
+  <string name="use_full_volume_summary">Ignoruje předvolby hlasitosti a režimu Nerušit</string>
+  <string name="use_full_volume_title">Použít maximálmí hlasitost</string>
 </resources>

@@ -1973,4 +1973,8 @@
   <string name="filter_sky_download_failed_msg">"Nelze stáhnout. Zkontrolujte nastavení sítě a zkuste to znovu."</string>
   <string name="filter_sky_download_with_metered_network_msg">Používání mobilních dat ke stahování souborů může vést k účtování poplatků operátorem. Stáhnout přesto?</string>
   <string name="filter_sky_download_with_metered_network_title">Použití mobilních dat</string>
+  <string name="trash_size">Smazané položky (%s)</string>
+  <string name="cleaner_empty">Vymazat vše</string>
+  <string name="empty" />
+  <string name="empty_description_conditions_new">Pro zobrazení položek připojte nabíječku a vypněte obrazovku</string>
 </resources>
