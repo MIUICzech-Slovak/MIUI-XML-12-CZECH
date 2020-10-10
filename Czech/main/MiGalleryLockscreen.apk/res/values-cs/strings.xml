@@ -262,6 +262,16 @@
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>     
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
+  <string name="disable_dlg_cancel">Zrušit</string>
+  <string name="disable_dlg_content">"Pokud vypnete Denní tapetu, nebudete dostávat nové obrázky na domovskou a zamykací obrazovku. Vypnout?"</string>
+  <string name="disable_dlg_ok">Vypnout</string>
+  <string name="disable_dlg_title">Vypnout Denní tapetu?</string>
+  <string name="double_click_to_exit_activity">Opětovným klepnutím opusťte nabídku</string>
+  <string name="edit_wallpaper">Spravujte tapety</string>
+  <string name="enable_toast_ar">Přepnuto na doporučení</string>
+  <string name="enable_toast_cw">Přepnuto na prezentaci</string>
+  <string name="enable_toast_cwo">Zapnout Denní tapety a spustit prezentaci</string>
+  <string name="enable_toast_subscribe">Zapnout Denní tapety a získat odběr</string>
 </resources>
 
