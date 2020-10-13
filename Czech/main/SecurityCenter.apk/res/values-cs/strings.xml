@@ -4075,6 +4075,21 @@ z vašeho hraní her"</string>
   <string name="applock_operate_hidenoti_title">Chcete skrýt citlivé upozornění?</string>
   <string name="applock_recommend_tips">%s uživatelů chrání tyto aplikace</string>
   <string name="applock_recommend_title">Vybrat aplikace</string>
-  <string name="applock_set_complete">Použít Zámek aplikací</string>  
+  <string name="applock_set_complete">Použít Zámek aplikací</string>
+  <string name="input_available_cellular_data_daily_hint">Zadejte denní limit dat</string>
+  <string name="input_celluar_data_quota_hint">Zadejde limit dat</string>
+  <string name="input_cellular_data_warn_hint">Zadejde limit dat pro varování</string>
+  <string name="modify_cellular_type">Vyberte váš datový paušál</string>
+  <string name="not_settled">Nenastaveno</string>
+  <string name="unlimited_cellular_data_monthly">Neomezená data</string> 
+  <string name="fixed_cellular_data_quota_monthly">Měsíční limit dat</string>
+  <string name="daily_card_setting_fragment_month_package">Měsíční objem dat</string>    
+  <string name="traffic_alert_auto_modify_package_summary">Automaticky nastavit objem dat podle vašeho operátora</string>         
+  <string name="stranger_call_dialog_subtitle_format">"%s není mezi vašimi kontaktmi. Můžete toto číslo přidat mezi kontakty nebo blokovat.</string>   
+  <string name="stranger_call_dialog_add_block_list">Blokovat</string>
+  <string name="stranger_call_dialog_add_contacts">Nový kontakt</string>
+  <string name="stranger_call_dialog_notification_body">Přidat mezi kontakty nebo blokovat</string>
+  <string name="stranger_call_dialog_notification_title_format">Neznámé číslo %s</string>
+  <string name="stranger_call_dialog_title">"Neznámé číslo "</string>  
 </resources>
   

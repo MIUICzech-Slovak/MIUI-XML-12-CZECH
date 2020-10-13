@@ -6657,5 +6657,6 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
   <string name="dialog_wifi_title">Použít mobilní data</string>
   <string name="launch_noapp_dialog_cancel">Zrušit</string>
   <string name="launch_noapp_dialog_install">Instalovat</string>
-  <string name="launch_noapp_dialog_replace">Nastavení</string>  
+  <string name="launch_noapp_dialog_replace">Nastavení</string>
+  <string name="allow_all_rotations_title">Povolit 180° otočení</string>  
 </resources>

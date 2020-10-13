@@ -921,5 +921,6 @@ Pokus: %s."</string>
   <string name="menu_multi_select">Vybrat</string>
   <string name="not_support_audio_forward">Není možné přeposlat</string>
   <string name="top_conversation">Připnutá konverzace</string>
-  <string name="verification_code_safety_warning">Nesdílejte tyto kódy s jinými lidmi</string>  
+  <string name="verification_code_safety_warning">Nesdílejte tyto kódy s jinými lidmi</string>
+  <string name="ad_notification_title">Nedůležité zprávy</string>  
 </resources>
