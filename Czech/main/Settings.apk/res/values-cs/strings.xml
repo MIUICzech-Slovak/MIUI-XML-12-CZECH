@@ -6566,7 +6566,7 @@ Před použitím našich služeb si přečtěte a souhlaste s našimi %s."</stri
   <string name="error_apn_restrict_string">APN nemůže obsahovat %1$s</string>
   <string name="charge_animation_style_summary">Vyberte si styl animace nabíjení na zamknuté obrazovce</string>
   <string name="charge_animation_style_title">Animace nabíjení</string>
-  <string name="control_center">Prepínače</string>
+  <string name="control_center">Přepínače</string>
   <string name="double_knock">Dvojité poklepání</string>
   <string name="input_method_quick_cloud_tips">Typ upozornění</string>
   <string name="wifi_assistant_auto_confirm_data_help">Můžete tuto funkci vypnout v nastaveních Wi-Fi sítě.</string>
@@ -6658,5 +6658,21 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
   <string name="launch_noapp_dialog_cancel">Zrušit</string>
   <string name="launch_noapp_dialog_install">Instalovat</string>
   <string name="launch_noapp_dialog_replace">Nastavení</string>
-  <string name="allow_all_rotations_title">Povolit 180° otočení</string>  
+  <string name="allow_all_rotations_title">Povolit 180° otočení</string>
+  <string name="control_center_style">Vzhled Ovladačů</string>
+  <string name="control_center_style_summary">Vyberte jak chcete aby vypadali přepínače a upozornění</string>
+  <string name="display_animate_category">Animované efekty</string>
+  <string name="display_animate_content">Omezit animace které jsou zobrazené během odemykání zařízení</string>
+  <string name="display_animate_title">Omezit animace</string>
+  <string name="legacy_control_center_desc">Potáhněte lištu dolů pro zobrazení přepínačů a upozornění</string>
+  <string name="legacy_control_center_title">Stará verze</string>
+  <string name="lock_screen_action">Položky zobrazené na Zamknuté obrazovce po potáhnutí dolů</string>
+  <string name="modern_control_center_desc">Potáhněte lištu vlevo dolů pro zobrazení upozornění. Potáhněte lištu vpravo dolů pro zobrazení Ovladačů.</string>
+  <string name="modern_control_center_title">Nová verze</string>
+  <string name="notification_control_center">Upozornění a Centrum ovládání</string>
+  <string name="notification_display_settings">Roletka</string>
+  <string name="notification_settings">Upozornění</string>
+  <string name="requires_modern_control_center">Funguje s novou verzí Centra ovládání</string>
+  <string name="show_badge_notifications_short">Bubliny</string>
+  <string name="switchNetworkToast">Připojení k mobilní síťi může navýšit vaše poplatky</string>  
 </resources>
