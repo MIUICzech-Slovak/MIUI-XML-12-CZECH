@@ -4090,6 +4090,7 @@ z vašeho hraní her"</string>
   <string name="stranger_call_dialog_add_contacts">Nový kontakt</string>
   <string name="stranger_call_dialog_notification_body">Přidat mezi kontakty nebo blokovat</string>
   <string name="stranger_call_dialog_notification_title_format">Neznámé číslo %s</string>
-  <string name="stranger_call_dialog_title">"Neznámé číslo "</string>  
+  <string name="stranger_call_dialog_title">"Neznámé číslo "</string>
+  <string name="cellular_data_auto_check">Automaticky zkontrolovat</string>  
 </resources>
   

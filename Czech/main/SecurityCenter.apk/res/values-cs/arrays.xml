@@ -250,7 +250,7 @@
         <item>Některé neověřené aplikace mohou obsahovat virus nebo malware.</item>
     </string-array>
     <string-array name="cellular_package_type">
-        <item>Mesační data</item>
+        <item>Měsíční data</item>
         <item>Neomezené</item>
         <item>Denní data</item>
     </string-array>
