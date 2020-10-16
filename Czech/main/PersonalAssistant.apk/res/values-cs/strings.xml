@@ -587,7 +587,6 @@
   <string name="app_pa_setting_service_memory">Vyčistit paměť</string>
   <string name="app_pa_setting_service_my_collection">Oblíbené</string>
   <string name="app_pa_setting_service_my_collection_summary">Zde uložte oblíbené aplikace</string>
-  <string name="app_pa_setting_service_note">Poznámky</string>
   <string name="app_pa_setting_service_note_summary">Vytvořte krátké poznámky v asistentovi</string>
   <string name="app_pa_setting_service_personal">Osobní služby</string>
   <string name="app_pa_setting_service_personal_manage_list_summary">Obsah</string>

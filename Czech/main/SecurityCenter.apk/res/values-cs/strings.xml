@@ -3139,7 +3139,6 @@ Respektujeme a chráníme vaše soukromí."</string>
   <string name="top_no_network_detial">Nelze načíst, zkontrolujte nastavení sítě</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Měsíční balíček změněn na %s.</string>
   <string name="traffic_alert_auto_modify_notification_titile">Datový plán aktualizován</string>
-  <string name="traffic_alert_auto_modify_package_summary">"Automaticky upravit datový balíček podle informací operátora"</string>
   <string name="traffic_config_alert_auto_modify">Automaticky aktualizovat měsíční balíček</string>
   <string name="traffic_config_alert_body">"Účtování vašeho operátora ukazuje, že jste použili %s
 Aktualizovat informace o využití dat?"</string>
