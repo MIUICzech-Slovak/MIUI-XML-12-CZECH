@@ -6673,5 +6673,8 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
   <string name="notification_settings">Upozornění</string>
   <string name="requires_modern_control_center">Funguje s novou verzí Centra ovládání</string>
   <string name="show_badge_notifications_short">Bubliny</string>
-  <string name="switchNetworkToast">Připojení k mobilní síťi může navýšit vaše poplatky</string>  
+  <string name="switchNetworkToast">Připojení k mobilní síťi může navýšit vaše poplatky</string>
+  <string name="usb_use_file_transfers_miui12_5">Přenos souborů</string>
+  <string name="usb_use_miui12_5">Použít USB pro</string>
+  <string name="usb_use_photo_transfers_miui12_5">Přenos fotografií</string>
 </resources>
