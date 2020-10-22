@@ -4090,6 +4090,11 @@ z vašeho hraní her"</string>
   <string name="stranger_call_dialog_notification_body">Přidat mezi kontakty nebo blokovat</string>
   <string name="stranger_call_dialog_notification_title_format">Neznámé číslo %s</string>
   <string name="stranger_call_dialog_title">"Neznámé číslo "</string>
-  <string name="cellular_data_auto_check">Automaticky zkontrolovat</string>  
+  <string name="cellular_data_auto_check">Automaticky zkontrolovat</string>
+  <string name="battery_health_level_text">Zdraví baterie</string>
+  <string name="battery_status_level_excellent">Výborný</string>
+  <string name="battery_status_level_good">Dobrý</string>
+  <string name="battery_status_level_normal">Normální</string>
+  <string name="battery_status_level_poor">Slabý</string>
 </resources>
   
