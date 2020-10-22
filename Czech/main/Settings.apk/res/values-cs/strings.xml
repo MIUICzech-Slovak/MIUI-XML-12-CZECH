@@ -6677,4 +6677,9 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
   <string name="usb_use_file_transfers_miui12_5">Přenos souborů</string>
   <string name="usb_use_miui12_5">Použít USB pro</string>
   <string name="usb_use_photo_transfers_miui12_5">Přenos fotografií</string>
+  <string name="dark_mode_apps_header">Jednotlivé aplikace</string>
+  <string name="dark_mode_font_background_title">Přizpůsobit text a pozadí</string>
+  <string name="exterior">Barevné schéma</string>
+  <string name="light_color_mode">Světlý režim</string>
+  <string name="more_dark_mode_settings">Více nastavení Tmavého režimu</string>
 </resources>
