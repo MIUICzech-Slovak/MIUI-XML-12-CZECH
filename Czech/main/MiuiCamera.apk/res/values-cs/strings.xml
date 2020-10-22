@@ -884,7 +884,7 @@ skenované dokumenty automaticky"</string>
      <string name="pref_custom_shutter_sound_title">Zvuk</string>
      <string name="pref_custom_tint_title">Barvy</string>
      <string name="pref_customization_title">Upravit</string>
-     <string name="pref_dual_camera_video">Přední a zadní</string>
+     <string name="pref_dual_camera_video">Duální video</string>
      <string name="pref_retain_camera_common_mode_summary">Otevřít Fotoaparát v posledním použitém režimu</string>
      <string name="auxiliary_close_status">Dodatečné efekty jsou vypnuté</string>
      <string name="auxiliary_exposure_feedback_status">Ověření expozice je zapnuté</string>
@@ -1048,5 +1048,31 @@ skenované dokumenty automaticky"</string>
   <string name="pref_camera_delay_capture_10s">%ds zpoždění</string>
   <string name="pref_camera_delay_capture_3s">%ds zpoždění</string>
   <string name="pref_camera_delay_capture_5s">%ds zpoždění</string>
+	<string name="accessibility_dual_video_merged">Kombinované video</string>
+    <string name="accessibility_dual_video_standalone">Oddělené videa</string>
+    <string name="auto_hibernation_enter_tip">O vypnutí displeje…</string>
+    <string name="download_cancel_hint">Zrušit stahování %1$s?</string>
+    <string name="download_confirm">Stáhnout</string>
+    <string name="download_hint">%1$sMB mobilních dat bude použitých pro stáhnutí. Pokračovať?</string>
+    <string name="download_title">Spotřeba mobilních dat</string>
+    <string name="dual_video_record_merged">Kombinované</string>
+    <string name="dual_video_record_standalone">Oddělené</string>
+    <string name="dual_video_user_guide_main_content">Pro vytvoření multicam videí, vyberte dva fotoaparáty a nahrávejte najednou. Nahrávky mohou být uložené zvlášť nebo zkombinované do jednoho videa.</string>
+    <string name="dual_video_user_guide_main_title">Multicam video</string>
+    <string name="dual_video_user_guide_merge_content">Nahrávat s dvěma fotoaparáty najednou a zkombinovat nahrávky do jednoho videa.</string>
+    <string name="dual_video_user_guide_standalone_content">Nahrávat s dvěma fotoaparáty najednou a uložit nahrávky samostatně.</string>
+    <string name="fastmotion_pro_adjust_name">Parametry</string>
+    <string name="fastmotion_pro_save_time_infinity">Neomezená délka</string>
+    <string name="fastmotion_pro_save_time_min_and_sec">Délka: %1$s %2$s</string>
+    <string name="fastmotion_pro_save_time_min_or_sec">Délka: %1$s</string>
+    <string name="live_draft_continue">Obnovit</string>
+    <string name="live_draft_empty">Žádné položky</string>
+    <string name="live_edit_exit_message_draft">Uložit jako koncept</string>
+    <string name="live_workspace_title">Koncepty</string>
+    <string name="live_workspace_title_edit">Vyberte položky pro vymazání</string>
+    <string name="pref_camera_auto_hibernation">Nahrávat s vypnutým displejem</string>
+    <string name="pref_camera_auto_hibernation_description">Vypnout displej po %dmin pro úsporu baterie</string>
+    <string name="update_loading">Stáhnuté %1$d%%</string>
+    <string name="update_start">Aktualizace %1$s</string>
 </resources>
   
