@@ -6682,4 +6682,14 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
   <string name="exterior">Barevné schéma</string>
   <string name="light_color_mode">Světlý režim</string>
   <string name="more_dark_mode_settings">Více nastavení Tmavého režimu</string>
+  <string name="advanced_screen_paper_mode_title">Režim čtení</string>
+  <string name="screen_paper_mode_description">Režim čtení upravuje zobrazení barev a textur pro nižší namáhání očí</string>
+  <string name="set_screen_paper_mode">Režim čtení</string>
+  <string name="enabled">Zap</string>
+  <string name="not_enabled">Vyp</string>
+  <string name="other_input_method">Ostatní klávesnice</string>
+  <string name="sync_success">Synchronizováno</string>
+  <string name="usb_reverse_charge">Reverzní nabíjení</string>
+  <string name="gxzw_lowlight_open_summary">Snížit jas ikony otisku prstu v tmavém prostředí. Zařízení se může odemykat pomaleji když je tato funkce povolená.</string>
+  <string name="gxzw_lowlight_open_title">Snížený jas otisku prstu</string>
 </resources>

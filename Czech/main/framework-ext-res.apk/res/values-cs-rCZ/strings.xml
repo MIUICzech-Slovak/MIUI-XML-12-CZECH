@@ -283,5 +283,6 @@
   <string name="bluetooth_close">Tato aplikace vypla Bluetooth</string>
   <string name="bluetooth_open">Tato aplikace zapla Bluetooth</string>
   <string name="input_method_clipboard_move_cursor_guide1">Stlačte a podržte modrou oblast pro pohyb kurzoru ~</string>
-  <string name="input_method_clipboard_move_cursor_guide2">Pohněte prstem vodorovně ~</string>  
+  <string name="input_method_clipboard_move_cursor_guide2">Pohněte prstem vodorovně ~</string>
+  <string name="notification_channel_hotspot">Hotspot upozornění</string>
 </resources>

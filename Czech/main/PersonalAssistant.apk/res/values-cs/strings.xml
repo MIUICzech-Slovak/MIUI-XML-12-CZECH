@@ -609,4 +609,8 @@
   <string name="app_display_setting_edit_instruction">Hlavička je zobrazena na vrchu asistenta. Může obsahovat maximálně 28 znaků.</string>
   <string name="app_display_setting_edit_toast">Tato hlavička je příliš dlouhá</string>
   <string name="app_display_setting_title">Zmenit hlavičku</string>
+  <string name="agenda_all_day">Celý den</string>
+  <string name="app_course_current_week">Týden %1$d</string>
+  <string name="app_course_on_going">Probíhá</string>
+  <string name="agenda_tip_going">Probíhá</string>
 </resources>

@@ -162,5 +162,14 @@ N e"</string>
   <string name="material_slider_range_end">Konec rozsahu,</string>
   <string name="material_slider_range_start">Začátek rozsahu,</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Více než %1$d upozornění</string>
+  <string name="add_custom_image">Vlastní obrázek</string>
+  <string name="share">Sdílet</string>
+  <string name="always_style_symmary">Spotřebuje více energie</string>
+  <string name="ambient_display_screen_title">Always-on displej</string>
+  <string name="ambient_display_screen_title_sp">Ambientní displej</string>	
+  <string name="off">Vyp</string>
+  <string name="on">Zap</string>
+  <string name="scheduled_style_summary">Nastavit vlastní čas</string>
+  <string name="temporary_style_summary">Doporučené</string>
 </resources>
 

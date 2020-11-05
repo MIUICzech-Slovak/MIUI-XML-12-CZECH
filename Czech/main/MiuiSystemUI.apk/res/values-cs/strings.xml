@@ -2186,4 +2186,8 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="quick_settings_vowifi_label">Wi-Fi Volání</string>
   <string name="quick_settings_vowifi_sim1_label">Wi-Fi Volání SIM1</string>
   <string name="quick_settings_vowifi_sim2_label">Wi-Fi Volání SIM2</string>
+  <string name="miui_toast_zen_dnd_to_off_version_R">Režim Nerušit je vypnutý. Zvuky upozornění a vibrace jsou povolené.</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">Režim Nerušit je vypnutý. Zvuky upozornění a vibrace jsou povolené.</string>
+  <string name="miui_toast_zen_to_dnd_version_R">Režim Nerušit je povolený. Zvuky upozornění a vibrace jsou vypnuté.</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Režim Nerušit je povolený. Zvuky upozornění a vibrace jsou vypnuté.</string>
 </resources>

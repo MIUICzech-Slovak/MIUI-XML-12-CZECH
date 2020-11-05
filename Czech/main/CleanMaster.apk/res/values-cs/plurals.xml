@@ -171,4 +171,8 @@
         <item quantity="other">Nalezených %d apl.</item>
         <item quantity="one">Nalezených %d apl.</item>
     </plurals>
+	<plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Vymazat %d instalačních balíčků</item>
+        <item quantity="one">Vymazat %d instalační balíček</item>
+    </plurals>
 </resources>

@@ -8,4 +8,8 @@
         <item quantity="other">%d permissions</item>
         <item quantity="one">%d permission</item>
     </plurals>
+	<plurals name="miui_app_privacy_permission_number">
+        <item quantity="other">Soukromé povolení</item>
+        <item quantity="one">Soukromé povolení</item>
+    </plurals>
 </resources>

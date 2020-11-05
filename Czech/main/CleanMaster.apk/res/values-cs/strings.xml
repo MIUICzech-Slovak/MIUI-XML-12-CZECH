@@ -718,6 +718,25 @@
   <string name="permission_dialog_storage_btn1">Nastavení</string>
   <string name="permission_dialog_storage_btn2">Zrušit</string>
   <string name="permission_dialog_storage_content">Čistič vyžaduje povolení pro přístup k internímu úložišti.</string>
-  <string name="permission_dialog_storage_title">Vyžadují se povolení</string>  
+  <string name="permission_dialog_storage_title">Vyžadují se povolení</string>
+  <string name="notification_checker_installed_apk_hint">Není třeba zachovat APK soubory po jejich instalaci</string>
+  <string name="notification_checker_picture_hint_a">Obrázky v cache mohou zabírat hodně místa na úložišti</string>
+  <string name="notification_checker_picture_hint_b">Uvolněte místo na úložišti vymazáním souborů které už nepotřebujete</string>
+  <string name="notification_checker_picture_text_a">Vymazat obrázky v cache</string>
+  <string name="notification_checker_picture_text_b">Vymazat %s obrázků v cache</string>
+  <string name="notification_garbage_clean_botton_text_new">Vymazat</string>
+  <string name="notification_garbage_clean_hint_new">Nechte své zařízení stoupat</string>
+  <string name="notification_garbage_clean_size_found">Máte %s odpadu</string>
+  <string name="notification_garbage_clean_size_found_hint">Je čas vyprázdnit odpad!</string>
+  <string name="notification_garbage_clean_size_found_text">Máte mnoho odpadu</string>
+  <string name="notification_garbage_clean_size_new">Uvolníte %s na úložišti</string>
+  <string name="notification_low_memory_button_text">Opravit</string>
+  <string name="notification_low_memory_hint">Odpad spomaluje vaše zařízení</string>
+  <string name="notification_low_memory_text">Dochází vám volná paměť</string>	
+  <string name="notification_low_storage_size">Zůstává vám méně než %s z úložiště</string>
+  <string name="notification_low_storage_size_1_gb_hint">Uvolněte místo na úložišti pro zrychlení vašeho zařízení</string>
+  <string name="notification_low_storage_size_1p5_gb_hint">Vyprázdněte odpad pro zrychlení vašeho zařízení</string>
+  <string name="notification_uninstall_clean_hint">Vyprázdněte odpad pro uvolnění místa na úložišti</string>
+  <string name="notification_uninstall_clean_text">Odinstalované aplikace zanechávají odpad ve vašem zařízení</string>
 </resources>
 

@@ -1977,4 +1977,22 @@
   <string name="cleaner_empty">Vymazat vše</string>
   <string name="empty" />
   <string name="empty_description_conditions_new">Pro zobrazení položek připojte nabíječku a vypněte obrazovku</string>
+  <string name="photodetail_failed_already_exist">Tento soubor již existuje</string>
+  <string name="photodetail_rename_failed">"Nelze přejmenovat"</string>
+  <string name="photodetail_rename_invalid">"Názvy souborů nemohou obsahovat tyto znaky: /\\:*?&lt;>|."</string>
+  <string name="photodetail_rename_success">Dokončeno</string>
+  <string name="photodetail_rename_title">Přejmenovat</string>
+  <string name="photodetail_rename_too_long">Název je příliš dlouhý</string>
+  <string name="download_type_origin_subtitle_china">Originální fotografie zabírají více místa na úložišti a mohou být stáhnuty jen přes Wi-Fi</string>
+  <string name="download_type_origin_title">Originál</string>
+  <string name="download_type_thumbnail_subtitle">Fotografie ve vysokém rozlišení vypadají skoro stejně jako originální ale zabírají méně místa</string>
+  <string name="download_type_thumbnail_title">Vysoká kvalita</string>
+  <string name="new_album_invalid_byte">Název je příliš dlouhý</string>
+  <string name="notice_click_lock_orientation">Dotykem uzamknete orientaci</string>
+  <string name="operation_replace_album_cover">Změnit náhled alba</string>
+  <string name="operation_replace_album_cover_custom_mode">Vlastní</string>
+  <string name="operation_replace_album_cover_default_mode">Předvolený</string>
+  <string name="photo_page_lock_screen">Uzamknout orientaci</string>
+  <string name="toast_orientation_locked">Orientace uzamknuta</string>
+  <string name="watch_all_photo">Galerie</string
 </resources>
