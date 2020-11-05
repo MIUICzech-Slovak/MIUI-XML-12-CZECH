@@ -1994,5 +1994,5 @@
   <string name="operation_replace_album_cover_default_mode">Předvolený</string>
   <string name="photo_page_lock_screen">Uzamknout orientaci</string>
   <string name="toast_orientation_locked">Orientace uzamknuta</string>
-  <string name="watch_all_photo">Galerie</string
+  <string name="watch_all_photo">Galerie</string>
 </resources>
