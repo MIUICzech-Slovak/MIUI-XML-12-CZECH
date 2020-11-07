@@ -3812,7 +3812,7 @@ Zbývající data zahrnují i data, která byla převedena z předchozího měs�
      <string name="privacy_informed_title">Statistiky</string>
      <string name="privacy_location_info_summary">Spravovat přístup k vaší poloze</string>
      <string name="privacy_location_info_title">Informace o poloze</string>
-     <string name="privacy_look_all_permission_status">Všechny povolení</string>
+     <string name="privacy_look_all_permission_status">Všechna povolení</string>
      <string name="privacy_look_all_permission_times">Všechny aplikace</string>
      <string name="privacy_manage_title">Spravovat</string>
      <string name="privacy_more_info_title">Zjistěte více o funkci ochrany soukromí</string>
@@ -4139,5 +4139,6 @@ z vašeho hraní her"</string>
   <string name="privacy_thumbnail_blur_category_tip">Doporučené</string>
   <string name="privacy_thumbnail_blur_search_empty">Nic se nenašlo</string>
   <string name="privacy_thumbnail_blur_title">Rozmazání náhledů</string>
+  <string name="ew_main_close_title">Upozornění</string>
 </resources>
   
