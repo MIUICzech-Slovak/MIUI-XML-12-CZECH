@@ -444,4 +444,8 @@ http://www.miuios.cz/rom
   <string name="sync_note_folder">%1$s a %2$s</string>
   <string name="sync_note_todo">%1$s a %2$s</string>
   <string name="edit_note_hint_title">Název</string>
+  <string name="doodle_saving">Ukládání</string>
+  <string name="doodle_tool_background">Změnit pozadí</string>
+  <string name="doodle_tool_text_dialog_hint">Zadejte text</string>
+  <string name="toolbar_done_description">Hotovo</string>
 </resources>
