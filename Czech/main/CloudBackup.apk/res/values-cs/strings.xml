@@ -64,7 +64,7 @@
 *  Nastavení systému a MIUI 
 Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Plánování zálohy</string>
-  <string name="cloud_back_up_frequence_long">Každých 7 dní</string>
+  <string name="cloud_back_up_frequence_long">Každých %d dní</string>
   <string name="cloud_back_up_frequence_short">Každý den</string>
   <string name="cloud_back_up_interval_long">7 dní</string>
   <string name="cloud_back_up_interval_short">Každý den</string>
@@ -282,4 +282,6 @@ Není možné zálohovat"</string>
 Není možné zálohovat"</string>
   <string name="backup_warning_reason_no_server_response">"Připojení bylo přerušené
 Zkuste to znova"</string>
+  <string name="cloud_backup_detail_frequence_every_7_day">Zálohovat každých %d dní</string>
+  <string name="cloud_backup_detail_frequence_every_day">Zálohovat každý den</string>
 </resources>

@@ -258,4 +258,18 @@ Zadejte město manuálně"</string>
   <string name="international_details_chance_of_rain">MOŽNOST DEŠTĚ</string>
   <string name="international_details_humidity">VLHKOST VZDUCHU</string>
   <string name="international_details_humidity_title">VLHKOST</string>
+  <string name="content_desc_close_button">Zavřít</string>
+  <string name="dialog_internet_error_title">Nastala chyba</string>
+  <string name="download_rsc_tips">Načítání zvuku…</string>
+  <string name="dynamic_weather">Počasí</string>
+  <string name="no_internet_message">Vaše zařízení vyžaduje připojení na internet pro zobrazení obsahu. Zkontrolujte nastavení a zkuste to znova.</string>
+  <string name="non_wifi_environment">Připojte se k Wi-Fi pro stáhnutí zvuků</string>
+  <string name="revoke_fail">Nebylo možné připojit se k síti</string>
+  <string name="revoke_privacy_policy_title">Odvolání souhlasu</string>
+  <string name="save_to_gallery_failure_message">Nebylo možné uložit do Galerie</string>
+  <string name="save_to_gallery_icon_name">Uložit do Galerie</string>
+  <string name="save_to_gallery_success_message">Uloženo do Galarie</string>
+  <string name="weather_aqi_full_air_quality_forcast">Předpověď kvality ovzduší</string>
+  <string name="weather_more_air_quality">Více o kvalitě ovzduší</string>
+  <string name="welcome_app_title">Vítejte v Počasí!</string>
  </resources>

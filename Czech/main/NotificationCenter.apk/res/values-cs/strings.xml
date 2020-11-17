@@ -82,5 +82,24 @@ Nahlašte tento problém &gt;"</string>
   <string name="channel_name_aggregation">Sloučené upozornění</string>
   <string name="channel_name_notification">Upozornění aplikací</string>
   <string name="channel_name_recovered">Obnovené upozornění</string>
+  <string name="show_weather">Zobrazit info o počasí</string>
+  <string name="channel_keyguard_hide_content">Zobrazit všechna upozornění ale skrýt jejich obsah</string>
+    <string name="channel_keyguard_show_content">Zobrazit všechna upozornění i jejich obsah</string>
+    <string name="channel_keyguard_show_nothing">Nezobrazovat upozornění</string>
+    <string name="fold_importance_default">Doporučené</string>
+    <string name="fold_importance_important">Důležité</string>
+    <string name="fold_importance_unimportant">Nedůležité</string>
+    <string name="fold_title">Pravidla pro sloučené upozornění</string>
+    <string name="notification_keyguard_hide_content">Zobrazit upozornění ale skrýt jejich obsah</string>
+    <string name="notification_keyguard_show_content">Zobrazit upozornění i jejich obsah</string>
+    <string name="notification_keyguard_show_nothing">Nezobrazovat upozornění na zamykací obrazovce</string>
+    <string name="rule_keyguard_display">Formát</string>
+    <string name="summary_aggregate_default">Reklamní upozornění budou sloučené</string>
+    <string name="summary_aggregate_home">Upozornění nebudou sloučené</string>
+    <string name="summary_fold_importance_default">MIUI bude rozhodovat která upozornění budou zobrazená přímo</string>
+    <string name="summary_fold_importance_important">Upozornění bude zobrazené v roletce</string>
+    <string name="summary_fold_importance_unimportant">Upozornění bude zobrazené ve složce</string>
+    <string name="title_aggregate_default">Sloučit upozornění</string>
+    <string name="title_aggregate_home">Neslučovat upozornění</string>
 </resources>
 
