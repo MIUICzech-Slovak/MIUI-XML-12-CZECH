@@ -81,7 +81,7 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="preference_silent_mode">Nahrávání v tichém režimu</string>
   <string name="preference_status_bar_indicator_prompt">Zobrazit zkratku v roletce během nahrávání</string>
   <string name="preference_tip_rename">Přejmenovat nahrávku po dokončení nahrávání</string>
-  <string name="privacy_policy_title">Zásady ochrany osobních údajů</string>
+  <string name="privacy_policy_title">Ochrana soukromí</string>
   <string name="recognition_error_cancel">Zrušeno</string>
   <string name="recognition_error_download_cancel">Později</string>
   <string name="recognition_error_download_fail">Stahování selhalo. Zkontrolujte nastavení sítě</string>
@@ -199,5 +199,4 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="trash_box_close_tip">Zavřít</string>
   <string name="trash_box_delete_all">Vymazat všechny položky z koše?</string>
   <string name="no_network">Nebylo možné připojit se k síti</string>
-  <string name="privacy_policy_title">Ochrana soukromí</string>
 </resources>

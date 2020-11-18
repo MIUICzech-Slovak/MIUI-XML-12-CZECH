@@ -6741,9 +6741,6 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="accessibility_autoclick_short_summary">0.2s</string>
     <string name="accessibility_autoclick_short_title">Krátké</string>
     <string name="accessibility_autoclick_shorter_desc">Kratší</string>    
-    <string name="set_screen_paper_mode">Čtecí režim</string>
-    <string name="advanced_screen_paper_mode_title">Čtecí režim</string>
-    <string name="screen_paper_mode_description">Čtecí režim upravuje barvy a textúry položek na displeji</string>
     <string name="classic_mode_summary">Přepnout na teplejší barvy pro omezení modrého světla</string>
     <string name="classic_mode_title">Klasický</string>
     <string name="paper_mode_summary">Přepnout na teplejší barvy a textúru papíru pro snížení únavy očí</string>
