@@ -412,5 +412,7 @@ Můžete je i znovu stáhnout."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
   <string name="secondspace_homepage">"Nastavte zámek obrazovky pro Druhý profil.
-Oddělte a zabezpečte svá data."</string>  
+Oddělte a zabezpečte svá data."</string>
+  <string name="xspace_guide_description">"Každý účet
+si zaslouží vlastní aplikaci"</string> 
 </resources>

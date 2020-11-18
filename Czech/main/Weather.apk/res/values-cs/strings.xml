@@ -269,7 +269,10 @@ Zadejte město manuálně"</string>
   <string name="save_to_gallery_failure_message">Nebylo možné uložit do Galerie</string>
   <string name="save_to_gallery_icon_name">Uložit do Galerie</string>
   <string name="save_to_gallery_success_message">Uloženo do Galarie</string>
-  <string name="weather_aqi_full_air_quality_forcast">Předpověď kvality ovzduší</string>
+  <string name="weather_aqi_full_air_quality_forcast">Předpověď</string>
   <string name="weather_more_air_quality">Více o kvalitě ovzduší</string>
   <string name="welcome_app_title">Vítejte v Počasí!</string>
+  <string name="realtime_aqi_title">Index kvality ovzduší</string>
+    <string name="aqi_desc">Index kvality ovzduší</string>
+    <string name="aqi_detail_title">Index kvality ovzduší</string>
  </resources>

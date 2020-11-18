@@ -616,5 +616,6 @@ Zkontrolujte také složku SPAM."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
-  <string name="copy_to_clipboard_successful">Zkopírováno</string>  
+  <string name="copy_to_clipboard_successful">Zkopírováno</string>
+  <string name="help_center">Pomoc</string>  
 </resources>

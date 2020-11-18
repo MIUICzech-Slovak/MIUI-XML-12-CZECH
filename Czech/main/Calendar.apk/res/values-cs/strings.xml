@@ -540,7 +540,7 @@
   <string name="view_in_month_view">Zobrazit v měsíci</string>
   <string name="week_view">Týden</string>
   <string name="week_view_today_toast">Je zobrazen tento týden</string>
-  <string name="weekly">Týdně (vždy %s)</string>
+  <string name="weekly">Týdně (vždy v %s)</string>
   <string name="what_label">Co</string>
   <string name="when_label">Kdy</string>
   <string name="where_label">Kde</string>
@@ -767,5 +767,6 @@
   <string name="txt_account_exist">Účet už existuje</string>
   <string name="txt_account_name_empty">Prázdný název účtu</string>
   <string name="txt_caldav_account_info_not_found">Není možné získat informace o účtě</string>
-  <string name="txt_password">Heslo</string>  
+  <string name="txt_password">Heslo</string>
+  <string name="import_help">Pomoc</string>  
 </resources>

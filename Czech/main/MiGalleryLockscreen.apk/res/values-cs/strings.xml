@@ -273,5 +273,8 @@
   <string name="enable_toast_cw">Přepnuto na prezentaci</string>
   <string name="enable_toast_cwo">Zapnout Denní tapety a spustit prezentaci</string>
   <string name="enable_toast_subscribe">Zapnout Denní tapety a získat odběr</string>
+  <string name="sst_wallpaper_define_title2">Přidat obrázky</string>
+  <string name="theme_title_lock_style">Přepnout na předvolený zámek obrazovky</string>
+  <string name="theme_des_maml">Může to chvilku trvat. Ostatní komponenty vzhledu nebudou ovlivněny.</string>
 </resources>
 

@@ -278,4 +278,8 @@
         <item quantity="other">Zadajte aspoň %d znaků</item>
         <item quantity="one">Zadajte aspoň %d znak</item>
      </plurals>
+	 <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">Wi-Fi bude automaticky zapnutá pokud vaše zařízení zjistí v blízkosti uloženou Wi-Fi síť a vypne se po %d minútách když není připojená</item>
+        <item quantity="one">Wi-Fi bude automaticky zapnutá pokud vaše zařízení zjistí v blízkosti uloženou Wi-Fi síť a vypne se po %d minutě když není připojená</item>
+    </plurals>
 </resources>

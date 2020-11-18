@@ -76,7 +76,7 @@
   <string name="usage_state_show_category">Kategorie</string>
   <string name="usage_state_show_detail">Zobrazit statistiky</string>
   <string name="usage_state_show_more">Více</string>
-  <string name="usage_state_sunday">Neď</string>
+  <string name="usage_state_sunday">Ned</string>
   <string name="usage_state_thursday">Čtv</string>
   <string name="usage_state_time_end">Dosáhli jste dnešní limit zobrazení</string>
   <string name="usage_state_today">Dnes</string>

@@ -171,5 +171,13 @@
   <string name="music_headset_select_settings">Výběr sluchátek</string>
   <string name="ringtone_output_device_summary">Pokud je připojeno periferní zařízení (kabelová sluchátka nebo Bluetooth zařízení), bude přehrávano vyzvánění nebo upozornění také v reproduktoru telefonu</string>
   <string name="ringtone_output_device_title">Ponechat vyzvánět telefon</string>
+  <string name="choose_bluetooth_device">Vyberte zařízení</string>
+    <string name="end_wireless_transmission">Zastavit</string>
+    <string name="switch_bluetooth_device">Zmenit zařízení</string>
+    <string name="wireless_transmission">Bezdrátový reproduktor</string>
+    <string name="wireless_transmission_cancel">Zrušit</string>
+    <string name="wireless_transmission_confirm">Zapnout</string>
+    <string name="wireless_transmission_definition">Přenášet zvuk z mikrofónu do externího Bluetooth zařízení</string>
+    <string name="wireless_transmission_prompt">Pro přenos zvuku musíte povolit Bluetooth. Chcete ho zapnouť?</string>
 </resources>
 
