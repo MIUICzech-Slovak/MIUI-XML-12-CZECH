@@ -3970,8 +3970,8 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="screen_paper_mode_range_title">Nastavení</string>
   <string name="screen_paper_mode_set_apps_title">Vlastní čtecí režim</string>
   <string name="screen_paper_mode_summary">Při dlouhodobém čtení bude potlačena modrá barva</string>
-  <string name="screen_paper_mode_time_summary">Režim čtení nastaven dle času</string>
-  <string name="screen_paper_mode_time_title">Naplánováno</string>
+  <string name="screen_paper_mode_time_summary">Nastavení režimu čtení dle času</string>
+  <string name="screen_paper_mode_time_title">Naplánovat</string>
   <string name="screen_paper_mode_title">Režim čtení</string>
   <string name="screen_paper_mode_turn_off">Zakázáno</string>
   <string name="screen_paper_mode_turn_on">Povoleno</string>
@@ -6766,4 +6766,11 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="bt_audio_share_switch_summary">Sdílet zvuk s připojenými Bluetooth zařízeními</string>
     <string name="bt_audio_share_switch_title">Sdílet zvuk</string>
     <string name="tether_password_illegal_character">Heslo obsahuje nepovolené znaky</string>
+    <string name="manage_external_storage_title">Přístup ke všem souborům</string>
+    <string name="preview_pager_content_description">Náhled</string>
+    <string name="adjust_temperature_title">Teplota barvy</string>
+    <string name="texture_adjust_temperature_title">Teplota barvy</string>
+    <string name="screen_paper_texture">Textura</string>
+    <string name="paper_color_title">Barvy</string>
+    <string name="paper_mode_reset">Obnovit výchozí</string>
 </resources>
