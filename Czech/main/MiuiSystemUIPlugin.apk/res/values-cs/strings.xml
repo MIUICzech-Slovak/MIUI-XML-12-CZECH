@@ -78,12 +78,12 @@
     <string name="notification_control_center">Upozornění a Centrum ovládání</string>
     <string name="accessibility_volume_collapse">Zbalit</string>
     <string name="accessibility_volume_expand">Rozbalit</string>
-    <string name="miui_dnd_count_down">DND časovač</string>
-    <string name="miui_dnd_count_down_time">"DND časovač
+    <string name="miui_dnd_count_down">Časovač režimu Nerušit</string>
+    <string name="miui_dnd_count_down_time">"Časovač Nerušit
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">Nastavení</string>
     <string name="miui_guide_dialog_button_positive_text">Rozumím</string>
-    <string name="miui_guide_dialog_message">Zvuk médií (hudba, videa, atd.) budou stále prehrávané v Tichém režimu.</string>
+    <string name="miui_guide_dialog_message">Zvuk médií (hudba, videa, atd.) budou stále přehrávané v Tichém režimu.</string>
     <string name="miui_ringer_count_down">Odpočítávat</string>
     <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Ticho</string>
@@ -91,9 +91,9 @@
     <string name="miui_ringer_status_close">Vyp</string>
     <string name="miui_ringer_status_open">Zap</string>
     <string name="miui_ringer_total">Režim Nerušit</string>
-    <string name="miui_ringer_total_description">Ztíšit zvuky a vypnout vibrace pro všechno kromě budíku</string>
+    <string name="miui_ringer_total_description">Ztišit zvuky a vypnout vibrace pro všechno kromě budíku</string>
     <string name="miui_toast_zen_dnd_to_off">Režim Nerušit je vypnutý. Zvuky a vibrace jsou obnoveny.</string>
-    <string name="miui_toast_zen_standard_to_off">Režim Nerušit je vypnutý. Zvonení je obnoveno.</string>
+    <string name="miui_toast_zen_standard_to_off">Režim Nerušit je vypnutý. Zvonění je obnoveno.</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Režim Nerušit je vypnutý. Zvonění, upozornění a média budou přehrávány.</string>
     <string name="miui_toast_zen_to_dnd">Přepnuto do režimu Nerušit. Zvuky jsou ztišeny a vibrace vypnuty.</string>
     <string name="miui_toast_zen_to_standard">Přepnuto do Tichého režimu. Zvonění pro hovory a upozornění je ztišené.</string>
@@ -111,11 +111,11 @@
     <string name="timer_off">Vypnout</string>
     <string name="volume_dialog_accessibility_dismissed_message">Ovládání hlasitosti je skryté</string>
     <string name="volume_dialog_accessibility_shown_message">%s ovládání hlasitosti zobrazené. Potáhněte nahoru pro zrušení.</string>
-    <string name="wireless_charging_connected_message">Během bezdrátového nabíjení není možné použit reverzní nabíjení.</string>
-    <string name="wireless_charging_low_battery_level_message">Není možné použit reverzní nabíjení pokud má baterie meně jak 30%%.</string>
+    <string name="wireless_charging_connected_message">Během bezdrátového nabíjení není možné použít reverzní nabíjení.</string>
+    <string name="wireless_charging_low_battery_level_message">Není možné použít reverzní nabíjení pokud má baterie meně jak 30%%.</string>
     <string name="wireless_charging_ok">Rozumím</string>
     <string name="wireless_charging_saver_cancel">Vypnout</string>
-    <string name="wireless_charging_saver_message">Je povoleno šetrení baterie. Chcete nadále reverzně nabíjet?</string>
+    <string name="wireless_charging_saver_message">Je povoleno šetření baterie. Chcete nadále reverzně nabíjet?</string>
     <string name="wireless_charging_saver_ok">Pokračovat</string>
     <string name="wireless_charging_tips_disable">Více nezobrazovat</string>
     <string name="wireless_charging_tips_message">Položte zařízení které podporuje Qi bezdrátové nabíjení (telefon, příslušenství, atd.) na zadní stranu tohoto zařízení.</string>

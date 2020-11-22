@@ -56,5 +56,21 @@
     <plurals name="anonymous_resource_view">
         <item quantity="other">Nepřidány %1$d položky do vašeho účtu</item>
         <item quantity="one">Nepřidána %1$d položka do vašeho účtu</item>
-    </plurals>	
+    </plurals>
+    <plurals name="de_author_theme_amount">
+        <item quantity="other">Položek: %1$d</item>
+        <item quantity="one">Položek: %1$d</item>
+    </plurals>    
+    <plurals name="anonymous_resource_count_font">
+        <item quantity="other">Písma: %1$d</item>
+        <item quantity="one">Písma: %1$d</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_icon">
+        <item quantity="other">Ikony: %1$d</item>
+        <item quantity="one">Ikony: %1$d</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_theme">
+        <item quantity="other">Témata: %1$d</item>
+        <item quantity="one">Témata: %1$d</item>
+    </plurals> 	
 </resources>

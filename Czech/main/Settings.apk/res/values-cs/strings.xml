@@ -6773,4 +6773,16 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="screen_paper_texture">Textura</string>
     <string name="paper_color_title">Barvy</string>
     <string name="paper_mode_reset">Obnovit výchozí</string>
+    <string name="papger_effect_category">Režim</string>
+    <string name="effect_preview">Náhled</string>
+    <string name="ca_certificate_warning_description">"Certifikáty CA využívají weby, aplikace a VPN síťě na šifrování. Instalujte pouze certifikáty CA od organizací, kterým důvěřujete.
+    
+ Pokud si nainstalujete certifikát CA, vlastník certifikátu by mohl získat přístup k vaším údajům, například k heslům nebo údajům platební karty z webů nebo aplikací které používáte, a to i když jsou vaše údaje šifrované."</string>
+    <string name="ca_certificate_warning_title">Vaše údaje nebudou soukromé</string>    
+    <string name="cert_not_installed">Certifikát není nainstalovaný</string>
+    <string name="certificate_warning_dont_install">Neinstalovat</string>
+    <string name="certificate_warning_install_anyway">Instalovat</string>          
+    <string name="accessibility_summary_state_disabled">Vyp</string>
+    <string name="accessibility_summary_state_enabled">Zap</string>  
+    <string name="input_device_category">Vstupní zařízení</string>
 </resources>

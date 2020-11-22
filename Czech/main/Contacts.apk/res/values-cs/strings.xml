@@ -1416,6 +1416,8 @@ Vyberte si z následujících možností:</string>
   <string name="dialog_delete_contact_title">Mazání kontaktů</string>
   <string name="notification_click_detail">Zobrazit podrobnosti</string>
   <string name="notification_micloudsync_delete_contact">MiCloud chce vymazat některé kontakty</string>
+  <string name="v7_preference_off">Vyp</string>
+  <string name="v7_preference_on">Zap</string>
 </resources>
 
 

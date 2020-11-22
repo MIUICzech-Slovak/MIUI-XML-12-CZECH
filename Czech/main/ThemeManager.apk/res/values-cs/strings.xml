@@ -695,6 +695,9 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="super_wallpaper_setting_apply_success_toast">Použito</string>
     <string name="resource_wallpaper_download">Stáhnout tapetu</string>
     <string name="more_system_wallpaper">Více systémových tapet</string>
+    <string name="home_daily">Denní výběr</string>
+    <string name="detail_recommend_title">Mohou se vám líbit i tyto</string>
+    <string name="more">Více</string>
 </resources>
    
 

@@ -745,4 +745,5 @@ Velikost delta aktualizace: %2$s"</string>
     <string name="item_title_loan">Půjčka</string>
     <string name="dont_allow">"Nesouhlasím"</string>
 	<string name="item_title_data_conversion">Data</string>
+  <string name="convertion_unit_data">Převodník dat</string>
 </resources>

@@ -414,5 +414,6 @@ Můžete je i znovu stáhnout."</string>
   <string name="secondspace_homepage">"Nastavte zámek obrazovky pro Druhý profil.
 Oddělte a zabezpečte svá data."</string>
   <string name="xspace_guide_description">"Každý účet
-si zaslouží vlastní aplikaci"</string> 
+si zaslouží vlastní aplikaci"</string>
+  <string name="xspace_start">Vytvořit</string> 
 </resources>
