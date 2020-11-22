@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="download_title_multi">
+        <item quantity="other">%2$d súborov, vrátane %1$s</item>
+        <item quantity="one">%2$d súbor, vrátane %1$s</item>
+    </plurals>
+</resources>
