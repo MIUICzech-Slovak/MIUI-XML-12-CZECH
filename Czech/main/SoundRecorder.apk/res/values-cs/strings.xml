@@ -199,4 +199,6 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="trash_box_close_tip">Zavřít</string>
   <string name="trash_box_delete_all">Vymazat všechny položky z koše?</string>
   <string name="no_network">Nebylo možné připojit se k síti</string>
+  <string name="uninstall_warning_content">Záznamník je systémová aplikace. Pokud ji odinstalujete, některé funkce nemusí fungovat správně.</string>
+  <string name="uninstall_warning_title">Odinstalovat Záznamník?</string>
 </resources>

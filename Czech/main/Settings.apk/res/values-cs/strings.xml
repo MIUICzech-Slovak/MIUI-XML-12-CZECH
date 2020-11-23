@@ -6785,4 +6785,14 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="accessibility_summary_state_disabled">Vyp</string>
     <string name="accessibility_summary_state_enabled">Zap</string>  
     <string name="input_device_category">Vstupní zařízení</string>
+    <string name="gxzw_anim_dialog_cancel_enroll">Zrušit</string>
+    <string name="gxzw_anim_dialog_enroll">OK</string>
+    <string name="gxzw_anim_dialog_message">Nejprve musíte přidat otisk prstu. Chcete ho přidat nyní?</string>
+    <string name="gxzw_anim_dialog_title">Přidat otisk</string>
+    <string name="resolution_fhd">FHD+ (Full HD)</string>
+    <string name="resolution_fhd_summary">2400×1080</string>
+    <string name="resolution_qhd">QHD+ (Quad HD)</string>
+    <string name="resolution_qhd_summary">3200×1440 (vyšší spotřeba energie)</string>
+    <string name="save_battery_mode">Ušetřit energii s QHD+</string>
+    <string name="save_battery_mode_summary">Automaticky přepnout rozlišení displeje pro ušetření energie</string>
 </resources>
