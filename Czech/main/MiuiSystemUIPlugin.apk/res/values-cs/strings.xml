@@ -112,7 +112,7 @@
     <string name="volume_dialog_accessibility_dismissed_message">Ovládání hlasitosti je skryté</string>
     <string name="volume_dialog_accessibility_shown_message">%s ovládání hlasitosti zobrazené. Potáhněte nahoru pro zrušení.</string>
     <string name="wireless_charging_connected_message">Během bezdrátového nabíjení není možné použít reverzní nabíjení.</string>
-    <string name="wireless_charging_low_battery_level_message">Není možné použít reverzní nabíjení pokud má baterie meně jak 30%%.</string>
+    <string name="wireless_charging_low_battery_level_message">Není možné použít reverzní nabíjení pokud má baterie meně jak %d%%.</string>
     <string name="wireless_charging_ok">Rozumím</string>
     <string name="wireless_charging_saver_cancel">Vypnout</string>
     <string name="wireless_charging_saver_message">Je povoleno šetření baterie. Chcete nadále reverzně nabíjet?</string>

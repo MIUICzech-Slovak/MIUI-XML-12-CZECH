@@ -758,4 +758,60 @@
         <item quantity="other">%d položek potřebuje ochranu</item>
         <item quantity="one">%d položka potřebuje ochranu</item>
     </plurals>
+	<plurals name="notification_power_consume_issue">
+        <item quantity="other">%d problémů používání baterie</item>
+        <item quantity="one">%d problém používání baterie</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Optimalizovat %d položek pro úsporu baterie</item>
+        <item quantity="one">Optimalizovat %d položku pro úsporu baterie</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">krát</item>
+        <item quantity="one">krát</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d problémů používání baterie</item>
+        <item quantity="one">%d problém používání baterie</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" h"</item>
+        <item quantity="one">" h"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="power_center_battery_health_summary">
+        <item quantity="other">Nabíjte naplno vaše zařízení aspoň %2$d krát pro přesnější statistiky</item>
+        <item quantity="one">Nabíjte naplno vaše zařízení aspoň %2$d krát pro přesnější statistiky</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Opravit %d problémů používání baterie</item>
+        <item quantity="one">Opravit %d problém používání baterie</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">Můžete opravit %d problémů používání baterie</item>
+        <item quantity="one">Můžete opravit %d problém používání baterie</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d položek může být optimalizovaných"</item>
+        <item quantity="one">" %d položka může být optimalizovaná"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Optimalizovat %d položek pro úsporu baterie</item>
+        <item quantity="one">Optimalizovat %d položku pro úsporu baterie</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Můžete optimalizovat %d položek pro úsporu baterie</item>
+        <item quantity="one">Můžete optimalizovat %d položku pro úsporu baterie</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d aplikací se často spustilo</item>
+        <item quantity="one">%d aplikace se často spustila</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d aplikací vybíjí baterii</item>
+        <item quantity="one">%d aplikace vybíjí baterii</item>
+    </plurals>
 </resources>
