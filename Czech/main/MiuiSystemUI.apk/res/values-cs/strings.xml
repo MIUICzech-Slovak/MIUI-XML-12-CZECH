@@ -2331,9 +2331,6 @@ Chcete je nadále zobrazovat?"</string>
 	<string name="kg_prompt_reason_prepare_for_update_password">Příprava na aktualizaci vyžaduje heslo</string>
     <string name="kg_prompt_reason_prepare_for_update_pattern">Příprava na aktualizaci vyžaduje gesto</string>
     <string name="kg_prompt_reason_prepare_for_update_pin">Příprava na aktualizaci vyžaduje PIN</string>
-    <string name="kg_prompt_reason_restart_password">Po restartování zařízení je vyžadováno heslo</string>
-    <string name="kg_prompt_reason_restart_pattern">Po restartování zařízení je vyžadováno gesto</string>
-    <string name="kg_prompt_reason_restart_pin">Po restartování zařízení je vyžadován kód PIN</string>
 	<string name="kg_sim_lock_esim_instructions">%1$s eSIM kartu deaktivujte, chcete-li zařízení používat bez mobilních služeb.</string>
 	<string name="learn_more">Další informace</string>
 	<string name="magnification_controls_title">Ovládací prvky zvětšovacího okna</string>
@@ -2343,9 +2340,7 @@ Chcete je nadále zobrazovat?"</string>
     <string name="manage_notifications_text">Spravovat</string>
 	<string name="media_projection_dialog_service_text">Služba, která poskytuje tuto funkci, bude mít přístup ke všem informacím, které jsou viditelné na obrazovce nebo které jsou přehrávány ze zařízení při nahrávání nebo odesílání. Týká se to i hesel, údajů o platbě, fotek, zpráv a přehrávaných zvuků.</string>
     <string name="media_projection_dialog_service_title">Začít nahrávat nebo odesílat?</string>
-    <string name="media_projection_dialog_text">Aplikace %s bude mít přístup ke všem informacím, které jsou viditelné na obrazovce nebo které jsou přehrávány ze za řízení při nahrávání nebo odesílání. Týká se to i hesel, údajů o platbě, fotek, zpráv a přehrávaných zvuků.</string>
     <string name="media_projection_dialog_title">Začít nahrávat nebo odesílat s aplikací %s?</string>
-    <string name="media_projection_remember_text">Tuto zprávu příště nezobrazovat</string>
     <string name="media_seamless_remote_device">Zařízení</string>
 	<string name="mic_active">Mikrofon je aktivní</string>
 	<string name="miui_notification_menu_aggregate_feedback">Zpětná vazba</string>
@@ -2391,7 +2386,6 @@ Chcete je nadále zobrazovat?"</string>
     <string name="notification_conversation_unfavorite">Není důležitá konverzace</string>
     <string name="notification_conversation_unmute">Upozornění</string>
     <string name="notification_delegate_header">Zprostředkované oznámení</string>
-	<string name="notification_menu_gear_description">Nastavení oznámení</string>
     <string name="notification_menu_settings_action">Nastavení</string>
 	<string name="notification_multichannel_desc">Tuto skupinu oznámení tady nelze nakonfigurovat</string>
 	<string name="notification_priority_title">Priorita</string>
@@ -2439,7 +2433,6 @@ Chcete je nadále zobrazovat?"</string>
 	<string name="quick_settings_header_onboarding_text">Podržením ikon zobrazíte další možnosti</string>
 	<string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Spořič dat je zapnutý</string>
     <string name="quick_settings_hotspot_secondary_label_transient">Zapínání…</string>
-	<string name="quick_settings_rotation_locked_label">Otáčení je uzamčeno</string>
 	<string name="quick_settings_screen_record_label">Záznam obrazovky</string>
     <string name="quick_settings_screen_record_start">Spustit</string>
     <string name="quick_settings_screen_record_stop">Ukončit</string>

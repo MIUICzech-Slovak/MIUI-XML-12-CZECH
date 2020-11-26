@@ -136,5 +136,9 @@
 	 <plurals name="usage_new_home_total_unlocks_new">
         <item quantity="other">%2$s odemknuto %1$d krát </item>
         <item quantity="one">%2$s odemknuto %1$d krát </item>
-    </plurals>	
+    </plurals>
+    <plurals name="usage_state_unlock_count_new">
+        <item quantity="other">Prům. %.2f krát</item>
+        <item quantity="one">Prům. %.2f krát</item>
+    </plurals>		
 </resources>

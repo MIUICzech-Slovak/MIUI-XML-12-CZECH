@@ -413,4 +413,14 @@
   <string name="fps_standard_summary">Standardní obnovovací frekvence šetří baterii</string>
   <string name="fps_standard_title">Standardní</string>
   <string name="fps_user_tip">Tyto animace jsou přehrávané pomaleji kvůli ukázce rozdílu v obnovovací frekvenci.</string>
+  <string name="usage_app_holiday_limit">Dny volna</string>
+  <string name="usage_new_home_week_average_count">Prům. %s</string>
+  <string name="usage_new_home_week_compare_text1_new">(%s%% více jak minulý týden)</string>
+  <string name="usage_new_home_week_compare_text2_new">(%s%% méně jak minulý týden)</string>
+  <string name="usage_new_home_week_unlock_compare_decrease">(%.2f méně jak minulý týden)</string>
+  <string name="usage_new_home_week_unlock_compare_increase">(%.2f více jak minulý týden)</string>
+  <string name="usage_state_holiday_day_hour_minute">Dny volna: %1$s %2$s</string>
+  <string name="usage_state_holiday_time">Dny volna: %s</string>
+  <string name="usage_stats_limit_time_high_accuracy_summary_new">Přesně do minuty (spotřebuje více energie)</string>
+  <string name="usage_stats_limit_time_low_accuracy_summary_new">Přesně do minuty během %d zbývajících hodín (šetří energii)</string>
 </resources>
