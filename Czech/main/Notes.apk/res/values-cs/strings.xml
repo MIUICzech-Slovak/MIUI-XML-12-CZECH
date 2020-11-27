@@ -448,4 +448,6 @@ http://www.miuios.cz/rom
   <string name="doodle_tool_background">Změnit pozadí</string>
   <string name="doodle_tool_text_dialog_hint">Zadejte text</string>
   <string name="toolbar_done_description">Hotovo</string>
+  <string name="note_mindnote_entrance_hint">"Začněte psát "</string>
+     <string name="note_mindnote_entrance_icon_text">Vytvořte myšlenkovou mapu</string>
 </resources>
