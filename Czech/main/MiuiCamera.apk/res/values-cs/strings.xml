@@ -1082,8 +1082,8 @@ skenované dokumenty automaticky"</string>
     <string name="pref_hdr10plus_video_mode_description">Optimalizovat barvy a přizpůsobit kontrast pro 4K a 8K videa. Tato funkce funguje jen na HDR10+ zařízeních.</string>
     <string name="doc_shortcut_long">Dokument</string>
     <string name="doc_shortcut_short">Dokum.</string>
-    <string name="professional_shortcut_long">Povolání</string>
-    <string name="professional_shortcut_short">Povol.</string>
+    <string name="professional_shortcut_long">Pro</string>
+    <string name="professional_shortcut_short">Pro</string>
     <string name="video_shortcut_long">Video</string>
     <string name="video_shortcut_short">Video</string>
     <string name="capture_shortcut_long">Selfie</string>

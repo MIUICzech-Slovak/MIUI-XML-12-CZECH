@@ -4414,7 +4414,6 @@ z vašeho hraní her"</string>
     <string name="power_optimize_prohibit_app_autostart">Nepovolit aplikacím autostart</string>
     <string name="power_optimize_reduce_fps">Snížit frekvenci displeje na %d HZ</string>
     <string name="power_optimize_reduce_fps_summary">Pro většinu situací postačuje nižší frekvence</string>
-    <string name="cellular_data_auto_check">Zkontrolovat automaticky</string>
     <string name="cellular_package_daily_input">Zadat</string>  
     <string name="main_bill_remained">Zůstatek</string>
     <string name="power_optimize_set_lockscreen_time_holder">Uzamknout zařízení po %ds bez aktivity</string>
