@@ -60,9 +60,9 @@
     <plurals name="de_author_theme_amount">
         <item quantity="other">Položek: %1$d</item>
         <item quantity="one">Položek: %1$d</item>
-	<plurals name="de_icon_count">
+    </plurals>	
+    <plurals name="de_icon_count">
         <item quantity="other">Ikony: %1$d</item>
         <item quantity="one">Ikony: %1$d</item>
-    </plurals>	
     </plurals>    	
 </resources>
