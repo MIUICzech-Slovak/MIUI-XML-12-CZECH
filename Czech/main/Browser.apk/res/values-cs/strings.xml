@@ -1167,4 +1167,18 @@ Chcete opustit tuto stránku?"</string>
   <string name="security_permission_negative_btn_location">Zrušit</string>
   <string name="security_permission_positive_btn_location">Souhlasím</string>
   <string name="security_permission_title_location">Povolit přístup k vaší poloze</string>
+  <string name="search_history">Prohledat historii</string>
+    <string name="clear_input_history_confirm">Chcete vymazat historii?</string>
+    <string name="clear_clipboard_confirm">Chcete vymazat schránku?</string>
+    <string name="clear_input_history_confirm_bt_text">Potvrdit</string>
+    <string name="send_bookmark">Záložka</string>
+    <string name="clipboard">Schránka</string>
+    <string name="incognito">Inkognito</string>
+    <string name="no_content">Prázdné</string>
+    <string name="book_mark_search_hint">Prohledat %1$s</string>
+    <string name="common_use_phrase_bottom_bar_cn_txt">.cz</string>
+    <string name="common_use_phrase_bottom_bar_net_txt">.eu</string>
+    <string name="quicklink_add_last7day">Posledních 7 dní</string>
+    <string name="quicklink_add_today">Dnes</string>
+    <string name="quicklink_add_yesterday">Včera</string>
 </resources>
