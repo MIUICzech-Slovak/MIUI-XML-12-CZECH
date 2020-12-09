@@ -31,5 +31,9 @@
     <plurals name="perm_manager_suggest_deny_content">
         <item quantity="other">Zakázali jste  %2$s přístup ke schránce %1$d krát. Chcete navždy zakázat %3$s přístup ke schránce?</item>
         <item quantity="one">Zakázali jste  %2$s přístup ke schránce %1$d krát. Chcete navždy zakázat %3$s přístup ke schránce?</item>
-    </plurals>	
+    </plurals>
+    <plurals name="clipboard_read_ai_deny_more">
+        <item quantity="other">Aplikace %1$s se pokusila číst schánku, blokováno %2$d krát</item>
+        <item quantity="one">Aplikace %1$s se pokusila číst schánku, blokováno %2$d krát</item>
+    </plurals> 	
 </resources>

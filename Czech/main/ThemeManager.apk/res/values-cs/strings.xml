@@ -698,6 +698,10 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="home_daily">Denní výběr</string>
     <string name="detail_recommend_title">Mohou se vám líbit i tyto</string>
     <string name="more">Více</string>
+	<string name="concentration_old_period">Více</string>
+    <string name="miuishare_title_more">Více</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">Více</string>
+    <string name="first_page_recommend">Doporučené</string>
 </resources>
    
 
