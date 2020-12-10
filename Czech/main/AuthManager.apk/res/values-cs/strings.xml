@@ -421,4 +421,8 @@
   <string name="forbid_notice_me">Více neupozorňovat</string>
   <string name="keep_notice_me">Upozornit mě</string>
   <string name="notification_click_tip">Zobrazit podrobnosti</string>
+  <string name="blur_location_now_tip">Přibližná poloha je zapnutá</string>
+  <string name="go_setting">Nastavení</string>
+  <string name="real_location_off">Přibližná poloha je zapnutá</string>
+  <string name="real_location_on">Přibližná poloha je vypnutá</string>
 </resources>
