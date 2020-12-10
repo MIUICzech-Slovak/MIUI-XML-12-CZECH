@@ -6790,7 +6790,7 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="gxzw_anim_dialog_message">Nejprve musíte přidat otisk prstu. Chcete ho přidat nyní?</string>
     <string name="gxzw_anim_dialog_title">Přidat otisk</string>
     <string name="resolution_fhd">FHD+ (Full HD)</string>
-    <string name="resolution_fhd_summary" formatted="false">%d×%d (šetrí batériu)</string>
+    <string name="resolution_fhd_summary" formatted="false">%d×%d (šetří baterii)</string>
     <string name="resolution_qhd">QHD+ (Quad HD)</string>
     <string name="resolution_qhd_summary" formatted="false">%d×%d (zvyšuje kvalitu)</string>
     <string name="save_battery_mode">Ušetřit energii s QHD+</string>
