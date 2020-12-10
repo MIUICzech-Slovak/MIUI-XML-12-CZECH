@@ -2004,4 +2004,9 @@
   <string name="pic_to_pdf_preview_loading">Načítání náhledu…</string>
   <string name="pic_to_pdf_save_in">PDF uloženo do %s</string>
   <string name="unsupport_type">Tento typ souboru není podporován</string>
+  <string name="album_homepage_show_all_photos">Zobrazit všechny fotografie</string>
+  <string name="album_lockscreen_wallpapers">Tapety zamykací obrazovky</string>
+  <string name="pic_to_pdf_saved_in_fileexplorer">Uloženo.</string>
+  <string name="toast_orientation_unlock">Orientace displeje je odemknutá</string>
+  <string name="send_files_by">Sdílet přes</string>
 </resources>

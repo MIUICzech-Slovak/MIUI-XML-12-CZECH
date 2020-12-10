@@ -2518,4 +2518,10 @@ Tato aplikace nemá oprávnění k nahrávání, ale může zaznamenávat zvuk p
     <string name="volume_ringer_status_normal">Vyzvánění</string>
     <string name="volume_ringer_status_silent">Ztlumení</string>
     <string name="volume_ringer_status_vibrate">Vibrace</string>
+	<string name="face_unlock_password_and_fingerprint">Odemkněte heslem nebo otiskem prstu</string>
+    <string name="face_unlock_pattern_and_fingerprint">Odemkněte vzorem nebo otiskem prstu</string>
+    <string name="face_unlock_pin_and_fingerprint">Odemkněte PINem nebo otiskem prstu</string>
+    <string name="input_lockscreen_password_hint_text">Zadejte heslo</string>
+    <string name="input_lockscreen_pattern_hint_text">Zadejte vzor</string>
+    <string name="input_lockscreen_pin_hint_text">Zadejte PIN</string>
 </resources>

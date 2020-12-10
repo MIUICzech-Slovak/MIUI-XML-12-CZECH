@@ -6790,9 +6790,9 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="gxzw_anim_dialog_message">Nejprve musíte přidat otisk prstu. Chcete ho přidat nyní?</string>
     <string name="gxzw_anim_dialog_title">Přidat otisk</string>
     <string name="resolution_fhd">FHD+ (Full HD)</string>
-    <string name="resolution_fhd_summary">2400×1080</string>
+    <string name="resolution_fhd_summary" formatted="false">%d×%d (šetrí batériu)</string>
     <string name="resolution_qhd">QHD+ (Quad HD)</string>
-    <string name="resolution_qhd_summary">3200×1440 (vyšší spotřeba energie)</string>
+    <string name="resolution_qhd_summary" formatted="false">%d×%d (zvyšuje kvalitu)</string>
     <string name="save_battery_mode">Ušetřit energii s QHD+</string>
     <string name="save_battery_mode_summary">Automaticky přepnout rozlišení displeje pro ušetření energie</string>
 	<string name="headset_connectiong">Připojování...</string>
@@ -6837,4 +6837,15 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="miheadset_soft">Jemné</string>
     <string name="miheadset_transparent">Transparentní</string>
 	<string name="notification_access_detail_switch">Povolit přístup k oznámení</string>
+    <string name="intelligence_suppression_title">Auto (Doporučené)</string>
+    <string name="screen_enhance_engine_memc_note">Není možné vylepšit videa když je zapnuté vysoké rozlišení.</string>
+    <string name="screen_enhance_engine_sr_for_video_note">Vysoké rozlišení nefunguje s vylepšením videí.</string>
+    <string name="screen_enhance_engine_sr_pic_summary_video_only">Zvětšit rozlišení na 1440p.</string>
+    <string name="aggregate_rule_group_disabled">Neseskupovat</string>
+    <string name="aggregate_rule_group_enabled">Skupina</string>
+    <string name="aod_notification_style">Efekt upozornění</string>
+    <string name="error_xcap_not_add">Typ APN nemůže být XCAP.</string>
+    <string name="fold_rule_default">Doporučené</string>
+    <string name="fold_rule_important">Důležité</string>
+    <string name="fold_rule_unimportant">Nedůležité</string>
 </resources>

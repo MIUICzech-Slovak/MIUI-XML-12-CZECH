@@ -401,4 +401,11 @@ zvuky, videa, dokumenty a další aplikace do nového zařízení"</string>
     <string name="permission_storage_title">Přístup a ukládání souborů a fotografií uložených v zařízení</string>
     <string name="permission_wifi_summary">Pro přenos položek do nového zařízení</string>
     <string name="permission_wifi_title">Zapnutí a vypnutí Wi-Fi sítě</string>
+	<string name="location_permission_request">Pro připojení k ostatním zařízením na blízku</string>
+    <string name="summary_open_wlan">MiMover potřebuje toto povolení pro stabilní fungování během přenosu.</string>
+    <string name="summary_request_alert_window_prem">MiMover potřebuje toto povolení pro stabilní fungování během přenosu.</string>
+    <string name="summary_request_write_settings_prem">MiMover potřebuje toto povolení pro zapnutí Wi-Fi a vytvoření hotspotu pro přenos souborů.</string>
+    <string name="title_open_wlan">Zapnout Wi-Fi</string>
+    <string name="title_request_alert_window_perm">Povolit plovoucí okna</string>
+    <string name="title_request_write_settings_perm">Povolit změny systémových nastavení</string>
 </resources>

@@ -768,5 +768,9 @@
   <string name="txt_account_name_empty">Prázdný název účtu</string>
   <string name="txt_caldav_account_info_not_found">Není možné získat informace o účtě</string>
   <string name="txt_password">Heslo</string>
-  <string name="import_help">Pomoc</string>  
+  <string name="import_help">Pomoc</string>
+  <string name="icon_add_description">Přidat odkaz na plochu</string>
+    <string name="icon_remove_confirm">Odstranit</string>
+    <string name="icon_remove_description_content">Kalendář je systémová aplikace. Budete mít k němu přístup přes přidané widgety na ploše.</string>
+    <string name="icon_remove_description_title">Odstranit \"Kalendář\" z plochy?</string>  
 </resources>

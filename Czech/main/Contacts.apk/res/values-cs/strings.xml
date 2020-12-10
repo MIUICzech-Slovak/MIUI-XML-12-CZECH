@@ -1418,6 +1418,12 @@ Vyberte si z následujících možností:</string>
   <string name="notification_micloudsync_delete_contact">MiCloud chce vymazat některé kontakty</string>
   <string name="v7_preference_off">Vyp</string>
   <string name="v7_preference_on">Zap</string>
+  <string name="hide_app_description_content">Aplikace Kontakty je systémová aplikace. Ke kontaktům budete mít stále přístup přes aplikaci Telefon.</string>
+    <string name="hide_app_description_title">Odstranit \"Kontakty\" z plochy?</string>
+    <string name="restore_app_btn_cancel">Zrušit</string>
+    <string name="restore_app_btn_restore">OK</string>
+    <string name="restore_app_description_content">Přidat odkaz na plochu.</string>
+    <string name="restore_app_description_title">Přidat \"Kontakty\" na plochu?</string>	
 </resources>
 
 

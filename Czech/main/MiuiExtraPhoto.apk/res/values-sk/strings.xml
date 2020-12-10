@@ -35,4 +35,8 @@
   <string name="doc_photo_cancel">Zrušit</string>
   <string name="doc_photo_confirm">Ukončit</string>  
   <string name="doc_photo_idcard_alert_msg">Odstranit všechny změny a ukončit?</string>
+  <string name="cancel">Zrušit</string>
+  <string name="exit_alert_msg">Všechny neuložené změny budou zrušeny.</string>
+  <string name="exit_alert_title">Vrátit změny?</string>  
+  <string name="ok">OK</string>
 </resources>

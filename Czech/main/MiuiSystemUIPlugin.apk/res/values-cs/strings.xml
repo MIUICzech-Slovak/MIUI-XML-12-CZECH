@@ -119,5 +119,7 @@
     <string name="wireless_charging_saver_ok">Pokračovat</string>
     <string name="wireless_charging_tips_disable">Více nezobrazovat</string>
     <string name="wireless_charging_tips_message">Položte zařízení které podporuje Qi bezdrátové nabíjení (telefon, příslušenství, atd.) na zadní stranu tohoto zařízení.</string>
-    <string name="wireless_charging_tips_title">Reverzní bezdrátové nabíjení</string>	
+    <string name="wireless_charging_tips_title">Reverzní bezdrátové nabíjení</string>
+    <string name="accessibility_back">Zpět</string>
+    <string name="slider_view_content_description">Potáhněte nahoru pro vypnutí nebo dolů pro restartování</string>	
  </resources>

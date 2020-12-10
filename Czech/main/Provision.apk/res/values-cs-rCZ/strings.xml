@@ -237,4 +237,6 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
     <string name="welcome">Vítejte</string>
     <string name="zone_picker_title">Vybrat časové pásmo</string>
     <string name="data_traffic_enable_dialog_title">Pokud nejste připojený na Wi-Fi, vaše zatřídění použije mobilní data.</string>
+	<string name="other_settings_ad_dialog_agree">Povolit</string>
+    <string name="other_settings_ad_dialog_disagree">Vypnout</string>	
 </resources>
