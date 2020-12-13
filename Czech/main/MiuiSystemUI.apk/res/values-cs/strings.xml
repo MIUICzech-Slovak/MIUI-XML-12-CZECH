@@ -2524,4 +2524,5 @@ Tato aplikace nemá oprávnění k nahrávání, ale může zaznamenávat zvuk p
     <string name="input_lockscreen_password_hint_text">Zadejte heslo</string>
     <string name="input_lockscreen_pattern_hint_text">Zadejte vzor</string>
     <string name="input_lockscreen_pin_hint_text">Zadejte PIN</string>
+	<string name="quick_settings_rotationlock_label">Zámek otáčení</string>
 </resources>
