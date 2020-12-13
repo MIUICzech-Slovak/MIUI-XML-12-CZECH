@@ -418,7 +418,7 @@
   <string name="clipboard_read_ai_deny_once">Aplikace %1$s se pokusila číst obsah schránky</string>
   <string name="clipboard_read_deny_dialog_title">Aplikaci %1$s bylo zakázáno číst schránku</string>
   <string name="go_behavior_record">Zobrazit historii</string>
-  <string name="forbid_notice_me">Více neupozorňovat</string>
+  <string name="forbid_notice_me">Neupozorňovat</string>
   <string name="keep_notice_me">Upozornit mě</string>
   <string name="notification_click_tip">Zobrazit podrobnosti</string>
   <string name="blur_location_now_tip">Přibližná poloha je zapnutá</string>
