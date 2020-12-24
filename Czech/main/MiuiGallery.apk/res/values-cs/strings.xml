@@ -2009,4 +2009,9 @@
   <string name="pic_to_pdf_saved_in_fileexplorer">Uloženo.</string>
   <string name="toast_orientation_unlock">Orientace displeje je odemknutá</string>
   <string name="send_files_by">Sdílet přes</string>
+  <string name="signature_dialog_clear">Vymazat</string>
+  <string name="signature_manage_dialog_title_string">Rukopis</string>
+  <string name="signature_view_add_signature_String">Přidat rukopis</string>
+  <string name="signature_view_max_signature_limit_string">Pro přidání nového rukopisu smažte starší</string>
+  <string name="signature_view_signature_with_finger">Zde pište</string>
 </resources>
