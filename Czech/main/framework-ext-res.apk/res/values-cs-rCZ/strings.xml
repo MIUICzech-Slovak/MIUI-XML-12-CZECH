@@ -280,9 +280,11 @@
   <string name="bluetooth_disable_notification_title">Bluetooth je vypnuté</string>
   <string name="bluetooth_enable_notification_content">%s zapnuté Bluetooth</string>
   <string name="bluetooth_enable_notification_title">Bluetooth je zapnuté</string>
-  <string name="bluetooth_close">Tato aplikace vypla Bluetooth</string>
-  <string name="bluetooth_open">Tato aplikace zapla Bluetooth</string>
+  <string name="bluetooth_close">Tato aplikace vypnula Bluetooth</string>
+  <string name="bluetooth_open">Tato aplikace zapnula Bluetooth</string>
   <string name="input_method_clipboard_move_cursor_guide1">Stlačte a podržte modrou oblast pro pohyb kurzoru ~</string>
   <string name="input_method_clipboard_move_cursor_guide2">Pohněte prstem vodorovně ~</string>
   <string name="notification_channel_hotspot">Hotspot upozornění</string>
+  <string name="help">"Nemůžete najít zařízení?"</string>
+  <string name="send_files_by">Sdílet soubory přes</string>
 </resources>
