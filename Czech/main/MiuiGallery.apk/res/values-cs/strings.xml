@@ -2064,7 +2064,8 @@
      <string name="vlog_exit_ddit_message">Pokud nyní skončíte, všechny změny budou ztraceny. Přesto ukončit?</string>
      <string name="vlog_exit_edit_title">Ukončování editoru</string>
      <string name="vlog_exit_message">Všechny neuložené změny budou ztraceny. Zrušit přesto?</string>
-     <string name="vlog_exit_title">Rušení změn</string>
+     <string name="vlog_exit_title">Zrušení změn</string>
+     <string name="vlog_filter_origin">Žádný</string> 
      <string name="vlog_film_title">Na začátku</string>
      <string name="vlog_float_view_change_audio">Změna zvukové stopy</string>
      <string name="vlog_float_view_original_ratio">Originál</string>
@@ -2107,7 +2108,7 @@
      <string name="vlog_trans_right">Doprava</string>
      <string name="vlog_trans_suoxiao">Oddálení</string>
      <string name="vlog_trans_suoxiao_rotate">Přetočení</string>
-     <string name="vlog_trans_up">Nahotu</string>
+     <string name="vlog_trans_up">Nahoru</string>
      <string name="vlog_unzip_file_fail">"Soubor se nepodařilo rozbalit"</string>
      <string name="vlog_video_adjust_order">Uspořádání videí</string>
      <string name="vlog_video_importing">Importování videa…</string>
