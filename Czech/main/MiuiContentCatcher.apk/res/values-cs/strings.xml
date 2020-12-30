@@ -30,4 +30,8 @@
   <string name="settings_clear_data_confirmation_description">"Když nyní vymažete heslo, budete ho muset při přihlašování vložit manuálně.</string>
   <string name="settings_clear_data_confirmation_title">Vymazání hesel</string>
   <string name="using_miui_autofill_message">Pro zadání hesel automaticky, MIUI uloží informace o účtu a heslo do zařízení.</string>
+  <string name="login_mi_account_alert">Upozornění</string>
+    <string name="login_mi_account_summary">Pro povolení správce hesel se musíte přihlásit ke Xiaomi účtu. Chcete se přihlásit?</string>
+    <string name="password_manager">Správce hesel</string>
+    <string name="password_manager_summary">Cloudový správce hesel</string>
 </resources>

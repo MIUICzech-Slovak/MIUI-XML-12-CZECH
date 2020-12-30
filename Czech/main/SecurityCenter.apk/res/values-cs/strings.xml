@@ -4489,5 +4489,28 @@ z vašeho hraní her"</string>
 	<string name="allow_all">Povolit vše</string>
     <string name="confirm_allow_all_permission">Povolit všem aplikacím používání této funkce?</string>
 	<string name="ai_allow_all">Upozornit, když je povolení použito pro vše</string>
+	<string name="app_behavior_access_gallery">%1s četla galerii</string>
+    <string name="app_behavior_access_gallery_single">tato aplikace četla galerii</string>
+    <string name="app_behavior_access_sociality">%1s četla zprávy ze sociální aplikace</string>
+    <string name="app_behavior_access_sociality_single">Tato aplikace četla zprávy ze sociální aplikace</string>    
+    <string name="app_behavior_delete_pic">%1s vymazala položky z Galerie</string>
+    <string name="app_behavior_delete_pic_single">Tato aplikace vymazala položky z Galerie</string>
+    <string name="dialog_skt_roaming_warning_cancel">Zrušit</string>
+    <string name="dialog_skt_roaming_warning_message">"Přečtěte si podmínky používání datového roamingu. Mohou se účtovat poplatky za mezinárodní datový roaming. Bez plánu datového roamingu mohou být aplikace, které se automaticky aktualizují, jako jsou například aplikace související se sociálními sítěmi, e-mailem a počasím, zpoplatněné.
+  * Pokud nesouhlasíte s využíváním datového roamingu, datový roaming bude deaktivován.
+  * HD Voice se předvoleně používá v podporovaných sítích.
+  * Datový roaming 5G je k dispozici pouze v našich partnerských sítích..
+"</string>
+    <string name="dialog_skt_roaming_warning_ok">Souhlasím</string>
+    <string name="dialog_skt_roaming_warning_title">Datový roaming</string>
+    <string name="file_confirm_start_activity">"%s nemá přístup ke Galerii a sociálním médiím. Tato aplikace chce získat přístup k souborům uloženým v tomto zařízení na sdílení položek. Povolit?"</string>
+    <string name="gallery_confirm_start_activity">"%s nemá přístup ke Galerii a sociálním médiím. Tato aplikace chce získat přístup k souborům uloženým v tomto zařízení na sdílení položek. Povolit?"</string>
+    <string name="provision_back">Zpět</string>
+    <string name="provision_next">Další</string>
+    <string name="provision_skip_underline">Přeskočit</string>
+    <string name="read_clipboard_ai_action_desc">Dostávat oznámení vždy, když je povolený nebo omezený přístup</string>
+    <string name="real_location_off">Přibližná poloha je zapnutá</string>
+    <string name="real_location_on">Přibližná poloha je vypnutá</string>
+    <string name="view_traffic_detail">Zobrazit podrobnosti</string>
 </resources>
   

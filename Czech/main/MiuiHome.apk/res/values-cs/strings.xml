@@ -567,6 +567,11 @@
   <string name="recents_layout_style">Rozložení položek v nedávných aplikacích</string>
   <string name="recents_layout_style_horizontal">Vodorovně</string>
   <string name="recents_layout_style_vertical">Svisle</string>
+  <string name="icon_customize_summary">Vyberte styl a přizpůsobte velikost</string>
+    <string name="icon_form">Ikony</string>
+    <string name="icon_style">Styl</string>
+    <string name="remove_dialog_message">Vybrané aplikace obsahují systémové funkce. Můžete odstranit jen jejich ikony z plochy.</string>
+    <string name="remove_dialog_title_format">Odstranit \"%s\" z plochy?</string> 
 </resources>
 
 

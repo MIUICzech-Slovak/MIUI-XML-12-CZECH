@@ -64,5 +64,13 @@ http://www.miuios.cz/
      <string-array name="second_guide_contents_pad_or_inter">
         <item>Hlasové poznámky</item>
         <item>Můžete nahrát i hlasovou poznámku.</item>
+    </string-array>
+    <string-array name="common_folder_operations">
+        <item>Nová</item>
+        <item>Přejmenovat</item>
+        <item>Vymazat</item>
+    </string-array>
+    <string-array name="system_folder_operations">
+        <item>Nová</item>
     </string-array>	
 </resources>

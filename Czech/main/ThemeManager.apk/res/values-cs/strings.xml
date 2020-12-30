@@ -703,6 +703,38 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="wallpaper_setting_super_wallpaper_more_button_text">Více</string>
     <string name="first_page_recommend">Doporučené</string>
 	<string name="detail_reward_alert">Odměňte talentované tvůrce za jejich práci</string>
+	<string name="super_wallpaper_list_footer_text">Další super tapety už brzo!</string>
+    <string name="super_wallpaper_list_label">Super tapety</string>
+    <string name="wallpaper_setting_super_wallpaper_banner_title">Super tapety</string>
+    <string name="personalize_alarm_ringtone_title">Budíky</string>
+    <string name="personalize_aod_title">AOD</string>
+    <string name="personalize_call_ringtone_title">Zvonění</string>
+    <string name="personalize_charge_style_title">Nabíjení</string>
+    <string name="personalize_default_font">Písmo</string>
+    <string name="personalize_fingerprint_style_title">Otisk prstu</string>
+    <string name="personalize_font_demo_content">Aa</string>
+    <string name="personalize_icon_title">Ikony</string>
+    <string name="personalize_notify_ringtone_title">Upozornění</string>
+    <string name="personalize_notify_style_title">Efekty</string>
+    <string name="personalize_theme_entrance">Témata</string>
+    <string name="personalize_third_font">Písma</string>
+    <string name="personalize_title">Tapeta a přizpůsobení</string>
+    <string name="personalize_wallpaper_sub_title">Super tapety a pozadí</string>
+    <string name="personalize_wallpaper_title">Tapeta</string>
+    <string name="de_resource_author">Autor (%1$s)</string>
+    <string name="de_super_wp_apply_wallpaper_button_text">Použít</string>
+    <string name="de_super_wp_dialog_tip_content">Super tapety jsou použity pro Zámek, Plochu a AOD.</string>
+    <string name="de_super_wp_dialog_tip_title">Super tapety</string>    
+    <string name="de_super_wp_land_position_default_des">Přistávací bod</string>
+    <string name="super_wallpaper_setting_coordinate_title">Poloha</string>
+    <string name="super_wallpaper_setting_view_height_title">Výška</string>    
+    <string name="wallpaper_setting_library">Knihovna</string>
+    <string name="system_aod_dialog_message">Nejprve povolte Always-on displej.</string>    
+    <string name="apply_success_not_enable_aod">Nejprve povolte Always-on displej</string>
+    <string name="system_aod_dialog_positive_button">Nastavení</string>
+    <string name="system_aod_dialog_title">Always-on displej je vypnutý</string>
+    <string name="dialog_show_never">Více nezobrazovat.</string>
+    <string name="no_more_notice">Více nezobrazovat.</string>	
 </resources>
    
 

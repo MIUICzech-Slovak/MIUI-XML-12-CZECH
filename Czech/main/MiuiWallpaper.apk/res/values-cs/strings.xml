@@ -9,14 +9,14 @@
      <string name="miui_clock_city_name_local">Lokální</string>
      <string name="miui_lock_screen_date">dd.MM EEEE</string>
      <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
-     <string name="miui_lock_screen_date_two_lines">"EEEE
+     <string name="miui_lock_screen_date_two_lines">"EEE
 d. MMMM"</string>
-     <string name="miui_lock_screen_date_two_lines_12">"EEEE
+     <string name="miui_lock_screen_date_two_lines_12">"EEE
 d. MMMM"</string>
      <string name="miui_lock_screen_large_date">"EEE
-dd.M"</string>
+dd.M."</string>
      <string name="miui_lock_screen_large_date_12">"EEE
-dd.M"</string>
+dd.M."</string>
      <string name="saturn_summary">Prstence Saturnu vytvářejí nádherné divadlo ve vesmíru</string>
      <string name="saturn_title">Saturn</string>
      <string name="wallpaper_setting_super_wallpaper_banner_title">Super tapety</string>
@@ -43,5 +43,15 @@ dd.M"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
-  <string name="title_system_wallpaper_resource">Systémové tapety</string>     
+  <string name="title_system_wallpaper_resource">Systémové tapety</string>
+  <string name="geometry_summary">Tvary, světla a barvy</string>
+    <string name="geometry_super_wallpaper_label">Geometrie</string>
+    <string name="geometry_title">Geometrie</string>  
+    <string name="update">Aktualizovat</string>    
+    <string name="snowmountain_summary">Slunečné horské svahy hory Siguniang</string>
+    <string name="snowmountain_super_wallpaper_label">Zasněžené hory</string>
+    <string name="snowmountain_title">Zasněžené hory</string>
+    <string name="weather_summary">Informace o počasí</string>
+    <string name="weather_super_wallpaper_label">Počasí</string>
+    <string name="weather_title">Počasí</string>  
 </resources>

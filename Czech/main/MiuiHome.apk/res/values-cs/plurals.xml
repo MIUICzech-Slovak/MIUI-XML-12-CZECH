@@ -52,4 +52,8 @@
      <plurals name="announce_for_unread">
         <item quantity="other">%2$s nepřečtených z %1$s</item>
      </plurals>
+	 <plurals name="remove_dialog_title_multi_format">
+        <item quantity="other">Odstranit %1$d aplikací z plochy?</item>
+        <item quantity="one">Odstranit %1$d aplikaci z plochy?</item>
+    </plurals>
 </resources>

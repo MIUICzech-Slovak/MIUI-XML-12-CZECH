@@ -1423,7 +1423,8 @@ Vyberte si z následujících možností:</string>
     <string name="restore_app_btn_cancel">Zrušit</string>
     <string name="restore_app_btn_restore">OK</string>
     <string name="restore_app_description_content">Přidat odkaz na plochu.</string>
-    <string name="restore_app_description_title">Přidat \"Kontakty\" na plochu?</string>	
+    <string name="restore_app_description_title">Přidat \"Kontakty\" na plochu?</string>
+    <string name="bh_back">Zpět</string>	
 </resources>
 
 

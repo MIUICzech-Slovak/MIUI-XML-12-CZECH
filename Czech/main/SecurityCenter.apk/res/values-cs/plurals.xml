@@ -814,4 +814,16 @@
         <item quantity="other">%d aplikací vybíjí baterii</item>
         <item quantity="one">%d aplikace vybíjí baterii</item>
     </plurals>
+	<plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">Spojte aspoň %s tečky</item>
+        <item quantity="one">Spojte aspoň %s tečky</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Spojte aspoň %s tečky</item>
+        <item quantity="one">Spojte aspoň %s tečky</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Zadejte %s čisla</item>
+        <item quantity="one">Zadejte %s čislo</item>
+    </plurals>
 </resources>

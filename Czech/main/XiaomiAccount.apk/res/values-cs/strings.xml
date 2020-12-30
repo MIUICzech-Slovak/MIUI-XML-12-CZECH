@@ -617,5 +617,12 @@ Zkontrolujte také složku SPAM."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
   <string name="copy_to_clipboard_successful">Zkopírováno</string>
-  <string name="help_center">Pomoc</string>  
+  <string name="help_center">Pomoc</string>
+  <string name="download_file">Stahování %s…</string>
+    <string name="passport_login_other_phone">Použít jiný účet</string>
+    <string name="passport_provision_input_email_register_prompt">Vaše osobní údaje budou uloženy v souladě se zákoný a předpisy regionu, který si vyberete.</string>
+    <string name="passport_registered_phone_num_v2">Telefonní číslo</string>
+    <string name="provision_back">Zpět</string>
+    <string name="provision_next">Další</string>
+    <string name="provision_skip_underline">Přeskočit</string>  
 </resources>

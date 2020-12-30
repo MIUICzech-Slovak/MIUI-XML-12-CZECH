@@ -2509,12 +2509,12 @@ Tato aplikace nemá oprávnění k nahrávání, ale může zaznamenávat zvuk p
 	<string name="volume_dialog_ringer_guidance_ring">Volání a oznámení budou vyzvánět (%1$s)</string>
     <string name="volume_dialog_title">Ovládací prvky hlasitosti %s</string>
 	<string name="volume_odi_captions_content_description">Překryvná vrstva titulků</string>
-    <string name="volume_odi_captions_hint_disable">deaktivovat</string>
-    <string name="volume_odi_captions_hint_enable">aktivovat</string>
+    <string name="volume_odi_captions_hint_disable">Zakázat</string>
+    <string name="volume_odi_captions_hint_enable">Povolit</string>
     <string name="volume_odi_captions_tip">Automatické přepisy médií</string>
-	<string name="volume_ringer_hint_mute">vypnout zvuk</string>
-    <string name="volume_ringer_hint_unmute">zapnout zvuk</string>
-    <string name="volume_ringer_hint_vibrate">vibrovat</string>
+	<string name="volume_ringer_hint_mute">Vypnout zvuk</string>
+    <string name="volume_ringer_hint_unmute">Zapnout zvuk</string>
+    <string name="volume_ringer_hint_vibrate">Vibrovat</string>
     <string name="volume_ringer_status_normal">Vyzvánění</string>
     <string name="volume_ringer_status_silent">Ztlumení</string>
     <string name="volume_ringer_status_vibrate">Vibrace</string>

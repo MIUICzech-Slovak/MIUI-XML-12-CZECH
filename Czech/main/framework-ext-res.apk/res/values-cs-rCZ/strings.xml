@@ -287,4 +287,6 @@
   <string name="notification_channel_hotspot">Hotspot upozornění</string>
   <string name="help">"Nemůžete najít zařízení?"</string>
   <string name="send_files_by">Sdílet soubory přes</string>
+  <string name="freeform_exchange_tip">Pusťte pro otevření aplikace</string>
+  <string name="freeform_exchange_tip2">Potáhněte do rohu pro zrušení</string> 
 </resources>

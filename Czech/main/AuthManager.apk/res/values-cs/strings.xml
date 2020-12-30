@@ -425,4 +425,13 @@
   <string name="go_setting">Nastavení</string>
   <string name="real_location_off">Přibližná poloha je zapnutá</string>
   <string name="real_location_on">Přibližná poloha je vypnutá</string>
+  <string name="blur_location_is_on_tip">%1$s spustilo služby přibližné polohy. Chcete ponechat využívání přibližné polohy?</string>
+    <string name="blur_location_title">Přibližná poloha</string>
+    <string name="gold_master_dialog_reject">Odmítnout (%d)</string>
+    <string name="gold_master_dialog_title">%1$s chce číst schránku</string>
+    <string name="keep_blur_location">Ponechat</string>
+    <string name="miuix_appcompat_deselect_all">Odznačit</string>
+    <string name="miuix_appcompat_select_all">Vše</string>
+    <string name="miuix_appcompat_select_item">Vyberte položky</string>
+    <string name="stop_blur_location">Vypnout</string>
 </resources>

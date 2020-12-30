@@ -179,5 +179,23 @@
     <string name="wireless_transmission_confirm">Zapnout</string>
     <string name="wireless_transmission_definition">Přenášet zvuk z mikrofónu do externího Bluetooth zařízení</string>
     <string name="wireless_transmission_prompt">Pro přenos zvuku musíte povolit Bluetooth. Chcete ho zapnouť?</string>
+	<string name="sound_effect_hall">Hala</string>
+    <string name="sound_effect_original">Originál</string>
+    <string name="sound_effect_room">Pokoj</string>
+    <string name="sound_effect_theater">Divadlo</string>
+    <string name="sound_transmission_cancel">Ne</string>
+    <string name="sound_transmission_confirm">Povolit</string>
+    <string name="sound_transmission_continue">Pokračovat</string>
+    <string name="sound_transmission_device">Zařízení</string>
+    <string name="sound_transmission_dialog_message">Zvukový asistent</string>
+    <string name="sound_transmission_dialog_title">Povolit Bluetooth</string>
+    <string name="sound_transmission_end">Zastavit</string>
+    <string name="sound_transmission_processing">Mikrofon</string>
+    <string name="sound_transmission_prompt">Povolte této funkci zapnutí Bluetooth pro použití bezdrátového mikrofonu.</string>
+    <string name="sound_transmission_scenes">Scéna</string>
+    <string name="sound_transmission_start">Spustit</string>
+    <string name="sound_transmission_stop">Zastavit</string>
+    <string name="sound_transmission_title">Bezdrátový mikrofon</string>
+    <string name="transmission_volume_option_title">Citlivost mikrofonu</string>
 </resources>
 
