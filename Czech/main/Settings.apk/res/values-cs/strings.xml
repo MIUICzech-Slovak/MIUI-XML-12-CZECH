@@ -6691,7 +6691,6 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
   <string name="usb_reverse_charge">Reverzní nabíjení</string>
   <string name="gxzw_lowlight_open_summary">Snížit jas ikony otisku prstu v tmavém prostředí. Zařízení se může odemykat pomaleji když je tato funkce povolená.</string>
   <string name="gxzw_lowlight_open_title">Snížený jas otisku prstu</string>
-
     <string name="screen_enhance_engine_ai_open">Vylepšené obrázky</string>
     <string name="screen_enhance_engine_ai_pic_summary">Rozpoznat objekty (např. rostliny, budovy) a dynamicky přizpůsobit efekty displeje. Může se zvýšit spotřeba energie.</string>
     <string name="screen_enhance_engine_ai_title">AI vylepšení obrazu</string>
