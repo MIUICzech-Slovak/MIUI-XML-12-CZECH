@@ -2186,11 +2186,11 @@
     <string name="magic_filter_dsc">Vytvořte portréty s úžasným pozadím</string>
     <string name="magic_galery">Galerie</string>
     <string name="magic_hight">Výška</string>
-    <string name="magic_id_photo">ID</string>
+    <string name="magic_id_photo">Průkaz</string>
     <string name="magic_id_photo_dsc">Vytvořte fotografii na průkaz jedním dotykem</string>
     <string name="magic_idp_dsc">Nebylo možné uložit</string>
     <string name="magic_idp_guide_tack">Jak zhotovit dobrou fotografii</string>
-    <string name="magic_idp_guide_text">ID</string>
+    <string name="magic_idp_guide_text">Průkaz</string>
     <string name="magic_idp_guide_text2">Vyberte jednobarevné pozadí.</string>
     <string name="magic_idp_guide_text3">Ujistěte se, že je vaša tvár rovnoměrně osvětlená.</string>
     <string name="magic_idp_guide_text4">Oblečte si jednoduché oblečení a žádné šperky.</string>
@@ -2299,4 +2299,5 @@
     <string name="vlog_clip_add_trans_title">Přidat přechod</string>
     <string name="yuzhitiaojie">Upravení hloubky</string>
     <string name="zi_ding_yi_wenben">Vlastní velikost</string>
+    <string name="home_menu_magic_matting">Magie</string>	
 </resources>
