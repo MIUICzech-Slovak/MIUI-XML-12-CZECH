@@ -1675,4 +1675,5 @@ Chcete ji zavřít?"</string>
   <string name="yes">OK</string>
   <string name="zen_mode_forever">Na dobu neurčitou</string>
   <string name="app_running_notification_tip_text">Toto může zpomalit vaše zařízení a zvýšit spotřebu baterie. Dotykem ukončíte aplikaci.</string>
+  <string name="floating_toolbar_open_overflow_description">Více možností</string>
 </resources>
