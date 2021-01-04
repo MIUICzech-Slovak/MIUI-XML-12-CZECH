@@ -121,4 +121,29 @@
         <item>Ano</item>
         <item>Ne</item>
      </string-array>
+	 <string-array name="HomePageTabTitle">
+        <item>Zdraví</item>
+        <item>Cvičení</item>
+     </string-array>
+     <string-array name="ShareTabTitle">
+        <item>Obrázek</item>
+        <item>Trasa</item>
+        <item>Karta</item>
+     </string-array>
+     <string-array name="SportTabTitle">
+        <item> Běh </item>
+        <item> Chůze </item>
+        <item> Cyklistika </item>
+        <item> Švihadlo </item>
+        <item> Cvičení </item>
+     </string-array>
+     <string-array name="week_short">
+        <item> Ned </item>
+        <item> Po </item>
+        <item> Út </item>
+        <item> St </item>
+        <item> Čt </item>
+        <item> Pá </item>
+        <item> So </item>
+     </string-array>
 </resources>
