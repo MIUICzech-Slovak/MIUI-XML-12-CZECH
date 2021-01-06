@@ -1193,7 +1193,7 @@ Zašlete prosím tento kód technikovi."</string>
      <string name="tb_home_exercise_card_not_set_goal">Cvičení. %1$s. Dokončeno: %2$s. Otevřít cíl.</string>
      <string name="tb_home_exercise_card_not_supported_step">"Cvičení. Toto zařízení nepočítá kroky."</string>
      <string name="tb_home_exercise_card_speed_of_progress">Cvičení. %1$s. Dokončeno: %2$s. Cíl: %3$s. Průběh: %4$s.</string>
-     <string name="tb_home_sleep_card">Spánek. %1$s dnes. Usínání v %2$s. Probuzení v %3$s. %4$s.</string>
+     <string name="tb_home_sleep_card">Dnešní spánek: %1$s, %2$s.</string>
      <string name="tb_home_sleep_card_no_data">Spánek. Dnes žádná data.</string>
      <string name="tb_home_sleep_card_not_open_trace">Spánek. Analýza spánkového cyklu je vypnutá.</string>
      <string name="tb_home_tip_open_data_sync">Synchronizujte položky Xiaomi Zdraví se službou Xiaomi Cloud, abyste k nim měli přístup na jiných zařízeních. Začněte dvojitým klepnutím.</string>
