@@ -175,4 +175,16 @@
         <item quantity="other">Vymazat %d instalačních balíčků</item>
         <item quantity="one">Vymazat %d instalační balíček</item>
     </plurals>
+    <plurals name="video_clean_scan_app_result">
+        <item quantity="other">%d apl. s videi v cache</item>
+        <item quantity="one">%d apl. s videem v cache</item>
+    </plurals>    
+    <plurals name="rs_clean_size_hint_image">
+        <item quantity="other">Dost pro %d fotografií</item>
+        <item quantity="one">Dost pro %d fotografii</item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_song">
+        <item quantity="other">Dost pro %d skladeb</item>
+        <item quantity="one">Dost pro %d skladbu</item>
+    </plurals> 
 </resources>

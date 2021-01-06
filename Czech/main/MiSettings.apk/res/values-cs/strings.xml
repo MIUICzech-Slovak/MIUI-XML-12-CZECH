@@ -558,4 +558,6 @@
     <string name="willow_grouse">Bělokur rousný</string>
     <string name="wombat">Vombat</string>
 	<string name="silent_ringtone_hint">Zvuky jsou stíněný. Vypněte Tichý režim a zkuste to znova.</string>
+  <string name="animal_select_alert_info">Můžete vybrat maximálně 5 položek</string>
+    <string name="random_play_sound_alert">Uslyšíte zvuky zvířat z tohoto regionu když dostanete upozornění</string>
 </resources>

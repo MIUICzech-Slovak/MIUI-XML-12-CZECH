@@ -327,4 +327,6 @@
   <string name="system_app_restore_failed">Nastala chyba</string>
   <string name="system_app_restore_failed_detail">Nebylo možné obnovit systém. Zkontrolujte nastavení sítě a nerestartujte zařízení během obnovy.</string>
   <string name="system_restore">Obnovit položky</string>
+  <string name="experience_new_system_app">Podívejte se na nové funkce!</string>
+  <string name="wait_for_wlan_china">Čekat na Wi-Fi</string>
 </resources>

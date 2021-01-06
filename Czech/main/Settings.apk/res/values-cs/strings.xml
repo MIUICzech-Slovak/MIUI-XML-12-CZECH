@@ -6942,4 +6942,8 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="title_font_settings">Nastavení písma</string>
     <string name="toast_apply_font_fail">Není možné nastavit písmo</string>
     <string name="user_experience_open_url">Dozvědět se více o User Experience programu</string>
+    <string name="error_apn_not_allowed">Toto APN není povolené. Zkuste jiné.</string>
+    <string name="intelligence_suppression_summary">Dynamicky přizpůsobit velikost oblasti při okrajích kde budou ignorovány dotyky</string>
+    <string name="truetone_summary">Přizpůsobit barvy okolnímu světlu</string>
+    <string name="truetone_title">Adaptivní barvy</string>
 </resources>

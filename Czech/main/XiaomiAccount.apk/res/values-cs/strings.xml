@@ -624,5 +624,6 @@ Zkontrolujte také složku SPAM."</string>
     <string name="passport_registered_phone_num_v2">Telefonní číslo</string>
     <string name="provision_back">Zpět</string>
     <string name="provision_next">Další</string>
-    <string name="provision_skip_underline">Přeskočit</string>  
+    <string name="provision_skip_underline">Přeskočit</string>
+    <string name="passport_login_other_way">Jiný způsob přihlášení</string>  
 </resources>
