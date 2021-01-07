@@ -49,7 +49,7 @@
   <string name="adjust_contrast">Kontrast</string>
   <string name="adjust_saturation">Sytost</string>
   <string name="adjust_sharpen">Ostrost</string>
-  <string name="adjust_vignette">Vignette</string>
+  <string name="adjust_vignette">Viněta</string>
   <string name="agreement_agree">Přijmout</string>
   <string name="agreement_optional_tip">(Volitelné)</string>
   <string name="agreement_quit">Ukončit</string>
@@ -673,7 +673,7 @@
   <string name="filter_category_sky">Obloha</string>
   <string name="filter_clarendon_fresh">Fresh</string>
   <string name="filter_crema_elegant">Crema</string>
-  <string name="filter_f2_classic">Classic</string>
+  <string name="filter_f2_classic">Klasický</string>
   <string name="filter_film_blackwhite">B&amp;W</string>
   <string name="filter_film_dew">Dew</string>
   <string name="filter_film_fade">Fade</string>
@@ -2122,9 +2122,9 @@
     <string name="adjust_highlight">Zvýraznění</string>
     <string name="adjust_highlight_shadow">Zvýraznění a stíny</string>
     <string name="adjust_natural_saturation">Sytost</string>
-    <string name="adjust_reset">Reset</string>
+    <string name="adjust_reset">Zrušit</string>
     <string name="adjust_shadow">Stíny</string>
-    <string name="adjust_tiunt">Odtín</string>
+    <string name="adjust_tiunt">Odstín</string>
     <string name="art_still_cancel_download">Zrušit</string>
     <string name="art_still_download">Stáhnout</string>
     <string name="art_still_download_failed_for_notwork">Nepodařilo se stáhnout. Zkontrolujte síťové nastavení a zkuste to znova.</string>
@@ -2299,5 +2299,13 @@
     <string name="vlog_clip_add_trans_title">Přidat přechod</string>
     <string name="yuzhitiaojie">Upravení hloubky</string>
     <string name="zi_ding_yi_wenben">Vlastní velikost</string>
-    <string name="home_menu_magic_matting">Magie</string>	
+    <string name="home_menu_magic_matting">Magie</string>
+    <string name="filter_category_black_white">Č&amp;B</string>
+     <string name="filter_category_general">Obecné</string>
+     <string name="filter_category_movie">Film</string>
+     <string name="text_tab_city">Město</string>
+     <string name="text_tab_festival">Dovolená</string>
+     <string name="text_tab_mark">Značka</string>
+     <string name="text_tab_scene">Scéna</string>
+     <string name="text_tab_spot">Krajina</string>	 
 </resources>
