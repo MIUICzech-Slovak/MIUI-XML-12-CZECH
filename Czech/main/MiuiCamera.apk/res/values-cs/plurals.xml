@@ -49,4 +49,12 @@
         <item quantity="other">Vymazat %1$d?</item>
         <item quantity="one">Vymazat %1$d?</item>
     </plurals>
+	<plurals name="pref_live_duration_prompt">
+        <item quantity="other">Nahrát %ds</item>
+        <item quantity="one">Nahrát %ds</item>
+    </plurals>    
+    <plurals name="timefreeze_guide_tip1">
+  	<item quantity="other">Můžete nahrát zamrznutá videa s max %d objekty.</item>
+        <item quantity="one">Můžete nahrát zamrznutá videa s max %d objektem.</item>
+    </plurals>
 </resources>

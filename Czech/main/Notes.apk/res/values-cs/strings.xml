@@ -491,4 +491,5 @@ http://www.miuios.cz/rom
     <string name="toast_excerpt_saved">Ukládání úryvku do Poznámek…</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Povolte Poznámkám přístup na úložiště</string>
     <string name="view_all_notes">Zobrazit vše</string>
+	<string name="blackboard_note">Inteligentní tabule</string>
 </resources>

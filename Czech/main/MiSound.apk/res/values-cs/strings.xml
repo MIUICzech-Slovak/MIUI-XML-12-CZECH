@@ -197,5 +197,6 @@
     <string name="sound_transmission_stop">Zastavit</string>
     <string name="sound_transmission_title">Bezdrátový mikrofon</string>
     <string name="transmission_volume_option_title">Citlivost mikrofonu</string>
+	<string name="sound_transmission_function_generalize">Přenášet zvuk z mikrofonu v telefonu do externího Bluetooth zařízení</string>
 </resources>
 

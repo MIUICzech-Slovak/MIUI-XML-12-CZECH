@@ -573,7 +573,8 @@
     <string name="remove_dialog_message">Vybrané aplikace obsahují systémové funkce. Můžete odstranit jen jejich ikony z plochy.</string>
     <string name="remove_dialog_title_format">Odstranit \"%s\" z plochy?</string>
     <string name="launcher_icon_management">Spravovat odkazy na ploše</string>
-    <string name="restore_icon_successful">Přidáno</string> 
+    <string name="restore_icon_successful">Přidáno</string>
+    <string name="clearable_edittext_clear_description">Vyčistit</string>	
 </resources>
 
 

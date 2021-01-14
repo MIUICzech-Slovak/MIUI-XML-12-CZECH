@@ -2307,5 +2307,7 @@
      <string name="text_tab_festival">Dovolená</string>
      <string name="text_tab_mark">Značka</string>
      <string name="text_tab_scene">Scéna</string>
-     <string name="text_tab_spot">Krajina</string>	 
+     <string name="text_tab_spot">Krajina</string>
+     <string name="photodetail_rename_title">Přejmenovat</string>
+    <string name="operation_photo_rename">Přejmenovat</string>	 
 </resources>
