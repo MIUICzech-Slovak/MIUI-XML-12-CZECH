@@ -92,11 +92,11 @@
     <string name="miui_ringer_status_open">Zap</string>
     <string name="miui_ringer_total">Režim Nerušit</string>
     <string name="miui_ringer_total_description">Ztišit zvuky a vypnout vibrace pro všechno kromě budíku</string>
-    <string name="miui_toast_zen_dnd_to_off">Režim Nerušit je vypnutý. Zvuky a vibrace jsou obnoveny.</string>
-    <string name="miui_toast_zen_standard_to_off">Režim Nerušit je vypnutý. Zvonění je obnoveno.</string>
+    <string name="miui_toast_zen_dnd_to_off">Hovory a upozornění nebudou ztišené</string>
+    <string name="miui_toast_zen_standard_to_off">Tichý režim je vypnutý.</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Režim Nerušit je vypnutý. Zvonění, upozornění a média budou přehrávány.</string>
-    <string name="miui_toast_zen_to_dnd">Přepnuto do režimu Nerušit. Zvuky jsou ztišeny a vibrace vypnuty.</string>
-    <string name="miui_toast_zen_to_standard">Přepnuto do Tichého režimu. Zvonění pro hovory a upozornění je ztišené.</string>
+    <string name="miui_toast_zen_to_dnd">Hovory a upozornění budou ztišeny</string>
+    <string name="miui_toast_zen_to_standard">Přepnuto do Tichého režimu.</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Přepnuto do Tichého režimu. Zvonění, upozornění a zvuky médií jsou stišeny.</string>
     <string name="power_off">Vypnout</string>
     <string name="quick_settings_pcmode_dialog_description">PC režim podporuje více oken a může být použitá klávesnica a myš.</string>
@@ -118,7 +118,7 @@
     <string name="wireless_charging_saver_message">Je povoleno šetření baterie. Chcete nadále reverzně nabíjet?</string>
     <string name="wireless_charging_saver_ok">Pokračovat</string>
     <string name="wireless_charging_tips_disable">Více nezobrazovat</string>
-    <string name="wireless_charging_tips_message">Položte zařízení které podporuje Qi bezdrátové nabíjení (telefon, příslušenství, atd.) na zadní stranu tohoto zařízení.</string>
+    <string name="wireless_charging_tips_message">Položte zařízení které podporuje Qi bezdrátové nabíjení (telefon, příslušenství, atd.) na zadní stranu tohoto zařízení. Ujistěte se, že máte alespoň %d%% baterie.</string>
     <string name="wireless_charging_tips_title">Reverzní bezdrátové nabíjení</string>
     <string name="accessibility_back">Zpět</string>
     <string name="slider_view_content_description">Potáhněte nahoru pro vypnutí nebo dolů pro restartování</string>
@@ -160,5 +160,9 @@
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Přepnout na kalendář</string>
     <string name="mtrl_picker_toggle_to_day_selection">Dotykem přepnete na výběr dne</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Přepnout na zadávání textu</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Dotykem přepnete na výběr roku</string>	
+    <string name="mtrl_picker_toggle_to_year_selection">Dotykem přepnete na výběr roku</string>
+    <string name="dnd_popup_close_message">Rozumím</string>
+    <string name="dnd_popup_message">Můžete zapnout režim Nerušit pro ztišení hovorů a upozornění bez vypnutí zvuků médií.</string>
+    <string name="miui_toast_zen_to_dnd_when_lock">Hovory a upozornění budou ztišeny když je zařízení uzamknuto</string>
+    <string name="wireless_charging_tips_sub_message">Druhé zařízení musí podporovat Qi bezdrátové nabíjení.</string>	
  </resources>
