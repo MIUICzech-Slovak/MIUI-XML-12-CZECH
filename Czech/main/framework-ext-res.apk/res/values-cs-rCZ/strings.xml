@@ -288,5 +288,9 @@
   <string name="help">"Nemůžete najít zařízení?"</string>
   <string name="send_files_by">Sdílet soubory přes</string>
   <string name="freeform_exchange_tip">Pusťte pro otevření aplikace</string>
-  <string name="freeform_exchange_tip2">Potáhněte do rohu pro zrušení</string> 
+  <string name="freeform_exchange_tip2">Potáhněte do rohu pro zrušení</string>
+  <string name="disable_nfc">Vypnuto NFC pro bezdrátové nabíjení</string>
+  <string name="disable_nfc_reverse">Vypnuto NFC pro reverzní bezdrátové nabíjení</string>
+  <string name="enable_nfc">Již se nenabíjí.  NFC je opět zapnuto.</string>
+  <string name="enable_nfc_reverse">Již se reverzně nenabíjí.  NFC je opět zapnuto.</string>
 </resources>
