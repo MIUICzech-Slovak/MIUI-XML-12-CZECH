@@ -1424,7 +1424,18 @@ Vyberte si z následujících možností:</string>
     <string name="restore_app_btn_restore">OK</string>
     <string name="restore_app_description_content">Přidat odkaz na plochu.</string>
     <string name="restore_app_description_title">Přidat \"Kontakty\" na plochu?</string>
-    <string name="bh_back">Zpět</string>	
+    <string name="bh_back">Zpět</string>
+    <string name="cancel">Zrušit</string>
+    <string name="contacts_trash_activity_hint">Vyberte kontakty k obnovení</string>
+    <string name="contacts_trash_activity_title">Nedávno vymazané kontakty</string>
+    <string name="contacts_trash_delete">Vymazat</string>
+    <string name="contacts_trash_delete_dialog_continue">Vymazat</string>
+    <string name="contacts_trash_delete_dialog_hint">Nebude možné je vrátit.</string>
+    <string name="contacts_trash_delete_dialog_loading">Vymazávání…</string>
+    <string name="contacts_trash_delete_dialog_title">Vymazat vybrané kontakty?</string>
+    <string name="contacts_trash_restore">Obnovit</string>
+    <string name="contacts_trash_restore_loading">Obnovování…</string>
+    <string name="ensure">OK</string>	
 </resources>
 
 

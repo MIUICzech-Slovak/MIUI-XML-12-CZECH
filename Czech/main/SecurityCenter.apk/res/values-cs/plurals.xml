@@ -826,4 +826,22 @@
         <item quantity="other">Zadejte %s čisla</item>
         <item quantity="one">Zadejte %s čislo</item>
     </plurals>
+	<plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">Gratulujeme! Máte odemknutých %s Easter eggs.</item>
+        <item quantity="one">Gratulujeme! Máte odomknutý %s Easter eggs.</item>
+    </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">%d dní bez kontroly bezpečnosti</item>
+        <item quantity="one">%d den bez kontroly bezpečnosti</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Vymazat %d zbytkových APK</item>
+        <item quantity="one">Vymazat %d zbytkovou APK</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Sledovali jste videa už %d hodin.
+Dejte si pauzu!"</item>
+        <item quantity="one">"Sledovali jste videa už %d hodinu.
+Dejte si pauzu!"</item>
+    </plurals> 
 </resources>

@@ -293,4 +293,8 @@
   <string name="disable_nfc_reverse">Vypnuto NFC pro reverzní bezdrátové nabíjení</string>
   <string name="enable_nfc">Již se nenabíjí.  NFC je opět zapnuto.</string>
   <string name="enable_nfc_reverse">Již se reverzně nenabíjí.  NFC je opět zapnuto.</string>
+  <string name="help">Nenašli jste zařízení?</string>  
+  <string name="send_files_by">Sdílet přes</string>  
+  <string name="nearby_share">Nearby Share</string>
+  <string name="turn_on_work_profile">Povolit</string>
 </resources>

@@ -2525,9 +2525,15 @@ Tato aplikace nemá oprávnění k nahrávání, ale může zaznamenávat zvuk p
     <string name="input_lockscreen_pattern_hint_text">Zadejte vzor</string>
     <string name="input_lockscreen_pin_hint_text">Zadejte PIN</string>
 	<string name="quick_settings_rotationlock_label">Zámek otáčení</string>
-  <string name="heads_up_snooze_toast">Upozornění z této aplikace se zobrazí až po odemknutí zařízení</string>
+    <string name="heads_up_snooze_toast">Upozornění z této aplikace se zobrazí až po odemknutí zařízení</string>
     <string name="zen_mode_warnings_all_time_content">Upozornění a hovory budou ztišený</string>
     <string name="zen_mode_warnings_keyguard_content">Upozornění a hovory budou ztišený když je zařízení uzamknuté</string>
     <string name="zen_mode_warnings_quit_immediately">Vypnout</string>
     <string name="zen_mode_warnings_title">Režim Nerušit je zapnutý</string>
+	<string name="quick_settings_wifi_detail_dual_wifi_accelerated">Navýšení rychlosti</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Zrušit</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Potvrdit</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Více nezobrazovat</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Přepínání mezi sítěmi</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Dvojpásmové Wi-Fi zrychlení potřebuje dva různe kanály.</string>
 </resources>

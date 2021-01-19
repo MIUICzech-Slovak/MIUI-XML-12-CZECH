@@ -802,5 +802,6 @@ Bylo přičteno dalších %1$s"</string>
     <string name="operation_new_folder">Vytvořit složku</string>
     <string name="operation_open">Otevřít</string>
     <string name="operation_paste_to_folder">Vložit do složky</string>
-    <string name="operation_send_to_pc">Přesunout do PC</string>  
+    <string name="operation_send_to_pc">Přesunout do PC</string>
+    <string name="more">Více</string>	
 </resources>

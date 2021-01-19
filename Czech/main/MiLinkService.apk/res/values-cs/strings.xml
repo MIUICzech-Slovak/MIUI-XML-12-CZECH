@@ -221,4 +221,15 @@ Před použitím aplikace si přečtěte a souhlaste s našimi &lt;a href=%1$s>S
     <string name="toast_nfc_dont_move">Nehýbejte s telefonem</string>
     <string name="toast_title_for_small_window">Pro zapnutí této funkce zvolte \"Minimalizování okna\"</string>
     <string name="toast_turn_off_hotspot_before_cast">Před zahájením přenosu vypněte přenosný hotspot</string>
+	<string name="global_privacy">Podmínky používání</string>
+    <string name="global_privacy_detail">Před použitím této aplikace si přečtěte a odsouhlaste naše Podmínky používání a Ochranu soukromí.</string>
+    <string name="global_privacy_explain">Vítejte ve vysílaní! Tato aplikaca poskytuje tyto služby:</string>
+    <string name="global_privacy_feature">Používání minimalizovaných oken, vysílání s vypnutým displejem a ukrývání citlivých informací.</string>
+    <string name="global_privacy_main">Vysílání položek z obrazovky vašeho telefonu na TV.</string>
+    <string name="global_privacy_negative">Nesouhlasím</string>
+    <string name="global_privacy_positive">Souhlasím</string>
+    <string name="global_privacy_tip">Potřebujeme schromáždit potřebné osobní informace, aby jsme vám mohli poskytnout základní služby a optimalizovat postup vysílání.</string>
+    <string name="close">Zavřít</string>
+    <string name="date_time_picker_dialog_title">Nastavit datum a čas</string>
+    <string name="send">Odeslat</string>
 </resources>

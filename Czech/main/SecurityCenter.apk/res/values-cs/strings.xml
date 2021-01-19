@@ -48,7 +48,7 @@
   <string name="ac_firstUseApplock_subTitle">Použijte zámek aplikací pro ochranu Vašeho soukromí</string>
   <string name="ac_firstUseApplock_title">Vyžadovat heslo pro otevření aplikací</string>
   <string name="ac_mask_all_apps">Skrýt všechny apl.</string>
-  <string name="ac_notification_contentText">Dotykem povolíte</string>
+  <string name="ac_notification_contentText">Skrýt citlivé informace pomocí hesla</string>
   <string name="ac_notification_contentTitle">Chraňte aplikace heslem</string>
   <string name="ac_post_notification_contentText">Získejte systémovou ochranu</string>
   <string name="ac_post_notification_contentTitle">Povolit Zámek aplikací</string>
@@ -4512,5 +4512,43 @@ z vašeho hraní her"</string>
     <string name="real_location_off">Přibližná poloha je zapnutá</string>
     <string name="real_location_on">Přibližná poloha je vypnutá</string>
     <string name="view_traffic_detail">Zobrazit podrobnosti</string>
+	<string name="ac_notification_action_text">Povolit</string>
+    <string name="gb_adv_touch_adv_title">Klasický režim (předvolené)</string>
+    <string name="gb_adv_touch_custom1">Odezva na potáhnutí</string>
+    <string name="gb_adv_touch_custom2">Citlivost na plynulé dotyky</string>
+    <string name="gb_adv_touch_custom3">Přesnost měření</string>
+    <string name="gb_adv_touch_custom4">Stabilita dotyku</string>
+    <string name="gb_adv_touch_custom_tip1">Vyšší odezva potáhnutí zvyšuje rychlost reakce na toto gesto, zatím co nižší odezva potáhnutí dělá gesto stabilnějším.</string>
+    <string name="gb_adv_touch_custom_tip2">Vyšší citlivost na nepřetržité klepání zvyšuje rychlost reakce na toto gesto, zatím co nižší citlivost dělá gesto stabilnějším.</string>
+    <string name="gb_adv_touch_custom_tip3">Vyšší přesnost měření zpřesňuje menší pohyby, zatím co nižší presnost měření dělá toto gesto stabilnějším.</string>
+    <string name="gb_adv_touch_custom_tip4">Vyšší stabilita klepnutí dělá dotyky stabilnějšími, zatím co nižší stabilita klepnutí zvyšuje přesnost menších pohybů prstů.</string>
+    <string name="gb_adv_touch_custom_title">Přizpůsobit</string>
+    <string name="gb_adv_touch_mode_pro_tips">*Tento režim je navržený pro profesionální hráče. Bežným hráčům nemusí vyhovovat.</string>
+    <string name="gb_adv_touch_mode_select_title">Gesta</string>
+    <string name="gb_adv_touch_pro_title">Pro režim</string>
+    <string name="gtb_spring_festival_back_game">Zpět do hry</string>
+    <string name="gtb_spring_festival_goto_gameturbo">Zobrazit</string>
+    <string name="menu_text_deepclean_summary">%1$s/%2$s obsazené</string>
+    <string name="notification_antivirus_button_text">Kontrola</string>
+    <string name="notification_antivirus_message">Zkontrolovat nyní pro snížení rizika</string>
+    <string name="notification_link_cleaner_2001">Vyčistit %s odpadu</string>
+    <string name="notification_link_cleaner_2002">Vyčistěte odpad pro zrychlení zařízení</string>
+    <string name="notification_link_cleaner_2003">Zůstává méně než %s úložiště. Uvolněte místo.</string>
+    <string name="notification_link_cleaner_2004">Zůstává méně než %s úložiště. Uvolněte místo na úložišti.</string>
+    <string name="notification_link_cleaner_2005">Vyčistěte RAM pro zrychlení zařízení</string>
+    <string name="notification_link_optimizemanage_1011">%d%% RAM je zaplněných. Vyčistěte ji.</string>
+    <string name="notification_optimize_button_text">Vyčistit</string>
+    <string name="notification_optimize_message">Vyčistěte RAM pro zrychlení</string>
+    <string name="notification_optimize_title">%d%% RAM je obsazených</string>
+    <string name="summary_password_manager">Správce hesel umožňuje zašifrovat vaše hesla a uložit je v cloudu</string>
+    <string name="title_password_manager">Povolit Správce hesel</string>
+    <string name="vb_video_super_division">Zvětšit</string>
+    <string name="vb_video_super_division_desc">"Zvětšit rozlišení automaticky pokud je nenší než 720p.
+
+Používání této funkce zvýší spotřebu baterie."</string>
+    <string name="vb_video_super_division_tips">"Není to dost ostré?
+Zkuste zvětšit rozlišení!"</string>
+    <string name="videobox_settings_timing">Výstražné upozornění</string>
+    <string name="videobox_settings_timing_desc">Dostávejte hodinové výstrahy, které vám připomínají, aby jste si udělali přestávku</string>
 </resources>
   

@@ -408,4 +408,5 @@ zvuky, videa, dokumenty a další aplikace do nového zařízení"</string>
     <string name="title_open_wlan">Zapnout Wi-Fi</string>
     <string name="title_request_alert_window_perm">Povolit plovoucí okna</string>
     <string name="title_request_write_settings_perm">Povolit změny systémových nastavení</string>
+	<string name="host_new_device_hint">Toto zařízení</string>
 </resources>
