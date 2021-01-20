@@ -6946,4 +6946,5 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="intelligence_suppression_summary">Dynamicky přizpůsobit velikost oblasti při okrajích kde budou ignorovány dotyky</string>
     <string name="truetone_summary">Přizpůsobit barvy okolnímu světlu</string>
     <string name="truetone_title">Adaptivní barvy</string>
+	<string name="mute_media_sound_summary">Hry, hudba, videa a další aplikace</string>
 </resources>
