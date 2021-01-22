@@ -248,4 +248,5 @@
      <string name="save_as_PDF">Uložit jako PDF</string>
      <string name="save_as_picture">Uložit jako image</string>
      <string name="save_fail">"Nelze uložit"</string>
+	<string name="cropping">Ořezávání…</string>
 </resources>
