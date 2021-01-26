@@ -2073,7 +2073,7 @@
      <string name="vlog_load_data_fail">"Nelze načíst data"</string>
      <string name="vlog_mi_clip">Video editor</string>
      <string name="vlog_nav_title_audio">Zvuková stopa</string>
-     <string name="vlog_nav_title_caption">Tytulky</string>
+     <string name="vlog_nav_title_caption">Titulky</string>
      <string name="vlog_nav_title_clip">Editor</string>
      <string name="vlog_nav_title_filter">Filtry</string>
      <string name="vlog_nav_title_ratio">Poměr stran</string>
