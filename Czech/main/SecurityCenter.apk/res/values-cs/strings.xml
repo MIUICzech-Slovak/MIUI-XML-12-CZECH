@@ -4550,5 +4550,8 @@ Používání této funkce zvýší spotřebu baterie."</string>
 Zkuste zvětšit rozlišení!"</string>
     <string name="videobox_settings_timing">Výstražné upozornění</string>
     <string name="videobox_settings_timing_desc">Dostávejte hodinové výstrahy, které vám připomínají, aby jste si udělali přestávku</string>
+	<string name="date_time_picker_dialog_title">Nastavit čas a datum</string>
+	<string name="power_center_battery_health_poor_tip">Vypadá to, že je stav baterie slabý. Zkontrolujte baterii v autorizovaném servisním středisku</string>
+    <string name="power_center_battery_health_summary">Plně nabijte a vybijte zařízení %1$d-%2$d krát, abyste zlepšili přesnost statistik stavu baterie</string>
 </resources>
   

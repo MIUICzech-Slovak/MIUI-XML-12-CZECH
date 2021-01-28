@@ -249,4 +249,14 @@
      <string name="save_as_picture">Uložit jako image</string>
      <string name="save_fail">"Nelze uložit"</string>
 	<string name="cropping">Ořezávání…</string>
+	<string name="pdf_is_being_saved">Ukládání PDF…</string>
+     <string name="pdf_name">Název souboru</string>
+     <string name="pdf_save_sucess">Úspěšně uloženo</string>
+     <string name="phone_storage">Interní úložiště</string>
+	 <string name="save_sucess">Úspěšně uloženo</string>
+	 <string name="newbuildfile">Nový soubor</string>
+	 <string name="original_image">Originál</string>
+	 <string name="Enhance">Vylepšený</string>
+	 <string name="black_and_white">Č&amp;B</string>
+	 <string name="grayscale">Odstíny šedi</string>
 </resources>

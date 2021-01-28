@@ -772,6 +772,7 @@
     <string name="video_clean_video_manager_summary">Spravovat všechna videa ve vašem zařízení</string>
     <string name="video_clean_video_manager_title">Video manažer</string>
 	<string name="video_clean_image_clean_summary">Vymazat duplicitní fotografie pro uvolnění místa na úložišti</string>
-    <string name="video_clean_image_clean_title">Vymazat duplicitní fotografie</string> 
+    <string name="video_clean_image_clean_title">Vymazat duplicitní fotografie</string>
+	<string name="junk_temporary_file">Dočasné soubory</string>
 </resources>
 

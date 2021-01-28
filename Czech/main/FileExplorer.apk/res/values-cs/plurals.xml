@@ -12,7 +12,7 @@
     <plurals name="video_items">
         <item quantity="other">Položek: %1$d</item>
         <item quantity="zero">Položek: %1$d</item>
-        <item quantity="one">Položek: %1$d</item>
+        <item quantity="one">Položka: %1$d</item>
         <item quantity="two">Položek: %1$d</item>
         <item quantity="few">Položek: %1$d</item>
         <item quantity="many">Položek: %1$d</item>
@@ -28,7 +28,7 @@
     <plurals name="directory_item_count">
         <item quantity="other">Položek: %d</item>
         <item quantity="zero">Položek: %d</item>
-        <item quantity="one">Položek: %d</item>
+        <item quantity="one">Položka: %d</item>
         <item quantity="two">Položek: %d</item>
         <item quantity="few">Položek: %d</item>
         <item quantity="many">Položek: %d</item>
@@ -52,7 +52,7 @@
     <plurals name="numSelectedFile">
         <item quantity="other">Vybráno: %1$d</item>
         <item quantity="zero">Vybráno: %1$d</item>
-        <item quantity="one">Vybráno: %1$d</item>
+        <item quantity="one">Vybrán: %1$d</item>
         <item quantity="two">Vybráno: %1$d</item>
         <item quantity="few">Vybráno: %1$d</item>
         <item quantity="many">Vybráno: %1$d</item>
@@ -76,7 +76,7 @@
     <plurals name="search_head_hint_app">
         <item quantity="other">Soubory (%2$d) apl. %1$s</item>
         <item quantity="zero">Soubory (%2$d) apl. %1$s</item>
-        <item quantity="one">Soubory (%2$d) apl. %1$s</item>
+        <item quantity="one">Soubor (%2$d) apl. %1$s</item>
         <item quantity="two">Soubory (%2$d) apl. %1$s</item>
         <item quantity="few">Soubory (%2$d) apl. %1$s</item>
         <item quantity="many">Soubory (%2$d) apl. %1$s</item>
@@ -84,7 +84,7 @@
     <plurals name="search_head_hint_file">
         <item quantity="other">Soubory %1$s (%2$d)</item>
         <item quantity="zero">Soubory %1$s (%2$d)</item>
-        <item quantity="one">Soubory %1$s (%2$d)</item>
+        <item quantity="one">Soubor %1$s (%2$d)</item>
         <item quantity="two">Soubory %1$s (%2$d)</item>
         <item quantity="few">Soubory %1$s (%2$d)</item>
         <item quantity="many">Soubory %1$s (%2$d)</item>
@@ -92,7 +92,7 @@
     <plurals name="search_head_hint_tag">
         <item quantity="other">Soubory %1$s (%2$d)</item>
         <item quantity="zero">Soubory %1$s (%2$d)</item>
-        <item quantity="one">Soubory %1$s (%2$d)</item>
+        <item quantity="one">Soubor %1$s (%2$d)</item>
         <item quantity="two">Soubory %1$s (%2$d)</item>
         <item quantity="few">Soubory %1$s (%2$d)</item>
         <item quantity="many">Soubory %1$s (%2$d)</item>
@@ -124,7 +124,7 @@
     <plurals name="found_new_files">
         <item quantity="other">Nalezené nové soubory: %1$d</item>
         <item quantity="zero">Nalezené nové soubory: %1$d</item>
-        <item quantity="one">Nalezené nové soubory: %1$d</item>
+        <item quantity="one">Nalezen nový soubor: %1$d</item>
         <item quantity="two">Nalezené nové soubory: %1$d</item>
         <item quantity="few">Nalezené nové soubory: %1$d</item>
         <item quantity="many">Nalezené nové soubory: %1$d</item>
@@ -132,7 +132,7 @@
     <plurals name="file_notify_title">
         <item quantity="other">Přijaté soubory (%1$d) apl. %2$s</item>
         <item quantity="zero">Přijaté soubory (%1$d) apl. %2$s</item>
-        <item quantity="one">Přijaté soubory (%1$d) apl. %2$s</item>
+        <item quantity="one">Přijatý soubor (%1$d) apl. %2$s</item>
         <item quantity="two">Přijaté soubory (%1$d) apl. %2$s</item>
         <item quantity="few">Přijaté soubory (%1$d) apl. %2$s</item>
         <item quantity="many">Přijaté soubory (%1$d) apl. %2$s</item>
@@ -146,12 +146,12 @@
         <item quantity="many">(%1$d)</item>
     </plurals>
     <plurals name="remote_video_update">
-         <item quantity="other">Nalezena videa: %1$d</item>
-         <item quantity="zero">Nalezena videa: %1$d</item>
-         <item quantity="one">Nalezena videa: %1$d</item>
-         <item quantity="two">Nalezena videa: %1$d</item>
-         <item quantity="few">Nalezena videa: %1$d</item>
-         <item quantity="many">Nalezena videa: %1$d</item>
+         <item quantity="other">Nalezená videa: %1$d</item>
+         <item quantity="zero">Nalezená videa: %1$d</item>
+         <item quantity="one">Nalezeno video: %1$d</item>
+         <item quantity="two">Nalezená videa: %1$d</item>
+         <item quantity="few">Nalezená videa: %1$d</item>
+         <item quantity="many">Nalezená videa: %1$d</item>
      </plurals>
       <plurals name="video_ad_download_tip">
          <item quantity="other"> Stažení</item>
@@ -204,9 +204,17 @@
       <plurals name="text_group_count">
         <item quantity="other">Položek: %1$d</item>
         <item quantity="zero">Položek: %1$d</item>
-        <item quantity="one">Položek: %1$d</item>
+        <item quantity="one">Položka: %1$d</item>
         <item quantity="two">Položek: %1$d</item>
         <item quantity="few">Položek: %1$d</item>
         <item quantity="many">Položek: %1$d</item>
-    </plurals>	 	
+    </plurals>
+	<plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Položek: %d</item>
+        <item quantity="zero">Položek: %d</item>
+        <item quantity="one">Položka: %d</item>
+        <item quantity="two">Položek: %d</item>
+        <item quantity="few">Položek: %d</item>
+        <item quantity="many">Položek: %d</item>
+    </plurals>
 </resources>

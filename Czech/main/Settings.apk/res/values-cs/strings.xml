@@ -6947,4 +6947,19 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="truetone_summary">Přizpůsobit barvy okolnímu světlu</string>
     <string name="truetone_title">Adaptivní barvy</string>
 	<string name="mute_media_sound_summary">Hry, hudba, videa a další aplikace</string>
+	<string name="activity_check_context">Vaše zařízení se nyní pokouší připojit k internetu. Tento proces může trvat déleji, než se očekávalo, pokud používáte mobilní data. Můžete se vrátit zpět a namísto toho se připojit k síti Wi-Fi nebo počkat, než se naváže mobilní datové připojení.</string>
+    <string name="activity_check_title">Připojování k internetu</string>
+    <string name="dialog_check_button_negative">Zkusit znova</string>
+    <string name="dialog_check_button_positive">Připojit k Wi-Fi</string>
+    <string name="dialog_check_context">"Vaše zařízení se nemůže připojit k síti.
+1. Stlačte \"Připojit k Wi-Fi\" a vyberte dostupnou síť.
+2. Pokud se chcete připojit k mobilní síti, stlačte \"Zkusit znova\" nebo znova vložte SIM kartu."</string>
+    <string name="dialog_check_title">Nebylo možné se připojit k síti</string>
+    <string name="dialog_wifi_button_negative">Ne</string>
+    <string name="dialog_wifi_button_positive">Ano</string>
+    <string name="dialog_wifi_context">Pro nastavení zařízení je potřebné se připojit k síti.</string>
+    <string name="dialog_wifi_title">Použít mobilní data</string>
+    <string name="font_size_kddi">Střední</string>
+    <string name="magic_window_name">Rozdělit okno</string>
+    <string name="miheadset_connect_toast_tips">Nejprve připojte sluchátka</string>
 </resources>

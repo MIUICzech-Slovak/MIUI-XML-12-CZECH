@@ -917,4 +917,24 @@ Poloha nebude odeslána pokud je slabý signál sítě."</string>
 	<string name="retain_data_high_quality_photo_waring_message">Po odhlášení se z Galerie odstraní obrázky ve vysoké kvalitě. Původní soubory budou nadále uložené v cloudu. Před odhlášením si můžete též stáhnuot původní soubory.</string>
     <string name="retain_data_high_quality_photo_waring_title">Obrázky ve vysokém rozlišení nebudou dostupné</string>
     <string name="share_location_menu_create_shortcut">Odkaz na ploše</string>
+	<string name="device_activation_card_cannot_get_yet">Nebylo možné získat informace. Zkuste to později.</string>
+    <string name="device_activation_card_description">První aktivace se zaregistruje, když se zařízení poprvé připojí k síti. Zaregistrování první aktivace běžně chvíli trvá, takže je lepší počkat 3 až 5 dní po připojení k síti a potom zkontrolovat stav aktivace.</string>
+    <string name="device_activation_card_device_not_support">Toto zařízení není podporované</string>
+    <string name="device_activation_card_local_service_error">Nebylo možné získat informace. Zkuste to později.</string>
+    <string name="device_activation_card_no_network_error">Nebylo možné se připojit k síti.</string>
+    <string name="device_activation_card_title">První aktivace</string>
+    <string name="device_activation_page_title">Aktivace zařízení</string>    
+    <string name="quick_service_after_sale_policy_title">Politika</string>
+    <string name="quick_service_after_sale_service_title">Služby</string>
+    <string name="quick_service_authenticity_check_title">Ověření</string>
+    <string name="quick_service_maintenance_price_title">Opravy</string>
+    <string name="quick_service_title">Rýchle služby</string>    
+    <string name="recommend_service_cloudservice_description">Synchr. systémová data, zálohovat nastavení systému, a více</string>
+    <string name="recommend_service_sharelocation_description">Určovat polohu, uzamknout a vymazat zařízení v případě ztráty</string>
+    <string name="recommend_service_title">Doporučené služby</string>
+    <string name="sync_page_autofill_login">Přihlaste se k Mi účtu pro používání Správce hesel</string>
+    <string name="sync_page_route_message">Správce hesel umožňuje šifrovat uložená hesla v cloudu. Chcete ho povolit?</string>
+    <string name="sync_page_route_not_now">Ne</string>
+    <string name="sync_page_route_ok">Povolit</string>
+    <string name="sync_page_route_remember">Více nezobrazovat</string>
 </resources>

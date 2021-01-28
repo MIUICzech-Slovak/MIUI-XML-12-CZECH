@@ -1136,4 +1136,9 @@ Postupujte dle pokynů"</item>
         <item>Světlé barvy</item>
         <item>Černobílé</item>
      </string-array>
+	 <string-array name="tabs_taptic_detail">
+        <item>Výrázné</item>
+        <item>Jemné</item>
+        <item>Střední</item>
+     </string-array>
 </resources>

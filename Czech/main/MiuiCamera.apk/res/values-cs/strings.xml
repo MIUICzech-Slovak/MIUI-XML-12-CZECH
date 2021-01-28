@@ -1201,5 +1201,11 @@ skenované dokumenty automaticky"</string>
     <string name="video_effect_entry_northern_europe_describe">Nízká sytost a kontrast přinášejí Nordic noir do nezřetelného a měkce osvětleného vnitřního prostředí.</string>
     <string name="video_effect_entry_rome_describe">Teplý retro černobílý záběr funguje pro většinu scén.</string>
     <string name="video_effect_entry_summer_day_describe">Nízký kontrast a jasné tóny fungují dobře, když potřebujete zachovat tóny pleti. Tento filtr je vhodný pro slunečné venkovní scény.</string>
+	<string name="close_night_algo_toast_low_power">Abyste mohli nastavit expozici, nabijte zařízení</string>
+    <string name="close_night_algo_toast_thermal">Abyste mohli nastavit expozici, ochlaďte zařízení</string>
+    <string name="pref_camera_predictive_shutter_description">Sledujte pohyb, abyste minimalizovali rozmazání fotografií dětí, domácích mazlíčků a dalších aktivních objektů</string>
+    <string name="pref_camera_predictive_shutter_title">Sledovat pohyb</string>
+    <string name="pref_super_night_se_summary">Detekuje špatné světelné podmínky a automaticky zlepšute kvalitu obrazu</string>
+    <string name="pref_super_night_se_title">Automatický noční režim</string>
 </resources>
   
