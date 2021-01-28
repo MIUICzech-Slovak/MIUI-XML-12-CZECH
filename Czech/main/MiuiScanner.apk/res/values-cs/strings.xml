@@ -246,7 +246,7 @@
 	 <string name="save">Uložit</string>
      <string name="saveDone">Úspěšně uloženo</string>
      <string name="save_as_PDF">Uložit jako PDF</string>
-     <string name="save_as_picture">Uložit jako image</string>
+     <string name="save_as_picture">Uložit jako obrázek</string>
      <string name="save_fail">"Nelze uložit"</string>
 	<string name="cropping">Ořezávání…</string>
 	<string name="pdf_is_being_saved">Ukládání PDF…</string>
