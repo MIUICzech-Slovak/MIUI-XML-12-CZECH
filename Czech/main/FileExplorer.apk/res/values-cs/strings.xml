@@ -803,5 +803,11 @@ Bylo přičteno dalších %1$s"</string>
     <string name="operation_open">Otevřít</string>
     <string name="operation_paste_to_folder">Vložit do složky</string>
     <string name="operation_send_to_pc">Přesunout do PC</string>
-    <string name="more">Více</string>	
+    <string name="more">Více</string>
+	<string name="cdd_message">Kvůli omezením Android 11, není možné zobrazovat některé soubory vytvořené aplikacemi třetích stran.</string>
+    <string name="cdd_title">Upozornění</string>
+    <string name="mirror_can_not_drag_mask_new">Potáhněte položky do %s</string>
+    <string name="mirror_side_bar_tab_tranfer_name">Přenosy a stahování</string>
+    <string name="transfer">Přenosy a stahování</string>
+    <string name="transfer_summary">Stahování a přenos přes Mi Share</string>
 </resources>

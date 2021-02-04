@@ -77,4 +77,8 @@
         <item quantity="other">za %1$d dní</item>
         <item quantity="one">za %1$d den</item>
      </plurals>
+	 <plurals name="item_terms">
+        <item quantity="other">Položek: %1$s</item>
+        <item quantity="one">Položek: %1$s</item>
+    </plurals>	
 </resources>

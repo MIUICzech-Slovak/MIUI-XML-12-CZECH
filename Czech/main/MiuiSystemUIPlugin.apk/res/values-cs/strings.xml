@@ -164,5 +164,6 @@
     <string name="dnd_popup_close_message">Rozumím</string>
     <string name="dnd_popup_message">Můžete zapnout režim Nerušit pro ztišení hovorů a upozornění bez vypnutí zvuků médií.</string>
     <string name="miui_toast_zen_to_dnd_when_lock">Hovory a upozornění budou ztišeny když je zařízení uzamknuto</string>
-    <string name="wireless_charging_tips_sub_message">Druhé zařízení musí podporovat Qi bezdrátové nabíjení.</string>	
+    <string name="wireless_charging_tips_sub_message">Druhé zařízení musí podporovat Qi bezdrátové nabíjení.</string>
+	<string name="smart_home_title">Chytrá zařízení</string>
  </resources>

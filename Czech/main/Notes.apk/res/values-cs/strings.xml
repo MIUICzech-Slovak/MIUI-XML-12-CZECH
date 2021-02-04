@@ -293,10 +293,10 @@ Povolte aplikaci Poznámky přístup k mikrofonu."</string>
   <string name="todo_edit_btn_today">Dnes</string>
   <string name="todo_edit_btn_tomorrow">Zítra</string>
   <string name="todo_edit_text_hint">Zadajte popis úlohy</string>
-  <string name="todo_event_description_a_week_ago">Před týdnem</string>
-  <string name="todo_event_description_a_week_later">O týden</string>
-  <string name="todo_event_description_day_after_tomorrow">O 2 týdny</string>
-  <string name="todo_event_description_day_before_yesterday">Před 2 dny</string>
+  <string name="todo_event_description_a_week_ago">Před %1$d týdnem</string>
+  <string name="todo_event_description_a_week_later">Za %1$d týden</string>
+  <string name="todo_event_description_day_after_tomorrow">Za %1$d týdny</string>
+  <string name="todo_event_description_day_before_yesterday">Před %1$d dny</string>
   <string name="todo_event_description_today">Dnes</string>
   <string name="todo_event_description_tomorrow">Zítra</string>
   <string name="todo_event_description_yesterday">Včera</string>
@@ -343,7 +343,7 @@ Povolte aplikaci Poznámky přístup k mikrofonu."</string>
   <string name="toolbar_undo_description">Zpět</string>
   <string name="toolbar_voice_description">Hlas</string>
   <string name="trash_folder_name">Koš</string>
-  <string name="trash_folder_reminder">Poznámky, které vymažete, budou trvale odstraněny za 30 dní.</string>
+  <string name="trash_folder_reminder">Poznámky, které vymažete, budou trvale odstraněny za %1$d dní.</string>
   <string name="unclassfied_folder_name">Není rozděleno</string>
   <string name="undo">Zpět</string>
   <string name="unknown_source">Neznámý zdroj</string>
@@ -492,4 +492,6 @@ http://www.miuios.cz/rom
     <string name="toast_refuse_to_use_storage_in_excerpt">Povolte Poznámkám přístup na úložiště</string>
     <string name="view_all_notes">Zobrazit vše</string>
 	<string name="blackboard_note">Inteligentní tabule</string>
+	<string name="note_mindnote_entrance_hint_newversion">"Začněte psát "</string>
+	<string name="note_mindnote_entrance_icon_text_newversion">Vytvořit myšlenkovou mapu</string>
 </resources>

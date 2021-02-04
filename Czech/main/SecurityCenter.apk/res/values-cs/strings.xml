@@ -4543,7 +4543,7 @@ z vašeho hraní her"</string>
     <string name="summary_password_manager">Správce hesel umožňuje zašifrovat vaše hesla a uložit je v cloudu</string>
     <string name="title_password_manager">Povolit Správce hesel</string>
     <string name="vb_video_super_division">Zvětšit</string>
-    <string name="vb_video_super_division_desc">"Zvětšit rozlišení automaticky pokud je nenší než 720p.
+    <string name="vb_video_super_division_desc">"Zvětšit rozlišení automaticky pokud je menší než 720p.
 
 Používání této funkce zvýší spotřebu baterie."</string>
     <string name="vb_video_super_division_tips">"Není to dost ostré?
@@ -4553,5 +4553,10 @@ Zkuste zvětšit rozlišení!"</string>
 	<string name="date_time_picker_dialog_title">Nastavit čas a datum</string>
 	<string name="power_center_battery_health_poor_tip">Vypadá to, že je stav baterie slabý. Zkontrolujte baterii v autorizovaném servisním středisku</string>
     <string name="power_center_battery_health_summary">Plně nabijte a vybijte zařízení %1$d-%2$d krát, abyste zlepšili přesnost statistik stavu baterie</string>
+	<string name="Settings_title_anti_virus_kddi">Nastavení kontroly zabezpečení</string>
+    <string name="activity_title_antivirus_kddi">Kontrola zabezpečení</string>
+    <string name="antivirus_privacy_dialog_title_kddi">Podmínky používání</string>
+    <string name="antivirus_third_privacy_title">Ochrana soukromí</string>
+    <string name="menu_text_antivirus_kddi">Kontrola zabezpečení</string>
 </resources>
   
