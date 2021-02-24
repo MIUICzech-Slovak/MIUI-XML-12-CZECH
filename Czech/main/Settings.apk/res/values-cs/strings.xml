@@ -6971,4 +6971,24 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="wifi_tether_checkbox_kddi_text">Wi-Fi tethering</string>
     <string name="wifi_tether_configure_ap_kddi_text">Nastavit Wi-Fi tethering</string>
     <string name="wlan_scanner_unresizeble">Není možné zobrazit Wi-Fi nastavení v režimu rozdělení obrazovky</string>
+	<string name="miheadset_key_config_call_ai">Hlasový asistent</string>
+    <string name="miheadset_key_config_close">Vyp</string>
+    <string name="miheadset_key_config_close_summary">Vypnout potlačení okolního hluku</string>
+    <string name="miheadset_key_config_gesture_control">Gesta</string>
+    <string name="miheadset_key_config_next_music">Další skladba</string>
+    <string name="miheadset_key_config_noise_control">Aktívní potlačení hluku</string>
+    <string name="miheadset_key_config_noise_control_summary">Stlačte a podržte pro přepínání mezi dvěma režimi</string>
+    <string name="miheadset_key_config_noise_summary">Blokovat vnější zvuky</string>
+    <string name="miheadset_key_config_press_left">Stlačte a podržte levé sluchátko</string>
+    <string name="miheadset_key_config_press_right">Stlačte a podržte pravé sluchátko</string>
+    <string name="miheadset_key_config_trans_summary">Povolit vnější zvuky</string>
+    <string name="miheadset_key_config_triple_left">Trojité poklepání levého sluchátka</string>
+    <string name="miheadset_key_config_triple_right">Trojité poklepání pravého sluchátka</string>
+    <string name="miheadset_key_config_volume_down">Snížit hlasitost</string>
+    <string name="miheadset_key_config_volume_up">Zvýšit hlasitost</string>
+    <string name="wifi_assistant_keep_wifi_connection">Ne</string>
+    <string name="wifi_assistant_prompt">Zůstat připojený</string>
+    <string name="wifi_assistant_prompt_button">Rozumím</string>
+    <string name="wifi_assistant_prompt_checkbox">Zeptat se na povolení používání mobilních dat</string>
+    <string name="wifi_assistant_prompt_summary">Vaše zařízení se připojí na jinou dostupnou Wi-Fi síť nebo použije mobilní data pokud vaše současná Wi-Fi síť nebude mít připojení na internet.</string>        
 </resources>
