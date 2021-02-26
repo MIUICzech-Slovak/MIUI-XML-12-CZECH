@@ -2321,8 +2321,6 @@
     <string name="cloud_bacup_disable_processing">Zpracovávání...</string>
     <string name="cloud_login_ok">Rozumím</string>
     <string name="cloud_login_settings_title">Nastavení synchr.</string>
-    <string name="cloud_privacy_with_ai_album">Funkce a soukromí</string>
-    <string name="cloud_privacy_with_face">Funkce a soukromí</string>
     <string name="mi_mover_working_desc">MiMover přenáší položky...</string>
     <string name="photo_size_not_support">Toto rozlišení není podporováno</string>
     <string name="see_more_settings">Další nastavení</string>
