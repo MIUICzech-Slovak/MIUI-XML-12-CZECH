@@ -704,7 +704,7 @@ Další použití datového připojení se může projevit na výši vašeho vy�
   <string name="face_unlock_rotated_left">Otočtě hlavu doprava</string>
   <string name="face_unlock_rotated_right">Otočtě hlavu doleva</string>
   <string name="face_unlock_stay_away_screen">Držte se 25-40cm od obrazovky</string>
-  <string name="face_unlock_success">Tvář úspěšně ověřena</string>
+  <string name="face_unlock_success">Odemkuto</string>
   <string name="face_unlock_success_show_message_dialog_msg">Povolit upozorněním zobrazení na zamčené obrazovce.</string>
   <string name="face_unlock_success_show_message_dialog_negative_btn">Ne</string>
   <string name="face_unlock_success_show_message_dialog_positive_btn">Povolit</string>
@@ -2537,5 +2537,4 @@ Tato aplikace nemá oprávnění k nahrávání, ale může zaznamenávat zvuk p
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Přepínání mezi sítěmi</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Dvojpásmové Wi-Fi zrychlení potřebuje dva různe kanály.</string>
 	<string name="control_center_notification_switch_guide">Potáhnutím do stran přepnete mezi upozorněními a Centrem ovládání</string>
-	<string name="face_unlock_success">Odemknuto</string>
 </resources>
