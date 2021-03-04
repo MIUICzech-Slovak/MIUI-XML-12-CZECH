@@ -6990,5 +6990,16 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="wifi_assistant_prompt">Zůstat připojený</string>
     <string name="wifi_assistant_prompt_button">Rozumím</string>
     <string name="wifi_assistant_prompt_checkbox">Zeptat se na povolení používání mobilních dat</string>
-    <string name="wifi_assistant_prompt_summary">Vaše zařízení se připojí na jinou dostupnou Wi-Fi síť nebo použije mobilní data pokud vaše současná Wi-Fi síť nebude mít připojení na internet.</string>        
+    <string name="wifi_assistant_prompt_summary">Vaše zařízení se připojí na jinou dostupnou Wi-Fi síť nebo použije mobilní data pokud vaše současná Wi-Fi síť nebude mít připojení na internet.</string>
+	<string name="device_activation_info">Aktivace zařízení</string>
+    <string name="miheadset_ancClosed">Vyp</string>
+    <string name="miheadset_ancHigh">Vysoké</string>
+    <string name="miheadset_ancLow">Nízké</string>
+    <string name="miheadset_ancMedium">Střední</string>
+    <string name="miheadset_enhanceVoice">Vylepšit hlas</string>
+    <string name="miheadset_transparentMode">Transparentní</string>
+    <string name="miui_sos_pa_title">Nouzová poloha</string>
+    <string name="miui_sos_pa_turn_off">Vyp</string>
+    <string name="miui_sos_pa_turn_on">Zap</string>
+    <string name="title_special_features_health_global">Tep srdce</string>
 </resources>

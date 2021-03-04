@@ -238,5 +238,9 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
     <string name="zone_picker_title">Vybrat časové pásmo</string>
     <string name="data_traffic_enable_dialog_title">Pokud nejste připojený na Wi-Fi, vaše zatřídění použije mobilní data.</string>
 	<string name="other_settings_ad_dialog_agree">Povolit</string>
-    <string name="other_settings_ad_dialog_disagree">Vypnout</string>	
+    <string name="other_settings_ad_dialog_disagree">Vypnout</string>
+	<string name="item_contents_wwarning">Jestliže ztratíte své zařízení, nebudete moci zabránit jeho zneužití. Přesto chcete přeskočit?</string>
+    <string name="item_return">Nastavit</string>
+    <string name="item_skip">Přeskočit</string>
+    <string name="title_set_fingerprint">Zámek displeje</string>
 </resources>

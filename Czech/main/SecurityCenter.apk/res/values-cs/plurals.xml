@@ -843,5 +843,13 @@
 Dejte si pauzu!"</item>
         <item quantity="one">"Sledovali jste videa už %d hodinu.
 Dejte si pauzu!"</item>
-    </plurals> 
+    </plurals>
+	<plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">Odinstalovat apl.: %d</item>
+        <item quantity="one">Odinstalovat apl.: %d</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">Můžete odinstalovat %d apl.</item>
+        <item quantity="one">Můžete odinstalovat %d apl.</item>
+    </plurals>
 </resources>

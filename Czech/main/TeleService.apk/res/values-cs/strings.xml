@@ -1759,5 +1759,6 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="traffic_mode_switch_title">Extrémní režim</string>
   <string name="preference_countrycode_title">Předvolba krajiny</string>
   <string name="v7_preference_off">Vyp</string>
-    <string name="v7_preference_on">Zap</string> 
+    <string name="v7_preference_on">Zap</string>
+	<string name="select_apn_list_title">Vyberte vaše předvolené APN: pro SIM %1$s</string>
 </resources>
