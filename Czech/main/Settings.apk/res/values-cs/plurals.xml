@@ -282,4 +282,8 @@
         <item quantity="other">Wi-Fi bude automaticky zapnutá pokud vaše zařízení zjistí v blízkosti uloženou Wi-Fi síť a vypne se po %d minútách když není připojená</item>
         <item quantity="one">Wi-Fi bude automaticky zapnutá pokud vaše zařízení zjistí v blízkosti uloženou Wi-Fi síť a vypne se po %d minutě když není připojená</item>
     </plurals>
+	<plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">Dostávejte upozornění když jedno ze sluchátek je daleko od ucha nebo od pouzdra déleji než %d min.</item>
+        <item quantity="one">Dostávejte upozornění když jedno ze sluchátek je daleko od ucha nebo od pouzdra déleji než %d min.</item>
+    </plurals>
 </resources>

@@ -2537,4 +2537,5 @@ Tato aplikace nemá oprávnění k nahrávání, ale může zaznamenávat zvuk p
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Přepínání mezi sítěmi</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Dvojpásmové Wi-Fi zrychlení potřebuje dva různe kanály.</string>
 	<string name="control_center_notification_switch_guide">Potáhnutím do stran přepnete mezi upozorněními a Centrem ovládání</string>
+	<string name="finger_error_single_mode">V režimu jedné ruky není možné používat senzor otisku prstu.</string>
 </resources>

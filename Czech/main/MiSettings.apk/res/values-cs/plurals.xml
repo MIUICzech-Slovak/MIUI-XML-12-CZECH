@@ -144,5 +144,9 @@
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
-    </plurals>		
+    </plurals>
+	<plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Vybrané: %d</item>
+        <item quantity="one">Vybrané: %d</item>
+    </plurals>
 </resources>

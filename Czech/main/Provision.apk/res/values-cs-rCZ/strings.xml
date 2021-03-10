@@ -243,4 +243,13 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
     <string name="item_return">Nastavit</string>
     <string name="item_skip">Přeskočit</string>
     <string name="title_set_fingerprint">Zámek displeje</string>
+	<string name="wc_dialog_agree">Souhlasím</string>
+    <string name="wc_dialog_reject">Nesouhlasím</string>
+    <string name="wc_dialog_summary">Denní tapeta zobrazuje výběr těch nejkrásnějších tapet na zámku obrazovky.</string>
+    <string name="wc_dialog_title">Zámek obrazovky</string>
+    <string name="wc_double_check_agree">Vyzkoušet</string>
+    <string name="wc_double_check_reject">Ne</string>
+    <string name="wc_double_check_summary">Můžete povolit Denní tapetu a uvidíte zda se vám bude líbit. Tuto funkci můžete kdykoli vypnout v nastavení zamykací obrazovky.</string>
+    <string name="wc_double_check_title">Vyzkoušet Denní tapetu</string>
+    <string name="wc_notice_link_announcement_summary">Přečtěte si naše Podmínky používání a Ochranu soukromí.</string>
 </resources>
