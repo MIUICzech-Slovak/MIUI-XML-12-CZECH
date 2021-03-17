@@ -7013,4 +7013,5 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="keyboard_skin_follow_system_enable">Přepnout do tmavého režimu spolu se systémem</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Zrušit</string>
     <string name="miui_face_enroll_risk_warning_title_text">Upozornění</string>
+	<string name="miheadset_key_config_ANC_list_title">Kontrola hluku</string>
 </resources>

@@ -560,4 +560,6 @@
 	<string name="silent_ringtone_hint">Zvuky jsou stíněný. Vypněte Tichý režim a zkuste to znova.</string>
   <string name="animal_select_alert_info">Můžete vybrat maximálně 5 položek</string>
     <string name="random_play_sound_alert">Uslyšíte zvuky zvířat z tohoto regionu když dostanete upozornění</string>
+	<string name="close">Zavřít</string>
+	<string name="send">Odeslat</string>
 </resources>

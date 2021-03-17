@@ -1834,7 +1834,7 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="notification_content_title">Využito %1$s při uzamknutém zařízení</string>
   <string name="notification_exit_extreme_mode_text">Baterie má víc než %s</string>
   <string name="notification_exit_extreme_mode_title">Vypnuta Extrémní úspora baterie</string>
-  <string name="notification_exit_power_save_mode">Vypnuto Šetření baterie</string>
+  <string name="notification_exit_power_save_mode">Povoleno Ultra Šetrení baterie</string>
   <string name="notification_exit_power_save_mode_subtitle">Baterie %s nabita.</string>
   <string name="notification_item">Zabezpečte vaše aplikace</string>
   <string name="notification_mask_summary">Nezobrazovat obsah upozornění na zamykací obrazovce a v roletce</string>
@@ -4581,5 +4581,37 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos je povolený</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Rozšířené stereo</string>
     <string name="view_traffic_details">Zobrazit spotřebu dat</string>
+	<string name="battery_low_percent_format_save_mode_closed_new_version">Baterie je slabá. Připojte nabíječku.</string>
+    <string name="battery_low_percent_format_save_mode_open_new_version">Povotte Šetření baterie pro přidání %s.</string>
+    <string name="exo_controls_cc_disabled_description">Povolit titulky</string>
+    <string name="exo_controls_cc_enabled_description">Vypnout titulky</string>
+    <string name="exo_controls_fullscreen_enter_description">Režim na celou obrazovku</string>
+    <string name="exo_controls_fullscreen_exit_description">Ukončit režim celé obrazovky</string>
+    <string name="exo_controls_hide">Skrýt ovládání přehrávače</string>
+    <string name="exo_controls_next_description">Další</string>
+    <string name="exo_controls_overflow_hide_description">Skrýt další nastavení</string>
+    <string name="exo_controls_overflow_show_description">Zobrazit další nastavení</string>
+    <string name="exo_controls_playback_speed">Rýchlost</string>
+    <string name="exo_controls_playback_speed_normal">Normální</string>
+    <string name="exo_controls_previous_description">Předch.</string>
+    <string name="exo_controls_seek_bar_description">Stav přehrávání</string>
+    <string name="exo_controls_settings_description">Nastavení</string>
+    <string name="exo_controls_show">Zobrazit ovládání přehrávače</string>
+    <string name="exo_controls_shuffle_off_description">Náhodné vyp.</string>
+    <string name="exo_controls_shuffle_on_description">Náhodné zap.</string>
+    <string name="exo_track_role_alternate">Střídavě</string>
+    <string name="exo_track_role_commentary">Výklad</string>
+    <string name="exo_track_role_supplementary">Doplňky</string>
+    <string name="notification_enter_power_save_mode_subtitle">Vypnout když je zařízení %s plně nabité</string>
+    <string name="notification_enter_power_save_mode_title">Povolené Šetření baterie</string>
+    <string name="notification_exit_power_save_mode_full_subtitle">Vaše zařízení je plně nabité</string>
+    <string name="notification_exit_power_save_mode_now">Vypnout</string>
+    <string name="pp_privacy_lab_blur_location">Přibližná poloha</string>
+    <string name="pp_privacy_lab_blur_location_summary">Nedovolte aplikacím číst vaší přesnou polohu</string>
+    <string name="pp_privacy_lab_clipboard">Ochrana schránky</string>
+    <string name="pp_privacy_lab_clipboard_summary">Povolit MIUI rozhodovat zda aplikace může přistupovat ke skopírovaným datám ve schránce</string>
+    <string name="pp_privacy_protection_lab">Experimentální ochrana soukromí</string>
+    <string name="pp_privacy_protection_lab_summary">Zachovejte si soukromí</string>
+    <string name="settings_battery_power_save_suggest_title">Doporučení a varování šetření baterie</string>
 </resources>
   

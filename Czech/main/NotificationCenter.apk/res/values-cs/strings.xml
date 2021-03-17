@@ -101,5 +101,11 @@ Nahlašte tento problém &gt;"</string>
     <string name="summary_fold_importance_unimportant">Upozornění bude zobrazené ve složce</string>
     <string name="title_aggregate_default">Sloučit upozornění</string>
     <string name="title_aggregate_home">Neslučovat upozornění</string>
+	<string name="float_notification_snooze_strategy">Dočasně skrýt</string>
+    <string name="float_notification_snooze_summary">Potáhněte upozornění nahoru pro dočasné skrytí dalších upozornění</string>
+    <string name="miui_snooze_always_float">Neskrývat</string>
+    <string name="miui_snooze_cancel">Zrušit</string>
+    <string name="miui_snooze_default_time">Na %d min.</string>
+    <string name="miui_snooze_until_unlock_screen">Dokud se neuzamkne</string>
 </resources>
 
