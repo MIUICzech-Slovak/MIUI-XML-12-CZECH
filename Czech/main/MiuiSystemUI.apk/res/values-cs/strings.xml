@@ -2538,4 +2538,13 @@ Tato aplikace nemá oprávnění k nahrávání, ale může zaznamenávat zvuk p
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Dvojpásmové Wi-Fi zrychlení potřebuje dva různe kanály.</string>
 	<string name="control_center_notification_switch_guide">Potáhnutím do stran přepnete mezi upozorněními a Centrem ovládání</string>
 	<string name="finger_error_single_mode">V režimu jedné ruky není možné používat senzor otisku prstu.</string>
+  <string name="miui_snooze_always_float">Neskrývat</string>
+    <string name="miui_snooze_cancel">Zrušit</string>
+    <string name="miui_snooze_default_time">Na %d min</string>
+    <string name="miui_snooze_to_settings">Nastavení</string>
+    <string name="miui_snooze_toast_hint_default">Nasledující upozornění budou skryté na %d min.</string>
+    <string name="miui_snooze_toast_hint_until_unlock_screen">Nasledující upozornění budou skryté dokud neuzamknete zařízení.</string>
+    <string name="miui_snooze_until_unlock_screen">Dokud neuzamknete</string>
+    <string name="miui_snooze_user_set_fail">Jděte do Nastavení > Upozornění a Centrum ovládání pro více možností</string>
+    <string name="miui_snooze_user_set_success">Nastaveno</string>
 </resources>

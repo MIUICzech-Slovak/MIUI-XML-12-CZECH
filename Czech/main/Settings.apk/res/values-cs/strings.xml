@@ -7013,5 +7013,15 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="keyboard_skin_follow_system_enable">Přepnout do tmavého režimu spolu se systémem</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Zrušit</string>
     <string name="miui_face_enroll_risk_warning_title_text">Upozornění</string>
-	<string name="miheadset_key_config_ANC_list_title">Kontrola hluku</string>
+	  <string name="miheadset_key_config_ANC_list_title">Kontrola hluku</string>
+    <string name="wifi_wakeup">Turn on Wi-Fi automatically</string>
+     <string name="wifi_wakeup_location_summary">Chcete-li tuto funkci používat, zapněte služby určování polohy.</string>
+     <string name="wifi_wakeup_negative_button">Zrušit</string>
+     <string name="wifi_wakeup_positive_button">Zapnout</string>
+     <string name="wifi_wakeup_scan_summary">Povolte aplikacím a službám vyhledávat sítě Wi-Fi, aby bylo možné automaticky zapnout Wi-Fi. Zapnutí této funkce umožní vašemu zařízení automaticky se připojit k uloženým sítím v okolí.</string>
+     <string name="wifi_wakeup_summary">Wi-Fi se znovu zapne poblíž vysoce kvalitních uložených sítí, jako je vaše domácí síť</string>
+     <string name="wifi_wakeup_summary_no_location">Není k dispozici, protože poloha je vypnutá. Zapněte <annotation id="link">polohu</annotation>.</string>
+     <string name="wifi_wakeup_summary_scanning_disabled">Není k dispozici, protože je vypnuto skenování Wi-Fi</string>
+     <string name="wifi_wakeup_summary_scoring_disabled">Pro použití vyberte poskytovatele hodnocení sítě</string>
+     <string name="wifi_wakeup_title">Zapnutí dalších funkcí</string>
 </resources>
