@@ -7014,7 +7014,7 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="miui_face_enroll_risk_warning_btn_cancel">Zrušit</string>
     <string name="miui_face_enroll_risk_warning_title_text">Upozornění</string>
 	  <string name="miheadset_key_config_ANC_list_title">Kontrola hluku</string>
-    <string name="wifi_wakeup">Turn on Wi-Fi automatically</string>
+    <string name="wifi_wakeup">Automaticky zapínat Wi-Fi</string>
      <string name="wifi_wakeup_location_summary">Chcete-li tuto funkci používat, zapněte služby určování polohy.</string>
      <string name="wifi_wakeup_negative_button">Zrušit</string>
      <string name="wifi_wakeup_positive_button">Zapnout</string>
