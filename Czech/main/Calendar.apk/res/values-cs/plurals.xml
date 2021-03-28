@@ -135,7 +135,7 @@
          <item quantity="one">Můžete zadat do %1$d dne</item>
      </plurals>
     <plurals name="repeat_custom_prompt">
-        <item quantity="other">kařdý %1$s v %2$s</item>
+        <item quantity="other">každý %1$s v %2$s</item>
         <item quantity="one">každý %1$s v %2$s</item>	
     </plurals>
     <plurals name="reminder_custom_unit_day">
