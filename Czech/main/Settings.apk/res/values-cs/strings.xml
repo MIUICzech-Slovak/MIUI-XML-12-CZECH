@@ -7024,4 +7024,18 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
      <string name="wifi_wakeup_summary_scanning_disabled">Není k dispozici, protože je vypnuto skenování Wi-Fi</string>
      <string name="wifi_wakeup_summary_scoring_disabled">Pro použití vyberte poskytovatele hodnocení sítě</string>
      <string name="wifi_wakeup_title">Zapnutí dalších funkcí</string>
+     <string name="bluetooth_message_access_dialog_content">"Nepovolené Bluetooth zařízení, %1$s, sa snaží o přístup k vašim zprávám.
+
+Nikdy jste nebyli připojený k %2$s."</string>
+    <string name="bluetooth_message_access_dialog_title">Povolit přístup ke zprávam?</string>
+    <string name="bluetooth_message_access_notification_content">Nepovolené Bluetooth zařízení, se snaží o přístup k vašim zprávám.</string>
+    <string name="bluetooth_phonebook_access_dialog_content">"Nepovolené Bluetooth zařízení, %1$s, se snaží o přístup k vašim kontaktům a hovorům.
+
+Nikdy jste nebyli připojený k %2$s."</string>
+    <string name="bluetooth_phonebook_access_dialog_title">Povolit přístup ke kontaktům a hovorům?</string>
+    <string name="bluetooth_phonebook_access_notification_content">Nepovolené Bluetooth zařízení, se snaží o přístup ke kontaktům a hovorům.</string>
+    <string name="mechanical_ime">Mechanická klávesnice</string>
+    <string name="mechanical_ime_hint">Podporované jen s Xiaomi klávesnicemi</string>
+    <string name="xiaomi_hp_location">Přesná poloha</string>
+    <string name="xiaomi_hp_location_description">Informace o přesné poloze umožňují lepší navigaci</string>
 </resources>

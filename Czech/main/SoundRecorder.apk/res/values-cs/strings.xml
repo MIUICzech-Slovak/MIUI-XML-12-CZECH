@@ -202,5 +202,7 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="uninstall_warning_content">Záznamník je systémová aplikace. Pokud ji odinstalujete, některé funkce nemusí fungovat správně.</string>
   <string name="uninstall_warning_title">Odinstalovat Záznamník?</string>
   <string name="notification_save_as_complete">Uloženo</string>
-    <string name="save_as">Uložit jako</string>	
+    <string name="save_as">Uložit jako</string>
+    <string name="remove_icon_description_content">Záznamník je systémová aplikace.</string>
+    <string name="remove_icon_description_title">Odstranit ikonu z plochy?</string> 	
 </resources>

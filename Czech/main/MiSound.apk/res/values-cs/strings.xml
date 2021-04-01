@@ -203,5 +203,9 @@
     <string name="dolby_dax_profile_dynamic">Dynamický</string>
     <string name="dolby_dax_setting">Dolby efekty</string>
     <string name="dolby_dax_title">Surround zvuk</string>
+    <string name="music_headset_audio_visual_mute">Náhled bez zvuku</string>
+    <string name="music_headset_audio_visual_unmute">Náhled se zvukem</string>
+    <string name="not_support_sound_transmission_content">Tato funkce není podporovaná připojeným zařízením.</string>
+    <string name="not_support_sound_transmission_prompt">Upozornění</string>
 </resources>
 

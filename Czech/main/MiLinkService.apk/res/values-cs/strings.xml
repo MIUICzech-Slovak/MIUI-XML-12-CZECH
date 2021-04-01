@@ -232,4 +232,6 @@ Před použitím aplikace si přečtěte a souhlaste s našimi &lt;a href=%1$s>S
     <string name="close">Zavřít</string>
     <string name="date_time_picker_dialog_title">Nastavit datum a čas</string>
     <string name="send">Odeslat</string>
+    <string name="dialog_scanning_precondition_new_china">Povolte Wi-Fi, Bluetooth, a služby polohy pro používání vysílání. Chcete povolit nyní?</string>
+    <string name="dialog_scanning_precondition_new_global">Povolte Wi-Fi, Bluetooth, a služby polohy pro používání vysílání. Chcete povolit nyní?</string>
 </resources>

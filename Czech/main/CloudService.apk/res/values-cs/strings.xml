@@ -937,4 +937,5 @@ Poloha nebude odeslána pokud je slabý signál sítě."</string>
     <string name="sync_page_route_not_now">Ne</string>
     <string name="sync_page_route_ok">Povolit</string>
     <string name="sync_page_route_remember">Více nezobrazovat</string>
+    <string name="ks_name_high_precise_position">Vysoká přesnost polohy</string>
 </resources>

@@ -412,7 +412,7 @@
   <string name="fps_smooth_title">Střední</string>
   <string name="fps_standard_summary">Standardní obnovovací frekvence šetří baterii</string>
   <string name="fps_standard_title">Standardní</string>
-  <string name="fps_user_tip">Tyto animace jsou přehrávané pomaleji kvůli ukázce rozdílu v obnovovací frekvenci.</string>
+  <string name="fps_user_tip">1. Tyto animace jsou přehrávané pomaleji kvůli ukázce rozdílu v obnovovací frekvenci.</string>
   <string name="usage_app_holiday_limit">Dny volna</string>
   <string name="usage_new_home_week_average_count">Prům. %s</string>
   <string name="usage_new_home_week_compare_text1_new">(%s%% více jak minulý týden)</string>
@@ -562,4 +562,5 @@
     <string name="random_play_sound_alert">Uslyšíte zvuky zvířat z tohoto regionu když dostanete upozornění</string>
 	<string name="close">Zavřít</string>
 	<string name="send">Odeslat</string>
+  <string name="adaptive_fps_tip">2. Dosáhnete nejlepší poměr mezi plynulostí systému a spotřeby baterie pomocí dynamické obnovovací frekvence.</string>
 </resources>

@@ -774,5 +774,10 @@
 	<string name="video_clean_image_clean_summary">Vymazat duplicitní fotografie pro uvolnění místa na úložišti</string>
     <string name="video_clean_image_clean_title">Vymazat duplicitní fotografie</string>
 	<string name="junk_temporary_file">Dočasné soubory</string>
+  <string name="whatsapp_cache_clear">Vymazávání cache…</string>
+    <string name="whatsapp_detail_cache_result">Uvolněno %s</string>
+    <string name="whatsapp_detail_sort_created">Seřaďit podle datumu</string>
+    <string name="whatsapp_file_recv">Přijaté</string>
+    <string name="whatsapp_file_send">Odoslané</string>
 </resources>
 

@@ -186,5 +186,9 @@
     <plurals name="rs_clean_size_hint_song">
         <item quantity="other">Dost pro %d skladeb</item>
         <item quantity="one">Dost pro %d skladbu</item>
+    </plurals>
+    <plurals name="whatsapp_file_audio_dec">
+        <item quantity="other">Nahrávek: %1$s</item>
+        <item quantity="one">Nahrávka: %1$s</item>
     </plurals> 
 </resources>
