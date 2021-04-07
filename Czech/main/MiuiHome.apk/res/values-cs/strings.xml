@@ -577,6 +577,10 @@
     <string name="clearable_edittext_clear_description">Vyčistit</string>
 	<string name="assistant_edge_gesture_summary">Potáhněte ze spodního levého nebo pravého rohu pro spuštění Google Asistenta</string>
     <string name="assistant_edge_gesture_title">Potáhnout z rohu pro Google Asistent</string>
+    <string name="network_error">Nebylo možné připojit se k síti.</string>
+    <string name="remove_sys_app_content">Ikonu na plochu můžete přidat v Nastaveních. Odstranit nyní?</string>
+    <string name="remove_sys_app_title">Odstranit ikonu z plochy?</string>
+    <string name="server_error">Nastala chyba servera.</string>
 </resources>
 
 

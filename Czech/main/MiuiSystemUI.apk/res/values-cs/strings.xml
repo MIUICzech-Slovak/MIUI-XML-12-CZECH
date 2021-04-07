@@ -2547,4 +2547,6 @@ Tato aplikace nemá oprávnění k nahrávání, ale může zaznamenávat zvuk p
     <string name="miui_snooze_until_unlock_screen">Dokud neuzamknete</string>
     <string name="miui_snooze_user_set_fail">Jděte do Nastavení > Upozornění a Centrum ovládání pro více možností</string>
     <string name="miui_snooze_user_set_success">Nastaveno</string>
+    <string name="choose_clock_dual_clock_hint_text">Není možné změnit formát když jsou aktivní duální hodiny</string>
+    <string name="start_camera_error_try_again">Nebylo možné spustit fotoaparát.</string>
 </resources>

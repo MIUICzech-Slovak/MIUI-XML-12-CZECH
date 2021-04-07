@@ -7038,4 +7038,20 @@ Nikdy jste nebyli připojený k %2$s."</string>
     <string name="mechanical_ime_hint">Podporované jen s Xiaomi klávesnicemi</string>
     <string name="xiaomi_hp_location">Přesná poloha</string>
     <string name="xiaomi_hp_location_description">Informace o přesné poloze umožňují lepší navigaci</string>
+    <string name="headset_find_both">Obě</string>
+    <string name="headset_find_cancel">Zrušit</string>
+    <string name="headset_find_connected">Připojeno</string>
+    <string name="headset_find_disconnect">Nepřipojeno</string>
+    <string name="headset_find_handle_tip">Dotykem přehrajete alarm</string>
+    <string name="headset_find_left">Levé</string>
+    <string name="headset_find_notify_connected">Připojeno</string>
+    <string name="headset_find_notify_disconnect">Odpojeno. Připojte a zkuste znova.</string>
+    <string name="headset_find_play_warning">Zdá se, že alespoň jedno sluchátko je ve vašem uchu. Přehrávání alarmu může poškodit váš sluch.</string>
+    <string name="headset_find_playing">Přehrávání...</string>
+    <string name="headset_find_query_play">Přehrát</string>
+    <string name="headset_find_right">Pravé</string>
+    <string name="headset_find_tip">Vaše sluchátka by měla být nablízku a připojená k tomuto zařízení. Přehrávání alarmu může poškodit váš sluch.</string>
+    <string name="headset_find_tip_title">Upozornění</string>
+    <string name="headset_find_title">Najděte vaše sluchátka</string>
+    <string name="headset_find_voice_warning">Upozornění na vysokou hlasitost</string>
 </resources>

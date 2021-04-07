@@ -289,5 +289,7 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>  
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
+  <string name="dialog_download_dir_content" formatted="false">Předvolená cílová složka pro vaše stáhnuté soubory byla změněná z \"%s\" na \"%s/DLManager\".</string>
+  <string name="dialog_download_dir_title">Nová cílová složka</string>  
 </resources>
