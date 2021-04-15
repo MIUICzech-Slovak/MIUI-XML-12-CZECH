@@ -1762,4 +1762,5 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
     <string name="v7_preference_on">Zap</string>
 	<string name="select_apn_list_title">Vyberte vaše předvolené APN: pro SIM %1$s</string>
 	<string name="wifi_call_available_message_for_ATT_MX">Budete připojený k Wi-Fi síti. Kvalita hovoru může kolísat podle kvality připojení.</string>
+  <string name="four_point_five_switch_summary">Použít 4.5G pro zrychlení mobilních dat a zlepšení kvality hovorů.</string>
 </resources>

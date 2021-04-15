@@ -7054,4 +7054,9 @@ Nikdy jste nebyli připojený k %2$s."</string>
     <string name="headset_find_tip_title">Upozornění</string>
     <string name="headset_find_title">Najděte vaše sluchátka</string>
     <string name="headset_find_voice_warning">Upozornění na vysokou hlasitost</string>
+    <string name="fingerprint_base_title">Otisk prstu %s</string>
+    <string name="fingerprint_gxzw_add_fingerprint_finish">Uloženo jako \"%s\"</string>
+    <string name="miheadset_fitness_check_result_l_not_ok">Nastavte sluchátko</string>
+    <string name="miheadset_fitness_check_result_r_not_ok">Nastavte sluchátko</string>
+    <string name="voip_assistant_settings">VoIP asistent</string>
 </resources>

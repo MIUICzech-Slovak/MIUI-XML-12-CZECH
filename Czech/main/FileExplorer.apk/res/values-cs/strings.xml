@@ -810,4 +810,7 @@ Bylo přičteno dalších %1$s"</string>
     <string name="mirror_side_bar_tab_tranfer_name">Přenosy a stahování</string>
     <string name="transfer">Přenosy a stahování</string>
     <string name="transfer_summary">Stahování a přenos přes Mi Share</string>
+    <string name="access_limit">Omezení přístupu</string>
+    <string name="access_tips">"Nelze získat přístup k položkám. Zkuste místo toho použít Android Storage Access Framework."</string>
+    <string name="go_ahead">Otevřít</string>
 </resources>

@@ -4626,5 +4626,15 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="storage_clear_cache_large">Uvolnit %s</string>
     <string name="storage_clear_more_tools">Více nástrojů pro čištění</string>
     <string name="storage_clear_video">Vymazat video cache</string>
+    <string name="power_center_super_wireless_charge">Rychlé bezdrátové nabíjení</string>
+    <string name="power_center_super_wireless_charge_dialog_positive">Pokračovat</string>
+    <string name="power_center_super_wireless_charge_dialog_summary">Tento režim zrychlí ventilátor v nabíjecí podložce. Pokud je ventilátor příliš hlučný, vypněte tento režim.</string>
+    <string name="power_center_super_wireless_charge_dialog_summary2">Jděte do Optimalizace > Baterie > Nastavení.</string>
+    <string name="power_center_super_wireless_charge_dialog_title">Rychlé bezdrátové nabíjení</string>
+    <string name="power_center_super_wireless_charge_noti_summary">Otevřít Nastavení</string>
+    <string name="power_center_super_wireless_charge_noti_switch">Upozornit na rychlé bezdrétové nabíjení</string>
+    <string name="power_center_super_wireless_charge_noti_title">Rychlé bezdrátové nabíjení je zapnuté</string>
+    <string name="power_center_super_wireless_charge_summary">Zrychlit ventilátor v nabíjecí podložce</string>
+    <string name="power_center_super_wireless_charge_toast_close">Rychlé bezdrátové nabíjení je vypnuté</string>
 </resources>
   
