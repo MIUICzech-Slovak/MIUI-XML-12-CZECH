@@ -2348,5 +2348,22 @@
     <string name="toast_download_with_metered_network_title">Mobilní data</string>
     <string name="web_sso_login_fail">Musíte se přihlásit znova</string>
     <string name="web_sso_login_message">Přihlašování…</string>
-    <string name="webview_reload">Zkuste to znova</string> 
+    <string name="webview_reload">Zkuste to znova</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Zrušit výběr</string>
+     <string name="miuix_appcompat_action_mode_select_all">Vybrat vše</string>
+     <string name="miuix_appcompat_action_mode_title_empty">Vybrat položky</string>
+     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Více</string>
+     <string name="miuix_appcompat_cancel_description">Zrušit</string>
+     <string name="miuix_appcompat_confirm_description">Potvrdit</string>
+     <string name="miuix_appcompat_delete_description">Vymazat</string>
+     <string name="miuix_appcompat_deselect_all">Zrušit výběr</string>
+     <string name="miuix_appcompat_deselect_all_description">Zrušit výběr všech</string>
+     <string name="miuix_appcompat_search_action_mode_cancel">Zrušit</string>
+     <string name="miuix_appcompat_search_input_description">Hledat</string>
+     <string name="miuix_appcompat_select_all">Vybrat vše</string>
+     <string name="miuix_appcompat_select_all_description">Vybrat vše</string>
+     <string name="miuix_appcompat_select_item">Vybrat položky</string>
+     <string name="search_backup_full_screen_new">Chcete-li hledání zefektivnit, zapněte synchronizaci s cloudem</string>
+     <string name="search_menu_title">Hledat</string>
+     <string name="search_title_photo_name">Název</string> 
 </resources>
