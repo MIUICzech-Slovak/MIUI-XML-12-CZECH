@@ -1803,7 +1803,6 @@ skenované dokumenty automaticky"</string>
      <string name="pref_camera_snap_value_take_picture">Obrázek</string>
      <string name="pref_camera_tilt_shift_entryvalue_circle">kruh</string>
      <string name="pref_camera_tilt_shift_entryvalue_parallel">paralelní</string>
-	 <string name="pref_live_volumekey_function_default">hlasitost</string>
 	 <string name="pref_pro_video_volumekey_function_default">závěrka</string>
 	 <string name="super_moon">Super měsíc</string>
 </resources>
