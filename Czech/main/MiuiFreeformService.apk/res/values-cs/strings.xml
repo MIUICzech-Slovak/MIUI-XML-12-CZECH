@@ -24,4 +24,9 @@
   <string name="how_to_slide_up_to_close">Zavřít plovoucí okno</string>
   <string name="how_to_slide_up_to_close_summary">Potáhněte nahoru lištu plovoucího okna</string>
   <string name="how_to_use_freeform">Jak používat plovoucí okna</string>
+  <string name="bottom_bar_smallwindow_text">Pusťte pro připnutí</string>
+  <string name="freeform_slide_to_small_freeform">Potáhněte pro zmenšení</string>
+  <string name="freeform_slide_to_small_freeform_summary">Stlačte a potáhněte do lišty plovoucího okna v pravém horním rohu</string>
+  <string name="fullscreen_slide_to_small_freeform">Zmenšit obrazovku do plovoucího okna</string>
+  <string name="fullscreen_slide_to_small_freeform_summary">Přejeďte ze spodní části obrazovky do pravého horního rohu obrazovky</string>
 </resources>
