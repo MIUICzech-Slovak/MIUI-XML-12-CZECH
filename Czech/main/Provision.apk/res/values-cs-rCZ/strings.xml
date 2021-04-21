@@ -252,4 +252,8 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
     <string name="wc_double_check_summary">Můžete povolit Denní tapetu a uvidíte zda se vám bude líbit. Tuto funkci můžete kdykoli vypnout v nastavení zamykací obrazovky.</string>
     <string name="wc_double_check_title">Vyzkoušet Denní tapetu</string>
     <string name="wc_notice_link_announcement_summary">Přečtěte si naše Podmínky používání a Ochranu soukromí.</string>
+    <string name="home_settings_miui_home">Klasické</string>
+    <string name="home_settings_poco_launcher">Se seznamem aplikací</string>
+    <string name="home_settings_title">Vyberte rozložení ploch</string>
+    <string name="provision_skip_underline">Přeskočit</string>
 </resources>
