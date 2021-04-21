@@ -967,4 +967,5 @@ Poloha nebude odeslána pokud je slabý signál sítě."</string>
     <string name="sync_off_confirm_content">"Po vypnutí správce hesel nebudete moci synchronizovat nová hesla."</string>
     <string name="sync_off_confirm_title">Upozornění</string>
     <string name="sync_page_autofill_title">Správce hesel</string>
+	<string name="loading_server_key_info">Načítání položek…</string>
 </resources>
