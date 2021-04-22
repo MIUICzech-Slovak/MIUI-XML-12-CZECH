@@ -1272,4 +1272,12 @@ Klepněte na %s
  pro zahájení tohoto stahování, jakmile se příště připojíte k síti Wi-Fi."</string>
   <string name="wifi_required_title">Pro stažení tohoto souboru se připojte k síti Wi-Fi</string>
      <string name="dark_mode">Tmavý režim</string>
+     <string name="filter_by_MP4">Vyberte složky se soubory MP4</string>
+     <string name="remove_user_privacy_dialog_message">Přepnutím přepínače odvoláte svůj souhlas se zásadami ochrany osobních údajů pro Hudbu. Přestaneme shromažďovat vaše osobní údaje. Osobní údaje, které již byly shromážděny a uchovány, budou v konkrétní lhůtě vymazány, jak to vyžadují příslušné zákony. Hudba potřebuje shromažďovat nezbytné osobní údaje, aby vám mohla poskytnout základní služby. Vaše odvolání souhlasu se Zásadami ochrany osobních údajů bude považováno za odmítnutí služby na základě shromažďování osobních informací.</string>
+     <string name="remove_user_privacy_dialog_message_canuse">Přepnutím přepínače odvoláte svůj souhlas se zásadami ochrany osobních údajů pro Hudbu. Přestaneme shromažďovat vaše osobní údaje. Osobní údaje, které již byly shromážděny a uchovány, budou v konkrétní lhůtě vymazány, jak to vyžadují příslušné zákony. Hudba potřebuje shromáždit nezbytné osobní údaje, aby vám mohla poskytovat online streamovací služby. Vaše odvolání souhlasu se Zásadami ochrany osobních údajů bude považováno za odmítnutí služby na základě shromažďování osobních informací.</string>
+     <string name="remove_user_privacy_dialog_title">Odvolání souhlasu</string>
+     <string name="user_privacy_dialog_positive_count_down_text">Odvolat (%ss)</string>
+     <string name="user_privacy_dialog_positive_text">Odvolat</string>
+     <string name="user_privacy_setting_group_title">Odvolání souhlasu</string>
+     <string name="user_privacy_setting_title">Přepnutím přepínače odvoláte svůj souhlas se zásadami ochrany osobních údajů pro Hudbu.</string>
 </resources>
