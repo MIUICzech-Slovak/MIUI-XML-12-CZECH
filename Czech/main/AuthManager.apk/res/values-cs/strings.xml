@@ -502,9 +502,6 @@
      <string name="friday">Pátek</string>
     <string name="friday_short">Pát</string>
     <string name="friday_shortest">Pá</string>
-  <string name="miuix_appcompat_deselect_all">Odznačit</string>
-  <string name="miuix_appcompat_select_all">Vše</string>
-  <string name="miuix_appcompat_select_item">Vybrat položky</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Odznačit</string>
   <string name="miuix_appcompat_action_mode_select_all">Vše</string>
   <string name="miuix_appcompat_action_mode_title_empty">Vybrat položky</string>

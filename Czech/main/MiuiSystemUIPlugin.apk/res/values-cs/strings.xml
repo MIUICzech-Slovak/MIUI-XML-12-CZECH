@@ -245,7 +245,6 @@
   <string name="miuix_appcompat_delete_description">Vymazat</string>
   <string name="miuix_appcompat_deselect_all_description">Odznačit</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Zrušit</string>
-  <string name="miuix_appcompat_search_input_description">Vyhledat</string>
   <string name="miuix_appcompat_select_all_description">Vše</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
