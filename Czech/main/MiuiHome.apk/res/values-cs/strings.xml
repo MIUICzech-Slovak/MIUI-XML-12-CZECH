@@ -340,7 +340,7 @@
   <string name="status_installing">Instalování</string>
   <string name="status_paused">Pozastaveno</string>
   <string name="status_pending">Čeká</string>
-  <string name="system_shortcuts_more_operation">Info o aplikaci</string>
+  <string name="system_shortcuts_more_operation">Info</string>
   <string name="title_select_live_folder">Vybrat složku</string>
   <string name="title_select_shortcut">Vybrat zástupce</string>
   <string name="toast_screen_icons_misplaced">Obnovit ze staré databáze. Některé ikony mohou změnit své umístění.</string>
@@ -354,7 +354,7 @@
   <string name="transformation_type_leftpage">Stránka</string>
   <string name="transformation_type_rotate">3D rotace</string>
   <string name="transformation_type_stack">Stoh</string>
-  <string name="uninstall">Odinstalovat</string>
+  <string name="uninstall">Odinstal.</string>
   <string name="uninstall_dialog_message">Odebrat aplikaci</string>
   <string name="uninstall_dialog_title_format">Odebrat \"%s\"</string>
   <string name="uninstall_dialog_title_multi_format" formatted="false">Odinstalovat %s a %d dalších apl.?</string>
@@ -580,7 +580,9 @@
     <string name="network_error">Nebylo možné připojit se k síti.</string>
     <string name="remove_sys_app_content">Ikonu na plochu můžete přidat v Nastaveních. Odstranit nyní?</string>
     <string name="remove_sys_app_title">Odstranit ikonu z plochy?</string>
-    <string name="server_error">Nastala chyba servera.</string>
+    <string name="server_error">Nastala chyba serveru.</string>
+    <string name="default_folder_title_hot">Populární aplikace</string>
+    <string name="deleted_system_applications">Odinstalované systémové aplikace</string>
 </resources>
 
 

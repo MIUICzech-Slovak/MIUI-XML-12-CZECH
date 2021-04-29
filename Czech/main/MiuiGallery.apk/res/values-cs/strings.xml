@@ -2379,4 +2379,10 @@
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="cloud_full_space_tip_message">Navyšte si cloudové úložiště pro možnost synchronizace všech vašich videí a fotografií s MiCloud.</string>
+    <string name="cloud_full_space_tip_negative">Později</string>
+    <string name="cloud_full_space_tip_positive">Navýšit</string>
+    <string name="cloud_full_space_tip_title">Nedostatečné MiCloud úložiště</string>
+    <string name="mishare_all_devices">Všechna zařízení</string>
+    <string name="synced_photo_video_count">Synchr. %1$s a %2$s</string>
 </resources>

@@ -69,5 +69,6 @@ Vaše data budou zachována."</string>
   <string name="message_checkbox_device">Více nezobrazovat</string>
     <string name="channel_service">Služby Aktualizace</string>
     <string name="notif_service_summary">Podržte pro deaktivování upozornění</string>
-    <string name="notif_service_title">Aplikace Aktualizace běží na pozadí</string>    
+    <string name="notif_service_title">Aplikace Aktualizace běží na pozadí</string>
+    <string name="downgrade_warning">Pokoušíte se nainstalovat starší verzi MIUI! Instalace je zablokována aby nedošlo k poškození systému!</string>    
 </resources>

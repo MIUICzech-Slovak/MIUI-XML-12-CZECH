@@ -4729,5 +4729,26 @@ Zkuste zvětšit rozlišení!"</string>
   <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="app_behavior_about_setting">Nastavení</string>
+    <string name="app_behavior_dashboard_desc">Aktivita během posledních %dh</string>
+    <string name="app_behavior_dashboard_total_usage_title">Zobrazit všechny záznamy</string>
+    <string name="app_behavior_dashboard_usage">Chování aplikací</string>
+    <string name="app_behavior_dashboard_usage_list_title">Podle povolení</string>
+    <string name="app_behavior_desc_allowed">Povolené</string>
+    <string name="app_behavior_desc_allowed_on_background">Povolené na pozadí</string>
+    <string name="app_behavior_desc_denied">Zakázané</string>
+    <string name="app_behavior_desc_denied_on_background">Zakázané na pozadí</string>
+    <string name="app_behavior_desc_other_perm_allowed">Poslední aktivita: %s</string>
+    <string name="app_behavior_desc_other_perm_denied">Aktivita během posledních %dh</string>
+    <string name="app_behavior_global_settings_perm_tips">Zobrazit upozornění pokud aplikace nahrají zvuk nebo použijí fotoaparát</string>
+    <string name="app_behavior_record_setting_button_title">Zobrazit chování systémových služeb</string>
+    <string name="app_behavior_record_setting_show_system">Zobrazit chování systémových služeb</string>
+    <string name="app_behavior_record_setting_show_system_desc">Povolte pro zobrazení chování systémových služeb.</string>
+    <string name="app_behavior_record_setting_show_system_title">Zobrazit chování systémových služeb</string>
+    <string name="app_behavior_record_setting_title">Záznamy o chování</string>
+    <string name="network_assistant_privacy">Aby jsme mohli sledovat využití dat pomocí aplikace, shromažďujeme informace, jako jsou názvy balíků, využití Wi-Fi a mobilních dat. Tyto informace jsou uložené lokálně ve vašem zařízení.</string>
+    <string name="privacy_global_guide_permission_guide_text">Zobrazit upozornění pokud aplikace nahrají zvuk nebo použijí fotoaparát</string>
+    <string name="privacy_hide_other_permissions">Skrýt ostatní povolení</string>
+    <string name="privacy_show_other_permissions">Zobrazit ostatní povolení</string>     
 </resources>  

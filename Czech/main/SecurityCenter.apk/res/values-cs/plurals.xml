@@ -927,4 +927,12 @@ Dejte si pauzu!"</item>
         <item quantity="other">Položek: %1$s</item>
         <item quantity="one">Položek: %1$s</item>
     </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">Aplikací: %d</item>
+        <item quantity="one">Aplikace: %d</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">Aplikací: %d</item>
+        <item quantity="one">Aplikace: %d</item>
+    </plurals>
 </resources>             
