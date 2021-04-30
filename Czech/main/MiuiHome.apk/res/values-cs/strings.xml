@@ -112,7 +112,7 @@
   <string name="edit_mode_group_error_nothing_be_selected">Nejprve vyberte aplikaci</string>
   <string name="edit_mode_group_error_one_folder">Nelze duplikovat složku s vybranými ikonami</string>
   <string name="edit_mode_top_menu_finish">Hotovo</string>
-  <string name="edit_mode_uninstall">Odinstalovat</string>
+  <string name="edit_mode_uninstall">Odinstal.</string>
   <string name="editing_add_widget_tips">Widgety</string>
   <string name="editing_mode_enter_tip_text">Posuňte dva prsty k sobě pro úpravu plochy</string>
   <string name="editing_mode_title">Vybráno: %1$d</string>
@@ -354,7 +354,7 @@
   <string name="transformation_type_leftpage">Stránka</string>
   <string name="transformation_type_rotate">3D rotace</string>
   <string name="transformation_type_stack">Stoh</string>
-  <string name="uninstall">Odinstal.</string>
+  <string name="uninstall">Odinstalovat</string>
   <string name="uninstall_dialog_message">Odebrat aplikaci</string>
   <string name="uninstall_dialog_title_format">Odebrat \"%s\"</string>
   <string name="uninstall_dialog_title_multi_format" formatted="false">Odinstalovat %s a %d dalších apl.?</string>
