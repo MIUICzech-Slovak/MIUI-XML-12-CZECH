@@ -6701,7 +6701,7 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="screen_enhance_engine_sr_for_video">Vylepšit videá</string>
     <string name="screen_enhance_engine_sr_pic_summary">Zvýšit rozlišení obrázků nebo videí na 1440p. Tato funkce je podporována vybranými aplikacemi.</string>
     <string name="screen_enhance_engine_sr_title">Super rozlišení</string>
-    <string name="screen_enhance_engine_title">AI obrazový engine</string>
+    <string name="screen_enhance_engine_title">AI zpracování obrazu</string>
     <string name="screen_enhance_status_disable">Vyp</string>
     <string name="screen_enhance_status_enable">Zap</string>    
     <string name="status_device_wifi_mac_address">WiFi MAC adresa zařízení</string>    
