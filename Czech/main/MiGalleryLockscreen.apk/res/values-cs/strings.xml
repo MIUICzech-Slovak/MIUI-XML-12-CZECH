@@ -369,5 +369,14 @@
   <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="about_newest">Aplikace je aktuální.</string>
+    <string name="setting_about_item_des">Verze</string>            
+    <string name="sst_privacy_policy_title">Ochrana soukromí</string>
+    <string name="view_privacy_policy">Ochrana soukromí</string>
+    <string name="privacy_setting">Nastavení soukromí</string>
+    <string name="recommend_switch_title">Přizpůsobené doporučení</string>          
+    <string name="recommend_switch_desc">Dostávejte obsah podle vašich nastavení</string>
+    <string name="today">Dnes</string>
+    <string name="tomorrow">Zítra</string>
 </resources>  

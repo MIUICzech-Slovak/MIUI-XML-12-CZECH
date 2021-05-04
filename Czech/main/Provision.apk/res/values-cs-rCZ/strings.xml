@@ -348,5 +348,7 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
   <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="today">Dnes</string>
+  <string name="tomorrow">Zítra</string>
 </resources>  

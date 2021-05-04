@@ -524,5 +524,11 @@
   <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="HIPS_Perm_Access_Gallery">Přístup ke Galerii</string>
+  <string name="HIPS_Perm_Access_Gallery_Desc">Povolit této aplikaci přístup k vaší Galerii</string>
+  <string name="HIPS_Perm_tencentControl">Přístup ke zprávam v sociálních apl.</string>
+  <string name="HIPS_Perm_tencentControl_Desc">Povolit této aplikaci přístup ke zprávam v sociálních sítích</string>
+  <string name="today">Dnes</string>
+  <string name="tomorrow">Zítra</string>
 </resources>  

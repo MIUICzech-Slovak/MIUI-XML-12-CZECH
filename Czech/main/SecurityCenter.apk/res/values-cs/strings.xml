@@ -4636,10 +4636,6 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="power_center_super_wireless_charge_noti_title">Rychlé bezdrátové nabíjení je zapnuté</string>
     <string name="power_center_super_wireless_charge_summary">Zrychlit ventilátor v nabíjecí podložce</string>
     <string name="power_center_super_wireless_charge_toast_close">Rychlé bezdrátové nabíjení je vypnuté</string>
-
-  
-
-
   <string name="monday">Pondělí</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -4750,5 +4746,14 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="network_assistant_privacy">Aby jsme mohli sledovat využití dat pomocí aplikace, shromažďujeme informace, jako jsou názvy balíků, využití Wi-Fi a mobilních dat. Tyto informace jsou uložené lokálně ve vašem zařízení.</string>
     <string name="privacy_global_guide_permission_guide_text">Zobrazit upozornění pokud aplikace nahrají zvuk nebo použijí fotoaparát</string>
     <string name="privacy_hide_other_permissions">Skrýt ostatní povolení</string>
-    <string name="privacy_show_other_permissions">Zobrazit ostatní povolení</string>     
+    <string name="privacy_show_other_permissions">Zobrazit ostatní povolení</string>
+	<string name="daily_card_setting_fragment_daily_card_brand">Operátor</string>
+     <string name="daily_card_setting_fragment_daily_card_brand_value">Vyberte operátora</string>
+     <string name="daily_card_setting_fragment_daily_card_setting">Nastavení denního balíčku</string>
+     <string name="daily_card_setting_fragment_daily_card_summary">MIUI nastaví limit dat a aplikace s neomezenými daty podle vybraného operátora. Pokud váš operátor není v seznamu, vyberte možnost \"Ostatní\" a nastavte váš limit manuálně.</string>
+     <string name="daily_card_setting_fragment_daily_package">Denní limit dat</string>
+     <string name="daily_card_setting_fragment_package_summary">Pokud váš program obsahuje mesíční datový balíček, bude použitý ješte před denným balíčkem dat.</string>
+     <string name="databooster_tips_message">Povolte pro omezení všech SIM karet kromě datové karty.</string>
+    <string name="today">Dnes</string>
+    <string name="tomorrow">Zítra</string>
 </resources>  

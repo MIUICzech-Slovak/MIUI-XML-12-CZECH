@@ -217,8 +217,8 @@
   <string name="sina_token_expired_warning">Weibo účet vypršel: Prosím dobijte</string>
   <string name="sina_token_invalid_warning">Weibo účet je chybný: Prosím dobijte</string>
   <string name="snippet_audio_stub">Hlasová poznámka</string>
-  <string name="snippet_image_stub">[Image]</string>
-  <string name="snippet_image_template">[Image %1$s]</string>
+  <string name="snippet_image_stub">Obrazová poznámka</string>
+  <string name="snippet_image_template">Obrazová poznámka %1$s</string>
   <string name="sns_action_send">Odeslat</string>
   <string name="sns_choose_quality_high">Vysoká (%1$s)</string>
   <string name="sns_choose_quality_low">Nízká</string>
@@ -566,4 +566,24 @@ http://www.miuios.cz/rom
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
 	<string name="yesterday">Včera</string>
+	<string name="image_action_annotate">Přidat popis obrázku</string>
+     <string name="image_action_browse">Zobrazit obrázek</string>
+     <string name="image_action_delete">Vymazat obrázek</string>
+     <string name="image_action_save_to_gallery">Uložit do Galerie</string>
+     <string name="image_action_zoom_in">Přiblížit</string>
+     <string name="image_action_zoom_out">Oddálit</string>
+     <string name="image_annotation_edit_hint">Popis obrázku</string>
+     <string name="image_annotation_edit_length_warning">Popis obrázku může obsahovat max %d znaků</string>
+     <string name="option_menu_delete">Vymazat</string>
+     <string name="option_menu_multi_choice">Vybrat</string>
+     <string name="option_menu_new">Vytvořit</string>
+     <string name="option_menu_rename">Přejmenovat</string>
+     <string name="option_menu_restore_note">Obnovit</string>
+     <string name="option_menu_save_as">Uložit jako</string>
+     <string name="sync_desc_state_complete">Synchr. s MiCloud</string>
+     <string name="sync_desc_state_complete_china">Všechny %1$s byly synchr.</string>
+     <string name="sync_desc_state_disable">Povolte synchr. s MiCloud</string>
+     <string name="sync_desc_state_running">Synchr. s MiCloud</string>
+	 <string name="today">Dnes</string>
+     <string name="tomorrow">Zítra</string>
 </resources>

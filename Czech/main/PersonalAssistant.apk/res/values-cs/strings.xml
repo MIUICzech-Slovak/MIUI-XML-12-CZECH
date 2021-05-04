@@ -704,5 +704,9 @@
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
-  <string name="app_first_loading_txt">Načítávání...</string>     
+  <string name="app_first_loading_txt">Načítávání...</string>
+  <string name="today">Dnes</string>
+  <string name="tomorrow">Zítra</string>
+  <string name="app_pa_setting_global_display_backdrop_blur_option">Rozostření pozadí karty</string>
+  <string name="app_pa_setting_global_display_backdrop_blur_summary">Aplikujte Gaussovo rozostření na pozadí karet. Tato funkce může zpomalit reakci přejetí prstem.</string>
 </resources>  

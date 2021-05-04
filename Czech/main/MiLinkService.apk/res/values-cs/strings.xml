@@ -326,5 +326,7 @@ Před použitím aplikace si přečtěte a souhlaste s našimi &lt;a href=%1$s>S
   <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="today">Dnes</string>
+  <string name="tomorrow">Zítra</string>
 </resources>  

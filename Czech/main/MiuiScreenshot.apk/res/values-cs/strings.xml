@@ -19,10 +19,7 @@ dlouhý screenshot"</string>
     <string name="screenshot_feedback_txt">Zpětná vazba</string>
     <string name="screenshot_insert_failed">Nebylo možné načíst screenshot. Zhotovte ho ještě jednou.</string>
     <string name="screenshot_long_screenshot">Dlouhý</string>
-    <string name="screenshot_send">Odeslat</string>         
-
-
-
+    <string name="screenshot_send">Odeslat</string>
   <string name="monday">Pondělí</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -112,5 +109,7 @@ dlouhý screenshot"</string>
   <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="today">Dnes</string>
+  <string name="tomorrow">Zítra</string>
 </resources>  

@@ -297,5 +297,10 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="clear_data_dialog_content">Načtené položky, data aplikací a nastavení budou vymazány ale vaše nahrávky vám zůstanou.</string>
+    <string name="clear_data_dialog_title">Vymazat data?</string>
+    <string name="clearable_edittext_clear_description">Vymazat</string>
+    <string name="today">Dnes</string>
+    <string name="tomorrow">Zítra</string>
 </resources>  

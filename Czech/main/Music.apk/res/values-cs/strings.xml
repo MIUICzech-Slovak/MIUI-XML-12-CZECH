@@ -1282,7 +1282,7 @@ Klepněte na %s
      <string name="user_privacy_setting_title">Přepnutím přepínače odvoláte svůj souhlas se zásadami ochrany osobních údajů pro Hudbu.</string>
   <string name="user_privacy_dialog_negative_text">Zrušit</string>
   <string name="add_to_playlist">Přidat do fronty</string>
-  <string name="album_is_empty">Název alba nemůže být prázdný. </string>
+  <string name="album_is_empty">Název alba nemůže být prázdný.</string>
   <string name="create_playlist_input_hint">Zadejte název playlistu</string>
   <string name="favorite_to_playlist">Přidat do playlistu</string>
   <string name="tab_flow">Sledovat</string>
@@ -1376,4 +1376,6 @@ Klepněte na %s
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="today">Dnes</string>
+  <string name="tomorrow">Zítra</string>
 </resources>
