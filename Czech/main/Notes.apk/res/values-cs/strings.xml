@@ -584,6 +584,4 @@ http://www.miuios.cz/rom
      <string name="sync_desc_state_complete_china">Všechny %1$s byly synchr.</string>
      <string name="sync_desc_state_disable">Povolte synchr. s MiCloud</string>
      <string name="sync_desc_state_running">Synchr. s MiCloud</string>
-	 <string name="today">Dnes</string>
-     <string name="tomorrow">Zítra</string>
 </resources>

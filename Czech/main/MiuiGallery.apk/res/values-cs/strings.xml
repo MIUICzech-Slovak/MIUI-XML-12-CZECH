@@ -2393,7 +2393,6 @@
      <string name="card_title_annual_babys">Roztomilost %1$s</string>
      <string name="card_title_annual_peoples">Tváře %1$s</string>
      <string name="card_title_three_month_baby">Ten čas letí</string>
-     <string name="empty_description_conditions_new">Připojte nabíječku a vypněte obrazovku pro rychlejší synchronizaci</string>
      <string name="internal_storage_device">Interní úložiště</string>
      <string name="main_save_cancel">Zrušit</string>
      <string name="main_save_compress">Komprimovat a uložit</string>
@@ -2405,7 +2404,6 @@
      <string name="toast_invalid_char">Název nesmí obsahovat \"%s\"</string>
      <string name="toast_invalid_prefix">Název nesmí začínat \".\" nebo \"_\"</string>
      <string name="toast_rename_exit">Tento soubor už existuje</string>
-     <string name="trash_size">Vymazané položky (%s)</string>
      <string name="unsupport_raw">%s nefunguje s RAW</string>
      <string name="unsupport_raw_and_video">%s nefunguje s videem v RAW</string>
      <string name="problem_feedback">Zpětná vazba</string>
