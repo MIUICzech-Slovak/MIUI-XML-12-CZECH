@@ -110,7 +110,7 @@
   <string name="legal_workday_invalidate">Seznam svátků není aktuální (Nastaveno je buzení od pondělí do pátku)</string>
   <string name="legal_workday_invalidate_message">(Seznam svátků není aktuální, aktualizujte v Nastaveních)</string>
   <string name="legal_workday_message">(vypnutý ve svátky)</string>
-  <string name="life_post_setting">Ranní report</string>
+  <string name="life_post_setting">Ranní hlášení</string>
   <string name="life_post_setting_FBE_remind">Kvůli systémovým omezením se počasí nemusí zobrazovat správně po restartu zařízení</string>
   <string name="life_post_setting_close_title">Zavřít</string>
   <string name="life_post_setting_open_background_subtitle">Zobrazit pozadí pro budíky</string>
@@ -118,7 +118,7 @@
   <string name="life_post_setting_open_desc">Vypnout opakující se budíky mezi 04:00 a 10:00</string>
   <string name="life_post_setting_open_subtitle">Zobrazit informace o počasí po zrušení budíku v čase od 4:00 do 9:30</string>
   <string name="life_post_setting_open_summary">Zobrazit informace o počasí pro první vypnutý budík mezi 4:00 a 10:00</string>
-  <string name="life_post_setting_open_title">Zobrazit ranní report</string>
+  <string name="life_post_setting_open_title">Zobrazit ranní hlášení</string>
   <string name="life_post_setting_wake_up_list_title">Historie probuzení</string>
   <string name="life_post_wake_up_acumu_day_title">Počet dní</string>
   <string name="life_post_wake_up_item_acumu_day">%1$s dní</string>

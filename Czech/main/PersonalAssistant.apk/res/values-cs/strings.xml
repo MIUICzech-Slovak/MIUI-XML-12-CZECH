@@ -708,10 +708,24 @@
   <string name="today">Dnes</string>
   <string name="tomorrow">Zítra</string>
   <string name="app_pa_setting_global_display_backdrop_blur_option">Rozostření pozadí karty</string>
-  <string name="app_pa_setting_global_display_backdrop_blur_summary">Aplikujte Gaussovo rozostření na pozadí karet. Tato funkce může zpomalit reakci přejetí prstem.</string>
+  <string name="app_pa_setting_global_display_backdrop_blur_summary">Pro rozostření bude použit Gausseuv filtr. Tím může být ovlivněna rychlost animací přechodů.</string>
   <string name="cta_dialog_all_purpose">Vítejte v Asistentu! Tato aplikace je jediným místem pro práci, životní styl a služby spojené s cestováním.</string>
      <string name="cta_dialog_desc_calendar">Pro zobrazení událostí kalendáře a plánovaných cest</string>
      <string name="cta_dialog_desc_location">Pro výpočet doby vašeho denního dojíždění</string>
      <string name="cta_dialog_desc_phone_state">Pro identifikaci vašeho zařízení pomocí IMEI</string>
      <string name="cta_dialog_desc_storage">Pro ukládání položek do zařízení</string>
+     <string name="agenda_anniversary_subtitle">Výročí | %1$s</string>
+     <string name="agenda_assistant_account_num">Účet</string>
+     <string name="agenda_assistant_tail_num">Číslo</string>
+     <string name="agenda_bill_account">Účet: %1$s</string>
+     <string name="agenda_birthday_title">"%1$s narozeniny"</string>
+     <string name="agenda_countdown_subtitle">Odpočítávání | %1$s</string>
+     <string name="agenda_empty_content">Žádné události.</string>
+     <string name="agenda_empty_title">Bez názvu</string>
+     <string name="agenda_i_known">Rozumím</string>
+     <string name="agenda_settings_ainnersary">Zobrazit výročí</string>
+     <string name="agenda_settings_countdown">Zobrazit odpočítávání</string>
+     <string name="agenda_today">·Dnes</string>
+     <string name="agenda_view_event">Všechny události</string>
+     <string name="app_pa_setting_service_my_schedule_summary">Události, narozeniny, výročí, atd.</string>
 </resources>  
