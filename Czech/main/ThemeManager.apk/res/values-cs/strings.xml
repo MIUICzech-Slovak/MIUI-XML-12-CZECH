@@ -845,4 +845,14 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
   <string name="tomorrow">Zítra</string>
+	<string name="hide_free_aod">"Nezobrazovat AOD témata zdarma"</string>
+     <string name="hide_free_icons">"Nezobrazovat ikony zdarma"</string>
+     <string name="hide_free_miwallpaper">"Nezobrazovat tapety zdarma"</string>
+     <string name="hide_mamual_hide_aod">"Nezobrazovat ručně skryté AOD témata"</string>
+     <string name="hide_mamual_hide_icons">"Nezobrazovat ručně skryté ikony"</string>
+     <string name="hide_mamual_hide_miwallpaper">"Nezobrazovat ručně skryté tapety"</string>
+     <string name="hide_pull_down_message">Skrýt nezajímavé?</string>
+     <string name="hide_pull_down_negative">"Neskrývat"</string>
+     <string name="hide_pull_down_positive">Skrýt</string>
+     <string name="hide_retract_button">Skrýt</string>
 </resources>  
