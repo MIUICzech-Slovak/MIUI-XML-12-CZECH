@@ -196,7 +196,7 @@ Administrátor může sledovat a spravovat nastavení, přístup, aplikace a dat
   <string name="allow_data_usage_title">Povolit data při roamingu</string>
   <string name="allow_device_id_access">Aplikace s identifikací zařízení</string>
   <string name="allow_float_summary">Zobrazit upozornění na vrchu displeje</string>
-  <string name="allow_float_title">plovoucí upozornění</string>
+  <string name="allow_float_title">Plovoucí upozornění</string>
   <string name="allow_keyguard_summary">Zobrazit upozornění na zamčené obrazovce</string>
   <string name="allow_keyguard_title">Upozornění na zamčené obrazovce</string>
   <string name="allow_lights_title">Povolit LED upozornění</string>
@@ -1411,10 +1411,10 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="device_info_settings">Stav zařízení</string>
   <string name="device_internal_memory">Interní paměť</string>
   <string name="device_memory">RAM</string>
-  <string name="device_miui_more">View more</string>
+  <string name="device_miui_more">Více</string>
   <string name="device_miui_version">MIUI</string>
   <string name="device_miui_version_parameters">MIUI verze</string>
-  <string name="device_miui_version_update">MIUI update is available</string>
+  <string name="device_miui_version_update">Aktualizace</string>
   <string name="device_name">Název zařízení</string>
   <string name="device_name_input_error">Ukládání názvu zařízení selhalo, zadejte jej znovu.</string>
   <string name="device_name_input_hint">Zadejte název Vašeho zařízení</string>
