@@ -7077,4 +7077,36 @@ Nikdy jste nebyli připojený k %2$s."</string>
     <string name="knock_long_press_horizontal_slid">Stlačte a potáhněte horizontálně kloubem prstu</string>
     <string name="knock_slide_shape">Nakreslete kruh kloubem prstu</string>
     <string name="knock_slide_v">Napište V kloubem prstu</string>
+	<string name="accessibility_shortcut_description">Povolit zapnutí funkce zkratky na uzamčené obrazovce.  Na několik sekund podržte obě tlačítka hlasitosti.</string>
+     <string name="accessibility_shortcut_edit_dialog_summary_hardware">Stiskněte a podržte obě tlačítka hlasitosti</string>
+     <string name="accessibility_shortcut_edit_dialog_summary_software">"Klepněte na tlačítko přístupnosti %s ve spodní části obrazovky.
+
+Mezi funkcemi můžete přepínat podržením tlačítka přístupnosti."</string>
+     <string name="accessibility_shortcut_edit_dialog_summary_software_gesture">"Přejetí dvěma prsty nahoru ze spodní části obrazovky.
+
+Mezi funkcemi můžete přepínat přejetím dvěma prsty nahoru a podržením.  ."</string>
+     <string name="accessibility_shortcut_edit_dialog_summary_software_gesture_talkback">"Přejetí třemi prsty nahoru ze spodní části obrazovky.
+
+Mezi funkcemi můžete přepínat přejetím třemi prsty nahoru a podržením."</string>
+     <string name="accessibility_shortcut_edit_dialog_summary_triple_tap">Rychle třikrát klepněte na obrazovku. Tato zkratka může vaše zařízení zpomalit.</string>
+     <string name="accessibility_shortcut_edit_dialog_title_advance">Rozšířené</string>
+     <string name="accessibility_shortcut_edit_dialog_title_software">Klepněte na tlačítko přístupnosti</string>
+     <string name="accessibility_shortcut_edit_dialog_title_software_gesture">Přejetí dvěma prsty nahoru</string>
+     <string name="accessibility_shortcut_edit_dialog_title_software_gesture_talkback">Přejetí třemi prsty nahoru</string>
+     <string name="accessibility_shortcut_edit_dialog_title_triple_tap">Trojí poklepání obrazovky</string>
+     <string name="accessibility_shortcut_edit_summary_software">Tlačítko přístupnosti</string>
+     <string name="accessibility_shortcut_hardware_keyword">Podržte klávesy hlasitosti</string>
+     <string name="accessibility_shortcut_service_on_lock_screen_title">Zkratky na uzamčené obrazovce</string>
+     <string name="accessibility_shortcut_service_title">Zkratky</string>
+     <string name="accessibility_shortcut_settings">Nastavení zkratek</string>
+     <string name="accessibility_shortcut_triple_tap_keyword">Trojí poklepání obrazovky</string>
+     <string name="accessibility_shortcut_type_software">Tlačítko přístupnosti</string>
+     <string name="accessibility_shortcut_type_software_gesture">2-finger swipe up from bottom</string>
+     <string name="accessibility_shortcut_type_triple_tap">Trojí poklepání obrazovky</string>
+     <string name="accessibility_summary_default_combination">%1$s / %2$s</string>
+     <string name="accessibility_summary_shortcut_disabled">Vypnuto</string>
+     <string name="accessibility_summary_shortcut_enabled">Zkratky zapnuty</string>
+     <string name="accessibility_summary_state_stopped">Nefunguje. Stiskněte pro info.</string>
+     <string name="accessibility_vibration_intensity_off">Vypnuto</string>
 </resources>
+
