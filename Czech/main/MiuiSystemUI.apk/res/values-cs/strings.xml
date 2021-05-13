@@ -976,7 +976,7 @@ Použijte síťovou nabíječku."</string>
   <string name="kg_invalid_confirm_pin_hint">Kódy PIN se neshodují</string>
   <string name="kg_invalid_puk">Znovu zadejte správný kód PUK. Opakovanými pokusy SIM kartu trvale zablokujete.</string>
   <string name="kg_invalid_sim_pin_hint">Zadejte kód PIN o délce 4–8 číslic.</string>
-  <string name="kg_invalid_sim_puk_hint">Minimální délka kódu PUK je 8 číslic.</string>
+  <string name="kg_invalid_sim_puk_hint">Minimální délka kódu PUK je %1$d číslic.</string>
   <string name="kg_login_too_many_attempts">Příliš mnoho pokusů o zadání gesta</string>
   <string name="kg_password_instructions">Zadejte heslo</string>
   <string name="kg_password_pin_failed">SIM PIN selhal!</string>

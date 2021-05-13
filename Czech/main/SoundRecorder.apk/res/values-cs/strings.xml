@@ -303,4 +303,12 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
     <string name="clearable_edittext_clear_description">Vymazat</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
+    <string name="all_record">Všechny nahrávky</string>
+    <string name="no_content">Prázdné</string>
+    <string name="no_playback_file">Vyberte nahrávku pro zobrazení podrobností</string>
+    <string name="normal_settings_pref_title">Všeobecné nastavení</string>
+    <string name="other_settings_pref_title">Další nastavení</string>
+    <string name="recorder_record">Zvuk</string>
+    <string name="remind_settings_pref_title">Upozornění</string>
+    <string name="tap_to_record">Dotkněte se tlačítka pro spuštění nahrávání</string>
 </resources>  

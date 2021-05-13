@@ -604,7 +604,7 @@
   <string name="app_pa_setting_head_info_default">Prázdné</string>
   <string name="app_pa_setting_head_info_set">Přidané</string>
   <string name="app_pa_setting_head_setting">Hlavička</string>    
-  <string name="app_display_linkage_default">Inovace pro každého</string>
+  <string name="app_display_linkage_default">Váš asistent</string>
   <string name="app_display_setting_edit_hint">Zadejte text</string>
   <string name="app_display_setting_edit_instruction">Hlavička je zobrazena na vrchu asistenta. Může obsahovat maximálně 28 znaků.</string>
   <string name="app_display_setting_edit_toast">Tato hlavička je příliš dlouhá</string>
@@ -613,8 +613,6 @@
   <string name="app_course_current_week">Týden %1$d</string>
   <string name="app_course_on_going">Probíhá</string>
   <string name="agenda_tip_going">Probíhá</string>
-
-
   <string name="monday">Pondělí</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>

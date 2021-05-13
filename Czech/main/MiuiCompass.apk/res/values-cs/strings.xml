@@ -61,4 +61,6 @@
   <string name="preference_other">Ostatní</string>
   <string name="preference_privacy_title">Ochrana soukromí</string>
   <string name="cta_agree_desc">Povolte této aplikaci přístup na internet a požadované povolení pro její správné fungování.</string>
+  <string name="first_using_dialog_message_no_camera">Kompas potřebuje připojení na internet a přístup k vaší poloze pro jeho správné fungování. Povolit?</string>
+    <string name="open_perm_msg_no_camera">Kompas potřebuje přístup k vaší poloze pro jeho správné fungování. Povolit?</string>
 </resources>

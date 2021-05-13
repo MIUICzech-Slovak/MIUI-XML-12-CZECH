@@ -7069,4 +7069,12 @@ Nikdy jste nebyli připojený k %2$s."</string>
     <string name="miheadset_network_not_available">Zkontrolujte nastavení sítě a zkuste to znova</string>
     <string name="permission_records">Používání povolení</string>
     <string name="permission_records_summary">Zobrazení jak aplikace využívají povolení</string>
+    <string name="knock_edge_area_invalid">Toto gesto nefunguje v blízkosti kraje displeje</string>
+    <string name="knock_guide_dialog_title">Vyberte akci pro toto gesto. Můžete to později změnit v Nastaveních.</string>
+    <string name="knock_guide_drive_desc">Zhotovit screenshot během řízení</string>
+    <string name="knock_guide_set_screenshot">Screenshot</string>
+    <string name="knock_guide_title">Dvojité poklepání kloubem prstu</string>
+    <string name="knock_long_press_horizontal_slid">Stlačte a potáhněte horizontálně kloubem prstu</string>
+    <string name="knock_slide_shape">Nakreslete kruh kloubem prstu</string>
+    <string name="knock_slide_v">Napište V kloubem prstu</string>
 </resources>
