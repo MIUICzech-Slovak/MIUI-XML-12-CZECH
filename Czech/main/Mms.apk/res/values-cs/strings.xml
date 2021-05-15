@@ -1020,9 +1020,6 @@ Pokus: %s."</string>
   <string name="tomorrow">Zítra</string>
   <string name="date_time_picker_dialog_title">Nastavit datum a čas</string>
     <string name="message_unread">Nepřečtené</string>
-    <string name="miuix_appcompat_deselect_all">Odznačit</string>
-    <string name="miuix_appcompat_select_all">Vše</string>
-    <string name="miuix_appcompat_select_item">Vybrat</string>
     <string name="privacy_revoke_nonetwork_msg">Vaše zařízení potřebuje připojení na internet pro stahování obsahu. Zkontrolujte nastavení a zkuste to znovu.</string>
     <string name="privacy_revoke_nonetwork_ok">Rozumím</string>
     <string name="privacy_revoke_nonetwork_title">Nebylo možné připojit se k síti</string>
