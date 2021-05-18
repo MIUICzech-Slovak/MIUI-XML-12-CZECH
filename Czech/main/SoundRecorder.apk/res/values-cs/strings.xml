@@ -311,4 +311,5 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
     <string name="recorder_record">Zvuk</string>
     <string name="remind_settings_pref_title">Upozornění</string>
     <string name="tap_to_record">Dotkněte se tlačítka pro spuštění nahrávání</string>
+  <string name="preference_clear_data">Vymazání dat</string>
 </resources>  
