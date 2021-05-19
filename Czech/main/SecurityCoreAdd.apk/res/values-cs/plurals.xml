@@ -18,6 +18,6 @@
      </plurals>
 	 <plurals name="xspace_guide_content">
         <item quantity="other">Můžete vytvořit %d klonovaných apl.</item>
-        <item quantity="one"Můžete vytvořit %d klonovanou apl.</item>
+        <item quantity="one">Můžete vytvořit %d klonovanou apl.</item>
      </plurals>
 </resources>
