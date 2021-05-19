@@ -417,6 +417,6 @@ Oddělte a zabezpečte svá data."</string>
 si zaslouží vlastní aplikaci"</string>
   <string name="xspace_start">Vytvořit</string>
   <string name="menu_item_about_privacy_title">Ochrana soukromí</string>
-  <string name="xspace_install_complete">&lt;font>Vytvoření klonované apl. dokončeno. &lt;/font>&lt;font color=#0D84FF>Otevřít nyní&lt;/font>.</string>
+  <string name="xspace_install_complete">Vytvoření klonované apl. dokončeno. Otevřít nyní.</string>
   <string name="xspace_setting_label">Nastavení klonovaných aplikací</string>
 </resources>
