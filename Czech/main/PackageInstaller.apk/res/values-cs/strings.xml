@@ -608,8 +608,11 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="wifi_not_in_range">Mimo dosah</string>
   <string name="wifi_remembered">Uložené</string>
   <string name="wifi_security_none">Žádné</string>
-  <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_verbose_logging">Enable Wi‑Fi Verbose Logging</string>
-  <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
-  <string name="window_animation_scale_title">Window animation scale</string>
+  <string name="wifi_security_passpoint">Přístupový bod</string>
+  <string name="wifi_verbose_logging">Povolit podrobné protokolování Wi-Fi</string>
+  <string name="wifi_verbose_logging_summary">Zvyšení úrovně protokolování Wi-Fi, zobrazí se za SSID RSSI ve výběru Wi-Fi</string>
+  <string name="window_animation_scale_title">Měřítko animace okna</string>
+  <string name="close">Zavřít</string>
+    <string name="date_time_picker_dialog_title">Nastavit datum a čas</string>
+    <string name="send">Odeslat</string>
 </resources>

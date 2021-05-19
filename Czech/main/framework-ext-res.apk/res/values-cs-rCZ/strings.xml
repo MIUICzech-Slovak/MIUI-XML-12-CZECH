@@ -238,7 +238,7 @@
   <string name="wifi_assistant_wifi_no_internet">Tato Wi-Fi síť nemá přístup na internet</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Zobrazit podrobnosti</string>
   <string name="wireless_charging_notification_message1">Nenašlo se žádné zařízení pro nabíjení. Reverzní bezdrátové nabíjení je deaktivováno.</string>
-  <string name="wireless_charging_notification_message2">Baterie má méně než 30% kapacity. Reverzní bezdrátové nabíjení je deaktivovábo.</string>
+  <string name="wireless_charging_notification_message2">Baterie má méně než %s kapacity. Reverzní bezdrátové nabíjení je deaktivovábo.</string>
   <string name="wireless_charging_notification_message3">Nastala chyba během nabíjení. Reverzní bezdrátové nabíjení je deaktivováno.</string>
   <string name="wireless_charging_notification_titile">Reverzní bezdrátové nabíjení je deaktivováno</string>
   <string name="xspace_head">Klonovaná aplikace</string>

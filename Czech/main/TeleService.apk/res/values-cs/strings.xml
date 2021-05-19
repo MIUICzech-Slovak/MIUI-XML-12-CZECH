@@ -1764,4 +1764,6 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
 	<string name="wifi_call_available_message_for_ATT_MX">Budete připojený k Wi-Fi síti. Kvalita hovoru může kolísat podle kvality připojení.</string>
   <string name="four_point_five_switch_summary">Použít 4.5G pro zrychlení mobilních dat a zlepšení kvality hovorů.</string>
   <string name="preference_dial_pad_touch_tone_off">Vyp</string>
+  <string name="mobile_special_network_optimization_config_summary">Pokusit se automaticky opravit nastavení sítě když dojde k chybě</string>
+    <string name="mobile_special_network_optimization_config_title">Speciální optimalizace sítě</string>
 </resources>

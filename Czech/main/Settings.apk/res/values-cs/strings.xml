@@ -7108,5 +7108,11 @@ Mezi funkcemi můžete přepínat přejetím třemi prsty nahoru a podržením."
      <string name="accessibility_summary_shortcut_enabled">Zkratky zapnuty</string>
      <string name="accessibility_summary_state_stopped">Nefunguje. Stiskněte pro info.</string>
      <string name="accessibility_vibration_intensity_off">Vypnuto</string>
+	 <string name="permit_manage_external_storage">Povolit přístup ke správě všech souborů</string>
+	 <string name="allow_manage_external_storage_description">Povolení aplikaci číst, upravovat a mazat jakékoli soubory v tomto zařízení nebo připojených úložištích. Pokud je uděleno, aplikace může přistupovat k souborům bez vašeho souhlasu.</string>
+	 <string name="adjust_ligth">Přizpůsobení jasu</string>	
+     <string name="miheadset_single_ear_indicate">Pro použití redukce hluku noste obě sluchátka</string>
+     <string name="smooth_adjust_ligth">Jemnější přechody</string>
+     <string name="smooth_adjust_ligth_summary">Jemnejšie přechody urovně jasu při manuálním režimu. Při použití této funkce se mohou vyskytnout barevné nerovnoměrnosti.</string>
 </resources>
 

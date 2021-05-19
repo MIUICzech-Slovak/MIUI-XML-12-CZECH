@@ -935,4 +935,8 @@ Dejte si pauzu!"</item>
         <item quantity="other">Aplikací: %d</item>
         <item quantity="one">Aplikace: %d</item>
     </plurals>
+	<plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Rozumím (%ds)</item>
+        <item quantity="one">Rozumím (%ds)</item>
+    </plurals>	
 </resources>             

@@ -973,7 +973,7 @@ Synchronizujte je nyní."</string>
   <string name="preference_auto_ip_summary_disable">Není povoleno</string>
   <string name="preference_auto_ip_summary_on">"IP operátora: %s"</string>
   <string name="preference_auto_ip_title">Auto IP</string>
-  <string name="preference_contacts">Kontakt</string>
+  <string name="preference_contacts">Kontakty</string>
   <string name="preference_contacts_display">Zobrazení kontaktů</string>
   <string name="preference_contacts_filter">Kontakty k zobrazení</string>
   <string name="preference_contacts_more">Další nastavení kontaktů</string>
