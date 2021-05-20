@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="additional_permissions_more">
-        <item quantity="other">%1$d more</item>
-        <item quantity="one">%1$d more</item>
+        <item quantity="other">%1$d více</item>
+        <item quantity="one">%1$d více</item>
     </plurals>
     <plurals name="miui_permission_detail">
-        <item quantity="other">%d permissions</item>
-        <item quantity="one">%d permission</item>
+        <item quantity="other">%d povolení</item>
+        <item quantity="one">%d povolení</item>
     </plurals>
 	<plurals name="miui_app_privacy_permission_number">
         <item quantity="other">Soukromé povolení</item>
@@ -72,4 +72,8 @@
         <item quantity="other">Položek: %1$s</item>
         <item quantity="one">Položek: %1$s</item>
     </plurals>
+	<plurals name="miui_app_all_permission_number">
+        <item quantity="other">%d povolení</item>
+        <item quantity="one">%d povolení</item>
+     </plurals>
 </resources>
