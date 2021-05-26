@@ -351,4 +351,5 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
   <string name="tomorrow">Zítra</string>
+  <string name="other_settings_upload_debug_log_detail">"Pomožte vylepšit své zážitky se zařízením MIUI automatickým odesíláním diagnostických údajů, údajů o používání zařízení a aplikací do společnosti Xiaomi. Pomůže to zlepšit výdrž baterie, systém MIUI a stabilitu aplikací.</string>
 </resources>  

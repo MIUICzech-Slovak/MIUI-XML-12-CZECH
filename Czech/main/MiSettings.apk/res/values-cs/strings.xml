@@ -643,4 +643,6 @@
     <string name="miuix_appcompat_select_all_description">Vše</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
+    <string name="authorization_btn_text">Start</string>
+    <string name="authorization_tips">Vyžadují se povolení</string>
   </resources>

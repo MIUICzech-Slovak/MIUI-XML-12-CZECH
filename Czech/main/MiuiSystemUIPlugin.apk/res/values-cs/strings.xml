@@ -263,4 +263,13 @@
   <string name="wireless_charging_fg_control_cancel">Zrušit</string>
     <string name="wireless_charging_fg_control_messgae">Reverzní nabíjení bylo deaktivováno protože zůstává méně jak %d%% baterie. Můžete nastavit delší využívání reverzního nabíjení.</string>
     <string name="wireless_charging_fg_control_ok">Nastavit</string>
+    <string name="hearing_assist_bluetooth_enable_tips_cancle">Zrušit</string>
+    <string name="hearing_assist_bluetooth_enable_tips_start">Zapnout</string>
+    <string name="hearing_assist_bluetooth_enable_tips_summary">Live in-ear monitor pouze když je zapnuté Bluetooth. Chcete ho zapnout?</string>
+    <string name="hearing_assist_bluetooth_enable_tips_title">Zapněte Bluetooth</string>
+    <string name="hearing_assist_transmission_label">Live in-ear monitor</string>
+    <string name="hearing_assist_transmission_tips_cancel">Zrušit</string>
+    <string name="hearing_assist_transmission_tips_continue">Zapnout</string>
+    <string name="hearing_assist_transmission_tips_summary">Live in-ear monitor přenáší zvuk z mikrofonu zařízení do připojených sluchátek. Chcete ho zapnout?</string>
+    <string name="hearing_assist_transmission_tips_title">Live in-ear monitor</string>
 </resources>  

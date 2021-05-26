@@ -384,4 +384,12 @@ Zkuste to znova"</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
   <string name="tomorrow">Zítra</string>
+  <string name="backup_action_access_permission">Nastavení</string>
+    <string name="backup_failed_reason_app_usage_denied">Povolte požadovaná povolení pro zálohování souborů</string>
+    <string name="backup_warning_reason_app_usage_denied">"Nebylo možné synchr. data.
+Vyžadují se povolení."</string>
+    <string name="dialog_app_usage_denied">Povolte Záloze povolení v Nastaveních pro její správné fungování.</string>
+    <string name="dialog_btn_confirm2">Rozumím</string>
+    <string name="dialog_btn_enter">Nastavení</string>	
+    <string name="dialog_need_permission">Vyžadují se povolení</string>
 </resources>  
