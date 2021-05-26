@@ -4761,5 +4761,8 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="xspace_warning_dialog_title">Upozornění</string>
 	<string name="applock_mixtype_hidepwd_icon">Skrýt</string>
     <string name="applock_mixtype_showpwd_icon">Zobrazit</string>
-    <string name="exception_checking">Kontroluji...</string>	
+    <string name="exception_checking">Kontroluji...</string>
+	<string name="exit_dialog_release_storage_message_new">Je obsazeno více než %s úložiště ve vašem zařízení. Uvolněte místo odinstalováním nepotřebných aplikací.</string>
+    <string name="vb_ve_settings_display_style_tips_new">*Efekty budou použité jen při přehrávání videa</string>
+	<string name="HIPS_Perm_tencentControl_Desc">Povolte této aplikaci přístup k vašim WeChat a QQ zprávám</string>
 </resources>  

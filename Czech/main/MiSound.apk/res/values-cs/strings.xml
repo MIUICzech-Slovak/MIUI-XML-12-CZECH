@@ -207,5 +207,19 @@
     <string name="music_headset_audio_visual_unmute">Náhled se zvukem</string>
     <string name="not_support_sound_transmission_content">Tato funkce není podporovaná připojeným zařízením.</string>
     <string name="not_support_sound_transmission_prompt">Upozornění</string>
+	<string name="hearing_assist_bluetooth_headset">Bluetooth sluchátka</string>
+    <string name="hearing_assist_bluetooth_headset_disconnected">Nepřipojené</string>
+    <string name="hearing_assist_bluetooth_headset_not_supported">Nepodporované</string>
+    <string name="hearing_assist_btn_headset_choice">Vyberte zařízení</string>
+    <string name="hearing_assist_btn_start">Spustit</string>
+    <string name="hearing_assist_btn_stop">Zastavit</string>
+    <string name="hearing_assist_exit_btn_continue">Ponechat</string>
+    <string name="hearing_assist_exit_btn_stop">Vypnout</string>
+    <string name="hearing_assist_exit_tips_summary">Live in-ear monitor je spuštěný. Vypnout?</string>
+    <string name="hearing_assist_exit_tips_title">Vypnout Live in-ear monitor</string>
+    <string name="hearing_assist_tips_message_one">%d. Přepínač Live in-ear monitor je dostupný v Centrum ovládání.</string>
+    <string name="hearing_assist_tips_message_two">%d. Tato funkce je podporována jen pro vybrané modely Bluetooth sluchátek.</string>
+    <string name="hearing_assist_title">Live in-ear monitor</string>
+    <string name="hearing_assist_volume">Hlasitost mikrofonu</string> 
 </resources>
 

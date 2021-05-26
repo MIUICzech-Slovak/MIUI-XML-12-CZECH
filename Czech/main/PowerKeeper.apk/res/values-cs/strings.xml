@@ -275,5 +275,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žádné data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
-  <string name="accessibility_service_description">Inteligentní úspora energie</string>  
+  <string name="accessibility_service_description">Inteligentní úspora energie</string>
+  <string name="kill_pkg_toast_message">Vaše zařízení se přehřívá. Aplikace bude ukončena.</string>
+    <string name="stricter_high_temp_state_message">Vaše zařízení se přehřívá. Můžete používat jen aplikaci Telefon a Kontakty.</string>
 </resources>

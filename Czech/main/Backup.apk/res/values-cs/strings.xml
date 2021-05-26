@@ -832,4 +832,6 @@ Velikost aktualizace delta: %2$s"</string>
   <string name="today">Dnes</string>
   <string name="tomorrow">Zítra</string>
   <string name="not_enough_storage_tips">Není dostatek volného místa na úložišti.</string>
+  <string name="apps_item_desc">Apl.</string>
+    <string name="new_pc_restore_content1_pad">%d. Připojte vaše zařízení k PC pomocí USB kabelu.</string>
 </resources>

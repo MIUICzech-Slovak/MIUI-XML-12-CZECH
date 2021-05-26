@@ -528,4 +528,10 @@
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="select_operation">Vybrat</string>
     <string name="shutdown_alarm_alert_enable_summary_new">Vypnutí budíků pokud je vaše zařízení vypnuté. Vypnuté budou pouze budíky které jsou nastaveny alespoň %d minut po vypnutí.</string>
+	<string name="close_alarm_new">Zastavit</string>
+    <string name="not_set_temporarily">Ne děkuji</string>
+    <string name="set_now">Nastavit</string>
+    <string name="slider_text_new">Potáhněte nahoru pro zastavení</string>
+    <string name="timer_got_it_new">Ztišit</string>
+    <string name="week_ringtone_recommend_desc">Přírodní budík přehrává různé zvuky v závislosti k datumu. Nastavit jako předvolený budík?</string>
 </resources>  

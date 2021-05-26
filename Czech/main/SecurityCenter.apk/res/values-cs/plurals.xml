@@ -938,5 +938,9 @@ Dejte si pauzu!"</item>
 	<plurals name="gb_toolbox_guide_known">
         <item quantity="other">Rozumím (%ds)</item>
         <item quantity="one">Rozumím (%ds)</item>
-    </plurals>	
+    </plurals>
+	<plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">Skóre vašeho zařízení je menší jak %d bodů. Chcete ho optimalizovat?</item>
+        <item quantity="one">Skóre vašeho zařízení je menší jak %d bod. Chcete ho optimalizovat?</item>
+    </plurals>
 </resources>             
