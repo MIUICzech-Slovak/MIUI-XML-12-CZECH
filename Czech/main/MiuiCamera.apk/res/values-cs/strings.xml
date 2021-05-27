@@ -1905,4 +1905,24 @@ skenované dokumenty automaticky"</string>
     <string name="prep_video_ai_audio_single_desc_tip_alone">Zvuky zpoza displeje jsou odfiltrovány v režimu na šířku</string>
 	<string name="today">Dnes</string>
   <string name="tomorrow">Zítra</string>
+
+     <string name="super_moon_black_cat">Kočka</string>
+     <string name="super_moon_branch_bird">Slavík</string>
+     <string name="super_moon_cable_car">Lanovka</string>
+     <string name="super_moon_climb">Lezení</string>
+     <string name="super_moon_flight">Letadlo</string>
+     <string name="super_moon_flying_bird">Pták</string>
+     <string name="super_moon_improve_effect_tips">Umístěte měsíc do kruhu</string>
+     <string name="super_moon_in_city">Měsíční ulice</string>
+     <string name="super_moon_leaf">Listy</string>
+     <string name="super_moon_miss">Měsíční světlo padá na kraj mé postele a na zamrzlé zemi se jeví jako mráz.</string>
+     <string name="super_moon_under">Měsíční světlo</string>
+     <string name="super_moon_window">Okno</string>
+     <string name="super_night_owl_toast">Nehýbejte s telefonem</string>
+     <string name="watermark_tab_super_moon_silhouette">Silueta</string>
+     <string name="watermark_tab_super_moon_text">Text</string>     
+     <string name="ai_watermark_title">AI vodoznak</string>     
+     <string name="document_blur_warn">Text je rozmazaný</string>
+     <string name="download_in_progress">Stahování...</string>
+     <string name="dual_video_record_remote">Nahrávání ze dvou zařízení</string>
 </resources>  
