@@ -4808,4 +4808,12 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="stop_collecting_data">"Klávesnice bez učení"</string>
     <string name="stop_collecting_data_detail">"Klávesnice nebude shromažďovat data pro zlepšení prediktivního psaní a navrhování častých frází na základě vašich zvyků."</string>
     <string name="use_other_ime_warn">Klávesnice třetích stran mohou zaznamenávat vše, co napíšete, včetně hesel a dalších citlivých informací.</string>
+    <string name="cetus_invisible_mode">Inkognito</string>
+    <string name="cetus_invisible_mode_description_card">Pozastavit povolení</string>
+    <string name="cetus_invisible_mode_description_switch">Povolte pro pozastavení povolení pro mikrofon, fotoaparát a polohy pro všechny aplikace</string>
+    <string name="cetus_invisible_mode_warn_all">Jste inkognito. Povolení pro mikrofon, fotoaparát a polohu jsou pozastavená.</string>
+    <string name="cetus_invisible_mode_warn_camera">Jste inkognito. Povolení pro fotoaparát je pozastaveno.</string>
+    <string name="cetus_invisible_mode_warn_location">Jste inkognito. Povolení pro polohu je pozastaveno.</string>
+    <string name="cetus_invisible_mode_warn_open">Režim Inkognito pozastaví povolení pro mikrofon, fotoaparát a polohu všem aplikacím. Chcete ho zapnout nyní?</string>
+    <string name="cetus_invisible_mode_warn_record_audio">Jste inkognito. Povolení pro mikrofon je pozastaveno.</string>
 </resources>  

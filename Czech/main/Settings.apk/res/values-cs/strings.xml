@@ -7219,7 +7219,5 @@ Mezi funkcemi můžete přepínat přejetím třemi prsty nahoru a podržením."
     <string name="miui_sos_remind_sendnow_donot_send">Neodesílat</string>
     <string name="smart_home_select_smart_device">Aplikace pro správu SmartHome zařízení</string>
     <string name="upload_debug_log_detail">Pomožte vylepšit své zážitky se zařízením MIUI automatickým odesíláním diagnostických údajů, údajů o používání zařízení a aplikací do společnosti Xiaomi.</string>
-    <string name="upload_debug_log_summary">Sdílet data pro zlepšení MIUI</string>
-    <string name="upload_debug_log_title">Používání a diagnostika</string>
 </resources>
 
