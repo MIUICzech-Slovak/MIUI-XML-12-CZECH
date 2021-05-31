@@ -1149,4 +1149,13 @@ Postupujte dle pokynů"</item>
         <item>Zvýšit rychlost použitím mobilních dat jen když je slabý signál Wi-Fi</item>
         <item>Kombinovat Wi-Fi a mobilní data pro zvýšení rychlosti</item>
     </string-array>
+	<string-array name="dark_ui_mode_entries">
+        <item>Zapnutý</item>
+        <item>Vypnutý</item>
+    </string-array>
+    <string-array name="autofill_logging_level_entries">
+        <item>Vypnuto</item>
+        <item>Ladění</item>
+        <item>Podrobné informace</item>
+    </string-array>	
 </resources>
