@@ -6940,7 +6940,7 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="system_touch">Haptická odezva</string>
     <string name="title_font_settings">Nastavení písma</string>
     <string name="toast_apply_font_fail">Není možné nastavit písmo</string>
-    <string name="user_experience_open_url">Dozvědět se více o User Experience programu</string>
+    <string name="user_experience_open_url">Dozvědět se více o programu uživatelské zkušenosti</string>
     <string name="error_apn_not_allowed">Toto APN není povolené. Zkuste jiné.</string>
     <string name="intelligence_suppression_summary">Dynamicky přizpůsobit velikost oblasti při okrajích kde budou ignorovány dotyky</string>
     <string name="truetone_summary">Přizpůsobit barvy okolnímu světlu</string>
@@ -7221,8 +7221,6 @@ Mezi funkcemi můžete přepínat přejetím třemi prsty nahoru a podržením."
     <string name="upload_debug_log_detail">Pomožte vylepšit své zážitky se zařízením MIUI automatickým odesíláním diagnostických údajů, údajů o používání zařízení a aplikací do společnosti Xiaomi.</string>
 	<string name="bug_report_handler_picker_footer_text">Určuje, která aplikace zpracuje ve vašem zařízení zkratku na hlášení chyby.</string>
     <string name="bug_report_handler_title">Obslužný nástroj hlášení chyby</string>
-    <string name="bugreport_in_power">Zkratka hlášení chyby</string>
-    <string name="bugreport_in_power_summary">Zobrazit v hlavní nabídce tlačítko na vytvoření hlášení chyby</string>
     <string name="adb_wireless_connection_failed_message">Zkontrolujte, zda je zařízení %1$s připojené ke správné síti</string>
     <string name="adb_wireless_connection_failed_title">Připojení selhalo</string>
     <string name="adb_wireless_device_connected_summary">Aktuálně připojené</string>
@@ -7282,5 +7280,9 @@ Mezi funkcemi můžete přepínat přejetím třemi prsty nahoru a podržením."
     <string name="screen_timeout_subtitle">Zobrazení statického obsahu po delší dobu může způsobit, že barvy budou nerovnoměrné</string>	
     <string name="switch_power_sound">Zvuk nabíjení</string>	
     <string name="storage_category">Úložiště</string>
+	<string name="oaid_apps_summary">Povolit nebo zakázat přístup pro jednotlivé aplikace</string>
+    <string name="oaid_apps_title">Spravovat virtuální ID</string>
+    <string name="time_floating_window">Plovoucí hodiny</string>
+    <string name="time_floating_window_summary">Zobrazit hodiny v plovoucím okně</string>
 </resources>
 

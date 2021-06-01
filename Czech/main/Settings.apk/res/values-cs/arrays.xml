@@ -9,12 +9,7 @@
         <item>Měřítko animace 2x</item>
         <item>Měřítko animace 5x</item>
         <item>Měřítko animace 10x</item>
-    </string-array>
-    <string-array name="dark_ui_mode_entries">
-	<item>Automaticky (Dle slunce)</item>
-	<item>Vždy zapnuto</item>
-	<item>Vždy vypnuto</item>
-	</string-array>	
+    </string-array>	
     <string-array name="keyguard_notification_status_entries">
         <item>Rozsvítit displej</item>
         <item>Zobrazit animaci</item>

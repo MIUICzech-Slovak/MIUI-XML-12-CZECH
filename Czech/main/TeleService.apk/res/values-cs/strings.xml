@@ -1766,4 +1766,5 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="preference_dial_pad_touch_tone_off">Vyp</string>
   <string name="mobile_special_network_optimization_config_summary">Pokusit se automaticky opravit nastavení sítě když dojde k chybě</string>
     <string name="mobile_special_network_optimization_config_title">Speciální optimalizace sítě</string>
+	<string name="invalid_secretcode_format_txt">Chybný formát kódu!</string>
 </resources>

@@ -299,5 +299,8 @@
     <string name="dock_tip_splitscreen_landscape_drag">Potáhněte lištu vodorovně pro záměnu pozic oken.</string>
     <string name="dock_tip_splitscreen_landscape_float">Podržte a potáhněte dolů pro přepnutí na plovoucí okno.</string>
     <string name="dock_tip_splitscreen_portrait_drag">Potáhněte lištu svisle pro přehození oken.</string>
-    <string name="dock_tip_splitscreen_portrait_float">Podržte a potáhněte doleva nebo doprava pro přepnutí plovoucích oken.</string>
+    <string name="dock_tip_splitscreen_portrait_float">Podržte a potáhněte doleva nebo doprava pro přepnutí plovoucích oken.</string>    
+    <string name="battery_authentic_failed_button">Rozumím</string>
+    <string name="battery_authentic_failed_title">Upozornění</string>
+    <string name="other_ime">Ostatní klávesnice</string>	
 </resources>

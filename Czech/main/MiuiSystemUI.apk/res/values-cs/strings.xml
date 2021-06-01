@@ -2641,4 +2641,5 @@ Tato aplikace nemá oprávnění k nahrávání, ale může zaznamenávat zvuk p
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
+	<string name="face_unlock_swipe_up_retry">Potáhněte nahoru a zkuste znova</string>
 </resources>
