@@ -4824,4 +4824,5 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="pc_hidemode_power_save">Síla</string>
     <string name="pc_performance_mode_dialog_summary">Vaše zařízení bude schopné fungovat %s ve Výkonném režimu. Výkonný režim může zvýšit spotřebu baterie a způsobit přehřívání zařízení.</string>
     <string name="pc_performance_mode_dialog_title">Výkonný režim</string>
+	<string name="security_center_title">Bezpečnost</string>
 </resources>  
