@@ -220,6 +220,14 @@
     <string name="hearing_assist_tips_message_one">%d. Přepínač Live in-ear monitor je dostupný v Centrum ovládání.</string>
     <string name="hearing_assist_tips_message_two">%d. Tato funkce je podporována jen pro vybrané modely Bluetooth sluchátek.</string>
     <string name="hearing_assist_title">Live in-ear monitor</string>
-    <string name="hearing_assist_volume">Hlasitost mikrofonu</string> 
+    <string name="hearing_assist_volume">Hlasitost mikrofonu</string>
+	<string name="headset_use_long_time">Zdá se, že jste nosili sluchátka déleji než je doporučeno. Dejte si na chvíli pauzu.</string>
+    <string name="headset_use_loud_volume">Hlasitost sluchátek byla vysoká po dlouhou dobu. Pro ochranu vašeho sluchu byla hlasitost snížena na doporučenou úroveň.</string>
+    <string name="headset_use_not_support_noise_reduction">Zdá se, že vaše prostředí je příliš hlučné. Nošení sluchátek může ovlivnit váš sluch.</string>
+    <string name="headset_use_prompt">Sluchátka</string>
+    <string name="headset_use_support_noise_reduction">Zdá se, že vaše prostředí je příliš hlučné. Použíjte funkci redukce hluku pro ochranu vašeho sluchu.</string>
+    <string name="headset_volume_content">Současná hlasitost sluchátek přesahuje doporučenou úroveň. Snížte hlasitost pro ochranu vašeho sluchu.</string>
+    <string name="headset_volume_prompt">Hlasitost sluchátek</string>
+    <string name="see_details">Podrobnosti</string>	
 </resources>
 

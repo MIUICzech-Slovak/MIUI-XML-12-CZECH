@@ -7289,5 +7289,18 @@ Mezi funkcemi můžete přepínat přejetím třemi prsty nahoru a podržením."
     <string name="charge_animation_style_video">Žáře</string>
     <string name="charge_animation_style_wave">Vlna</string>
     <string name="charge_animation_style_particle">Částice</string>
+	<string name="abc_slice_more">Více</string>
+	<string name="more">Více</string>
+	<string name="sud_more_button_label">Více</string>
+	<string name="bluetooth_unlock_settings_unlock_summary">Tato funkce funguje s vybranými Xiaomi zařízeními</string>
+    <string name="bt_audio_repair_property">Opravit chyby zvuku</string>
+    <string name="bt_audiorepair_dialog_open_success">Opraveno. Počkejte než se zařízení znova připojí.</string>
+    <string name="bt_audiorepair_dialog_openok">Opravit</string>
+    <string name="bt_audiorepair_open_dialog_summary">MIUI zkontroluje a opraví problémy které způsobují sekání Bluetooth připojení. Zůstaňte na této obrazovce dokud se proces nedokončí.</string>
+    <string name="bt_audiorepair_open_dialog_title">Opravit sekání zvuku</string>
+    <string name="bt_audiorepair_pre_title">Opravit sekání zvuku</string>
+    <string name="bt_audiorepair_summary">Opravit sekání zvuku na připojených Bluetooth zařízeních</string>
+    <string name="bt_audiorepair_working">Oprava zvuku...</string>
+    <string name="miui_input_method_attention">Upozornění</string>	
 </resources>
 

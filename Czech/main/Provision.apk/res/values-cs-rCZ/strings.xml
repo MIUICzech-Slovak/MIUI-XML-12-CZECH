@@ -354,4 +354,6 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
   <string name="other_settings_upload_debug_log_detail">"Pomožte vylepšit své zážitky se zařízením MIUI automatickým odesíláním diagnostických údajů, údajů o používání zařízení a aplikací do společnosti Xiaomi. Pomůže to zlepšit výdrž baterie, systém MIUI a stabilitu aplikací.</string>
   <string name="disagreement_terminate_miuidaemon">Pokud nesouhlasíte s udělením takovýchto povolení nebo sdílením a nahráním svých osobných údajů, nebudete moci tuto službu používat.</string>
     <string name="require_miuidaemon_authority_statement">Pro poskytnutí vám této služby, musíte udělit následující povolení, aby jsme mohli shromažďovat vaše osobní údaje:</string>
+	<string name="msim_setting_default_data">Datová SIM</string>
+     <string name="msim_setting_default_voice">Výchozí SIM pro volání</string>
 </resources>  

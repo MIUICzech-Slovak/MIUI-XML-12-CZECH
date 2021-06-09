@@ -2407,4 +2407,7 @@
      <string name="unsupport_raw">%s nefunguje s RAW</string>
      <string name="unsupport_raw_and_video">%s nefunguje s videem v RAW</string>
      <string name="problem_feedback">Zpětná vazba</string>
+	 <string name="home_page_all_photos">Vše</string>
+     <string name="home_page_camera">Fotoaparát</string>
+     <string name="home_page_custom">Uživatelský</string>
 </resources>

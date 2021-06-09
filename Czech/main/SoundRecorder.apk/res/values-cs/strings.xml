@@ -314,4 +314,6 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="preference_clear_data">Vymazání dat</string>
   <string name="download">Stáhnout</string>
   <string name="send">Odeslat</string>
+  <string name="delete_recorder">Vymazat</string>
+    <string name="play_speed">%1$.1fX rychlost</string>
 </resources>  
