@@ -2035,7 +2035,7 @@ Když zapnete automatické zálohování, data zařízení a aplikací se budou 
   <string name="handy_mode_enter_ask">Vyžadovat potvrzení</string>
   <string name="handy_mode_size">Velikost zmenšení</string>
   <string name="handy_mode_tips">Posuňte prstem doleva nebo doprava ze středního tlačítka DOMŮ pro zmenšení displeje.</string>
-  <string name="handy_mode_tips_full_screen">Při využívání gest pro celou obrazovku, můžete zapnout režim Ovládání jednou rukou pomocí Quick ballu. Kdykoli můžete také přepnout mezi gesty pro celou obrazovku a použitím tlačítek zobrazených na displeji.</string>
+  <string name="handy_mode_tips_full_screen">Při využívání gest pro celou obrazovku, můžete zapnout režim Ovládání jednou rukou pomocí Dotykového asistenta. Kdykoli můžete také přepnout mezi gesty pro celou obrazovku a použitím tlačítek zobrazených na displeji.</string>
   <string name="haptic_feedback_enable_title">Při dotyku vibrovat</string>
   <string name="haptic_feedback_level">Síla vibrací</string>
   <string name="hardkeyboard_category">Nastavení fyzické klávesnice</string>
@@ -7301,6 +7301,7 @@ Mezi funkcemi můžete přepínat přejetím třemi prsty nahoru a podržením."
     <string name="bt_audiorepair_pre_title">Opravit sekání zvuku</string>
     <string name="bt_audiorepair_summary">Opravit sekání zvuku na připojených Bluetooth zařízeních</string>
     <string name="bt_audiorepair_working">Oprava zvuku...</string>
-    <string name="miui_input_method_attention">Upozornění</string>	
+    <string name="miui_input_method_attention">Upozornění</string>
+	<string name="date_picker_lunar">Čínský kalendář</string>
 </resources>
 

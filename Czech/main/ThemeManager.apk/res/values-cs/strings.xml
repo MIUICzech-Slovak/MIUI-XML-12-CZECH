@@ -747,12 +747,6 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
      <string name="search_sort_news">Prvně nové</string>
      <string name="search_sort_synthesize">Obecně</string>
      <string name="search_sort_top">Prvně populární</string>
-
-   
-
-  
-
-
   <string name="monday">Pondělí</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -855,4 +849,5 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
      <string name="hide_pull_down_negative">"Neskrývat"</string>
      <string name="hide_pull_down_positive">Skrýt</string>
      <string name="hide_retract_button">Skrýt</string>
+	 <string name="incompatible_dialog_cancel">Nepoužít</string>
 </resources>  

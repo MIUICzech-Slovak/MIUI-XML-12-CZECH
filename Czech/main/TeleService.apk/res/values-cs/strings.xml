@@ -1775,5 +1775,7 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
     <string name="full_forwarding_option_voicemail">Hlasová schránka</string>
     <string name="full_forwarding_settings">Plné přesměrování</string>
     <string name="play_voicemail_settings">Přehrát hlasovou schránku</string>
-    <string name="voicemail_callforward_settings">Hlasová schránka a přesměrování</string>	
+    <string name="voicemail_callforward_settings">Hlasová schránka a přesměrování</string>
+	<string name="sensor_answer_summary">Automaticky přijmete příchozí hovor přiložením telefonu k uchu</string>
+	<string name="sensor_answer_title">Zvednutím příjmout</string>
 </resources>
