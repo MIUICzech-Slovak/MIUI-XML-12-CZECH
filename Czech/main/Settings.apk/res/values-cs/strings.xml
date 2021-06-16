@@ -7303,5 +7303,8 @@ Mezi funkcemi můžete přepínat přejetím třemi prsty nahoru a podržením."
     <string name="bt_audiorepair_working">Oprava zvuku...</string>
     <string name="miui_input_method_attention">Upozornění</string>
 	<string name="date_picker_lunar">Čínský kalendář</string>
+	<string name="lockpassword_confirm_your_lock_pin_header">Potvrďte váš PIN</string>
+    <string name="miheadset_dual_connect_mode">Připojení ke dvěma zařízením</string>
+    <string name="miheadset_dual_connect_mode_summary">Povolte pro připojení vašich sluchátek ke dvěma Bluetooth zařízením současně</string>
 </resources>
 

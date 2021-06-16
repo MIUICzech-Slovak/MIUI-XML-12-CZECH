@@ -2642,4 +2642,14 @@ Tato aplikace nemá oprávnění k nahrávání, ale může zaznamenávat zvuk p
   <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
 	<string name="face_unlock_swipe_up_retry">Potáhněte nahoru a zkuste znova</string>
+	<string name="device_locked_without_biometric">Biometrická detekce nefunguje z důvodu používání upraveného zámku obrazovky</string>
+    <string name="miui_notification_menu_msg_unfold">Zobrazit %1$s upozornění odděleně?</string>
+    <string name="miui_notification_menu_unfold">Označit jako důležité</string>
+    <string name="miui_unimportant_notifications">Nedůležité upozornění</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">Není možné nastavit během hovoru</string>
+    <string name="quick_settings_vowifi_label">Wi-Fi Volání</string>
+    <string name="quick_settings_vowifi_sim1_label">Wi-Fi Volání SIM1</string>
+    <string name="quick_settings_vowifi_sim2_label">Wi-Fi Volání SIM2</string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content">Stlačte a podržte [Zapínání] a [Hlasitost +] tlačítka.</Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content">Vyberte [Vymazat] - [Potáhnout pro tovární nastavení] a potom stlačte [Restartovat Systém].</Data></string>
 </resources>

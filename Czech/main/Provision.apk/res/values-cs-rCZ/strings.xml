@@ -356,4 +356,6 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
     <string name="require_miuidaemon_authority_statement">Pro poskytnutí vám této služby, musíte udělit následující povolení, aby jsme mohli shromažďovat vaše osobní údaje:</string>
 	<string name="msim_setting_default_data">Datová SIM</string>
      <string name="msim_setting_default_voice">Výchozí SIM pro volání</string>
+	 <string name="terms_of_use_lable_apps_wifi_device">Mi služby, MiCloud, Vyhledávání zařízení, Plocha, Hry.</string>     
+     <string name="user_agreement_declare_wifi_device">Před používaním MIUI, musíte souhlasit s našimi Podmínkami používání a Ochranou soukromí.</string>
 </resources>  

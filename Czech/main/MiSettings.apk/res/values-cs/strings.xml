@@ -648,4 +648,8 @@
 	<string name="usage_state_focus_mode_experience_warning_message_pad">Režim soustředění umožňuje použít jen Fotoaparát. Nebude možné vypnout režim soustředění na stálo.</string>
     <string name="usage_state_focus_mode_warning_message_pad">Režim soustředění umožňuje použít jen Fotoaparát. Nebude možné vypnout režim soustředění na stálo.</string>
     <string name="usage_state_focus_weak_summary_pad">Odložte vaše zařízení</string>
+	<string name="all_ringtone_summary_pad">Vyberte zvonění</string>
+    <string name="steady_on_screen_notification_title_pad">Odložte váš telefon a oddychněte si</string>
+    <string name="usage_state_focus_mode_experience_warning_message_sim_pad">Režim soustředění umožňuje použít jen Fotoaparát a nouzové volání. Nebude možné vypnout režim soustředění na stálo.</string>
+    <string name="usage_state_focus_mode_warning_message_sim_pad">Režim soustředění umožňuje použít jen Fotoaparát a nouzové volání. Nebude možné vypnout režim soustředění na stálo.</string>
   </resources>
