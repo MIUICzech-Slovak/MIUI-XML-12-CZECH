@@ -2650,6 +2650,6 @@ Tato aplikace nemá oprávnění k nahrávání, ale může zaznamenávat zvuk p
     <string name="quick_settings_vowifi_label">Wi-Fi Volání</string>
     <string name="quick_settings_vowifi_sim1_label">Wi-Fi Volání SIM1</string>
     <string name="quick_settings_vowifi_sim2_label">Wi-Fi Volání SIM2</string>
-    <string name="shut_down_password_forget_password_suggesstion_one_content">Stlačte a podržte [Zapínání] a [Hlasitost +] tlačítka.</Data></string>
-    <string name="shut_down_password_forget_password_suggesstion_two_content">Vyberte [Vymazat] - [Potáhnout pro tovární nastavení] a potom stlačte [Restartovat Systém].</Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content">Stlačte a podržte [Zapínání] a [Hlasitost +] tlačítka.</string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content">Vyberte [Vymazat] - [Potáhnout pro tovární nastavení] a potom stlačte [Restartovat Systém].</string>
 </resources>
