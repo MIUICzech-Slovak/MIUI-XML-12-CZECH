@@ -59,4 +59,9 @@
          <item>Muž</item>
          <item>Žena</item>
      </string-array>
+	 <string-array name="settings_search_user_information">
+        <item>Informace o účtu</item>
+        <item>Zobrazte svou profilovou fotku a spravujte informace o účtu</item>
+        <item>Osobní údaje; profilová fotka; přezdívka; informace o účtu; Mi ID; ID; Mi účet; účet</item>
+    </string-array>
 </resources>

@@ -882,5 +882,6 @@ Všechny předchozí uživatelské údaje budou uloženy."</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
-    <string name="tomorrow">Zítra</string>  
+    <string name="tomorrow">Zítra</string>
+	<string name="miui_other_permission">Ostatní</string>
 </resources>
