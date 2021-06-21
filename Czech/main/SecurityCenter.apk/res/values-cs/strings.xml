@@ -4887,4 +4887,5 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="sp_system_security_title">Bezpečnost systému</string>
     <string name="sp_website_scan_summary">Bezpečné prohlížení internetu</string>
     <string name="sp_website_scan_title">Kontrola webstránek</string>
+	<string name="app_manager_default_cleared">Vymazáno</string>
 </resources>  
