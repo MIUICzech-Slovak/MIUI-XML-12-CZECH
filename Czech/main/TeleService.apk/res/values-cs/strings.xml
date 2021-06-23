@@ -1750,7 +1750,7 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (4G Preferované)</string>
   <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (5G/4G Preferované)</string>
   <string name="smart_dual_sim_prompt">Vaše zařízení se připojí k mobilním datům pomocí druhé SIM karty pokud je na této SIM slabý signál.</string>
-  <string name="smart_dual_sim_summary">Připojit k mobilním datům pomocí druhé SIM karty pokud je na této SIM slabý signál. Pokud se signál zlepší, mobilní data se přepnout napůvodní SIM kartu.</string>
+  <string name="smart_dual_sim_summary">Připojit k mobilním datům pomocí druhé SIM karty pokud je na této SIM slabý signál. Pokud se signál zlepší, mobilní data se přepnout na původní SIM kartu.</string>
   <string name="smart_dual_sim_title">Inteligentní dualní SIM</string>
   <string name="smart_dual_sim_prompt_ok">Nastavení</string>
   <string name="smart_dual_sim_prompt_title">Upozornění na spotřebu dat (SIM %s)</string>
