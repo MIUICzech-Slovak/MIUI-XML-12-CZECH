@@ -1870,4 +1870,10 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
+	<string name="unlock_chances_left">Zbývá:</string>
+    <string name="strPasswordLengthIncorrect">4-16 čísel!</string>
+    <string name="sim_me_lock_disabled">Zámek SIM je vypnutý.</string>
+    <string name="no_unlock_chance_hint">"Nemáte víc pokusů.
+Kontaktujte vašeho operátora"</string>
+    <string name="fiveg_carrier_aggregation_title">5G agregace</string>
 </resources>

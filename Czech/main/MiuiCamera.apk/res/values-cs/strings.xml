@@ -1795,10 +1795,6 @@ skenované dokumenty automaticky"</string>
 	 <string name="pref_camera_esp">náhled</string>
 	 <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
 	 <string name="super_moon">Super měsíc</string>
-
-  
-
-
   <string name="monday">Pondělí</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -1895,5 +1891,8 @@ skenované dokumenty automaticky"</string>
     <string name="prep_video_ai_audio_single_desc_tip_alone">Zvuky zpoza displeje jsou odfiltrovány v režimu na šířku</string>
 	<string name="today">Dnes</string>
   <string name="tomorrow">Zítra</string>
-
+  <string name="time_freeze_action_end_tip">Stlačte tlačítko pro odzmrazení pozadí</string>
+    <string name="time_freeze_action_start_tip">Stlačte tlačítko pro zmrazení pozadí</string>
+    <string name="time_freeze_adjust_button_title">Upravit</string>
+    <string name="time_freeze_clipbox_tint">Zmrazit</string>
 </resources>  

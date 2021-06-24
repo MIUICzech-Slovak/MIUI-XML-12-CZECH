@@ -84,4 +84,5 @@ Stlačte %2$s pro spuštění stahování po připojení na Wi-Fi."</string>
   <string name="wifi_required_body">"Připojte se k Wi-Fi pro dokončení tohoto %1$s stahování. 
 Stlačte %2$s pre spustenie sťahovania po pripojení na Wi-Fi."</string>
   <string name="wifi_required_title">Stahovaný soubor je pro síť operátora příliš velký</string>
+  <string name="download_no_application">Žádná aplikace nepodporuje tento formát souboru</string>
 </resources>

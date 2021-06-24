@@ -883,5 +883,8 @@ Všechny předchozí uživatelské údaje budou uloženy."</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
+	<string name="anonymous_source_warning_tablet">Vaše zařízení a osobní údaje jsou zranitelnější vůči útokům neznámých aplikací. Instalací této aplikace vyjadřujete souhlas s tím, že nesete zodpovědnost za jakékoliv poškození vašeho zařízení nebo ztrátu údajů, které může vzniknout v důsledku jejího používání.</string>
+    <string name="install_failed_incompatible_tablet">Tato aplikace není kompatibilní s vaším zařízením.</string>
+    <string name="install_failed_msg_tablet">%1$s nemůže být nainstalována do tohoto zařízení.</string>
 	<string name="miui_other_permission">Ostatní</string>
 </resources>

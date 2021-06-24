@@ -329,4 +329,11 @@ Před použitím aplikace si přečtěte a souhlaste s našimi &lt;a href=%1$s>S
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
   <string name="tomorrow">Zítra</string>
+  <string name="audio_record_des">Pro přenášení zvuku z vašeho zařízení do externího monitoru</string>
+    <string name="dialog_location_permission_message">Tato aplikace potřebuje přístup k poloze. Vyberte \"Vždy povoliť\" pro zamezení případným problémům.</string>
+    <string name="dialog_location_permission_title">Vyžadují se povolení</string>
+    <string name="file_read_des">Pro zobrazení fotografií na externím monitoru</string>
+    <string name="mipaly_server_exit_touping">Nejprve ukončete vysílání</string>
+    <string name="notify">Vysílání pracuje na pozadí</string>
+    <string name="p2p_location_des">Pro připojení vašeho zařízení k externímu monitoru</string>
 </resources>  

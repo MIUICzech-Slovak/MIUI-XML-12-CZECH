@@ -4888,4 +4888,12 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="sp_website_scan_summary">Bezpečné prohlížení internetu</string>
     <string name="sp_website_scan_title">Kontrola webstránek</string>
 	<string name="app_manager_default_cleared">Vymazáno</string>
+	<string name="app_settings_link">Další nastavení v aplikaci</string>
+    <string name="confirm_open_shut_down_password_content">Nastavte zámek obrazovky před povolením potvrzení vypnutí zařízení.</string>
+    <string name="confirm_open_shut_down_password_title">Nastavte zámek obrazovky</string>
+    <string name="scan_open_shut_down_password_content">Chraňte vaše zařízení před neoprávněným přístupem</string>
+    <string name="scan_open_shut_down_password_title">Potvrzení vypnutí</string>
+    <string name="shut_down_password_content">Pokud ztratíte vaše zařízení, potvrzení vypnutí ochrání zařízení před jeho vypnutím.</string>
+    <string name="verify_shut_down_password_content">Vyžadovat potvrzení vypnutí zařízení pokud je uzamknuté</string>
+    <string name="verify_shut_down_password_title">Potvrzení vypnutí</string>
 </resources>  

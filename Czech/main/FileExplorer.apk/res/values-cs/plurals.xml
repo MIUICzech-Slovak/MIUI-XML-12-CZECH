@@ -217,4 +217,12 @@
         <item quantity="few">Položek: %d</item>
         <item quantity="many">Položek: %d</item>
     </plurals>
+	<plurals name="search_head_hint_all">
+        <item quantity="other">Nalezených (%1$d)</item>
+        <item quantity="zero">Nalezených (%1$d)</item>
+        <item quantity="one">Nalezených (%1$d)</item>
+        <item quantity="two">Nalezených (%1$d)</item>
+        <item quantity="few">Nalezených (%1$d)</item>
+        <item quantity="many">Nalezených (%1$d)</item>
+    </plurals>
 </resources>

@@ -182,4 +182,6 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
   <string name="tomorrow">Zítra</string>
+  <string name="find_device_capture_notification_content">Jiné autorizované zařízení zhotovuje fotografii přes Vyhledávání zařízení na i.mi.com.</string>
+    <string name="find_device_capture_notification_title">Vyhledávání zařízení zhotovuje fotografii...</string> 
 </resources>  

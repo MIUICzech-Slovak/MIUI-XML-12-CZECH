@@ -564,7 +564,7 @@ and never miss the cool new ones!"</string>
   <string name="search_activity_hint">Zadejte slovo</string>
   <string name="search_app">Apl. a složky</string>
   <string name="search_app_more">Více</string>
-  <string name="search_category">Typ</string>
+  <string name="search_category">Hledat podle kategorie</string>
   <string name="search_description">Vyhledat všechny soubory v zařízení</string>
   <string name="search_empty_view_hint">Nic nebylo nalezeno</string>
   <string name="search_error_hint">Zadejte slovo pro vyhledání</string>
@@ -906,4 +906,28 @@ Bylo přičteno dalších %1$s"</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
   <string name="tomorrow">Zítra</string>
+  <string name="added_category">Přidáno</string>
+    <string name="available_size">Dostupné: %s</string>
+    <string name="by_date">Data úpravy</string>
+    <string name="by_name">Názvu</string>
+    <string name="by_size">Velikosti</string>
+    <string name="by_type">Typu</string>
+    <string name="category_editor_mode">Upravit</string>
+    <string name="category_exit_editor_mode">Ukončit</string>
+    <string name="category_more">Více</string>
+    <string name="display_setting">Zobrazené položky</string>
+    <string name="edit_quick_category">Upravit</string>
+    <string name="entry_phone_storage_internal">Interní úložiště</string>
+    <string name="entry_storage_cloned_app">Klonované apl.</string>
+    <string name="entry_storage_usb">USB zařízení</string>
+    <string name="least_quick_category_hint">Přidejte alespoň %d zkratku</string>
+    <string name="most_quick_category_hint">Můžete přidat maximálne %d zkratek</string>
+    <string name="not_added_category">Dostupné</string>
+    <string name="recent_hide_camera_and_screenshots">Nezobrazovat fotografie a screenshoty v nedávných souborech</string>
+    <string name="remainder_size">Zůstává: %s</string>
+    <string name="search_category_folder">Složky</string>
+    <string name="search_more_category">Více</string>
+    <string name="size_lv1">Menší než %d KB</string>
+    <string name="size_lv6">Větší než %d GB</string>
+    <string name="total_size">Celkem: %s</string>
 </resources>  

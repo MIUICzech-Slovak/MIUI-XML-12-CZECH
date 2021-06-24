@@ -504,4 +504,5 @@ Chcete-li pokračovat, vyberte možnost Vymazat a převést…"</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
+	<string name="message_no_voice_capability">Na tomto zařízení není možné volat</string>
 </resources>
