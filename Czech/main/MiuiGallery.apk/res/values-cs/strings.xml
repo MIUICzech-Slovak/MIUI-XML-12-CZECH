@@ -804,7 +804,7 @@
   <string name="ignore_face">Ignorovat tuto osobu</string>
   <string name="ignore_faces_title">Ignorováno</string>
   <string name="image_decode_failed">Nelze dekódovat obrázek</string>
-  <string name="image_download_item_title">Stahování obrázku (%s)</string>
+  <string name="image_download_item_title">Stáhnout originál (%s)</string>
   <string name="image_invalid_path">Nesprávná cesta</string>
   <string name="image_not_found">Obrázel nelze najít</string>
   <string name="image_quota_fulfiled">"Nelze vytvořit obrázek, Počet obrázků přesáhnul limit."</string>

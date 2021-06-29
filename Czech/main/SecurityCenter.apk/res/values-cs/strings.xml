@@ -4896,4 +4896,7 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="shut_down_password_content">Pokud ztratíte vaše zařízení, potvrzení vypnutí ochrání zařízení před jeho vypnutím.</string>
     <string name="verify_shut_down_password_content">Vyžadovat potvrzení vypnutí zařízení pokud je uzamknuté</string>
     <string name="verify_shut_down_password_title">Potvrzení vypnutí</string>
+	<string name="privacy_dialog_content_part1">Vítejte v Optimalizace! Tato aplikace hlídá vaše zařízení, zda neobsahuje odpad a viry, a také vám umožňuje spravovat aplikace, řídit využití mobilních dat, blokovat hovory a zprávy atd.</string>
+     <string name="privacy_dialog_content_part2"><Data>Optimalizace musí shromažďovat nezbytné osobní údaje, aby vám mohla poskytovat své služby a vylepšovat své funkce. Jak nakládáme s informacemi, které shromažďujeme se dozvíte v &lt;a href=\"%1$s\">Ochraně soukromí&lt;/a>. Svůj souhlas s podmínkami použití a ochranou soukromí můžete kdykoli odvolat v Nastavení.</Data></string>
+     <string name="privacy_dialog_content_part3"><Data>"Přečtěte si a souhlaste s našimi &lt;a href=\"%2$s\">Podmínky použití&lt;/a> a &lt;a href=\"%1$s\">Ochranou soukromí&lt;/a> před používáním Optimalizace. Pokud nesouhlasíte s používáním výše uvedených služeb, nebudete moci používat některé funkce této aplikace, její základní funkce vám však budou i nadále k dispozici."</Data></string>
 </resources>  
