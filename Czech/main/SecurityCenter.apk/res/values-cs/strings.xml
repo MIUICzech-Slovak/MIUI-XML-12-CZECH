@@ -4897,6 +4897,15 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="verify_shut_down_password_content">Vyžadovat potvrzení vypnutí zařízení pokud je uzamknuté</string>
     <string name="verify_shut_down_password_title">Potvrzení vypnutí</string>
 	<string name="privacy_dialog_content_part1">Vítejte v Optimalizace! Tato aplikace hlídá vaše zařízení, zda neobsahuje odpad a viry, a také vám umožňuje spravovat aplikace, řídit využití mobilních dat, blokovat hovory a zprávy atd.</string>
-     <string name="privacy_dialog_content_part2"><Data>Optimalizace musí shromažďovat nezbytné osobní údaje, aby vám mohla poskytovat své služby a vylepšovat své funkce. Jak nakládáme s informacemi, které shromažďujeme se dozvíte v &lt;a href=\"%1$s\">Ochraně soukromí&lt;/a>. Svůj souhlas s podmínkami použití a ochranou soukromí můžete kdykoli odvolat v Nastavení.</Data></string>
+     <string name="privacy_dialog_content_part2"><Data>Optimalizace musí shromažďovat nezbytné osobní údaje, aby vám mohla poskytovat své služby a vylepšovat své funkce. Jak nakládáme s informacemi, které shromažďujeme se dozvíte v &lt;a href=\"%1$s\">Ochraně soukromí&lt;/a>. Svůj souhlas s ochranou soukromí pro Optimalizace můžete kdykoli odvolat v Nastavení.</Data></string>
      <string name="privacy_dialog_content_part3"><Data>"Přečtěte si a souhlaste s našimi &lt;a href=\"%2$s\">Podmínky použití&lt;/a> a &lt;a href=\"%1$s\">Ochranou soukromí&lt;/a> před používáním Optimalizace. Pokud nesouhlasíte s používáním výše uvedených služeb, nebudete moci používat některé funkce této aplikace, její základní funkce vám však budou i nadále k dispozici."</Data></string>
+	 <string name="privacy_dialog_message">"Když se připojíte k internetu, bude tato zpráva spolu s informacemi o operátorovi zašifrována a nahrána na Xiaomi servery, což nám pomůže zlepšit monitorování využití dat."</string>
+     <string name="privacy_dialog_revoking">Odvolávání souhlasu…</string>
+     <string name="privacy_dialog_title">Pravidla a podmínky</string>
+     <string name="privacy_revoke_dialog_content">Přepnutím přepínače odvoláte svůj souhlas s ochranou soukromí v Optimalizace. Přestaneme shromažďovat vaše osobní údaje. Osobní údaje, které již byly shromážděny a uchovány, budou v konkrétní lhůtě vymazány, jak to vyžadují příslušné zákony. Optimalizace musí shromažďovat nezbytné osobní údaje, aby vám mohla poskytovat základní služby. Vaše odvolání souhlasu s ochranou soukromí bude považováno za nepřijetí shromáždování osobních údajů.</string>
+     <string name="privacy_revoke_dialog_negetive_text">Zrušit</string>
+     <string name="privacy_revoke_dialog_positive_text">Odvolat</string>
+     <string name="privacy_revoke_dialog_title">Odvolání souhlasu</string>
+	 <string name="exit_dialog_exit">Odejít</string>
+     <string name="exit_dialog_garbage_clean_message_new"><Data>Čistič může uvolnit &lt;font color=#0099ff>%s&lt;/font> z úložiště. Vyčistit?</Data></string>
 </resources>  
