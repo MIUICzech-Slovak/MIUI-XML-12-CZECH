@@ -4908,4 +4908,13 @@ Zkuste zvětšit rozlišení!"</string>
      <string name="privacy_revoke_dialog_title">Odvolání souhlasu</string>
 	 <string name="exit_dialog_exit">Odejít</string>
      <string name="exit_dialog_garbage_clean_message_new"><Data>Čistič může uvolnit &lt;font color=#0099ff>%s&lt;/font> z úložiště. Vyčistit?</Data></string>
+	 <string name="app_behavior_desc_allowed_at">Povoleno v %s</string>
+    <string name="app_behavior_desc_allowed_on_background_at">Povoleno na pozadí v %s</string>
+    <string name="app_behavior_desc_denied_at">Zakázáno v %s</string>
+    <string name="app_behavior_desc_denied_on_background_at">Zakázáno na pozadí v %s</string>
+    <string name="first_aid_exception_sub_title">Tyto položky budou během kontroly ignorovány</string>
+    <string name="gtb_brightness_dialog_right_btn">Ponechat</string>
+    <string name="gtb_brightness_dialog_sub_message">*Tuto funkci můžete vypnout v nastaveních.</string>
+    <string name="gtb_setting_item_title_brightness">Automaticky snížit jas displeje</string>
+    <string name="pc_hidemode_normal_title">Vyvážené</string>
 </resources>  

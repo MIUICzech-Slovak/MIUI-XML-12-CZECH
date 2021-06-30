@@ -887,4 +887,7 @@ Všechny předchozí uživatelské údaje budou uloženy."</string>
     <string name="install_failed_incompatible_tablet">Tato aplikace není kompatibilní s vaším zařízením.</string>
     <string name="install_failed_msg_tablet">%1$s nemůže být nainstalována do tohoto zařízení.</string>
 	<string name="miui_other_permission">Ostatní</string>
+	<string name="install_confirm_question_des_10_tablet">"Pokud jste ochotni podstoupit rizika a chcete v instalaci pokračovat, autorizujte instalaci v části Optimalizace > Spravovat aplikace > Povolení > Aplikace s možnými riziky. Pokud nemůžete najít \"Aplikace s možnými riziky\", aktualizujte aplikaci Optimalizace a zkuste to znovu."</string>
+    <string name="settings_warning_dialog_msg_tablet">"Vaše zařízení je náchylné k bezpečnostním rizikům. Pokud tuto funkci vypnete, nebudete vyzváni k instalaci zabezpečených verzí aplikací. Přesto vypnout?"</string>
+    <string name="untrusted_external_source_warning_summary_tablet">"Vaše zařízení a osobní data jsou zranitelná vůči útokům aplikací nainstalovaných z neznámých zdrojů. Povolením instalace aplikací z tohoto zdroje souhlasíte s přijetím odpovědnosti za jakékoli poškození nebo ztrátu dat, ke kterým může dojít při používání těchto aplikací."</string>	
 </resources>

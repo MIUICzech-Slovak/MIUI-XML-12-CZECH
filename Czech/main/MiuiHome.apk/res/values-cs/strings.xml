@@ -676,6 +676,7 @@
   <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
 	<string name="recents_smallwindow_drag_text">Potáhněte sem pro připnutí</string>
+	<string name="launcher_search">Vyhledávání</string>	
 </resources>
 
 

@@ -7346,5 +7346,12 @@ Zkopírujte zálohu z jednotky USB do složky MIUI-backup-AllBackup úložiště
 Xiaomi Cloud
 Otevřte Xiaomi Cloud a odtud obnovujte položky."</string>
     <string name="password_unlock">Zámek obrazovky</string>
+	<string name="customize_knock_gesture">Vlastní gesta</string>
+    <string name="gxzw_anim_unlock_effect">%s animace otisku prstu</string>
+    <string name="kddi_nfc_secure_settings_title">Zamknout pokud je na zamykací obrazovce</string>
+    <string name="magic_list_empty_text">Žádné aplikace nejsou kompatibilní s touto funkcí</string>
+    <string name="reset_network_title_noSim">Obnovit Wi-Fi a Bluetooth</string>
+    <string name="voip_assistant_settings_off">Vyp</string>
+    <string name="voip_assistant_settings_on">Zap</string>
 </resources>
 

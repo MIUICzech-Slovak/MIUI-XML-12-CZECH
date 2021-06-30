@@ -316,4 +316,6 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="send">Odeslat</string>
   <string name="delete_recorder">Vymazat</string>
     <string name="play_speed">%1$.1fX rychlost</string>
+	<string name="low_battery_error_for_pad">Zůstává méně než %s baterie. Uložte svoje nahrávky aby jste o ně nepřišli.</string>
+    <string name="notification_recording_ticker_for_pad">Vaše zařízení nahrává zvuk v Tichém režimu. Použíjte tlačítka hlasitosti pro vypnutí Tichého režimu.</string>	
 </resources>  

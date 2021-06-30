@@ -302,5 +302,11 @@
     <string name="dock_tip_splitscreen_portrait_float">Podržte a potáhněte doleva nebo doprava pro přepnutí plovoucích oken.</string>    
     <string name="battery_authentic_failed_button">Rozumím</string>
     <string name="battery_authentic_failed_title">Upozornění</string>
-    <string name="other_ime">Ostatní klávesnice</string>	
+    <string name="other_ime">Ostatní klávesnice</string>
+	<string name="screen_on_proximity_sensor_hint_has_navigation_bar_for_kddi">Pro deaktivování této funkce, stlačte tlačítko zvýšení hlasitosti.</string>
+    <string name="screen_on_proximity_sensor_summary_for_kddi">Nezakrývejte senzor okolního osvětlení</string>
+    <string name="small_freeform_enter_warning">Plovoucí okno</string>
+    <string name="small_freeform_exit_tip">Zavřít plovoucí okno</string>
+    <string name="small_freeform_memory_toast_app_type">Nebylo možné otevřít. Tato aplikace vyžaduje hodně volné RAM.</string>
+    <string name="small_freeform_memory_toast_game_type">Nebylo možné otevřít. Tato hra vyžaduje hodně volné RAM.</string>
 </resources>

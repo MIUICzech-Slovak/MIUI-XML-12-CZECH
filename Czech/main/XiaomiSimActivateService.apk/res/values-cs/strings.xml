@@ -262,4 +262,15 @@ ID zařízení musí být platné IMEI nebo MAC adresa. Bez platného ID nebudou
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
   <string name="tomorrow">Zítra</string>
+  <string name="activate_popup_desc_failed_query_info_msg_one_sim">Nebylo možné zkontrolovat telefonní číslo. Zkontrolujte SIM kartu.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. Pro aktivaci \"%2$s\", zadejte telefonní číslo. Když změníte SIM kartu, bude znova odeslána aktivační SMS.</string>
+    <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">Pro aktivaci %s, zadejte vaše telefonní číslo.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s. Pro aktivaci \"%2$s\", zadejte vaše telefonní číslo.</string>
+    <string name="activate_popup_failed_send_sms_desc_one_sim">Nebylo možné odeslat aktivační SMS. Zkontrolujte SIM kartu.</string>
+    <string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">Nebylo možné zkontrolovat telefonní číslo. Zkontrolujte SIM kartu.</string>
+    <string name="activate_status_desc_request_activation_sms_server_error_tip_one_sim">Nebylo možné příjmout aktivační SMS. Zkontrolujte SIM kartu.</string>
+    <string name="error_no_get_send_sms_permission_one_sim">Nejprve povolte odesílání SMS.</string>
+    <string name="error_sim_not_in_service_tip_one_sim">Nebylo možné připojit se k síti. Zkontrolujte SIM kartu.</string>
+    <string name="sim_activate_failed">Nebylo možné aktivovat služby</string>
+    <string name="sim_activate_prepare">Aktivovat služby</string>	
 </resources>  

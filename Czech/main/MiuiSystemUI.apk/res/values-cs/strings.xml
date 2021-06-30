@@ -2651,4 +2651,15 @@ Tato aplikace nemá oprávnění k nahrávání, ale může zaznamenávat zvuk p
     <string name="shut_down_password_forget_password_suggesstion_two_content">Vyberte [Vymazat] - [Potáhnout pro tovární nastavení] a potom stlačte [Restartovat Systém].</string>
 	<string name="pad_zen_mode_warnings_all_time_content">Upozornění budou stišené</string>
     <string name="pad_zen_mode_warnings_keyguard_content">Upozornění budou stišené když je zařízení uzamknuté</string>
+	<string name="device_locked_without_biometric_face">Biometrickou detekci nelze provést z důvodu použití zámku obrazovky jedním tlačítkem aplikace třetí strany</string>
+    <string name="device_locked_without_biometric_finger">Biometrickou detekci nelze provést z důvodu použití zámku obrazovky jedním tlačítkem aplikace třetí strany</string>
+    <string name="fingerprint_again_identified_msg_password">Byla obnovena funkce otisku prstu. K odemčení lze použít otisk prstu nebo heslo</string>
+    <string name="fingerprint_again_identified_msg_pattern">Byla obnovena funkce otisku prstu. K odemčení lze použít otisk prstu nebo vzor</string>
+    <string name="fingerprint_again_identified_msg_pin">Byla obnovena funkce otisku prstu. K odemčení lze použít otisk prstu nebo PIN</string>
+    <string name="fingerprint_not_identified_msg_password">Ověření otiskem prstu se nezdařilo. Zkuste to znovu později nebo odemkněte pomocí hesla</string>
+    <string name="fingerprint_not_identified_msg_pattern">Ověření otiskem prstu se nezdařilo. Zkuste to znovu později nebo odemkněte pomocí vzoru</string>
+    <string name="fingerprint_not_identified_msg_pin">Ověření otiskem prstu se nezdařilo. Zkuste to znovu později nebo odemkněte pomocí PINu</string>
+    <string name="fs_gesture_final_see_more">Více ukázek zobrazíte v Nastavení > Domácí obrazovka > Ovládání</string>
+    <string name="input_pattern_after_boot_msg">Po restartu zařízení je nutné nakreslit vzor</string>
+    <string name="input_pin_after_boot_msg">Po restartu zařízení je nutné zadat PIN</string>
 </resources>
