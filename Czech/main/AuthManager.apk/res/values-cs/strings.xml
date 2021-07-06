@@ -531,4 +531,8 @@
   <string name="HIPS_Perm_tencentControl_Desc">Povolit této aplikaci přístup ke zprávam v sociálních sítích</string>
   <string name="today">Dnes</string>
   <string name="tomorrow">Zítra</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner">Přístup k telefonnímu číslu pro přihlášení</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Zjistit telefonní číslo od operátora pro přihlášení</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Pokud jste se nemohli přihlásit jedním dotykem, jděte zpět a zkuste to znova.</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Message">Tato aplikace chce získat vaše telefonní číslo od operátora pro přihlášení. Povolit?</string>
 </resources>  

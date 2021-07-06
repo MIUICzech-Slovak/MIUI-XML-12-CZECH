@@ -2662,4 +2662,5 @@ Tato aplikace nemá oprávnění k nahrávání, ale může zaznamenávat zvuk p
     <string name="fs_gesture_final_see_more">Více ukázek zobrazíte v Nastavení > Domácí obrazovka > Ovládání</string>
     <string name="input_pattern_after_boot_msg">Po restartu zařízení je nutné nakreslit vzor</string>
     <string name="input_pin_after_boot_msg">Po restartu zařízení je nutné zadat PIN</string>
+	<string name="keyguard_invalid_sim_puk_hint">PUK kód musí obsahovat %1$d znaků.</string>
 </resources>

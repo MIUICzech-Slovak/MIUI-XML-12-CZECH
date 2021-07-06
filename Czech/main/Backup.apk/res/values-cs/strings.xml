@@ -834,4 +834,10 @@ Velikost aktualizace delta: %2$s"</string>
   <string name="not_enough_storage_tips">Není dostatek volného místa na úložišti.</string>
   <string name="apps_item_desc">Apl.</string>
     <string name="new_pc_restore_content1_pad">%d. Připojte vaše zařízení k PC pomocí USB kabelu.</string>
+	<string name="disable_local_backup">Vypnout lokální zálohy</string>
+    <string name="disable_local_backup_and_restore">Vypnout lokální zálohy</string>
+    <string name="disable_local_backup_tips">Když vypnete tuto funkci, všechny zálohy budou smazány. Chcete ji vypnout?</string>
+    <string name="enable_local_backup">Zapnout lokální zálohy</string>
+    <string name="enable_local_backup_and_restore">Zapnout lokální zálohy</string>
+    <string name="enable_local_backup_tips">Povolte tuto funkci pro možnost uložení zálohy do tohoto zařízení. Povolit nyní?</string> 
 </resources>
