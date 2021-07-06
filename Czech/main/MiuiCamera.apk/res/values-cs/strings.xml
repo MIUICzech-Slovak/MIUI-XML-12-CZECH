@@ -1895,4 +1895,8 @@ skenované dokumenty automaticky"</string>
     <string name="time_freeze_action_start_tip">Stlačte tlačítko pro zmrazení pozadí</string>
     <string name="time_freeze_adjust_button_title">Upravit</string>
     <string name="time_freeze_clipbox_tint">Zmrazit</string>
+	<string name="invisible_mode_dialog_cancel">Zrušit</string>
+    <string name="invisible_mode_dialog_summary">Momentálně není možné použít fotoaparát. Vypněte inkognito režim v nastaveních.</string>
+    <string name="invisible_mode_dialog_title">Jste inkognito</string>
+    <string name="invisible_mode_dialog_to_close">Nastavení</string>
 </resources>  

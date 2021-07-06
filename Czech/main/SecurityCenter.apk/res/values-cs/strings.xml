@@ -3850,7 +3850,7 @@ Zbývající data zahrnují i data, která byla převedena z předchozího měs�
      <string name="privacy_search_key_5">Speciální povolení</string>
      <string name="privacy_search_key_6">Upozornění na povolení</string>
      <string name="privacy_search_key_7">Poloha</string>
-     <string name="privacy_search_key_8">Soukromí</string>
+     <string name="privacy_search_key_8">Nesledovat</string>
      <string name="privacy_search_key_9">Virtuální ID</string>
      <string name="privacy_show_password">Zobrazit heslo</string>
      <string name="privacy_show_password_summary">Ponechat hesla viditelná na krátky čas</string>
@@ -4917,4 +4917,22 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="gtb_brightness_dialog_sub_message">*Tuto funkci můžete vypnout v nastaveních.</string>
     <string name="gtb_setting_item_title_brightness">Automaticky snížit jas displeje</string>
     <string name="pc_hidemode_normal_title">Vyvážené</string>
+	<string name="applock_numeric_pwd_type_line">Celkový počet znaků v hesle: %1$d. Zadané znaky: %2$d.</string>
+    <string name="pc_performance_mode_dialog_summary2">Zlepší se výkon zařízení. To by mohlo zvýšit spotřebu energie a vést k problémům s přehříváním. Přesto zapnout?</string>
+    <string name="pc_performance_mode_noti_summary">Režim výkonu může zvýšit spotřebu energie a vést k problémům s přehříváním</string>
+    <string name="pc_performance_mode_noti_title">Vylepšený výkon zařízení</string>
+    <string name="pp_anti_track_summary">Nepovolte sledování své aktivity</string>
+    <string name="pp_antitrack_detail">Aplikace můžu sledovat vaší aktivitu prostřednictvím osobních identifikátorů, informací o poloze a dalších typů osobních informací sdílených s nimi. Sledování vaší aktivity v různých aplikacích a webech jim umožňuje přizpůsobovat reklamy a doporučovat vám relevantní obsah.</string>
+    <string name="pp_block_mac">Omezit přístup k MAC adrese</string>
+    <string name="pp_block_mac_summary">Přístup k vaší MAC adrese je omezený pro všechny aplikace.</string>
+    <string name="pp_identifier_protection">Chránit osobní identifikátory</string>
+    <string name="pp_manage_track">Monitorovat sledovače</string>
+    <string name="pp_manage_track_summary">Zjistit a zakázat různé typy sledovacích nástrojů zabudovaných do aplikací. Takovéto sledovače mohou sdílet vaše osobní identifikátory tím, že přistupují k položkám a ukládají je do interního úložiště, nebo na sledování vaší činnosti používají sdílené SDK.</string>
+    <string name="pp_operator_get_number">Vyžadovat povolení pro přístup k telefonnímu číslu</string>
+    <string name="pp_operator_get_number_summary">Aplikace vás požádají o povolení, když chtějí získat přístup k vašemu telefonnímu číslu pro přihlášení.</string>
+    <string name="pp_privacy_lab_operator_get_number">Vyžadovat schválení pro přístup k telefonnímu číslu</string>
+    <string name="pp_privacy_lab_operator_get_number_summary">Vyžadujte, aby aplikace požádali o povolení, když chtějí získat přístup k vašemu telefonnímu číslu pro přihlášení</string>
+    <string name="pp_privacy_lab_operator_introduction">Upozornění</string>
+    <string name="pp_privacy_lab_operator_introduction_summary">Aplikace mohou ukládat vaše telefonní číslo, pokud už bylo získáno. Změnou tohoto povolení se neodstraní dříve získaná telefonní čísla.</string>
+    <string name="pp_virtual_identity_summary">Namísto skutečného identifikátoru je možné aplikacím poskytnout virtuální identifikátor (OAID). Chrání vaše soukromí a umožňuje vám ovládat, jak aplikace sledují vaše chování.</string>
 </resources>  

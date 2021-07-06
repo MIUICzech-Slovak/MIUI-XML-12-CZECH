@@ -76,4 +76,20 @@
         <item quantity="other">%d povolení</item>
         <item quantity="one">%d povolení</item>
      </plurals>
+	 <plurals name="app_info_permission_count">
+        <item quantity="other">Povolení: %1$s</item>
+        <item quantity="one">Povolení: %1$s</item>
+    </plurals>
+    <plurals name="app_info_private_permission_count">
+        <item quantity="other">Citlivá povolení: %1$s</item>
+        <item quantity="one">Citlivé povolení: %1$s</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">Hodnocení: %1$s</item>
+        <item quantity="one">Hodnocení: %1$s</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Upozornění: %d</item>
+        <item quantity="one">Upozornění: %d</item>
+    </plurals>
 </resources>

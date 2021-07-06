@@ -588,4 +588,9 @@ http://www.miuios.cz/rom
 	 <string name="data_empty_folder">Žádné další složky</string>
     <string name="handwrite_description">Ručně napsaná poznámka</string>
     <string name="menu_add_handwrite_description">Přidat ručně napsanout poznámku</string>
+	<string name="hybrid_provider">Poskytováno %1$s</string>
+    <string name="no_network">Není možné připojit se k síti</string>
+    <string name="web_sso_login_fail">Musíte se znova přihlásit</string>
+    <string name="web_sso_login_message">Přihlašování...</string>
+    <string name="webview_reload">Zkuste to znova</string>	
 </resources>
