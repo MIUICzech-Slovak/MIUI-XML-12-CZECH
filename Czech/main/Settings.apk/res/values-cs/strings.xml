@@ -7364,5 +7364,7 @@ Otevřte Xiaomi Cloud a odtud obnovujte položky."</string>
     <string name="local_backup_usestatus_title">Lokální zálohy jsou vypnuté</string>
     <string name="login_account_summary_temp">Spravovat účty, cloudové služby, a více</string>
     <string name="micloud_service_summary_temp">Synchr. fotografie, videa, kontakty, a více</string>
+	<string name="softbank_apn_lock_toast">APN je uzamknuté. Není možné ho upravovat.</string>
+    <string name="sos_privacy_policy">Ochrana soukromí</string>
 </resources>
 

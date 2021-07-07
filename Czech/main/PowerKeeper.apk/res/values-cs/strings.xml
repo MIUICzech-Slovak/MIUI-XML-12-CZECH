@@ -280,5 +280,7 @@
     <string name="stricter_high_temp_state_message">Vaše zařízení se přehřívá. Můžete používat jen aplikaci Telefon a Kontakty.</string>
 	<string name="softbank_high_temp_toast_time_10min">Vypněte svítilnu pro zamezení přehřívání</string>
     <string name="softbank_high_temp_toast_time_4min">Svítilna vypnuta pro zamezení přehřívání</string>
-	<string name="sleep_config_enhance_description_pad">Když MIUI zjistí, že jste usnuli, aplikacie v pozadí budou ukončeny, Bluetooth a Wi-Fi budou obezeny, a displej se při upozornění nerozsvítí.</string>
+	<string name="sleep_config_enhance_description_pad">Když MIUI zjistí, že jste usnuli, aplikacie na pozadí budou ukončeny, Bluetooth a Wi-Fi budou obezeny, a displej se při upozornění nerozsvítí.</string>
+	<string name="high_temp_benchmark_state">Přehřívání</string>
+    <string name="high_temp_benchmark_state_message">Vaše zařízení se přehřívá. Zkuste až zařízení vychladne:</string> 
 </resources>

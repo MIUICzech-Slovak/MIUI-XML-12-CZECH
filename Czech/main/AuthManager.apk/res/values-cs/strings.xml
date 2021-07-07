@@ -535,4 +535,5 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Zjistit telefonní číslo od operátora pro přihlášení</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Pokud jste se nemohli přihlásit jedním dotykem, jděte zpět a zkuste to znova.</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Tato aplikace chce získat vaše telefonní číslo od operátora pro přihlášení. Povolit?</string>
+	<string name="pp_privacy_lab_operator_introduction">Upozornění</string>
 </resources>  
