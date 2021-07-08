@@ -1362,7 +1362,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Vymazat uložený otisk?</string>
   <string name="delete_rule">Odstranit pravidla</string>
   <string name="delete_saved_network">Vymazat uloženou síť</string>
-  <string name="delete_sound_effect">Zvuk vymazání</string>
+  <string name="delete_sound_effect">Přehrát zvuk při vymazání souboru</string>
   <string name="deleted_apps">Vymazané aplikace</string>
   <string name="deny">Odmítnout</string>
   <string name="deny_sms_message">Zakázat odesílání SMS zpráv</string>
@@ -2040,7 +2040,7 @@ Když zapnete automatické zálohování, data zařízení a aplikací se budou 
   <string name="haptic_feedback_level">Síla vibrací</string>
   <string name="hardkeyboard_category">Nastavení fyzické klávesnice</string>
   <string name="hardware_version">Verze HW</string>
-  <string name="has_screenshot_sound">Zvuk Screenshotu</string>
+  <string name="has_screenshot_sound">Přehrát zvuk při zhotovení screenshotu</string>
   <string name="hdcp_checking_dialog_title">Nastavit chování kontroly HDCP</string>
   <string name="hdcp_checking_title">Kontrola HDCP</string>
   <string name="hdmi_3d_display_enable_summary">Povolit pro podporu 3D her</string>
@@ -6936,7 +6936,7 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="sound_settings_tab_haptic">Dotyk</string>
     <string name="sound_settings_tab_sound">Zvuk</string>
     <string name="special_preview">Ukázky</string>
-    <string name="switch_bootup_sound">Zvuk při startu</string>
+    <string name="switch_bootup_sound">Přehrát zvuk při zapínání zařízení</string>
     <string name="system_touch">Haptická odezva</string>
     <string name="title_font_settings">Nastavení písma</string>
     <string name="toast_apply_font_fail">Není možné nastavit písmo</string>
@@ -7278,7 +7278,7 @@ Mezi funkcemi můžete přepínat přejetím třemi prsty nahoru a podržením."
     <string name="enable_sizecompat_freeform">Povolit přizpůsobení při neměnné velikosti</string>
     <string name="enable_sizecompat_freeform_summary">Povolí přizpůsobení aplikací s neměnnou velikostí</string>
     <string name="screen_timeout_subtitle">Zobrazení statického obsahu po delší dobu může způsobit, že barvy budou nerovnoměrné</string>	
-    <string name="switch_power_sound">Zvuk nabíjení</string>	
+    <string name="switch_power_sound">Přehrát zvuk při připojení nabíječky</string>	
     <string name="storage_category">Úložiště</string>
 	<string name="oaid_apps_summary">Povolit nebo zakázat přístup pro jednotlivé aplikace</string>
     <string name="oaid_apps_title">Spravovat virtuální ID</string>
@@ -7366,5 +7366,8 @@ Otevřte Xiaomi Cloud a odtud obnovujte položky."</string>
     <string name="micloud_service_summary_temp">Synchr. fotografie, videa, kontakty, a více</string>
 	<string name="softbank_apn_lock_toast">APN je uzamknuté. Není možné ho upravovat.</string>
     <string name="sos_privacy_policy">Ochrana soukromí</string>
+    <string name="app_uninstall_sounds_enable_title">Přehrát zvuk při odinstalování aplikací</string>
+    <string name="lock_sound_effect_enable_title">Přehrát zvuk při uzamknutí zařízení</string>
+    <string name="unlock_sound_effect_enable_title">Přehrát zvuk při odemknutí zařízení</string>
 </resources>
 
