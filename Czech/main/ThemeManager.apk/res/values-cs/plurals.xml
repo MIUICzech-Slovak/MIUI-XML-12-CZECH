@@ -129,4 +129,52 @@
         <item quantity="other">Stažené položky: %1$d</item>
         <item quantity="one">Stažená položka: %1$d</item>
     </plurals>
+	<plurals name="aod_batch_has_update_text">
+        <item quantity="other">Je dostupná aktualizace pro %1$d témata</item>
+        <item quantity="one">Je dostupná aktualizace pro %1$d téma</item>
+     </plurals>
+     <plurals name="aod_batch_updating_text">
+        <item quantity="other">Aktualizování %1$d témat</item>
+        <item quantity="one">Aktualizování %1$d tématu</item>
+     </plurals>
+     <plurals name="de_author_fans_amount">
+        <item quantity="other">%1$d fanoušků</item>
+        <item quantity="one">%1$d fanoušek</item>
+     </plurals>
+     <plurals name="de_more_comment">
+        <item quantity="other">%1$d dalších komentářů</item>
+        <item quantity="one">%1$d další komentář</item>
+     </plurals>
+     <plurals name="detail_reward_few_times">
+        <item quantity="other">%s ocenění</item>
+        <item quantity="one">%s ocenění</item>
+     </plurals>
+     <plurals name="detail_reward_times">
+        <item quantity="other">%s ocenění</item>
+        <item quantity="one">%s ocenění</item>
+     </plurals>
+     <plurals name="guide_used_number">
+        <item quantity="other">Používáno na %1$d zařízeních</item>
+        <item quantity="one">Používáno na %1$d zařízení</item>
+     </plurals>
+     <plurals name="icon_batch_has_update_text">
+        <item quantity="other">Je dostupná aktualizace pro %1$d ikony</item>
+        <item quantity="one">Je dostupná aktualizace pro %1$d ikony</item>
+     </plurals>
+     <plurals name="icon_batch_updating_text">
+        <item quantity="other">Aktualizování %1$d ikon…</item>
+        <item quantity="one">Aktualizování %1$d ikon…</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových notifikací</item>
+        <item quantity="one">%d nová notifikace</item>
+     </plurals>
+     <plurals name="resource_comment_score_count">
+        <item quantity="other">%d komentáře</item>
+        <item quantity="one">%d komentář</item>
+     </plurals>
+     <plurals name="ringtone_nums">
+        <item quantity="other">%1$s vyzváněví tóny</item>
+        <item quantity="one">%1$s vyzváněcí tón</item>
+     </plurals>
 </resources>             

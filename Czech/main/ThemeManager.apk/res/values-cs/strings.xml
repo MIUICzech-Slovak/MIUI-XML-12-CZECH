@@ -850,4 +850,19 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
      <string name="hide_pull_down_positive">Skrýt</string>
      <string name="hide_retract_button">Skrýt</string>
 	 <string name="incompatible_dialog_cancel">Nepoužít</string>
+	 <string name="abc_action_menu_overflow_description">Více možností</string>
+	 <string name="theme_comment_dialog_cancel">Teď ne</string>
+     <string name="theme_comment_dialog_message">"Líbí se vám téma které právě používáte? Ocenili bychom vaši zpětnou vazbu!"</string>
+     <string name="theme_comment_dialog_ok">Komentovat</string>
+	 <string name="de_icon_text_comment">Comment</string>
+     <string name="de_icon_text_discuss">Diskuse</string>
+     <string name="de_icon_text_like">Líbí se</string>
+     <string name="de_icon_text_reward">Odměnit</string>
+     <string name="de_icon_text_share">Sdílet</string>
+	 <string name="share_copy_theme_url">Kopírovat URL tématu</string>
+     <string name="share_copy_url_success">Zkopírováno</string>
+     <string name="share_copy_wallpaper_url">Kopírovat URL tapety</string>
+     <string name="share_picture_loading">Načítání…</string>
+     <string name="share_save_success">Uloženo</string>
+     <string name="share_save_to_photo">Galerie</string>
 </resources>  

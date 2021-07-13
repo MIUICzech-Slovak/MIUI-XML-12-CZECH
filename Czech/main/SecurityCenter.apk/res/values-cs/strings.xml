@@ -4935,4 +4935,10 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="pp_privacy_lab_operator_introduction">Upozornění</string>
     <string name="pp_privacy_lab_operator_introduction_summary">Aplikace mohou ukládat vaše telefonní číslo, pokud už bylo získáno. Změnou tohoto povolení se neodstraní dříve získaná telefonní čísla.</string>
     <string name="pp_virtual_identity_summary">Namísto skutečného identifikátoru je možné aplikacím poskytnout virtuální identifikátor (OAID). Chrání vaše soukromí a umožňuje vám ovládat, jak aplikace sledují vaše chování.</string>
+	<string name="untrust_app_perm_install_list">Povolit přístup k seznamu nainstalovaných aplikací</string>
+    <string name="untrust_app_perm_network">Povolit přístup k síti</string>
+    <string name="untrust_app_perm_notification">Povolit upozornění</string>
+    <string name="untrust_app_perm_oaid">Povolit přístup k virtuálnímu ID</string>
+    <string name="untrust_app_perm_title">Aplikace z neznámého zdroje</string>
+    <string name="untrust_app_perm_warn">Tato aplikace pochází z neznámého zdroje a představuje bezpečnostní riziko. Tyto povolení může zneužít k ohrožení vašeho soukromí. Zvažte jejich povolení.</string>
 </resources>  

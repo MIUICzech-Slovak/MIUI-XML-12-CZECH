@@ -1027,4 +1027,7 @@ Pokus: %s."</string>
     <string name="miuix_appcompat_cloud_state_disabled">Synchr. s MiCloud je vyp.</string>
     <string name="miuix_appcompat_cloud_state_finished">Synchr. s MiCloud je dokončena</string>
     <string name="miuix_appcompat_cloud_state_syncing">Synchr. s MiCloud…</string>
+	<string name="enable_classify_tip_dialog_content">Tato akce restartuje aplikaci Zprávy. Chcete pokračovat?</string>
+    <string name="pref_title_enable_classify">Automaticky seskupovat zprávy</string>
+    <string name="pref_summary_enable_classify">Přesunout reklamní a finanční SMS do oddělených karet</string>
 </resources>  

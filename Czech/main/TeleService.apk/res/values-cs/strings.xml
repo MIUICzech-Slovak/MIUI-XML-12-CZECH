@@ -1878,4 +1878,5 @@ Kontaktujte vašeho operátora"</string>
     <string name="fiveg_carrier_aggregation_title">5G agregace</string>
 	<string name="callFailed_already_dialing">Nelze uskutečnit hovor, protože již je vytáčen jiný odchozí hovor.</string>
      <string name="callFailed_already_ringing">Nelze uskutečnit hovor, protože existuje příchozí hovor. Přijměte nebo odmítněte příchozí hovor před uskutečněním nového hovoru.</string>
+	 <string name="mobile_network_dual_card_optimizationmobile_title">Dualní SIM &amp; mobilní data</string>
 </resources>

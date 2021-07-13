@@ -1152,5 +1152,10 @@ Postupujte dle pokynů"</item>
         <item>Vypnuto</item>
         <item>Ladění</item>
         <item>Podrobné informace</item>
+    </string-array>
+	<string-array name="color_game_led_freq_entries">
+        <item>Každé 2 sekundy</item>
+        <item>Každé 3 sekundy</item>
+        <item>Každých 5 sekund</item>
     </string-array>	
 </resources>
