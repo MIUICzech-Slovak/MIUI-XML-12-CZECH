@@ -1030,4 +1030,19 @@ Pokus: %s."</string>
 	<string name="enable_classify_tip_dialog_content">Tato akce restartuje aplikaci Zprávy. Chcete pokračovat?</string>
     <string name="pref_title_enable_classify">Automaticky seskupovat zprávy</string>
     <string name="pref_summary_enable_classify">Přesunout reklamní a finanční SMS do oddělených karet</string>
+	<string name="aim_show_card">Zobrazit kartu</string>
+    <string name="aim_show_original">Zobrazit zprávu</string>
+    <string name="cancel">Zrušit</string>
+    <string name="go_close">Nastavení</string>
+    <string name="invisible_mode_on">Jste inkognito</string>
+    <string name="leave_mms_tips_context_app">Zavřít Zprávy a otevřít aplikaci?</string>
+    <string name="leave_mms_tips_context_app_name">Zavřít Zprávy a otevřít \"%s\"?</string>
+    <string name="leave_mms_tips_context_browser">Zavřít Zprávy a otevřít Prohlížeč?</string>
+    <string name="leave_mms_tips_context_email">Zavřít Zprávy a otevřít Email?</string>
+    <string name="leave_mms_tips_context_map">Zavřít Zprávy a otevřít mapy?</string>
+    <string name="pref_summary_switch_aim_card">Zobrazit MMS které obsahují videa a obrázky jako karty</string>
+    <string name="pref_title_switch_aim_card">Převést MMS na karty</string>
+    <string name="unable_connect_camera">Jste inkognito. Není možné použít fotoaparát.</string>
+    <string name="unable_get_location">Jste inkognito. Není možné použít polohu.</string>
+    <string name="unable_use_microphone">Jste inkognito. Není možné použít mikrofon.</string>	
 </resources>  

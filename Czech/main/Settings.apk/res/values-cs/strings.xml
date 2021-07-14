@@ -7369,9 +7369,10 @@ Otevřte Xiaomi Cloud a odtud obnovujte položky."</string>
     <string name="app_uninstall_sounds_enable_title">Přehrát zvuk při odinstalování aplikací</string>
     <string name="lock_sound_effect_enable_title">Přehrát zvuk při uzamknutí zařízení</string>
     <string name="unlock_sound_effect_enable_title">Přehrát zvuk při odemknutí zařízení</string>
-	<string name="color_game_led_color_title">Barva světla</string>
+	<string name="color_game_led_color_title">Barva</string>
     <string name="color_game_led_feature_off">Vyp</string>
     <string name="color_game_led_feature_on">Zap</string>
-    <string name="color_game_led_freq_title">Frekvence blikání</string>	
+    <string name="color_game_led_freq_title">Frekvence blikání</string>
+	<string name="color_game_led_freq_entries">Každých %ds</string>	
 </resources>
 

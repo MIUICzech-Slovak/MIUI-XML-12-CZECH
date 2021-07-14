@@ -355,4 +355,6 @@
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
+	<string name="relay_cal_from_device_name">Od %1$s</string>
+    <string name="relay_call_device_name">Připojené zařízení (%1$s)</string>
 </resources>
