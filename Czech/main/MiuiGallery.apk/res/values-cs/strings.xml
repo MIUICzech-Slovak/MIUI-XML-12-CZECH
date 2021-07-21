@@ -2424,5 +2424,11 @@
     <string name="widget_recommend_default_description_shop">Připomeňte si svoje zážitky</string>
     <string name="widget_recommend_default_example">Ukázka</string>
     <string name="widget_recommend_default_title_on_story">Vzpomínky</string>
-    <string name="widget_recommend_default_title_open_story">Povolit \"Vzpomínky\"</string>	
+    <string name="widget_recommend_default_title_open_story">Povolit \"Vzpomínky\"</string>
+	<string name="vlog_audio_unsupport_audio_file">Tento zvukový formát není podporovaný</string>
+	<string name="widget_custom_store_detail_desc">Vyberte obrázek který chcete vidět</string>
+    <string name="widget_editor_confirm">Hotovo</string>
+    <string name="widget_editor_reselect">Vyberte znova</string>
+    <string name="widget_editor_title">Upravit</string>
+    <string name="widget_recommend_store_detail_desc">Nedávné fotografie a momenty z minulosti</string>
 </resources>

@@ -112,5 +112,13 @@ dlouhý screenshot"</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
   <string name="tomorrow">Zítra</string>
-  <string name="screenshot_thumbnail">Náhled screenshotu</string>	
+  <string name="screenshot_thumbnail">Náhled screenshotu</string>
+  <string name="accessible_cancel">Zrušit</string>
+    <string name="accessible_ellipse">Elipsa</string>
+    <string name="accessible_irregular">Vlastní tvar</string>
+    <string name="accessible_rect">Obdélník</string>
+    <string name="partial_screenshot_failed_to_capture_title">Tato aplikace nedovoluje zhotovení screenshotu</string>
+    <string name="partial_screenshot_failed_to_save_title">Nebylo možné uložit. Není dostatek volného místa na úložišti.</string>
+    <string name="partial_screenshot_insert_failed">Nebylo možné uložit</string>
+    <string name="take_screenshot">Celá obrazovka</string>
 </resources>  

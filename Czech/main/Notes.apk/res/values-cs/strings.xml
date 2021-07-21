@@ -592,5 +592,10 @@ http://www.miuios.cz/rom
     <string name="no_network">Není možné připojit se k síti</string>
     <string name="web_sso_login_fail">Musíte se znova přihlásit</string>
     <string name="web_sso_login_message">Přihlašování...</string>
-    <string name="webview_reload">Zkuste to znova</string>	
+    <string name="webview_reload">Zkuste to znova</string>
+	<string name="note_not_text_stub">Žádný text</string>
+    <string name="toast_notes_hidden_pad">Tato poznámka je skrytá. Potáhněte dolů pro zobrazení skrytých poznámek.</string>
+    <string name="widget_create_select_size">Vyberte velikost</string>
+    <string name="widget_empty_content">Dotykem vyberte poznámku</string>
+    <string name="widget_note_list_page_title">Vyberte poznámku</string>
 </resources>

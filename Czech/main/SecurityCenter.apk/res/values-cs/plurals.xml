@@ -966,5 +966,17 @@ Dejte si pauzu!"</item>
     <plurals name="gtb_setting_item_summary_brightness">
         <item quantity="other">Snížit jas displeje pro úsporu baterie po %d min. neaktivity</item>
         <item quantity="one">Snížit jas displeje pro úsporu baterie po %d min. neaktivity</item>
+    </plurals>
+	<plurals name="sim_lock_puk_dialog_message">
+        <item quantity="other">Zbývají vám pouze %d pokusy pro ověření vašeho SIM PUK. Pokud dosáhnete limitu zadání nesprávného PUK kódu, vaša SIM karta bude deaktivována. Chcete pokračovat?</item>
+        <item quantity="one">Zbývá vám pouze %d pokus pro ověření vašeho SIM PUK. Pokud dosáhnete limitu zadání nesprávného PUK kódu, vaša SIM karta bude deaktivována. Chcete pokračovat?</item>
+    </plurals>
+    <plurals name="simlock_set_pin_error">
+        <item quantity="other">Zadali jste nesprávný PIN. Zbývající pokusy: %d.</item>
+        <item quantity="one">Zadali jste nesprávný PIN. Zbývající pokus: %d.</item>
+    </plurals>
+    <plurals name="simlock_set_puk_error">
+        <item quantity="other">Zadejte SIM PUK. Zbývající pokusy: %d.</item>
+        <item quantity="one">Zadejte SIM PUK. Zbývající pokus: %d.</item>
     </plurals>	
 </resources>             
