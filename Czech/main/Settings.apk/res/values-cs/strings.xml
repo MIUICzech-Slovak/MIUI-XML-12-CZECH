@@ -7063,7 +7063,7 @@ Nikdy jste nebyli připojený k %2$s."</string>
     <string name="external_ram_dialog_btn_ok">Restart</string>
     <string name="external_ram_dialog_message">Restartuje vaše zařízení pro aplikování změn.</string>
     <string name="external_ram_dialog_title">Restartujte zařízení</string>
-    <string name="external_ram_summary">Přidat %1$s %2$s RAM na interním úložišti. Použíjte tuto funkci jen pokud máte dostatek volného místa na interním úložišti.</string>
+    <string name="external_ram_summary">Přidá %1$s %2$s RAM na interním úložišti. Použíjte tuto funkci jen pokud máte dostatek volného místa na interním úložišti.</string>
     <string name="external_ram_title">Rozšíření RAM</string>
     <string name="external_ram_toast">Není možné zvětšit RAM kvůli nedostatku volného místa na úložišti</string>
     <string name="miheadset_network_not_available">Zkontrolujte nastavení sítě a zkuste to znova</string>
