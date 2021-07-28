@@ -723,4 +723,5 @@ Zkontrolujte také složku SPAM."</string>
      <string name="passport_google_login_disagree">Mi účet</string>
      <string name="passport_google_login_failed">Nebylo možné přihlásit se Googlem. Přihlašte se Mi účtem.</string>
 	 <string name="skip_query_account">Přeskočit</string>
+	 <string name="passport_error_user_agreement_error">Nejprve odsouhlaste podmínky používání</string>
 </resources>

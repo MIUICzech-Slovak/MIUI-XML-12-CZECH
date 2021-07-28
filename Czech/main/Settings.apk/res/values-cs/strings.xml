@@ -7376,5 +7376,7 @@ Otevřte Xiaomi Cloud a odtud obnovujte položky."</string>
 	<string name="color_game_led_freq_entries">Každých %ds</string>
 	<string name="fiveg_sa_switch_summary">Použít SA síť na druhé SIM</string>
     <string name="fiveg_sa_vice_switch_title">SA na druhé SIM</string>
+	<string name="disable_quick_start">Vypnout rychlý start</string>
+    <string name="enable_quick_start">Zapnout rychlý start</string>
 </resources>
 
