@@ -727,4 +727,7 @@ Chcete-li je obnovit, přihlaste se ke svému Mi účtu."</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
   <string name="tomorrow">Zítra</string>
+  <string name="dialog_airplane_mode_button">Nastavení</string>
+    <string name="dialog_airplane_mode_content">Přenos dat nemůže fungovat správně pokud je zapnutý režim Letadlo. Nejprve ho vypněte v nastaveních.</string>
+    <string name="dialog_airplane_mode_title">Vypněte režim Letadlo</string>
 </resources>  

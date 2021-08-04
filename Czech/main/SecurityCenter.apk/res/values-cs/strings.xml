@@ -5050,4 +5050,13 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="virus_info_title">Popis</string>
     <string name="virus_news_title">Další informace</string>
     <string name="virus_type_title">Typ</string>
+	<string name="wireless_charging_connected_message">Reverzní bezdrátové nabíjení není možné použít, když se zařízení nabíjí bezdrátově.</string>
+    <string name="wireless_charging_fg_control_cancel">Zrušit</string>
+    <string name="wireless_charging_fg_control_messgae">Reverzní bezdrátové nabíjení bylo vypnuto, protože baterie má méně než %s. Můžete upravit nastavení minimální kapacity baterie.</string>
+    <string name="wireless_charging_fg_control_ok">Upravit</string>
+    <string name="wireless_charging_low_battery_level_message">Není možné používat reverzní bezdrátové nabíjení když má baterie méně než %s.</string>
+    <string name="wireless_charging_ok">Rozumím</string>
+    <string name="wireless_charging_saver_cancel">Vypnout</string>
+    <string name="wireless_charging_saver_message">Šetření baterie je zapnuté. Chcete ponechat reverzní bezdrátové nabíjení?</string>
+    <string name="wireless_charging_saver_ok">Ponechat</string>
 </resources>  
