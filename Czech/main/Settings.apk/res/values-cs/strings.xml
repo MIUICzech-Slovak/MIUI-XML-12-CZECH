@@ -7384,5 +7384,38 @@ Otevřte Xiaomi Cloud a odtud obnovujte položky."</string>
     <string name="surround_sound_only_headset_desc">Vylepšit hloubku zvuku pro sluchátka</string>
     <string name="surround_sound_only_speaker_desc">Vylepšit hloubku zvuku pro reproduktory</string>
     <string name="surround_sound_title">Surround zvuk</string>
+	<string name="dark_ui_auto_mode_title">Plán</string>
+	<string name="night_display_auto_mode_title">Plán</string>
+	<string name="zen_mode_automatic_rule_settings_page_title">Plán</string>
+    <string name="zen_mode_automation_settings_page_title">Plány</string>
+	<string name="zen_mode_schedule_category_title">Plán</string>
+	<string name="zen_mode_schedule_title">Plán</string>
+	<string name="gesture_settings_activity_title">Nastavení gest</string>
+	<string name="left_edge">Levý okraj</string>
+	<string name="right_edge">Pravý okraj</string>
+	<string name="accessibility_tutorial_dialog_button">Rozumím</string>
+     <string name="accessibility_tutorial_dialog_message_button">"Pro použití této funkce klepněte na tlačítko Dostupnost v dolní části obrazovky.
+
+Mezi funkcemi můžete přepínat stisknutím a podržením tlačítka dostupnosti."</string>
+     <string name="accessibility_tutorial_dialog_message_gesture">"Pro použití této funkce přejeďte dvěma prsty nahoru ze spodní části obrazovky.
+
+Mezi funkcemi můžete přepínat přejetím nahoru dvěma prsty a podržením."</string>
+     <string name="accessibility_tutorial_dialog_message_gesture_settings">"Pro použití této funkce přejeďte dvěma prsty nahoru ze spodní části obrazovky.
+
+Mezi funkcemi můžete přepínat přejetím nahoru dvěma prsty a podržením."</string>
+     <string name="accessibility_tutorial_dialog_message_gesture_settings_talkback">"Pro použití této funkce přejeďte třemi prsty nahoru ze spodní části obrazovky.
+
+Mezi funkcemi můžete přepínat přejetím nahoru třemi prsty a podržením."</string>
+     <string name="accessibility_tutorial_dialog_message_gesture_talkback">"Pro použití této funkce přejeďte třemi prsty nahoru ze spodní části obrazovky.
+
+Mezi funkcemi můžete přepínat přejetím nahoru třemi prsty a podržením."</string>
+     <string name="accessibility_tutorial_dialog_message_triple">Zvětšení spustíte a zastavíte trojitým klepnutím kdekoli na obrazovce.</string>
+     <string name="accessibility_tutorial_dialog_message_volume">Pro použití této funkce stiskněte a podržte obě tlačítka hlasitosti.</string>
+     <string name="accessibility_tutorial_dialog_title_button">K otevření použijte tlačítko Dostupnost</string>
+     <string name="accessibility_tutorial_dialog_title_gesture">K otevření použíjte gesta</string>
+     <string name="accessibility_tutorial_dialog_title_gesture_settings">Použijte nové gesto dostupnosti</string>
+     <string name="accessibility_tutorial_dialog_title_triple">Trojité poklepání obrazovky pro otevření</string>
+     <string name="accessibility_tutorial_dialog_title_volume">Podržení kláves hlasitosti pro otevření</string>
+     <string name="accessibility_tutorial_pager">Stránka %1$d z %2$d</string>
 </resources>
 
