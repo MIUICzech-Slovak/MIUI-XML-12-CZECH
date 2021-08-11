@@ -7417,5 +7417,14 @@ Mezi funkcemi můžete přepínat přejetím nahoru třemi prsty a podržením."
      <string name="accessibility_tutorial_dialog_title_triple">Trojité poklepání obrazovky pro otevření</string>
      <string name="accessibility_tutorial_dialog_title_volume">Podržení kláves hlasitosti pro otevření</string>
      <string name="accessibility_tutorial_pager">Stránka %1$d z %2$d</string>
+	 <string name="disable_uft">Vypnout UFT</string>
+    <string name="enable_uft">Zapnout UFT</string>
+    <string name="sunlight_mode_summary_new">Upravit jas na silné okolní světlo tak aby obrazovka nebyla příliš tmavá. Když je okolní světlo silné, v horní časti obrazovky se zobrazí malá ikona slunce.</string>	
+    <string name="enable_local_backup_message_intledition">Povolte tuto funkci pro možnost ukládání záloh do tohoto zařízení. Povolit nyní?</string>
+    <string name="settings_charging_at_fast_speed">Rýchlé nabíjení</string>
+    <string name="settings_charging_at_normal_speed">Nabíjení</string>
+    <string name="settings_charging_at_top_speed">Nabíjení max. rychlostí</string>
+    <string name="settings_charging_fully_charged">Nabito</string>
+    <string name="settings_charging_not_charging">Nenabíjí se</string>
 </resources>
 

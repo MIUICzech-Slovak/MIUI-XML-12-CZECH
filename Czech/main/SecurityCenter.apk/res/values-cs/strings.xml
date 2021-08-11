@@ -5059,4 +5059,35 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="wireless_charging_saver_cancel">Vypnout</string>
     <string name="wireless_charging_saver_message">Šetření baterie je zapnuté. Chcete ponechat reverzní bezdrátové nabíjení?</string>
     <string name="wireless_charging_saver_ok">Ponechat</string>
+	<string name="behavior_widget_get_installed_apps">Přístup k apl.</string>
+    <string name="behavior_widget_get_location">Přístup k poloze</string>
+    <string name="behavior_widget_read_clipboard">Přístup ke schránce</string>
+    <string name="behavior_widget_read_contact">Přístup ke kontaktům</string>
+    <string name="behavior_widget_read_write_external_storage">Přístup k souborům</string>
+    <string name="gamebox_brightness">Jas</string>
+    <string name="gamebox_mem_clean">Vymazat RAM</string>
+    <string name="gamebox_screenrecord">Nahrát</string>
+    <string name="gamebox_screenshot">Screenshot</string>
+    <string name="gb_performance_balance">Vyvážené</string>
+    <string name="gb_performance_high">Výkon</string>
+    <string name="gb_performance_mode">Herní režim</string>
+	<string name="gb_performance_tips">"Používání výkonného režimu vede
+ke zvýšené spotřebě baterie a přehřívání"</string>
+    <string name="gb_turbo_collimator_subtitle">Použít zařízení na měření</string>
+    <string name="gb_turbo_macro_subtitle">Provést high-level akce</string>
+    <string name="gb_turbo_shoulder_subtitle">Nastavit herní ovladače</string>	
+    <string name="gb_turbo_time_subtitle">Načasujte vaše vysílání</string>
+    <string name="gb_turbo_voice_subtitle">Okořeňte vaše konverzace</string>
+    <string name="gb_turbo_wonder_subtitle">Nahrajte klíčové momenty</string>
+    <string name="gtb_guide_finish">Přeskočit</string>
+    <string name="gtb_guide_gtb_button_done">Hotovo</string>
+    <string name="gtb_guide_gtb_community_desc">Sdílejte vaše zkušenosti s přáteli</string>
+    <string name="gtb_guide_gtb_community_title">Komunita</string>
+    <string name="gtb_guide_gtb_func_desc">Vylepšete vaše hry</string>
+    <string name="gtb_guide_gtb_func_title">Zrychlení her</string>
+    <string name="gtb_guide_gtb_game_effected">Použito</string>
+    <string name="gtb_guide_gtb_game_new">Nové</string>
+    <string name="gtb_guide_gtb_line_new">Nastavte si vaši hru s novým Zrychlením her!</string>
+    <string name="gtb_guide_small_window_app_desc">Používejte jiné aplikace během hraní</string>
+    <string name="gtb_guide_small_window_app_title">Plovoucí okna</string>
 </resources>  
