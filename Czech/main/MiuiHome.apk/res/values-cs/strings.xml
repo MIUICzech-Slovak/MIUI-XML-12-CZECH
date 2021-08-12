@@ -676,7 +676,11 @@
   <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
 	<string name="recents_smallwindow_drag_text">Potáhněte sem pro připnutí</string>
-	<string name="launcher_search">Vyhledávání</string>	
+	<string name="launcher_search">Vyhledávání</string>
+	<string name="navigation_set_miui_home_as_default_dialog_cancel">Zrušit</string>
+    <string name="navigation_set_miui_home_as_default_dialog_message">Když nastavíte jiný launcher než MIUI, přestane fungovat ovládání gesty. Chcete pokračovat?</string>
+    <string name="navigation_set_miui_home_as_default_dialog_ok">Nastavit</string>
+    <string name="navigation_set_miui_home_as_default_dialog_title">Upozornění</string>
 </resources>
 
 
