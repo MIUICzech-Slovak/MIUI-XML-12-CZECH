@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">MiSettings</string>
+  <string name="app_name">Nastavení MI</string>
   <string name="application_sound">Upozornění aplikací</string>
   <string name="calendar_sound">Upozornění události</string>
   <string name="calendar_tip">Zvuky upozornění události fungují pro kalendář, poznámky, úlohy, atd.</string>
