@@ -272,5 +272,10 @@ ID zařízení musí být platné IMEI nebo MAC adresa. Bez platného ID nebudou
     <string name="error_no_get_send_sms_permission_one_sim">Nejprve povolte odesílání SMS.</string>
     <string name="error_sim_not_in_service_tip_one_sim">Nebylo možné připojit se k síti. Zkontrolujte SIM kartu.</string>
     <string name="sim_activate_failed">Nebylo možné aktivovat služby</string>
-    <string name="sim_activate_prepare">Aktivovat služby</string>	
+    <string name="sim_activate_prepare">Aktivovat služby</string>
+  <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Pro aktivaci \"%2$s\", &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>mezinárodní placená SMS&lt;/b> bude odeslána. Váš operátor vám bude tyto zprávy účtovat.</string>
+     <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Pro aktivaci \"%2$s\", &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domácí placená SMS&lt;/b> bude odeslána. Váš operátor vám bude tyto zprávy účtovat.</string>
+     <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Pro aktivaci \"%2$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>mezinárodní placená SMS&lt;/b> bude odeslána. Váš operátor vám bude tuto zprávu účtovat.</string>
+     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Pro aktivaci \"%3$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domácí placená SMS&lt;/b> a &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>mezinárodní placená SMS&lt;/b> bude odeslána . Váš operátor vám bude tyto zprávy účtovat.</string>
+     <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Pro aktivaci \"%2$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>placená SMS&lt;/font> bude odeslána. Váš operátor vám bude tuto zprávu účtovat.</string>
 </resources>  
