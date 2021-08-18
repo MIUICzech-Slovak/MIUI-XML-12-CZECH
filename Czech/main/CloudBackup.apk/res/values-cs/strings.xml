@@ -394,4 +394,6 @@ Vyžadují se povolení."</string>
     <string name="dialog_need_permission">Vyžadují se povolení</string>
 	<string name="cloud_backup_detail_app_data">WeChat záloha</string>
     <string name="cloud_backup_detail_app_data_summary">Historie chatu, soubory a jiné položky</string>
+	<string name="restore_prepare_item_type_enable">Dostupné zálohy</string>
+    <string name="restore_prepare_item_type_other">Ostatní zálohy</string>
 </resources>  
