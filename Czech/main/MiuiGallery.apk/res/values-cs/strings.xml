@@ -2437,4 +2437,11 @@
     <string name="sky_nocturne">Noc</string>
     <string name="sky_static">Statická</string>
     <string name="sky_sunny">Slunečno</string>
+	<string name="cloud_action_open">Povolit</string>
+    <string name="cloud_action_upgrade">Navýšit</string>
+    <string name="cloud_action_view">Zobrazit</string>
+    <string name="photo_editor_crop_size_free">Vlastní</string>
+    <string name="photo_editor_crop_size_fullscreen">Celá obrazovka</string>
+    <string name="photo_editor_crop_size_origin">Originál</string>
+    <string name="photo_video_count">%1$s a %2$s</string>
 </resources>
