@@ -314,5 +314,6 @@
     <string name="keyboard_identity_transfer_error_message">Klávesnici nebylo možné připojit.</string>
     <string name="keyboard_upgrade_failed">Nebylo možné aktualizovat klávesnici</string>
     <string name="keyboard_upgrade_start">Aktualizace klávesnice...</string>
-    <string name="keyboard_upgrade_success">Klávesnica byla aktualizována</string> 
+    <string name="keyboard_upgrade_success">Klávesnica byla aktualizována</string>
+	<string name="keyboard_connect_failed">Nebylo možné připojit klávesnici. Zkuste to znova.</string>	
 </resources>

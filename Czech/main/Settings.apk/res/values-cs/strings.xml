@@ -7426,5 +7426,8 @@ Mezi funkcemi můžete přepínat přejetím nahoru třemi prsty a podržením."
     <string name="settings_charging_at_top_speed">Nabíjení max. rychlostí</string>
     <string name="settings_charging_fully_charged">Nabito</string>
     <string name="settings_charging_not_charging">Nenabíjí se</string>
+	<string name="headset_toast_tip_disconnect_others">Sluchátka není možné nastavit, zřejmě jsou spárované s jiným zařízením</string>
+    <string name="params_interpretation">Podrobné specifikace</string>
+    <string name="vip_service_settings">Moje služby</string>
 </resources>
 
