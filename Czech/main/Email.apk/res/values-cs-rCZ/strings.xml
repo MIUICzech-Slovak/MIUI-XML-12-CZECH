@@ -40,7 +40,6 @@
      <string name="compress_failed_and_retry">"Nelze komprimovat. Zkuste to znovu."</string>
      <string name="compress_img">Komprimace obrázků</string>
      <string name="contain_view_all_body">Zobrazit celou zprávu</string>>
-     <string name="conversation_content_provider">Poskytovatel obsahu konverzace</string>
      <string name="conversation_message_info">"Email nelze načíst. Klepnutím to zkuste znovu."</string>
      <string name="conversation_quick_button_approve">OK</string>
      <string name="conversation_report_un_spam">Není spam</string>
