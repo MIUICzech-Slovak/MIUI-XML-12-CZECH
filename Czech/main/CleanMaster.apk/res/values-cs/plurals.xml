@@ -251,4 +251,12 @@
         <item quantity="other">Položek: %1$s</item>
         <item quantity="one">Položek: %1$s</item>
     </plurals>
+	<plurals name="every_x_day">
+        <item quantity="other">Každých %d dní</item>
+        <item quantity="one">Každý %d den</item>
+    </plurals>
+    <plurals name="last_x_day">
+        <item quantity="other">Posledních %d dní</item>
+        <item quantity="one">Poslední %d den</item>
+    </plurals>
 </resources>

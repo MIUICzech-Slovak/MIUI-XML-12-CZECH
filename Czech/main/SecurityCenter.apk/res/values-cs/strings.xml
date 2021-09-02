@@ -5126,5 +5126,10 @@ ke zvýšené spotřebě baterie a přehřívání"</string>
     <string name="sim_car_absent_summary">Potvrďte zámek obrazovky pro používání zařízení.</string>
     <string name="sim_car_absent_title">Toto zařízení je ztracené</string>
     <string name="sim_card_absent_intercept_tip">Pokud nepotvrdíte zámek obrazovky, bude aktivován Ztracený režim.</string>
-    <string name="sim_card_absent_warning_voice">SIM karta byla odebrána. Potvrďte zámek obrazovky.</string>	
+    <string name="sim_card_absent_warning_voice">SIM karta byla odebrána. Potvrďte zámek obrazovky.</string>
+	<string name="gtb_content_switch">Doporučený obsah</string>
+    <string name="gtb_content_switch_summary">Dostávat doporučený herní obsah</string>
+    <string name="miuix_access_state_desc">Vybráno</string>
+    <string name="miuix_alphabet_indexer_name">Indexová lišta</string>
+    <string name="miuix_indexer_selected">Vybraných %s</string>
 </resources>  

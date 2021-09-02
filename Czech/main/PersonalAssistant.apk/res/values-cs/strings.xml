@@ -726,4 +726,5 @@
      <string name="agenda_today">·Dnes</string>
      <string name="agenda_view_event">Všechny události</string>
      <string name="app_pa_setting_service_my_schedule_summary">Události, narozeniny, výročí, atd.</string>
+	 <string name="calc_convert">Konvertovat</string>
 </resources>  

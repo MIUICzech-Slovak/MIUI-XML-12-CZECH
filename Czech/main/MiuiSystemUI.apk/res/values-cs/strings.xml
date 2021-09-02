@@ -2666,4 +2666,7 @@ Tato aplikace nemá oprávnění k nahrávání, ale může zaznamenávat zvuk p
 	<string name="fiveg_sa_switch_summary">Použít SA síť na druhé SIM</string>
     <string name="fiveg_sa_vice_switch_title">SA na druhé SIM</string>
 	<string name="keyguard_charging_double_fast_and_level_tip">Zrychlení nabíjení %s</string>
+	<string name="miuix_access_state_desc">Vybráno</string>
+    <string name="miuix_alphabet_indexer_name">Indexová lišta</string>
+    <string name="miuix_indexer_selected">Vybraných %s</string>
 </resources>

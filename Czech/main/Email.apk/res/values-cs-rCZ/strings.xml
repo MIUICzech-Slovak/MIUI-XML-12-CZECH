@@ -9,7 +9,7 @@
      <string name="account_setting_general_summry">Obecná nastavení e -mailu</string>
      <string name="account_setting_general_title">Funkce</string>
      <string name="account_settings_background_attachments_title">Stahovat přílohy automaticky</string>
-     <string name="account_settings_display">Displej</string>
+     <string name="account_settings_display">Zobrazení</string>
      <string name="account_settings_does_not_support_pop">"Tato funkce není podporována protokolem POP3"</string>
      <string name="account_settings_only_notify_inbox">Upozorňovat pouze na doručenou poštu</string>
      <string name="account_settings_op_title">Správa emailů</string>
@@ -125,8 +125,8 @@ Tento problém může být způsoben dvoufaktorovým ověřováním účtu. Zkus
      <string name="new_mail_notification_str">Povolit oznámení</string>
      <string name="notification_exchange_calendar_added">Přidán Exchange Kalendář</string>
      <string name="notification_message">Chcete upozorňovat na nové zprávy pouze ve vybraných složkách?</string>
-     <string name="notification_off">Zapnuto</string>
-     <string name="notification_on">Vypnuto</string>
+     <string name="notification_off">Vyp.</string>
+     <string name="notification_on">Zap.</string>
      <string name="ntes_login_auth_too_much">"Nelze přidat více než 5 ověřovacích kódů. Přihlaste se do své schránky v počítači a odstraňte kódy, které nepoužíváte."</string>
      <string name="open_pdf_error">"Nelze otevřít PDF. Nainstalujte si čtečku PDF a zkuste to znovu."</string>
      <string name="operation_settging">Akce</string>
@@ -171,4 +171,5 @@ Tento problém může být způsoben dvoufaktorovým ověřováním účtu. Zkus
      <string name="wps_card_button_tips">Otevřít WPS Office</string>
      <string name="wps_card_tips">%s s vámi sdílené WPS Office dokumenty.</string>
      <string name="wps_card_title">WPS Office</string>
+	 <string name="x_account_settings_mibill_resolve_label_summary">Automaticky rozpoznat účtenky platebních karet</string>
 </resources>

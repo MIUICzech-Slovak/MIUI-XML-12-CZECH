@@ -358,4 +358,9 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
      <string name="msim_setting_default_voice">Výchozí SIM pro volání</string>
 	 <string name="terms_of_use_lable_apps_wifi_device">Mi služby, MiCloud, Vyhledávání zařízení, Plocha, Hry.</string>     
      <string name="user_agreement_declare_wifi_device">Před používaním MIUI, musíte souhlasit s našimi Podmínkami používání a Ochranou soukromí.</string>
+	 <string name="multisim_settings_sb_title">Byla nalezena 1 SIM karta</string>
+    <string name="sim_card_detection_info_sb">Před pokračováním vložte SIM kartu. Vyhledávání zařízení a funkce synchronizace nebudou dostupné pokud vytvoříte účet bez SIM karty. Toto zařízení podporuje eSIM.</string>
+    <string name="sim_card_detection_info_sb_esim">Dotykem aktivujete eSIM.</string>
+    <string name="sim_card_detection_sb_esim">Aktivovat eSIM</string>
+    <string name="sim_card_detection_sb_nonactivated">Neaktivováno</string> 
 </resources>  

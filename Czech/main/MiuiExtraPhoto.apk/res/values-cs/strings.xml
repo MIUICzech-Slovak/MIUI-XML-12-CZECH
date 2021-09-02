@@ -2,7 +2,7 @@
 <resources>
   <string name="extra_photo_common_permission_name">Bokeh</string>
   <string name="extra_photo_common_saving">Ukládání...</string>
-  <string name="motion_photo_re_pick_title">Vyberte najlepší záběr</string>
+  <string name="motion_photo_re_pick_title">Vyberte nejlepší záběr</string>
   <string name="motion_photo_toast_default">Předvolené</string>
   <string name="motion_photo_toast_suggest">Doporučené</string>
   <string name="refocus_discard_confirm_message">Uložit změny?</string>
@@ -131,4 +131,5 @@
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
+	<string name="save">Uložit</string>
 </resources>

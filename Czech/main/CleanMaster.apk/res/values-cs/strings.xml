@@ -869,5 +869,9 @@
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
+	<string name="guide_dc_dialog_message_new">Zůstává méne než %d GB volného místa na úložišti. Vaše zařízení může být zpomalené. Vyčistěte vaše úložiště.</string>
+    <string name="guide_secure_dialog_message_new">Skóre optimalizace je méně než %d bodů. Chcete ho optimalizovat?</string>
+    <string name="low_memory_clean_dialog_msg_new">Nejprve vymažte alespoň %d MB souborů</string>
+    <string name="tips_low_storage_dialog_msg_storage_new">Máte méně než %s úložiště. Odinstalujte aplikace které nepoužíváte.</string>
 </resources>
 

@@ -724,4 +724,23 @@ Zkontrolujte také složku SPAM."</string>
      <string name="passport_google_login_failed">Nebylo možné přihlásit se Googlem. Přihlašte se Mi účtem.</string>
 	 <string name="skip_query_account">Přeskočit</string>
 	 <string name="passport_error_user_agreement_error">Nejprve odsouhlaste podmínky používání</string>
+	 <string name="account_and_password">Heslo</string>
+    <string name="account_user_phone_show">Telefon: %s</string>
+    <string name="account_verify_guide_bind_mail_desc">Přidat záložní email</string>
+    <string name="account_verify_guide_bind_phone_desc">Přidat záložní telefon</string>
+    <string name="account_verify_guide_set_password_desc">Nastavit heslo</string>
+    <string name="family_share">Rodinné sdílení</string>
+    <string name="find_equipment">Vyhledat zařízení</string>
+    <string name="get_back_password">Obnovit heslo</string>
+    <string name="mi_member">Mi Komunita</string>
+    <string name="miuix_access_state_desc">Vybráno</string>
+    <string name="miuix_alphabet_indexer_name">Indexová lišta</string>
+    <string name="miuix_indexer_selected">Vybraných %s</string>
+    <string name="no_install">Není nainstalováno</string>
+    <string name="no_password_set">Nenastaveno</string>
+    <string name="notify_bind_security_phone">Přidat záložní telefon</string>
+    <string name="notify_complete_security_info">Přidat záložní informace</string>
+    <string name="personal_info_desc">Fotografie, přezdívka, atd.</string>
+    <string name="self_account_info">Osobní info.</string>
+    <string name="third_party_login">Další účty</string>
 </resources>
