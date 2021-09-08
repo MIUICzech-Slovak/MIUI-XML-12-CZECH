@@ -865,4 +865,18 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
      <string name="share_picture_loading">Načítání…</string>
      <string name="share_save_success">Uloženo</string>
      <string name="share_save_to_photo">Galerie</string>
+	 <string name="apply_warning_tip_get_device_status">Nejprve povolte této aplikaci přístup k ID zařízení v Profil > Nastavení.</string>
+    <string name="dialog_apply_lock_screen_wallpaper_content">Současné téma nepodporuje změnu tapety zámku.</string>
+    <string name="dialog_apply_lock_screen_wallpaper_warning">Tapeta zámku</string>
+    <string name="dialog_content_get_device_status">Tato aplikace potřebuje přístup k ID zařízení pro ověření zakoupených témat. Chcete vypnout toto povolení?</string>
+    <string name="multiwindow_no_support">Tato akce není podporována v rozdělené obrazovce</string>
+    <string name="personalize_second_space_not_support_set_font">Není možné změnit písmo v Druhém profilu</string>
+    <string name="preference_subtitle_get_device_status">Povolit aplikaci přístup k ID zařízení pro stahování zakoupených témat</string>
+    <string name="preference_title_get_device_status">Přístup k ID zařízení</string>
+    <string name="send">Odeslat</string>
+    <string name="still_apply">Použít</string>
+    <string name="video_not_support_message">Toto video může být zobrazeno nesprávně nebo zpomaleně. Přesto ho použít?</string>
+    <string name="video_not_support_title">Toto video je příliš velké</string>
+    <string name="wallpaper_dark_mode_image_preview_tip">Náhled v tmavém režimu</string>
+    <string name="wallpaper_light_mode_image_preview_tip">Náhled ve světlém režimu</string>	
 </resources>  

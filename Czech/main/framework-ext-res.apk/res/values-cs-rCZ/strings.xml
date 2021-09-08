@@ -315,5 +315,6 @@
     <string name="keyboard_upgrade_failed">Nebylo možné aktualizovat klávesnici</string>
     <string name="keyboard_upgrade_start">Aktualizace klávesnice...</string>
     <string name="keyboard_upgrade_success">Klávesnica byla aktualizována</string>
-	<string name="keyboard_connect_failed">Nebylo možné připojit klávesnici. Zkuste to znova.</string>	
+	<string name="keyboard_connect_failed">Nebylo možné připojit klávesnici. Zkuste to znova.</string>
+	<string name="lockscreen_carrier_customized">Omezené služby</string>	
 </resources>

@@ -1884,4 +1884,9 @@ Kontaktujte vašeho operátora"</string>
     <string name="relay_connection_service_label">Vestavěné RELAY volání</string>
 	<string name="xcap_setting_summary">Přesměrování, hlasová schránka a čekání na hovor</string>
     <string name="xcap_setting_title">Nastavení služeb hovorů</string>
+	<string name="enter_esim_manager">Spravovat eSIM</string>
+    <string name="esim_goto_active">Aktivovat</string>
+    <string name="esim_inactive_message">Neaktivní eSIM</string>
+    <string name="esim_inactive_notification_message">Žádná SIM karta. Dotykem aktivujete eSIM.</string>
+    <string name="esim_inactive_settings_title">Duální SIM a mobilní sítě</string>	
 </resources>

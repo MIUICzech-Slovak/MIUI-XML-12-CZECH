@@ -743,4 +743,6 @@ Zkontrolujte také složku SPAM."</string>
     <string name="personal_info_desc">Fotografie, přezdívka, atd.</string>
     <string name="self_account_info">Osobní info.</string>
     <string name="third_party_login">Další účty</string>
+	<string name="passport_area_code_others">Použíjte jinou předvolbu</string>
+    <string name="passport_tz_invalid">Nalezeno bezpečnostní riziko. Toto zařízení má odomknutý bootloader. Použíjte jiný způsob přihlášení.</string>	
 </resources>

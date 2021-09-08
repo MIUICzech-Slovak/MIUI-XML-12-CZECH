@@ -1384,8 +1384,8 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="device_admin_status">Správce je aktivní a umožňuje aplikaci %1$s provádět následující operace:</string>
   <string name="device_admin_title">Správa zařízení</string>
   <string name="device_admin_warning">Aktivací tohoto správce umožníte aplikaci %1$s provádět následující operace:</string>
-  <string name="device_available_memory">Dostupné úložiště</string>
-  <string name="device_battery">Battery</string>
+  <string name="device_available_memory">"Dostupné úložiště "</string>
+  <string name="device_battery">Baterie</string>
   <string name="device_build_id">Číslo verze</string>
   <string name="device_camera">Fotoaparát</string>
   <string name="device_complete_parameters">Kompletní</string>
@@ -1432,7 +1432,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="device_status">Stav</string>
   <string name="device_status_activity_title">Stav</string>
   <string name="device_status_summary">Stav baterie, sítě a další údaje</string>
-  <string name="device_total_memory">Úložiště</string>
+  <string name="device_total_memory">"Úložiště "</string>
   <string name="dial_application_title">Volání</string>
   <string name="dial_pad_tones_title">Tóny číselníku</string>
   <string name="dialog_chose_item">Vyberte položku na zobrazení</string>
@@ -7432,5 +7432,8 @@ Mezi funkcemi můžete přepínat přejetím nahoru třemi prsty a podržením."
 	<string name="miuix_access_state_desc">Vybráno</string>
     <string name="miuix_alphabet_indexer_name">Indexová lišta</string>
     <string name="miuix_indexer_selected">Vybraných %s</string>
+	<string name="bluetooth_pairing_shares_phonebook_not_support_voice">Povolit přístup ke kontaktům</string>
+    <string name="dialog_esim_button_negative">Zrušit</string>
+    <string name="dialog_esim_button_positive">OK</string>
 </resources>
 
