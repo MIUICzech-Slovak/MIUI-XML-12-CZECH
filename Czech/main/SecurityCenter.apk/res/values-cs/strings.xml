@@ -4512,7 +4512,7 @@ z vašeho hraní her"</string>
     <string name="real_location_off">Přibližná poloha je zapnutá</string>
     <string name="real_location_on">Přibližná poloha je vypnutá</string>
     <string name="view_traffic_detail">Zobrazit podrobnosti</string>
-	<string name="ac_notification_action_text">Povolit</string>
+	  <string name="ac_notification_action_text">Povolit</string>
     <string name="gb_adv_touch_adv_title">Klasický režim (předvolené)</string>
     <string name="gb_adv_touch_custom1">Odezva na potáhnutí</string>
     <string name="gb_adv_touch_custom2">Citlivost na plynulé dotyky</string>
@@ -4821,7 +4821,7 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="pc_hidemode_normal">Vyvážené</string>
     <string name="pc_hidemode_performance">Výkon</string>
     <string name="pc_hidemode_performance_title">Výkonný režim</string>
-    <string name="pc_hidemode_power_save">Síla</string>
+    <string name="pc_hidemode_power_save">Úspora</string>
     <string name="pc_performance_mode_dialog_summary">Vaše zařízení bude schopné fungovat %s ve Výkonném režimu. Výkonný režim může zvýšit spotřebu baterie a způsobit přehřívání zařízení.</string>
     <string name="pc_performance_mode_dialog_title">Výkonný režim</string>
 	<string name="security_center_title">Bezpečnost</string>
