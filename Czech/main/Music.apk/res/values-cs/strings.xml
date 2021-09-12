@@ -1377,4 +1377,6 @@ Klepněte na %s
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="tomorrow">Zítra</string>
+  <string name="add">Přidat</string>
+  <string name="no_lyrics">Žádné texty</string>
 </resources>

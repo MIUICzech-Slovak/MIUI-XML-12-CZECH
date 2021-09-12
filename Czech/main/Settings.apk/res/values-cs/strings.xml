@@ -7435,5 +7435,26 @@ Mezi funkcemi můžete přepínat přejetím nahoru třemi prsty a podržením."
 	<string name="bluetooth_pairing_shares_phonebook_not_support_voice">Povolit přístup ke kontaktům</string>
     <string name="dialog_esim_button_negative">Zrušit</string>
     <string name="dialog_esim_button_positive">OK</string>
+	<string name="interact_across_profiles_app_detail_title">Propojená pracovní &amp; osobní aplikace</string>
+     <string name="interact_across_profiles_consent_dialog_app_data_summary">Tato aplikace má přístup k datům ve vaší osobní aplikaci %1$s .</string>
+     <string name="interact_across_profiles_consent_dialog_app_data_title">Data aplikací</string>
+     <string name="interact_across_profiles_consent_dialog_permissions_summary">Tato aplikace může používat vaše osobní oprávnění aplikace %1$s, jako je přístup k poloze, úložišti nebo kontaktům.</string>
+     <string name="interact_across_profiles_consent_dialog_permissions_title">Oprávnění</string>
+     <string name="interact_across_profiles_consent_dialog_summary">Propojujte aplikace pouze tehdy, pokud jim důvěřujete, že nebudou sdílet osobní údaje s vaším IT administrátorem.</string>
+     <string name="interact_across_profiles_consent_dialog_title">Důvěřujete pracovní %1$s se svými osobními údaji?</string>
+     <string name="interact_across_profiles_empty_text">Žádné propojené aplikace</string>
+     <string name="interact_across_profiles_install_app_summary">Klepnutím získáte aplikaci</string>
+     <string name="interact_across_profiles_install_personal_app_title">Chcete-li tyto aplikace propojit, nainstalujte si %1$s do osobního profilu</string>
+     <string name="interact_across_profiles_install_work_app_title">Chcete-li tyto aplikace propojit, nainstalujte si %1$s do pracovního profilu</string>
+     <string name="interact_across_profiles_keywords">aplikace s propojenými aplikacemi napříč pracovním i osobním profilem</string>
+     <string name="interact_across_profiles_number_of_connected_apps_none">Nejsou propojeny žádné aplikace</string>
+     <string name="interact_across_profiles_summary_1">Propojené aplikace sdílejí oprávnění a mohou si navzájem přistupovat k datům.</string>
+     <string name="interact_across_profiles_summary_2">Propojujte aplikace pouze tehdy, pokud jim důvěřujete, že nebudou sdílet osobní údaje s vaším IT administrátorem.</string>
+     <string name="interact_across_profiles_summary_3">V nastavení ochrany soukromí svého zařízení můžete aplikace kdykoli odpojit.</string>
+     <string name="interact_across_profiles_summary_allowed">Propojeno</string>
+     <string name="interact_across_profiles_summary_not_allowed">Nepropojeno</string>
+     <string name="interact_across_profiles_switch_disabled">Propojte tyto aplikace</string>
+     <string name="interact_across_profiles_switch_enabled">Propojeno</string>
+     <string name="interact_across_profiles_title">Propojená pracovní &amp; osobní aplikace</string>
 </resources>
 

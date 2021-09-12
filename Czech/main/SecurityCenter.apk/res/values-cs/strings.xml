@@ -5133,4 +5133,6 @@ ke zvýšené spotřebě baterie a přehřívání"</string>
     <string name="miuix_alphabet_indexer_name">Indexová lišta</string>
     <string name="miuix_indexer_selected">Vybraných %s</string>
 	<string name="HIPS_Perm_GetInstall_Desc">Získat informace o nainstalovaných aplikacích v tomto zařízení.</string>
+	<string name="settings_privacy_revoke_desc">Přepnutím přepínače odvoláváte svůj souhlas se zásadami ochrany osobních údajů pro Optimalizaci.</string>
+     <string name="settings_privacy_revoke_title">Odvolání souhlasu</string>
 </resources>  
