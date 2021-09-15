@@ -930,7 +930,6 @@ Bylo přičteno dalších %1$s"</string>
     <string name="size_lv1">Menší než %d KB</string>
     <string name="size_lv6">Větší než %d GB</string>
     <string name="total_size">Celkem: %s</string>
-	
      <string name="app_all_purpose_pad">Vítejte v aplikaci Soubory! Pomocí této aplikace můžete spravovat vaše soubory na úložišti.</string>
      <string name="enter">Otevřít správce souborů</string>
      <string name="guide_one_summary">Nedávné soubory jsou seskupeny podle data.</string>
@@ -940,5 +939,6 @@ Bylo přičteno dalších %1$s"</string>
      <string name="guide_two_summary">Fotografie a screenshoty jsou skryté.</string>
      <string name="guide_two_title">Zobrazit jen základní položky</string>
      <string name="next">Další</string>
-     <string name="start_all">Vše</string>  	
+     <string name="start_all">Vše</string>
+	 <string name="clean_hint_pad">Vyčistěte odpad pro uvolnění místa na úložišti</string>
 </resources>  

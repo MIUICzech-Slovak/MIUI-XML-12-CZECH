@@ -290,4 +290,5 @@
     <string name="miplay_headset_lc3_hint">Vypněte LC3 pro možnost přepnutí zvukového výstupu do tohoto zařízení</string>
     <string name="miplay_service_timeout_toast">Připojení selhalo. Zkuste to znova.</string>
     <string name="miplay_song_title_empty">Žádná skladba</string>
+	<string name="quick_settings_pcmode_error">Nenalezena žádná aplikace, nainstalujte a zkuste znova.</string>
 </resources>  

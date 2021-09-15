@@ -5135,4 +5135,19 @@ ke zvýšené spotřebě baterie a přehřívání"</string>
 	<string name="HIPS_Perm_GetInstall_Desc">Získat informace o nainstalovaných aplikacích v tomto zařízení.</string>
 	<string name="settings_privacy_revoke_desc">Přepnutím přepínače odvoláváte svůj souhlas se zásadami ochrany osobních údajů pro Optimalizaci.</string>
      <string name="settings_privacy_revoke_title">Odvolání souhlasu</string>
+	 <string name="charge_high_temp_warning_dialog_ok">Rozumím</string>
+    <string name="charge_high_temp_warning_dialog_text">Zdá se, že nabíjecí port je nyní přehřátý. Před opětovným nabíjením odpojte nabíječku a nechte baterii vychladnout.</string>
+    <string name="charge_high_temp_warning_text">Odpojte nabíječku a nechte baterii vychladnout</string>
+    <string name="charge_high_temp_warning_title">Nabíjecí port je příliš horký</string>
+    <string name="privacy_apps_add">Přidat</string>
+    <string name="privacy_apps_password_enable_summay">Chraňte soukromé soubory pomocí zámku aplikácí</string>
+    <string name="privacy_apps_password_enable_title">Zámek aplikací</string>
+    <string name="privacy_apps_tutorial_dlg_message_1">Roztáhnutím dvou prstů od sebe na domácí obrazovce zobrazíte skryté aplikace</string>
+    <string name="privacy_apps_tutorial_dlg_message_2">Poznámka: Když skryjete aplikaci, skryje se jen její ikona na ploše.</string>     
+    <string name="privacy_search_keyword_1">Soukromí</string>
+    <string name="privacy_search_keyword_2">Skrýt aplikace</string>
+    <string name="privacy_search_keyword_3">Skrýt ikony</string>
+    <string name="privacy_search_keyword_4">Skrýt odkazy na ploše</string>
+    <string name="privacy_search_keyword_5">Soukromé aplikace</string>
+    <string name="privacy_search_keyword_6">Skrýt</string>
 </resources>  

@@ -7456,5 +7456,7 @@ Mezi funkcemi můžete přepínat přejetím nahoru třemi prsty a podržením."
      <string name="interact_across_profiles_switch_disabled">Propojte tyto aplikace</string>
      <string name="interact_across_profiles_switch_enabled">Propojeno</string>
      <string name="interact_across_profiles_title">Propojená pracovní &amp; osobní aplikace</string>
+	 <string name="low_dc_light_title">Anti-flicker režim při slabém osvětlení</string>
+    <string name="miheadset_windnoise">Vítr</string>
 </resources>
 

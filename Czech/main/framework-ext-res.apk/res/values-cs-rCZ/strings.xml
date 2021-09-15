@@ -316,5 +316,6 @@
     <string name="keyboard_upgrade_start">Aktualizace klávesnice...</string>
     <string name="keyboard_upgrade_success">Klávesnica byla aktualizována</string>
 	<string name="keyboard_connect_failed">Nebylo možné připojit klávesnici. Zkuste to znova.</string>
-	<string name="lockscreen_carrier_customized">Omezené služby</string>	
+	<string name="lockscreen_carrier_customized">Omezené služby</string>
+	<string name="fold_small_not_split">Rozdělení obrazovky není podporované na vnějším displeji</string>
 </resources>
