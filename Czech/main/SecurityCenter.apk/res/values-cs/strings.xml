@@ -4174,7 +4174,7 @@ z vašeho hraní her"</string>
     <string name="pp_app_warning_permission_tips">Dostávat upozornění o chování aplikací</string>
     <string name="pp_app_warning_permission_tips_detail">Dostávat upozornění když aplikace čtou vaší polohu, nahrají zvuk nebo použijí fotoaparát</string>
     <string name="pp_call_phone_msg">Historie volaní</string>
-    <string name="pp_capability_approved_title">Naša ochrana soukromí byla schválená certifikovanými expertmi.</string>
+    <string name="pp_capability_approved_title">Naše ochrana soukromí byla schválená certifikovanými experty.</string>
     <string name="pp_chain_start_is_prohibited">Zamezit řetězovému spuštění</string>
     <string name="pp_chain_start_is_prohibited_detail">Kontrolovat situace když se aplikace spouští navzájem bez vašeho vědomí</string>
     <string name="pp_clipboard">Schránka</string>
