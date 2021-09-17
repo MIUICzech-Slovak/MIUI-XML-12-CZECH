@@ -222,7 +222,7 @@
   <string name="HIPS_Perm_background_start_activity">Spustit na pozadí</string>
   <string name="HIPS_Perm_background_start_activity_Desc">Spustit aplikaci na pozadí</string>
   <string name="HIPS_Perm_deamon_notification">Permanentní upozornění</string>
-  <string name="HIPS_Perm_deamon_notification_Desc">zobrazit permanentní upozornění</string>
+  <string name="HIPS_Perm_deamon_notification_Desc">Zobrazit permanentní upozornění</string>
   <string name="HIPS_Perm_get_accounts">Přístup k účtům v zařízení</string>
   <string name="HIPS_Perm_get_accounts_Desc">Přístup ke všem účtům uložených v zařízení</string>
   <string name="HIPS_Perm_get_installed_apps">Získat informace o nainstalovaných aplikacích</string>
