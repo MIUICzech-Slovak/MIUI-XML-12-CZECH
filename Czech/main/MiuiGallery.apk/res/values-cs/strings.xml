@@ -2461,4 +2461,5 @@
     <string name="permission_contacts_desc_2">Pro rozpoznání lidí na fotografiích</string>
     <string name="permission_contacts_name_2">Přístup ke kontaktům</string>
     <string name="permission_storage_name_2">Přístup a ukládání fotografií a souborů v zařízení</string>
+	<string name="share_and_delete_screenshot">Po sdílení smazat</string>
 </resources>
