@@ -172,4 +172,12 @@ Tento problém může být způsoben dvoufaktorovým ověřováním účtu. Zkus
      <string name="wps_card_tips">%s s vámi sdílené WPS Office dokumenty.</string>
      <string name="wps_card_title">WPS Office</string>
 	 <string name="x_account_settings_mibill_resolve_label_summary">Automaticky rozpoznat účtenky platebních karet</string>
+	<string name="folder_list_current_account">Aktuální schránka</string>
+     <string name="folder_list_display_all">Zobrazit všechny složky</string>
+     <string name="folder_list_display_only_import">Zobrazit pouze důležité složky</string>
+     <string name="folder_no_mails">Žádná pošta</string>
+     <string name="folder_picker_title">Výběr složek</string>
+     <string name="folder_removed">Odebráno z %1$s</string>
+     <string name="folder_shortcut_widget_label">Složka pošty</string>
+     <string name="folder_synchronization_mail_settings">Nastavení synchronizace složek</string>
 </resources>
