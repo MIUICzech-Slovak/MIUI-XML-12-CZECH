@@ -681,6 +681,26 @@
     <string name="navigation_set_miui_home_as_default_dialog_message">Když nastavíte jiný launcher než MIUI, přestane fungovat ovládání gesty. Chcete pokračovat?</string>
     <string name="navigation_set_miui_home_as_default_dialog_ok">Nastavit</string>
     <string name="navigation_set_miui_home_as_default_dialog_title">Upozornění</string>
+    <string name="maml_download_dialog_cancel_text">Čekat na Wi-Fi</string>
+    <string name="maml_download_dialog_cancel_text_china">Čekat na Wi-Fi</string>
+    <string name="maml_download_dialog_checkbox_text">Více nezobrazovat</string>
+    <string name="maml_download_dialog_confirm_text">Stáhnout</string>
+    <string name="maml_download_dialog_message">Bude staženo %s MB přes mobilní data. Chcete pokračovat?</string>
+    <string name="maml_download_dialog_title">Spotřeba mobilních dat</string>
+    <string name="maml_download_tip_wait_wifi">Tato položka bude stažena po připojení na Wi-Fi</string>
+    <string name="maml_download_tip_wait_wifi_china">Tato položka bude stažena po připojení na Wi-Fi</string>
+    <string name="navigation_guide_finish_text">Rozumím</string>
+    <string name="navigation_guide_prohibit_gesture_hint">Není možné použít gesta během sledování ukázky</string>
+    <string name="navigation_guide_provision_see_more_pad_with_virtual_key">Více ukázek najdete v Nastavení > Domácí plocha > Ovládání</string>
+    <string name="open_personal_assistant_settings">Nastavení asistenta</string>
+    <string name="ota_layout_adjustment_button_text">Rozumím</string>
+    <string name="ota_layout_adjustment_content">Rozložení plochy bylo synchronizováno.</string>
+    <string name="ota_layout_adjustment_title">Rozložení plochy</string>
+    <string name="recents_clear_all_tasks">Vyčistit vše</string>
+    <string name="swipe_the_desktop_to_the_left">Potáhněte vlevo na ploše</string>
+    <string name="swipe_the_desktop_to_the_right">Potáhněte vpravo na ploše</string>
+    <string name="system_shortcuts_edit">Upravit</string>
+    <string name="toast_drag_to_assistant_reject">Spouštění asistenta…</string>
 </resources>
 
 

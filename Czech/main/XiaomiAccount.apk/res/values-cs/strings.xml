@@ -744,5 +744,22 @@ Zkontrolujte také složku SPAM."</string>
     <string name="self_account_info">Osobní info.</string>
     <string name="third_party_login">Další účty</string>
 	<string name="passport_area_code_others">Použíjte jinou předvolbu</string>
-    <string name="passport_tz_invalid">Nalezeno bezpečnostní riziko. Toto zařízení má odomknutý bootloader. Použíjte jiný způsob přihlášení.</string>	
+    <string name="passport_tz_invalid">Nalezeno bezpečnostní riziko. Toto zařízení má odomknutý bootloader. Použíjte jiný způsob přihlášení.</string>
+    <string name="accept">Povolit</string>
+    <string name="cancel">Zrušit</string>
+    <string name="deny">Odmítnout</string>
+    <string name="enable">Nastavení</string>
+    <string name="goto_accept">OK</string>
+    <string name="permission_desc_read_sms">Pro automatické zadávání ověřovacích kódů</string>
+    <string name="permission_desc_write_external_storage">Pro nahrávání záznamů o chybách</string>
+    <string name="permission_read_sms">Přístup ke zprávám</string>
+    <string name="permission_write_external_storage">Přístup a uložení položek na úložiště</string>
+    <string name="request_open_permission">Je vyžadováno povolení</string>
+    <string name="request_use_camera_message">Povolit Mi účtu přístup k fotoaparátu?</string>
+    <string name="request_use_camera_title">Přístup k fotoaparátu</string>
+    <string name="request_use_gallery_message">Povolit Mi účtu přístup ke Galerii?</string>
+    <string name="request_use_gallery_title">Přístup ke Galerii</string>
+    <string name="request_use_writing_clipboard_message">Pro kopírování vašeho ID Mi účtu, povolte ukládání položek do schránky.</string>
+    <string name="user_instruction_all_purpose">Vítejte v Mi účte! Můžete vytvořit nový účet nebo se přihlásit pro přístup k online Xiaomi službám.</string>
+    <string name="user_instruction_tip">Pro přihlášení musíte souhlasit s Podmínkami používání.</string>	
 </resources>
