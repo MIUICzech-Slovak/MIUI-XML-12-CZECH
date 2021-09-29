@@ -7459,5 +7459,12 @@ Mezi funkcemi můžete přepínat přejetím nahoru třemi prsty a podržením."
 	 <string name="low_dc_light_title">Anti-flicker režim při slabém osvětlení</string>
     <string name="miheadset_windnoise">Vítr</string>
     <string name="beauty_fc_assistant">Asistent předního fotoaparátu</string>
+    <string name="handy_mode_no_touch_assistant">Režim jedné ruky funguje jen když používáte navigační klávesy a ne ovládání gesty.</string>
+    <string name="headset_spatial_audio">Prostorový zvuk</string>
+    <string name="insert_sim_card_and_try_again">Vložte svoji SIM kartu a zkuste to znova.</string>
+    <string name="keyboard_funtion_key">Funkční klávesa</string>
+    <string name="sim_status_title_sim_softbank">Stav SIM %1$d</string>
+    <string name="status_number_sim_softbank">Telefonní číslo %1$d</string>
+    <string name="unsupported_usim_card">Nepodporovaná USIM karta.</string>	
 </resources>
 
