@@ -185,7 +185,7 @@ Můžete je i znovu stáhnout."</string>
   <string name="ok_button">OK</string>
   <string name="openPasswordGuard">Nastavte heslo Druhého profilu</string>
   <string name="openSuccess">Zapnuto</string>
-  <string name="opened">On</string>
+  <string name="opened">Zap</string>
   <string name="optimize_now">Optimalizovat</string>
   <string name="other">Ostatní</string>
   <string name="otherSettings">Ostatní nastavení</string>
@@ -513,4 +513,6 @@ si zaslouží vlastní aplikaci"</string>
     <string name="tomorrow">Zítra</string>
 	<string name="settings_notification_second_space_show_in_locked_summary">Zobrazit upozornění z Druhého profilu na zamknuté obrazovce</string>
     <string name="settings_notification_second_space_show_in_locked_title">Zobrazit upozornění</string>
+	<string name="confirm_close_password_desc">"Pokud vypnete heslo, nebudete moci vstoupit do Druhého profilu ze zamykací obrazovky. Přesto vypnout?"</string>
+    <string name="confirm_close_password_title">Vypnutí hesla</string>
 </resources>
