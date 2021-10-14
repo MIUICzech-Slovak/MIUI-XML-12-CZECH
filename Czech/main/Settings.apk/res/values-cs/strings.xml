@@ -5050,7 +5050,7 @@ Formátováním vymažete veškerá data z úložiště ^1. Chcete-li předejít
   <string name="uninstall_xspace_app_dlg_title">Odinstalovat klonované aplikace?</string>
   <string name="unknown">Neznámé</string>
   <string name="unknown_app">Neznámá aplikace</string>
-  <string name="unlock_backup_info_summary">Jak chcete zařízení odemknout v případě, že vás funkce Odemknutí obličejem nerozpozná?</string>
+  <string name="unlock_backup_info_summary">Jak chcete zařízení odemknout v případě, že vás funkce Odemknutí tváří nerozpozná?</string>
   <string name="unlock_change_lock_password_title">Změnit bezpečnostní heslo</string>
   <string name="unlock_change_lock_pattern_title">Změna bezpečnostního gesta</string>
   <string name="unlock_change_lock_pin_title">Změna bezpečnostního kódu PIN</string>
@@ -5074,13 +5074,13 @@ Formátováním vymažete veškerá data z úložiště ^1. Chcete-li předejít
   <string name="unlock_set_enter_system">Přímý přístup</string>
   <string name="unlock_set_enter_system_summary">"Po zapnutí nebude možné změnit téma zamykací obrazovky."</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Nízké zabezpečení, experimentální</string>
-  <string name="unlock_set_unlock_biometric_weak_title">Odemknutí obličejem</string>
+  <string name="unlock_set_unlock_biometric_weak_title">Odemknutí tváří</string>
   <string name="unlock_set_unlock_disabled_summary">Zakázáno správcem, zásadami šifrování nebo úložištěm pověření</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">Změnit nebo deaktivovat bezpečnostní gesto, kód PIN nebo heslo</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Změna zámku obrazovky</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">Vyberte způsob uzamknutí obrazovky</string>
   <string name="unlock_set_unlock_launch_picker_title">Zámek obrazovky</string>
-  <string name="unlock_set_unlock_mode_biometric_weak">Odemknutí obličejem</string>
+  <string name="unlock_set_unlock_mode_biometric_weak">Odemknutí tváří</string>
   <string name="unlock_set_unlock_mode_none">Tažením</string>
   <string name="unlock_set_unlock_mode_off">Žádný</string>
   <string name="unlock_set_unlock_mode_password">Heslo</string>
@@ -7465,6 +7465,43 @@ Mezi funkcemi můžete přepínat přejetím nahoru třemi prsty a podržením."
     <string name="keyboard_funtion_key">Funkční klávesa</string>
     <string name="sim_status_title_sim_softbank">Stav SIM %1$d</string>
     <string name="status_number_sim_softbank">Telefonní číslo %1$d</string>
-    <string name="unsupported_usim_card">Nepodporovaná USIM karta.</string>	
+    <string name="unsupported_usim_card">Nepodporovaná USIM karta.</string>
+	<string name="blank_screen_no_device">Žádné zařízení</string>
+    <string name="blank_screen_no_record">Žádné záznamy</string>
+    <string name="bluetooth_other_settings">Další nastavení</string>
+    <string name="bluetooth_version">Bluetooth verze</string>
+    <string name="bluetooth_version_message">Aktualizovat</string>
+    <string name="current_use_default_wallet">Vybráno automaticky</string>
+    <string name="dclight_unavailable_prompt">Anti-flicker režim podporuje jen vnější displej</string>
+    <string name="display_prompt_confirm">Rozumím</string>
+    <string name="face_data_suggesstion_first_cn">Aby jste mohli používat odemykání tváří, potřebujeme shromáždit údaje o vaší tváři. Údaje o tváři budou uloženy lokálně na tomto zařízení. Pokud je chcete odstranit, v Nastavení vyhledejte \ "Odemknutí tváří \" a potom vyberte Odemknutí tváří> Údaje o tvári.
+Odemknutí tváří je méně bezpečné než PIN, heslo nebo vzor. Vaše zařízení může být odemknuto vaší fotografií, případně i lidmi nebo předměty podobného vzhledu.</string>
+    <string name="finger_add_user_info_dialog_cancel">Zrušit</string>
+    <string name="finger_add_user_info_dialog_message">Aby jste mohli používat odemykání otiskem prstu a uskutečňovat platby otiskem prstu, musíme váš otisk prstu shromáždit. Otisk prstu bude uložen lokálně na tomto zařízení. Pokud jej chcete odstranit, v Nastavení vyhledejte \ "Odemknutí otiskem prstu \" a potom vyberte Odemknutí otiskem prstu> Otisk prstu. Pokud nesouhlasíte, tuto funkci nebudete moci používat.</string>
+    <string name="finger_add_user_info_dialog_next">Souhlasím</string>
+    <string name="finger_add_user_info_dialog_title">Upozornění</string>
+    <string name="lockscreen_access_pattern_cleared">Vzor vymazán</string>
+    <string name="lockscreen_access_pattern_detected">Vzor dokončen</string>
+    <string name="lockscreen_access_pattern_start">Vzor začatý</string>
+    <string name="miui_face_enroll_risk_warning_title_text_cn">Stanovisko o bezpečnosti</string>
+    <string name="screen_refresh_unavailable_prompt">Změna obnovovací frekvence je podporována jen pro vnější displej</string>
+    <string name="se_route_default">Vybrat automaticky</string>
+    <string name="sos_privacy_policy_change_endtitle">Přečtěte si novou verzi %s.</string>
+    <string name="sos_privacy_policy_change_message_reject">Nebudete moci používat nouzové SOS pokud neodsouhlasíte Ochranu soukromí. Souhlasíte %s?</string>
+    <string name="sos_privacy_policy_change_subtitle">Ochrana soukromí pro nouzové SOS byla aktualizována:</string>
+    <string name="sos_privacy_policy_change_title">Aktualizovaná Ochrana soukromí</string>
+    <string name="sos_privacy_policy_change_title_reject">Není možné použít aplikaci</string>
+    <string name="sos_privacy_policy_no_net_button">Rozumím</string>
+    <string name="sos_privacy_policy_no_net_message">Pro odvolání souhlasu je potřeba připojení k síti.</string>
+    <string name="sos_privacy_policy_no_net_title">Nebylo možné připojit se k síti</string>
+    <string name="sos_privacy_policy_revoke">Odvolání souhlasu</string>
+    <string name="sos_privacy_policy_revoke_message_reject">Jestliže budete pokračovat, odvoláte svůj souhlas s pravidly ochrany osobních údajů nouzového SOS. Osobní údaje, které už byli shromážděny a uchovány, budou v rámci stanoveného období vymazány v souladu s platnými zákony a predpisy, pokud není požadováno jinak.
+
+Jelikož nouzové SOS poskytuje svoje služby na základě shromažďování potřebných osobních údajů, vaše odvolání souhlasu se bude považovat za odmítnutí přijetí bezpečnostních služeb.
+
+Chcete odvolat souhlas s %s nyní?</string>
+    <string name="sos_privacy_policy_revoke_title_reject">Upozornění</string>
+    <string name="sos_privacy_revoke_failed_dialog_content">Chyba serveru.</string>
+    <string name="sos_privacy_revoke_failed_dialog_title">Nebylo možné odvolat souhlas</string>
 </resources>
 

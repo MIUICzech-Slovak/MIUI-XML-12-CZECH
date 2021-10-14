@@ -243,4 +243,10 @@
      <string name="settings_pc_use_tile">O MIUI+</string>
      <string name="settings_scanner_summary">Připojení MIUI+ prostřednictvím QR kódu</string>
      <string name="settings_trusted_tips_china">Připojit se k vybraným zařízením automaticky pokud je zapnuté Bluetooth a Wi-Fi</string>
+	 <string name="guide_window_btn_know">Rozumím</string>
+    <string name="guide_window_operation">Potáhněte ze strany do středu obrazovky</string>
+    <string name="guide_window_title">Zpět</string>
+    <string name="low_version_dialog_message">Aktualizujte MIUI+ ve vašem PC z plus.miui.com</string>
+    <string name="low_version_dialog_title">Aktualizujte MIUI+</string>
+    <string name="pcmode_not_support_multi_window">PC režim nepodporuje zobrazení více oken.</string>
 </resources>  

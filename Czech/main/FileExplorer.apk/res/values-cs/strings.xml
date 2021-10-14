@@ -941,4 +941,5 @@ Bylo přičteno dalších %1$s"</string>
      <string name="next">Další</string>
      <string name="start_all">Vše</string>
 	 <string name="clean_hint_pad">Vyčistěte odpad pro uvolnění místa na úložišti</string>
+	 <string name="app_name_recorder">Záznamník</string> 
 </resources>  

@@ -379,4 +379,10 @@
     <string name="recommend_switch_desc">Dostávejte obsah podle vašich nastavení</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
+	<string name="goto_confirm">Nastavení</string>
+    <string name="require_permission">Požadovaná povolení</string>
+    <string name="require_permission_text">Pro ukládání a prohlížení položek, povolte přístup k úložišti.</string>
+    <string name="summary3">Vítejte v Denní tapetě! Tato aplikace požaduje přístup k síti pro její správné fungování. Přečtěte si naše Podmínky používání a Ochranu soukromí.</string>
+    <string name="summary4">Vítejte v Denní tapetě!</string>
+    <string name="summary5">Pro správné fungování jsou požadována povolení k úložišti.</string>
 </resources>  

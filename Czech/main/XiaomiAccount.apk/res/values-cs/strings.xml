@@ -761,5 +761,19 @@ Zkontrolujte také složku SPAM."</string>
     <string name="request_use_gallery_title">Přístup ke Galerii</string>
     <string name="request_use_writing_clipboard_message">Pro kopírování vašeho ID Mi účtu, povolte ukládání položek do schránky.</string>
     <string name="user_instruction_all_purpose">Vítejte v Mi účte! Můžete vytvořit nový účet nebo se přihlásit pro přístup k online Xiaomi službám.</string>
-    <string name="user_instruction_tip">Pro přihlášení musíte souhlasit s Podmínkami používání.</string>	
+    <string name="user_instruction_tip">Pro přihlášení musíte souhlasit s Podmínkami používání.</string>
+	<string name="button_agree">Souhlasím</string>
+    <string name="button_close">Zavřít</string>
+    <string name="button_refuse">Nesouhlasím</string>
+    <string name="permission_instructions">Použití povolení</string>
+    <string name="permission_withdraw">Odvolat</string>
+    <string name="privacy_policy_reject_confirm_msg">Nebudete moci používat Mi účet dokud neodsouhlasíte Podmínky používání. Souhlasíte?</string>
+    <string name="privacy_policy_reject_confirm_title">Není možné používat Mi účet</string>
+    <string name="privacy_policy_update_msg">Podmínky používání pro Mi účet byli aktualizovány. Přečtěte si je a odsouhlaste.</string>
+    <string name="privacy_policy_update_title">Aktualizovaná Ochrana soukromí</string>
+    <string name="revoke_privacy_policy">Odvolání souhlasu</string>
+    <string name="revoke_privacy_policy_instructions">Jestliže budete pokračovat, odvoláte svůj souhlas s Podmínkami používání Mi účtu. Chcete ho odvolat?</string>
+    <string name="revoke_privacy_policy_title">Odvolání souhlasu</string>
+    <string name="user_license_with_3rd_app_no_operator">Souhlasím s Podmínkami používání a Ochranou soukromí.</string>
+    <string name="user_license_with_out_3rd_app_no_operator">Souhlasím s Podmínkami používání a Ochranou soukromí.</string>
 </resources>

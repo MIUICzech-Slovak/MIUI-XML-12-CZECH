@@ -1681,4 +1681,6 @@ Chcete ji zavřít?"</string>
   <string name="notification_channel_network_alerts">Síťová upozornění</string>
   <string name="notification_channel_network_available">Síť k dispozici</string>
   <string name="notification_channel_network_status">Stav sítě</string>
+  <string name="permission_request_notification_for_app_with_subtitle">"Požadováno povolení %1$s
+pro účet %2$s."</string>
 </resources>

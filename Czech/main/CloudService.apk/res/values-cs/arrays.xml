@@ -210,4 +210,12 @@
         <item>Zapněte synchronizaci</item>
         <item>Wi-Fi;wifi;Wi-Fi;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud</item>
      </string-array>
+	 <string-array name="privacy_dialog_sync_runtime_perm_title">
+        <item>Přístup k událostem</item>
+        <item>Odeslat SMS</item>
+        <item>Číst MMS</item>
+        <item>Přístup ke kontaktům</item>
+        <item>Upravit kontakty</item>
+        <item>Přístup k souborům v zařízení</item>
+    </string-array> 
 </resources>
