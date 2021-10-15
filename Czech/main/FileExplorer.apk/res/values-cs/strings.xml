@@ -941,5 +941,8 @@ Bylo přičteno dalších %1$s"</string>
      <string name="next">Další</string>
      <string name="start_all">Vše</string>
 	 <string name="clean_hint_pad">Vyčistěte odpad pro uvolnění místa na úložišti</string>
-	 <string name="app_name_recorder">Záznamník</string> 
+	 <string name="app_name_recorder">Záznamník</string>
+	<string name="mirror_no_recommended_app">Žádné doporučené aplikace</string>
+     <string name="mirror_open_mode_error">"Položky nelze načíst"</string>
+     <string name="mirror_open_mode_loading">Vteřinku…</string> 
 </resources>  
