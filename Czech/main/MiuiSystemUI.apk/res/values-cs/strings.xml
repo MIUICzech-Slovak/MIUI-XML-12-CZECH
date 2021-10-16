@@ -2671,4 +2671,15 @@ Tato aplikace nemá oprávnění k nahrávání, ale může zaznamenávat zvuk p
     <string name="miuix_indexer_selected">Vybraných %s</string>
 	<string name="phone_locked_string_owner_user">Příliš mnoho neúspěšných pokusů. Toto zařízení je uzamknuto.</string>
     <string name="phone_locked_string_second_user">Příliš mnoho neúspěšných pokusů. Toto zařízení je uzamknuto.</string>
+	
+     <string name="miui_lock_screen_date">dd.MM EEEE</string>
+     <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
+     <string name="miui_lock_screen_date_two_lines">"EEEE
+dd.MM"</string>
+     <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd.MM"</string>
+     <string name="miui_lock_screen_large_date">"EEE
+dd.MM"</string>
+     <string name="miui_lock_screen_large_date_12">"EEE
+dd.MM"</string>	
 </resources>
