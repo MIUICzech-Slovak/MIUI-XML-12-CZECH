@@ -19,17 +19,17 @@
         <item quantity="few">před %d lety</item>
         <item quantity="many">před %d roku</item>
      </plurals>
-     <plurals name="kg_too_many_failed_attempts_countdown">
-        <item quantity="other">Zkuste to znovu za %d sekund.</item>
-        <item quantity="one">Zkuste to znovu za 1 sekundu.</item>
-        <item quantity="few">Zkuste to znovu za %d sekundy.</item>
-        <item quantity="many">Zkuste to znovu za %d sekundy.</item>
+     <plurals name="controls_number_of_favorites">
+        <item quantity="other">Bylo přidáno %s ovládacích prvků.</item>
+        <item quantity="one">Byl přidán %s ovládací prvek.</item>
+        <item quantity="few">Byly přidány %s ovládací prvky.</item>
+        <item quantity="many">Bylo přidáno %s ovládacího prvku.</item>
      </plurals>
-     <plurals name="quick_settings_hotspot_secondary_label_num_devices">
-        <item quantity="other">%d zařízení</item>
-        <item quantity="one">%d zařízení</item>
-        <item quantity="few">%d zařízení</item>
-        <item quantity="many">%d zařízení</item>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+        <item quantity="few">%d nová oznámení</item>
+        <item quantity="many">%d nového oznámení</item>
      </plurals>
      <plurals name="smartspace_hours">
         <item quantity="other">%d h</item>
@@ -42,18 +42,6 @@
         <item quantity="one">%d min</item>
         <item quantity="few">%d min</item>
         <item quantity="many">%d min</item>
-     </plurals>
-     <plurals name="snoozeHourOptions">
-        <item quantity="other">%d hodin</item>
-        <item quantity="one">%d hodina</item>
-        <item quantity="few">%d hodiny</item>
-        <item quantity="many">%d hodiny</item>
-     </plurals>
-     <plurals name="snoozeMinuteOptions">
-        <item quantity="other">%d minut</item>
-        <item quantity="one">%d minuta</item>
-        <item quantity="few">%d minuty</item>
-        <item quantity="many">%d minuty</item>
      </plurals>
      <plurals name="wifi_tether_connected_summary">
         <item quantity="other">Připojeno %1$d zařízení</item>
