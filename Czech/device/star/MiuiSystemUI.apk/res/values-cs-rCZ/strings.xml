@@ -339,7 +339,6 @@ Zkuste to znovu za %d s."</string>
      <string name="keyguard_indication_trust_unlocked">Trvale odemknuto funkcí Smart Lock</string>
      <string name="keyguard_indication_trust_unlocked_plugged_in">"%1$s
 %2$s"</string>
-     <string name="keyguard_more_overflow_text">+%d</string>
      <string name="keyguard_plugged_in_charging_limited">%s • Nabíjení je dočasně omezeno</string>
      <string name="keyguard_retry">Přejetím nahoru to zkusíte znovu</string>
      <string name="keyguard_try_fingerprint">K otevření použijte otisk prstu</string>
@@ -389,11 +388,8 @@ Zkuste to znovu za %d s."</string>
      <string name="mobile_carrier_text_format">%1$s, %2$s</string>
      <string name="mobile_data_text_format">%1$s – %2$s</string>
      <string name="monitoring_button_view_controls">Zobrazit ovládací prvky</string>
-     <string name="monitoring_description_ca_cert_settings_separator">" "</string>
-     <string name="monitoring_description_do_learn_more_separator">" "</string>
      <string name="monitoring_description_managed_profile_network_logging">Administrátor zapnul protokolování sítě, které monitoruje síťový provoz ve vašem pracovním profilu (ale ne v osobním).</string>
      <string name="monitoring_description_parental_controls">Toto zařízení spravuje rodič. Rodič může zobrazit údaje, jako jsou používané aplikace, tvá poloha a čas strávený na zařízení.</string>
-     <string name="monitoring_description_vpn_settings_separator">" "</string>
      <string name="monitoring_financed_description_named_management">"%1$s má přístup k datům spojeným s tímto zařízením, může měnit jeho nastavení a spravovat aplikace.
 
 Pokud máte nějaké otázky, obraťte se na organizaci %2$s."</string>
@@ -483,7 +479,6 @@ Pokud máte nějaké otázky, obraťte se na organizaci %2$s."</string>
      <string name="people_tile_description">Zobrazit poslední zprávy, zmeškané hovory a aktualizace stavu</string>
      <string name="people_tile_title">Konverzace</string>
      <string name="person_available">Dostupné</string>
-     <string name="power_charging">%1$s – %2$s</string>
      <string name="power_charging_limited">%1$s – nabíjení je dočasně omezeno</string>
      <string name="power_discharge_by">Vydrží asi do %1$s (%2$s)</string>
      <string name="power_discharge_by_enhanced">Při vašem obvyklém využití (%2$s) vydrží asi do %1$s</string>
@@ -509,7 +504,6 @@ Pokud máte nějaké otázky, obraťte se na organizaci %2$s."</string>
      <string name="private_dns_mode_provider">Název hostitele poskytovatele soukromého DNS</string>
      <string name="private_dns_mode_provider_failure">Nelze se připojit</string>
      <string name="private_dns_mode_provider_hostname_hint">Zadejte hostitele poskytovatele DNS</string>
-     <string name="process_kernel_label">OS Android</string>
      <string name="profile_connect_timeout_subtext">Problém s připojením. Vypněte zařízení a znovu jej zapněte</string>
      <string name="profile_info_settings_title">Informace o profilu</string>
      <string name="qs_alarm_tile_no_alarm">Budík nenastaven</string>

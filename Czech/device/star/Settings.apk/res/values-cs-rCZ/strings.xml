@@ -1653,7 +1653,6 @@ Zdálo se, že ve městě nejsou koně ani jakákoli zvířata. Lidé k převá
      <string name="learn_more">Další informace</string>
      <string name="legacy_navigation_summary">K přechodu zpět, zobrazení plochy a přepínání aplikací slouží tlačítka v dolní části obrazovky.</string>
      <string name="legacy_navigation_title">Navigace třemi tlačítky</string>
-     <string name="link_speed">%1$d Mb/s</string>
      <string name="live_caption_summary">Automatické přepisy médií</string>
      <string name="live_caption_title">Živý přepis</string>
      <string name="load_networks_progress">Vyhledávání…</string>
@@ -1941,7 +1940,6 @@ V tomto zařízení jsou přítomni další uživatelé.
      <string name="media_transfer_wired_usb_device_name">Kabelová sluchátka</string>
      <string name="meid_multi_sim">MEID (slot na SIM kartu %1$d)</string>
      <string name="memory_summary">Přibližné využití paměti: %1$s z %2$s</string>
-     <string name="memory_use_running_format">%1$s / %2$s</string>
      <string name="mic_toggle_title">Přístup k mikrofonu</string>
      <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>
      <string name="mms_message_summary">Odesílání a příjem při vypnutých mobilních datech</string>
@@ -2094,7 +2092,6 @@ Přepnutím na operátora %1$s nezrušíte službu %2$s."</string>
      <string name="nfc_disclaimer_content">Technologie NFC vyměňuje data mezi tímto zařízením a dalšími zařízeními a cíli v okolí, jako jsou platební terminály, systémy kontroly přístupu a interaktivní reklamy či značky.</string>
      <string name="nfc_disclaimer_title">Zapnout NFC</string>
      <string name="nfc_main_switch_title">Používat NFC</string>
-     <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
      <string name="nfc_payment_btn_text_set_deault">Výchozí nastavení</string>
      <string name="nfc_payment_btn_text_update">Aktualizovat</string>
      <string name="nfc_payment_update_default_label">Aktualizace výchozí platební aplikace</string>
@@ -2302,7 +2299,6 @@ Vylepšená oznámení mají přístup k obsahu oznámení, včetně osobních 
      <string name="other_sound_category_preference_title">Další zvuky a vibrace</string>
      <string name="overlay_option_device_default">Výchozí nastavení zařízení</string>
      <string name="overlay_toast_failed_to_apply">Překrytí se nepodařilo použít</string>
-     <string name="owner_info_settings_status">%1$d / %2$d</string>
      <string name="page_tab_title_summary">Vše</string>
      <string name="page_tab_title_support">Tipy a podpora</string>
      <string name="partial_connectivity_text">Některé aplikace služby kvůli omezenému připojení nebudou fungovat. Přesto použít?</string>
@@ -2328,7 +2324,6 @@ Vylepšená oznámení mají přístup k obsahu oznámení, včetně osobních 
      <string name="platform_compat_dialog_title_no_apps">Žádné aplikace</string>
      <string name="post_dsds_reboot_notification_text">Klepnutím aktualizujete nastavení SIM karty</string>
      <string name="post_dsds_reboot_notification_title_with_carrier">Číslo %1$s je aktivní</string>
-     <string name="power_charging">%1$s – %2$s</string>
      <string name="power_charging_limited">%1$s – nabíjení je dočasně omezeno</string>
      <string name="power_discharge_by">Vydrží asi do %1$s (%2$s)</string>
      <string name="power_discharge_by_enhanced">Při vašem obvyklém využití (%2$s) vydrží asi do %1$s</string>
@@ -2355,7 +2350,6 @@ Stiskněte současně vypínač a tlačítko zvýšení hlasitosti."</string>
      <string name="power_remaining_less_than_duration_only">Zbývá méně než %1$s</string>
      <string name="power_remaining_more_than_subtext">Zbývá více než %1$s (%2$s)</string>
      <string name="power_remaining_only_more_than_subtext">Zbývá více než %1$s</string>
-     <string name="power_remaining_settings_home_page">%1$s – %2$s</string>
      <string name="power_suggestion_battery_run_out">Baterie se může vybít kolem %1$s</string>
      <string name="power_usage_level_and_status">%1$s – %2$s</string>
      <string name="pref_title_network_details">Podrobnosti sítě</string>
@@ -2433,8 +2427,6 @@ Stiskněte současně vypínač a tlačítko zvýšení hlasitosti."</string>
      <string name="privileged_action_disable_sub_dialog_progress">Vypínání SIM karty…</string>
      <string name="privileged_action_disable_sub_dialog_title">Vypnout operátora %1$s?</string>
      <string name="privileged_action_disable_sub_dialog_title_without_carrier">Vypnout SIM kartu?</string>
-     <string name="process_format">%1$s (%2$d)</string>
-     <string name="process_kernel_label">OS Android</string>
      <string name="profile_connect_timeout_subtext">Problém s připojením. Vypněte zařízení a znovu jej zapněte</string>
      <string name="profile_owner_add_title_simplified">Povolit dohled?</string>
      <string name="profile_section_header">Pracovní oznámení</string>
@@ -2883,7 +2875,6 @@ Přepnutím nezrušíte službu %1$s."</string>
      <string name="sim_lock_settings_summary_off">Vypnuto</string>
      <string name="sim_lock_settings_summary_on">Uzamčeno</string>
      <string name="sim_selection_channel_title">Výběr SIM karty</string>
-     <string name="sim_settings_summary">%1$s – %2$s</string>
      <string name="sim_setup_channel_id">Aktivace sítě</string>
      <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
      <string name="sim_status_title_sim_slot">Stav SIM karty (slot na SIM kartu %1$d)</string>
@@ -2926,7 +2917,6 @@ Přepnutím nezrušíte službu %1$s."</string>
      <string name="spell_checker_primary_switch_title">Používat kontrolu pravopisu</string>
      <string name="spellcheckers_settings_for_work_title">Kontrola pravopisu pro práci</string>
      <string name="standby_bucket_summary">"Stav pohotovostního režimu aplikace:  %s"</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="status_data_network_type">Typ mobilní datové sítě</string>
      <string name="status_esim_id">EID</string>
      <string name="status_number_sim_slot">Telefonní číslo (slot na SIM kartu %1$d)</string>
@@ -3024,7 +3014,6 @@ Zkuste použít rychlejší médium ^3 nebo toto médium ^4 použijte jako přen
      <string name="suggestions_title">Návrhy</string>
      <string name="suggestions_title_v2">Navrženo pro vás</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-     <string name="summary_range_symbol_combination">%1$s – %2$s</string>
      <string name="support_summary">Články nápovědy, telefon a chat</string>
      <string name="swipe_direction_ltr">Přejetím vpravo zavřete, přejetím vlevo zobrazíte nabídku</string>
      <string name="swipe_direction_rtl">Přejetím vlevo zavřete, přejetím vpravo zobrazíte nabídku</string>
@@ -3743,10 +3732,8 @@ Když režim Nerušit vypnete, zmeškaná oznámení zobrazíte přejetím prste
      <string name="zen_suggestion_summary">Pokud nechcete být rušeni, oznámení pozastavte</string>
      <string name="zen_suggestion_title">Aktualizujte režim Nerušit</string>
      <string name="zone_change_to_from_dst">%1$s začíná %2$s.</string>
-     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
      <string name="zone_info_footer">Používá %1$s. %2$s začíná %3$s.</string>
      <string name="zone_info_footer_no_dst">Používá %1$s. Nepoužívá letní čas.</string>
-     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
      <string name="zone_menu_by_offset">Vybrat podle posunu od UTC</string>
      <string name="zone_menu_by_region">Vybrat podle oblasti</string>
      <string name="zone_time_type_dst">Letní čas</string>
