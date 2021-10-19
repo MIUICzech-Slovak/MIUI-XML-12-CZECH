@@ -742,7 +742,6 @@
     <string name="photo_editor_beautify_auto">Autom.</string>
     <string name="photo_editor_beauty_compare">Původní</string>
     <string name="photo_editor_common_download_failed">Stažení plug-inu se nezdařilo. Zkontrolujte nastavení sítě a zkuste to znovu.</string>
-    <string name="photo_editor_common_download_failed_msg">@string/filter_sky_download_failed_msg</string>
     <string name="photo_editor_common_download_finish">Plug-in byl úspěšně stažen</string>
     <string name="photo_editor_common_download_sdk_without_wifi_msg">Zdá se, že nejste připojeni k síti Wi-Fi. Stáhnout požadovaný plug-in (%1$d MB) pomocí mobilních dat?</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">Stáhnout plug-in</string>
@@ -828,7 +827,6 @@
     <string name="photo_editor_talkback_crop_9_18">Devět ku osmnácti</string>
     <string name="photo_editor_talkback_crop_free">Volně</string>
     <string name="photo_editor_talkback_crop_mirror">Zrcadlo</string>
-    <string name="photo_editor_talkback_crop_movie">@string/filter_category_movie</string>
     <string name="photo_editor_talkback_crop_original">Původní</string>
     <string name="photo_editor_talkback_crop_reset">Resetovat</string>
     <string name="photo_editor_talkback_crop_right_rotate">Otočit o 90 stupňů</string>
@@ -921,18 +919,13 @@
     <string name="screen_editor_btn_save">Uložit</string>
     <string name="screen_editor_btn_shell_off">Odebrat ohraničení displeje</string>
     <string name="screen_editor_btn_shell_on">Přidat ohraničení displeje</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_crop_disallowed_with_shell">Snímky obrazovky s ohraničením displeje nelze oříznout</string>
     <string name="screen_editor_delete_dialog_msg">Smazat tento snímek obrazovky?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Hotovo</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">Do oříznutých snímků obrazovky nelze ohraničení displeje přidat</string>
     <string name="screen_editor_shell_net_error">Pro stažení ohraničení displeje se připojte k síti</string>
     <string name="screen_editor_shell_res_downloading">Stahování ohraničení displeje…</string>
     <string name="screen_editor_shell_storage_insufficient">Stažení ohraničení displeje se nezdařilo kvůli nedostatku místa na úložišti</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Zrušit</string>
     <string name="screen_save_dialog_btn_delete">Smazat snímek obrazovky</string>
     <string name="screen_save_dialog_btn_save">Uložit do Galerie</string>
