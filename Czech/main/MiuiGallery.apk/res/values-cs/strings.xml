@@ -2462,4 +2462,15 @@
     <string name="permission_contacts_name_2">Přístup ke kontaktům</string>
     <string name="permission_storage_name_2">Přístup a ukládání fotografií a souborů v zařízení</string>
 	<string name="share_and_delete_screenshot">Po sdílení smazat</string>
+  <string name="group_header_title_immutable_album">Uspořádat fotografie</string>
+    <string name="group_header_title_third_album">Více alb</string>
+    <string name="group_header_title_user_create_album">Moje alba</string>
+    <string name="home_menu_all_photos">Zobrazit vše</string>
+    <string name="home_menu_camera">Zobrazit jen fotografie</string>
+    <string name="photo_purge_dialog_message_cloud">Vybrané položky budou vymazány z cloudu a vašeho zařízení. Chcete je vymazat?</string>
+    <string name="photo_purge_dialog_message_local">Vybrané položky budou vymazány. Chcete je vymazat?</string>
+    <string name="photo_purge_dialog_title">Vymazat vybrané položky</string>
+    <string name="trash_purge_all_cloud">Všechny položky v koši budou vymazány z cloudu a zařízení. Chcete je vymazat?</string>
+    <string name="trash_purge_all_local">Všechny položky v koši budou vymazány. Chcete je vymazat?</string>
+    <string name="trash_purge_dialog_title">Vysypat koš</string>
 </resources>

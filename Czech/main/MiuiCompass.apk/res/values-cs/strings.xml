@@ -63,4 +63,14 @@
   <string name="cta_agree_desc">Povolte této aplikaci přístup na internet a požadované povolení pro její správné fungování.</string>
   <string name="first_using_dialog_message_no_camera">Kompas potřebuje připojení na internet a přístup k vaší poloze pro jeho správné fungování. Povolit?</string>
     <string name="open_perm_msg_no_camera">Kompas potřebuje přístup k vaší poloze pro jeho správné fungování. Povolit?</string>
+    <string name="allowed">Povoleno</string>
+    <string name="get_location">Prístup k poloze</string>
+    <string name="new_cta_v2_app_purpose">Zobrazení směru, souřadnic, tlaku a výšky</string>
+    <string name="new_permission_camera_desc">Pro kalibraci</string>
+    <string name="new_permission_location_desc">Pro zobrazení souřadnic</string>
+    <string name="not_allowed">Nepovoleno</string>
+    <string name="open_camera">Použít fotoaparát</string>
+    <string name="permission_description">Podrobnosti o povoleních</string>
+    <string name="preference_privacy_policy">Zobrazit Ochranu soukromí</string>
+    <string name="preference_privacy_setting">Soukromí</string>
 </resources>

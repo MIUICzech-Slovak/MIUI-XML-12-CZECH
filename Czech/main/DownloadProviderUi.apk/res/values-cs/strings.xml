@@ -387,4 +387,7 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="today">Dnes</string>
   <string name="tomorrow">Zítra</string>
+  <string name="permission">Povolení</string>
+    <string name="pref_permission_description">Podrobnosti o povoleních</string>	
+    <string name="privacy">Soukromí</string>
 </resources>  

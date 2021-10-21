@@ -940,9 +940,17 @@ Bylo přičteno dalších %1$s"</string>
      <string name="guide_two_title">Zobrazit jen základní položky</string>
      <string name="next">Další</string>
      <string name="start_all">Vše</string>
-	 <string name="clean_hint_pad">Vyčistěte odpad pro uvolnění místa na úložišti</string>
-	 <string name="app_name_recorder">Záznamník</string>
-	<string name="mirror_no_recommended_app">Žádné doporučené aplikace</string>
+	   <string name="clean_hint_pad">Vyčistěte odpad pro uvolnění místa na úložišti</string>
+	   <string name="app_name_recorder">Záznamník</string>
+	   <string name="mirror_no_recommended_app">Žádné doporučené aplikace</string>
      <string name="mirror_open_mode_error">"Položky nelze načíst"</string>
-     <string name="mirror_open_mode_loading">Vteřinku…</string> 
+     <string name="mirror_open_mode_loading">Vteřinku…</string>
+     <string name="agree">OK</string>
+    <string name="exit">Ukončit</string>
+    <string name="open_or_close_wlan">Zapnout a vypnout Wi-Fi</string>
+    <string name="permission_description">Podrobnosti o povoleních</string>
+    <string name="withdraw">Odvolat</string>
+    <string name="withdraw_consent">Odvolat souhlas</string>
+    <string name="withdraw_consent_content">Jestliže budete pokračovat, odvoláte svůj souhlas s pravidly ochrany osobních údajů Správce souborů. Osobní údaje, které už byli shromažděny a uchovány, budou v rámci stanoveného období vymazány v souladu s platnými zákony a předpisy, pokud není požadováno jinak. Přestože správce souborů poskytuje svoje služby na základě shromažďování potřebných osobních údajů, vaše odvolání souhlasu bude považováno za odmítnutí přijetí služeb správce souborů.</string>
+    <string name="withdraw_consent_summary">Odvolat souhlas s Podmínkami používání a Ochrany soukromí</string> 
 </resources>  

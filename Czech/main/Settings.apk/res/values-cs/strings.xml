@@ -7503,5 +7503,6 @@ Chcete odvolat souhlas s %s nyní?</string>
     <string name="sos_privacy_policy_revoke_title_reject">Upozornění</string>
     <string name="sos_privacy_revoke_failed_dialog_content">Chyba serveru.</string>
     <string name="sos_privacy_revoke_failed_dialog_title">Nebylo možné odvolat souhlas</string>
+    <string name="external_ram_remind_toast">Dochází vám volné místo na úložišti. Rozšíření RAM bylo deaktivováno.</string>
 </resources>
 

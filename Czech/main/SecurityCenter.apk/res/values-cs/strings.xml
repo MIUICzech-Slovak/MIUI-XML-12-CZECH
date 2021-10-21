@@ -5150,4 +5150,19 @@ ke zvýšené spotřebě baterie a přehřívání"</string>
     <string name="privacy_search_keyword_4">Skrýt odkazy na ploše</string>
     <string name="privacy_search_keyword_5">Soukromé aplikace</string>
     <string name="privacy_search_keyword_6">Skrýt</string>
+    <string name="summary_condition_charge_to_target">Pokud je baterie nabitá na nastavenou úroveň</string>
+    <string name="summary_condition_charge_to_target_percent">Pokud je baterie nabitá na %d%%</string>
+    <string name="summary_condition_close_absorbed_mode">Po vypnutí Režimu soustředění</string>
+    <string name="summary_condition_in_charge">Pokud se nabíjí</string>
+    <string name="summary_condition_insert_headset">Připojit sluchátka</string>
+    <string name="summary_condition_missing_call">Zmeškaný hovor</string>
+    <string name="summary_condition_no_in_charge">Pokud se nenabíjí</string>
+    <string name="summary_condition_open_absorbed_mode">Po zapnutí Režimu soustředění</string>
+    <string name="summary_condition_reduce_to_target">Pokud je baterie na nastavené úrovni</string>
+    <string name="summary_condition_reduce_to_target_percent">Pokud je baterie na %d%%</string>
+    <string name="summary_condition_scan_rubbish">Čistič</string>
+    <string name="summary_condition_scan_virus">Antivirus</string>
+    <string name="summary_condition_unplug_headset">Odpojit sluchátka</string>
+    <string name="summary_condition_wired_charge">Pokud je připojená nabíječka</string>
+    <string name="summary_condition_wireless_charge">Pokud se nabíjí bezdrátově</string>
 </resources>  

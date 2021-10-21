@@ -1470,4 +1470,6 @@ Vyberte si z následujících možností:</string>
   <string name="no_contact_selected">Vyberte kontakt pro zobrazení podrobností</string>
   <string name="wifi_pad_disable_phone">Z tohoto zařízení není možné volat</string>
   <string name="mobile_equipment_identification">Identifikace mobilního zařízení</string>
+  <string name="preference_privacy_settings">Soukromí</string>
+    <string name="preference_privacy_settings_title">Soukromí</string>
 </resources>  
