@@ -2473,4 +2473,26 @@
     <string name="trash_purge_all_cloud">Všechny položky v koši budou vymazány z cloudu a zařízení. Chcete je vymazat?</string>
     <string name="trash_purge_all_local">Všechny položky v koši budou vymazány. Chcete je vymazat?</string>
     <string name="trash_purge_dialog_title">Vysypat koš</string>
+    <string name="cleaner_raw_action">Zobrazit detaily</string>
+     <string name="cleaner_raw_description">Uvolněte úložný prostor smazáním velkých RAW snímků</string>
+     <string name="cleaner_raw_title">Vymazat soubory RAW</string>
+     <string name="cleaner_title">Čistič</string>
+     <string name="slim_action">Optimalizovat</string>
+     <string name="slim_action_auto_backup">Zapnout</string>
+     <string name="slim_action_auto_backup_disable_description">Originální fotografie a videa ukládejte do cloudu a menší kopie ve vysoké kvalitě si ponechejte v tomto zařízení.</string>
+     <string name="slim_action_auto_backup_enable_description">Nahrávání položek do cloudu…</string>
+     <string name="slim_action_auto_backup_sub_tip">Uvolněte úložný prostor</string>
+     <string name="slim_action_auto_backup_tip">Zapněte synchronizaci s cloudem</string>
+     <string name="slim_complete_count">"Optimalizováno %1$s a %2$s. "</string>
+     <string name="slim_complete_download_tip">Místo originálů se automaticky stáhnou kopie ve vysoké kvalitě.</string>
+     <string name="slim_dialog_empty_message">"Nepodařilo se najít položky k optimalizaci."</string>
+     <string name="slim_dialog_empty_positive">Rozumím</string>
+     <string name="slim_dialog_empty_title">Upozornění</string>
+     <string name="slim_dialog_positive">Optimalizace</string>
+     <string name="slim_dialog_title">Optimalizace úložiště</string>
+     <string name="slim_preference_scanning">Analyzování fotografií a videí…</string>
+     <string name="slim_preference_summery">Originální fotografie a videa ukládejte do cloudu a menší kopie ve vysoké kvalitě si ponechejte v tomto zařízení. Kopie nahradí původní soubory %d dní po jejich vytvoření.</string>
+     <string name="slim_preference_title">Optimalizace úložiště</string>
+     <string name="slim_stop_v2">Stop</string>
+     <string name="slim_success_tip">Uvolněno %s z úložiště</string>
 </resources>
