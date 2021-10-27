@@ -204,4 +204,13 @@
      <string name="miui_feedback_main_submit_dialog_confirm">Odeslat</string>
 	 <string name="public_authorize_now">Nastavení</string>
     <string name="public_please_authorize">Požadovaná povolení</string>
+    <string name="miui_feedback_answer_detail_community">Odpovědi na své otázky najdete v Mi Community</string>
+     <string name="miui_feedback_answer_detail_feedback_resolved">Ano</string>
+     <string name="miui_feedback_answer_detail_feedback_result">Děkujeme za vaši zpětnou vazbu!</string>
+     <string name="miui_feedback_answer_detail_feedback_title">Pomohla vám tato informace?</string>
+     <string name="miui_feedback_answer_detail_feedback_unresolved">Ne</string>
+     <string name="miui_feedback_answer_detail_menu_online_service">Získejte pomoc online</string>
+     <string name="miui_feedback_answer_detail_menu_phone_service">Zavolejte zákaznickou podporu</string>
+     <string name="miui_feedback_answer_detail_relative_tip">Související informace</string>
+     <string name="miui_feedback_answer_detail_title">Podrobnosti</string>
 </resources>  
