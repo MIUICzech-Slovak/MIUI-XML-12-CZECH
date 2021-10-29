@@ -5165,4 +5165,5 @@ ke zvýšené spotřebě baterie a přehřívání"</string>
     <string name="summary_condition_unplug_headset">Odpojit sluchátka</string>
     <string name="summary_condition_wired_charge">Pokud je připojená nabíječka</string>
     <string name="summary_condition_wireless_charge">Pokud se nabíjí bezdrátově</string>
+    <string name="task_title_charge">Nabíjení</string>
 </resources>  

@@ -1903,4 +1903,14 @@ skenované dokumenty automaticky"</string>
     <string name="pref_camera_tap_shoot_title">Dotykem zhotovíte fotografii</string>
     <string name="pref_cup_camera_position_summary">Zobrazit pozici přední kamery když se právě používá</string>
     <string name="pref_cup_camera_position_title">Zobrazit přední kameru</string>
+    <string name="manually_raw_tip">Není možné používat zoom v RAW formátu</string>
+    <string name="mode_edit_hold_on">Vybraná položka</string>
+    <string name="mode_edit_moved">Vložit do řádku %1$d, pozice %2$d</string>
+    <string name="mode_edit_moving">Přesunuto do řádku %1$d, pozice %2$d</string>
+    <string name="mode_edit_photo_disable">Zhotovení fotografie je zastaveno</string>
+    <string name="mode_edit_video_disable">Zhotovení videa je zastaveno</string>	
+	<string name="pref_auto_boot">Autostart</string>
+    <string name="pref_auto_boot_summary">Zrychlete spouštění fotoaparátu povolením automatického spuštění aplikace.</string>
+	<string name="prep_video_ai_audio_new_mutex_tip">Není možné používat zoom zvuku</string>
+	<string name="prep_video_ai_audio_single_mutex_tip">Není možné nahrávat zvuk ze předu</string>
 </resources>  
