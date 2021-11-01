@@ -776,4 +776,6 @@ Zkontrolujte také složku SPAM."</string>
     <string name="revoke_privacy_policy_title">Odvolání souhlasu</string>
     <string name="user_license_with_3rd_app_no_operator">Souhlasím s Podmínkami používání a Ochranou soukromí.</string>
     <string name="user_license_with_out_3rd_app_no_operator">Souhlasím s Podmínkami používání a Ochranou soukromí.</string>
+    <string name="login_3rd_app_with_system_account">Přihlaste se do %s</string>
+     <string name="user_license_without_3rd_app">"Přečetl jsem a souhlasím s Podmínkami používání a Ochranou soukromí pro Mi účet."</Data></string>
 </resources>
