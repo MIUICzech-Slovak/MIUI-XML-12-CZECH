@@ -991,4 +991,24 @@ Dejte si pauzu!"</item>
         <item quantity="other">%d krát</item>
         <item quantity="one">%d krát</item>
     </plurals>
+	<plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Vymazat %d instalačních balíčků</item>
+        <item quantity="one">Vymazat %d instalační balíček</item>
+     </plurals>
+     <plurals name="summary_absorbed_time_foramt">
+        <item quantity="other">Zapnout režim Soustředění za %d minut</item>
+        <item quantity="one">Zapnout režim Soustředění za %d minutu</item>
+     </plurals>
+     <plurals name="summary_condition_lock_screen_format">
+        <item quantity="other">%d minut po uzamčení obrazovky</item>
+        <item quantity="one">%d minutu po uzamčení obrazovky</item>
+     </plurals>
+     <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">%d minut</item>
+        <item quantity="one">%d minutu</item>
+     </plurals>
+     <plurals name="summary_result_lock_screen_format">
+        <item quantity="other">Uzamknout obrazovku za %d minut</item>
+        <item quantity="one">Uzamknout obrazovku za %d minutu</item>
+     </plurals>
 </resources>             
