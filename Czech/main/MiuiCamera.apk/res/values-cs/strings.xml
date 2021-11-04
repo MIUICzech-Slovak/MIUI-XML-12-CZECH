@@ -1913,4 +1913,19 @@ skenované dokumenty automaticky"</string>
     <string name="pref_auto_boot_summary">Zrychlete spouštění fotoaparátu povolením automatického spuštění aplikace.</string>
 	<string name="prep_video_ai_audio_new_mutex_tip">Není možné používat zoom zvuku</string>
 	<string name="prep_video_ai_audio_single_mutex_tip">Není možné nahrávat zvuk ze předu</string>
+	<string name="pref_retain_camera_status_description">Zachovat dříve použitý režim namísto automatického obnovení předvolených nastavení</string>
+    <string name="pref_retain_camera_status_title">Zachovat nastavení</string>
+    <string name="pref_retain_ai_scene">AI Kamera</string>
+    <string name="pref_retain_ai_scene_description">Zachovat stav AI kamery nastavený během předchozího používání</string>
+    <string name="pref_retain_beauty">Zkrášlit</string>
+    <string name="pref_retain_beauty_description">Zachovat nastavení zkrášlení zvolené během předchozího použití</string>
+    <string name="pref_retain_camera_common_mode_summary">Spusťte Fotoaparát v předešlém používaném režimu namísto přepínání na \"Fotografie\"</string>
+    <string name="pref_retain_camera_mode">Režim fotoaparátu</string>
+    <string name="pref_retain_camera_mode_description">Zachování předešlého používaného režimu spolu s výběrem předního nebo zadního fotoaparátu</string>
+    <string name="pref_retain_camera_mode_summary">Při spuštění aplikace se fotoaparát nastaví do předešlého používaného režimu.</string>
+    <string name="pref_retain_camera_mode_title">Uložit předešlý režim</string>
+    <string name="pref_retain_camera_status_description">Zachovat dříve použitý režim namísto automatického obnovení predvolených nastavení</string>
+    <string name="pref_retain_camera_status_title">Zachovat nastavení</string>
+    <string name="pref_retain_live_shot">Dynamické záběry</string>
+    <string name="pref_retain_live_shot_description">Zachovat stav dynamických snímků nastavený během předešlého používání</string> 	
 </resources>  
