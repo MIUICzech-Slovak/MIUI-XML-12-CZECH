@@ -1011,4 +1011,12 @@ Dejte si pauzu!"</item>
         <item quantity="other">Uzamknout obrazovku za %d minut</item>
         <item quantity="one">Uzamknout obrazovku za %d minutu</item>
      </plurals>
+	 <plurals name="gd_app_edit_desc">
+        <item quantity="other">Můžete přidat %d apl. Potáhnutím přesunete položky.</item>
+        <item quantity="one">Můžete přidat %d apl. Potáhnutím přesunete položku.</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Můžete přidat %d apl. Stlačte a podržte pro přesunutí.</item>
+        <item quantity="one">Můžete přidat %d apl. Stlačte a podržte pro přesunutí.</item>
+    </plurals>	
 </resources>             

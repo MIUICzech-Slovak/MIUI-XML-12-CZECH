@@ -390,4 +390,5 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="permission">Povolení</string>
     <string name="pref_permission_description">Podrobnosti o povoleních</string>	
     <string name="privacy">Soukromí</string>
+	<string name="more">Více</string>
 </resources>  

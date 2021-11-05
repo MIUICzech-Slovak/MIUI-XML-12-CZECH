@@ -99,4 +99,8 @@
         <item quantity="other">Položek: %1$s</item>
         <item quantity="one">Položek: %1$s</item>
     </plurals>
+    <plurals name="number_items">
+        <item quantity="other">Položek: %s</item>
+        <item quantity="one">Položek: %s</item>
+    </plurals>	
 </resources>             

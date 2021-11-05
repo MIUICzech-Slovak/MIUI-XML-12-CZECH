@@ -5379,4 +5379,37 @@ ke zvýšené spotřebě baterie a přehřívání"</string>
      <string name="summary_meeting_tips">Připomenutí schůzky</string>
      <string name="summary_open_flashligt">Zapnout svítilnu</string>
      <string name="summary_open_phone_check">Spustit bezpečnostní kontrolu</string>
+	 <string name="gd_app_edit_done">Hotovo</string>
+    <string name="gd_app_edit_title">Přidat aplikace</string>
+    <string name="gd_app_edit_title_new">Upravit odkazy plovoucího okna</string>
+    <string name="gd_setting_desc_action1">Otevřít plovoucí okno</string>
+    <string name="gd_setting_desc_action2">Použií odkaz</string>
+    <string name="gd_setting_group_custom_gtb_apps">Hry</string>
+    <string name="gd_setting_group_custom_line_location">Pozice nástrojů</string>
+    <string name="gd_setting_group_custom_settings">Přizpůsobení</string>
+    <string name="gd_setting_group_custom_vtb_apps">Video apl.</string>
+    <string name="gd_setting_group_smart_tool_box">Inteligentní nástroje</string>
+    <string name="gd_setting_group_title_switch">Scény</string>
+    <string name="gd_setting_gtb">Zobrazit během hraní her</string>
+    <string name="gd_setting_gtb_desc">Speciální funkce pro hraní</string>
+    <string name="gd_setting_guide_one">Dotykem otevřete plovoucí okno</string>
+    <string name="gd_setting_guide_three">Potáhněte z hrany pro otevření herních zkratek</string>
+    <string name="gd_setting_guide_two">Potáhněte z hrany pro video nástroje</string>
+    <string name="gd_setting_miui_dock">Vždy povolit</string>
+    <string name="gd_setting_shorthand">Rýchlé poznámky</string>
+    <string name="gd_setting_title">Inteligentní nástroje</string>
+    <string name="gd_setting_vtb">Zobrazit během přehrávání videa</string>
+    <string name="gd_setting_vtb_desc">Speciální funkce pro video</string>	
+	<string name="no_privacy_permission">Není vyžadován souhlas s Ochranou soukromí</string>
+	<string name="summary_safe_mode">Eliminovat rizika během instalace</string>
+	<string name="title_safe_mode">Povolit Bezpečný režim</string>
+    <string name="vb_video_effects_3d">Prostorový zvuk</string>
+    <string name="vb_video_effects_3d_summary">Vylepšit hloubku zvuku ve sluchátkách a reproduktorech</string>
+    <string name="vb_video_effects_3d_surround">Prostorový zvuk</string>
+    <string name="vb_video_effects_liquid_summary">Vylepšit čistotu dialogů ve videích</string>
+    <string name="vb_video_effects_only_headphone">Funguje jen se slúchátky</string>
+    <string name="vb_video_effects_some_headphone">Podporováno vybranými slúchátky</string>
+    <string name="vb_video_effects_spatial">Sledovat pohyby hlavou</string>
+    <string name="vb_video_effects_spatial_summary">Upravit prostorový zvuk na základě pohybů hlavou
+*Podporují jen vybrané hráčské modely sluchátek"</string>
 </resources>  
