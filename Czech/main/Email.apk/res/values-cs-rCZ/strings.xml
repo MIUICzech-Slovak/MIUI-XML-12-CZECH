@@ -181,7 +181,7 @@ Tento problém může být způsoben dvoufaktorovým ověřováním účtu. Zkus
      <string name="folder_shortcut_widget_label">Složka pošty</string>
      <string name="folder_synchronization_mail_settings">Nastavení synchronizace složek</string>
 	 <string name="account_child_dialog_neg_text">Odejít</string>
-     <string name="account_child_dialog_pos_text">Souhlas zástupce</string>
+     <string name="account_child_dialog_pos_text">Souhlas opatrovníka</string>
      <string name="account_child_dialog_text">"Pokud jste nezletilí mladší 14 let, informujte svého opatrovníka, že si musí přečíst \"Prohlášení společnosti Kingsoft o ochraně osobních údajů nezletilých\" a souhlasit s ním. Před použitím našich služeb nebo odesláním jakýchkoli osobních údajů nám musíte také vyžádat jejich souhlas a pokyny.
 Abyste plně porozuměli svým právům jako uživatele a také způsobům, kterými vaše údaje zpracováváme, přečtěte si \"Prohlášení společnosti Kingsoft o ochraně osobních údajů nezletilých"\"."</string>
      <string name="account_child_dialog_title">"Prohlášení o ochraně osobních údajů nezletilých"</string>
