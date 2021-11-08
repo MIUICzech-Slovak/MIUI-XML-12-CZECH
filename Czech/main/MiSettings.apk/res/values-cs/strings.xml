@@ -657,5 +657,7 @@
 nejsou vytvářené v Druhém profilu"</string>
     <string name="desktop_widget_screen_use_time">Čas displeje</string>	
     <string name="usage_app_desktop_widget_limit">%s zbývá</string>
-    <string name="desktop_widget_authorization_new">Dotykem zobrazíte čas displeje</string>	
+    <string name="desktop_widget_authorization_new">Dotykem zobrazíte čas displeje</string>
+	<string name="usage_cta_desc">"Vítejte! Aby vám tato aplikace mohla poskytovat statistiky času u obrazovky a režimu soustředění, potřebuje shromažďovat následující údaje: počet odemknutí zařízení, seznam vašich aplikací spolu s odpovídající dobou používání, počet rozsvícení obrazovky, a nastavení režimu soustředěni. Shromážděná data budou uložena pouze lokálně na tomto zařízení.
+"</string>
   </resources>

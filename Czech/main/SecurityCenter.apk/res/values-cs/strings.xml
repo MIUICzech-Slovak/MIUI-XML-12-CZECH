@@ -2947,8 +2947,8 @@ neoprávněného používání vašich aplikací"</string>
   <string name="system_permission_declare_no_say_no">Bez potvrzení vašeho souhlasu tato aplikace nebude fungovat správně.</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Bez potřebných povolení nebude tato aplikace správně fungovat..</string>
   <string name="system_permission_declare_privacy_declare">"Respektujeme a chráníme vaše soukromí.
-Vězte, že %1s vyžaduje následující povolení:"</string>
-  <string name="system_permission_declare_privacy_no_permission">"%1s potřebuje shromažďovat vaše data pro její správné fungování.
+Jsou vyžadována následující povolení:"</string>
+  <string name="system_permission_declare_privacy_no_permission">"Aplikace potřebuje shromažďovat vaše data pro její správné fungování.
 Respektujeme a chráníme vaše soukromí."</string>
   <string name="system_permission_declare_privacy_policy">Před používáním této funkce musíte souhlasit s naší Ochranou soukromí.</string>
   <string name="system_permission_declare_revoke_path">Můžete odinstalovat tuto aplikaci, odhlásit se a spravovat povolení v Optimalizace - Spravovat aplikace - Povolení.</string>
