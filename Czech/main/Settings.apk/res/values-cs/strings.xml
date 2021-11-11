@@ -7504,5 +7504,26 @@ Chcete odvolat souhlas s %s nyní?</string>
     <string name="sos_privacy_revoke_failed_dialog_content">Chyba serveru.</string>
     <string name="sos_privacy_revoke_failed_dialog_title">Nebylo možné odvolat souhlas</string>
     <string name="external_ram_remind_toast">Dochází vám volné místo na úložišti. Rozšíření RAM bylo deaktivováno.</string>
+	<string name="left_shoulder_key">Vlevo</string>
+    <string name="privacy_lab_settings">Laboratoř ochrany soukromí</string>
+    <string name="right_shoulder_key">Vpravo</string>
+    <string name="set_shoulder_key_shortcut_checkbox_message">"Už nezobrazovat"</string>
+    <string name="set_shoulder_key_shortcut_message">"Ješte jste nepřiřadili žádné zkratky k tlačítkám na boku. Nakonfigurovat boční tlačítka nyní?"</string>
+    <string name="set_shoulder_key_shortcut_negative_button">Ne</string>
+    <string name="set_shoulder_key_shortcut_positive_button">Ano</string>
+    <string name="set_shoulder_key_shortcut_title">Konfigurace tlačítek na boku</string>
+    <string name="shoulder_key_diagram">Ukázka</string>
+    <string name="shoulder_key_shortcut_double_click">Dvojité stlačení</string>
+    <string name="shoulder_key_shortcut_launch_camera">Fotoaparát</string>
+    <string name="shoulder_key_shortcut_launch_screen_recorder">Záznam obrazovky</string>
+    <string name="shoulder_key_shortcut_launch_sound_recorder">Nahrávání zvuku</string>
+    <string name="shoulder_key_shortcut_launch_video">Nahrát video</string>
+    <string name="shoulder_key_shortcut_long_press">Stlačte a podržte</string>
+    <string name="shoulder_key_shortcut_mute">Tichý režim</string>
+    <string name="shoulder_key_shortcut_none">Žádné</string>
+    <string name="shoulder_key_shortcut_settings">Tlačítka na boku</string>
+    <string name="shoulder_key_shortcut_single_click">Stlačte</string>
+    <string name="shoulder_key_shortcut_turn_on_torch">Svítilna</string>
+    <string name="shoulder_key_shortcut_vibrate">Vibrovat</string>
 </resources>
 

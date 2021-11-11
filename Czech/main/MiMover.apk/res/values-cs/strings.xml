@@ -730,4 +730,5 @@ Chcete-li je obnovit, přihlaste se ke svému Mi účtu."</string>
   <string name="dialog_airplane_mode_button">Nastavení</string>
     <string name="dialog_airplane_mode_content">Přenos dat nemůže fungovat správně pokud je zapnutý režim Letadlo. Nejprve ho vypněte v nastaveních.</string>
     <string name="dialog_airplane_mode_title">Vypněte režim Letadlo</string>
+	<string name="err_install_incompatible">Chyba kompatibility</string>
 </resources>  

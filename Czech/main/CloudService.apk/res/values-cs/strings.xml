@@ -981,9 +981,6 @@ Poloha nebude odeslána pokud je slabý signál sítě."</string>
      <string name="error_server_error">Chyba serveru</string>
      <string name="error_timeout">Vypršel časový limit požadavku</string>
      <string name="error_token_expired">Přihlaste se znovu ke svému Xiaomi účtu</string>
-
-
-
   <string name="monday">Pondělí</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -1107,4 +1104,7 @@ Poloha nebude odeslána pokud je slabý signál sítě."</string>
     <string name="button_quit">Ukončit</string>
     <string name="button_revoke">Odvolat</string>     
     <string name="dialog_title_prompt">Upozornění</string>
+	<string name="cloud_service_open_authorization">Vítejte v Xiaomi Cloudu! Xiaomi Cloud můžete použít pro synchronizaci poznámek, fotografií a videí, nahrávek a dalších položek ze systémových aplikací napříč všemi připojenými zařízeními. Zálohy rozložení domovské obrazovky se budou ukládat i na Xiaomi Cloud. Všechny synchronizované položky si budete moci prohlížet na i.mi.com.</string>
+    <string name="cloud_service_title">Xiaomi Cloud</string>
+	<string name="open_service_title">Zapnutí</string>
 </resources>  

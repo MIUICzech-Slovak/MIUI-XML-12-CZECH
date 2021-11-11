@@ -842,5 +842,6 @@ Velikost aktualizace delta: %2$s"</string>
     <string name="enable_local_backup_tips">Povolte tuto funkci pro možnost uložení zálohy do tohoto zařízení. Povolit nyní?</string>
     <string name="check_privacy_policy">Zobrazit Podmínky používání</string>	
     <string name="privacy_settings">Soukromí</string>
-    <string name="privacy_settings_title">Ochrana soukromí</string> 
+    <string name="privacy_settings_title">Ochrana soukromí</string>
+	<string name="enable_local_backup_tips_global">Zapněte tuto funkci, aby jste mohli zálohovat a obnovovat data do svého zařízení nebo počítače. Zapnout nyní?</string>	
 </resources>
