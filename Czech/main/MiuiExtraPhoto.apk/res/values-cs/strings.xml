@@ -132,4 +132,12 @@
   <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
 	<string name="save">Uložit</string>
+	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potáhněte dolů pro obnovení</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnoveno</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovování…</string>
+     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pusťtě pro obnovení</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žádná data</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_none">Žádná data</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítání…</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebylo možné načíst položky</string>
 </resources>

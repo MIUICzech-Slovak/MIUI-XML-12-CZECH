@@ -392,5 +392,8 @@ Tato funkce není mimo Čínu doporučena"</string>
     <string name="privacy">Soukromí</string>
 	<string name="more">Více</string>
 	<string name="extend">Více</string>	
-    <string name="menu_des_more">Více</string>	
+    <string name="menu_des_more">Více</string>
+	<string name="search_home_vif_show_more">Více</string>
+     <string name="search_website_more">Více</string>
+     <string name="xl_extend">Více</string>
 </resources>  

@@ -7525,5 +7525,10 @@ Chcete odvolat souhlas s %s nyní?</string>
     <string name="shoulder_key_shortcut_single_click">Stlačte</string>
     <string name="shoulder_key_shortcut_turn_on_torch">Svítilna</string>
     <string name="shoulder_key_shortcut_vibrate">Vibrovat</string>
+	<string name="miui_master_clear_prompt_battery_low">Obnovení továrního nastavení není požné provést poku je baterie pod %1$s. Nabíjte baterii pro pokračování.</string>
+     <string name="oldman_app_label">Jednoduchý režim</string>
+     <string name="oldman_mode_entry_name">Jednoduchý režim</string>
+     <string name="security_center_title">Optimalizace</string>
+     <string name="smart_space_clock">Na první pohled</string>
 </resources>
 

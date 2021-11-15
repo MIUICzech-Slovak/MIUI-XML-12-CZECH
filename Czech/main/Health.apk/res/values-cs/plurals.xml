@@ -419,5 +419,37 @@
      <plurals name="sporting_unit_step">
         <item quantity="other">kroků</item>
         <item quantity="one">krok</item>
-	 </plurals>	
+	 </plurals>
+	 <plurals name="sporting_content_min">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+     </plurals>
+     <plurals name="sporting_content_sec">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+     </plurals>
+     <plurals name="sporting_unit_calories">
+        <item quantity="other">%1$d Cal</item>
+        <item quantity="one">%1$d Cal</item>
+     </plurals>
+     <plurals name="unit_hours">
+        <item quantity="other">" h "</item>
+        <item quantity="one">" h "</item>
+     </plurals>
+     <plurals name="unit_hours2">
+        <item quantity="other">" h "</item>
+        <item quantity="one">" h "</item>
+     </plurals>
+     <plurals name="unit_mins">
+        <item quantity="other">" min "</item>
+        <item quantity="one">" min "</item>
+     </plurals>
+     <plurals name="unit_mins2">
+        <item quantity="other">" min "</item>
+        <item quantity="one">" min "</item>
+     </plurals>
+     <plurals name="unit_seconds">
+        <item quantity="other">" s "</item>
+        <item quantity="one">" s "</item>
+     </plurals>
 </resources>

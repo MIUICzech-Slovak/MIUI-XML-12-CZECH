@@ -215,9 +215,6 @@
   <string name="bt_audio_share_notification_title">Sdílení zvuku</string>
   <string name="notice_audio_share_disconnected">Sdílení zvuku přerušeno</string>
   <string name="snapdragon_sound_notification_content">Toto zařízení podporuje Qualcomm® Snapdragon Sound™ technologii</string>
-
-
-
   <string name="monday">Pondělí</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -307,5 +304,7 @@
   <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="today">Dnes</string>
+     <string name="tomorrow">Zítra</string>
 </resources>  

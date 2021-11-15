@@ -609,4 +609,24 @@ http://www.miuios.cz/rom
     <string name="action_expand">Více</string>
 	<string name="canvas_is_too_large_to_share_phone">Tato položka je příliš velká pro sdílení</string>
 	<string name="hand_write_syncing_phone">Synchr...</string>
+	<string name="miuix_appcompat_action_mode_deselect_all">Odznačit</string>
+     <string name="miuix_appcompat_action_mode_select_all">Vše</string>
+     <string name="miuix_appcompat_action_mode_title_empty">Vybrat položky</string>
+     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Více</string>
+     <string name="miuix_appcompat_cancel_description">Zrušit</string>
+     <string name="miuix_appcompat_confirm_description">Potvrdit</string>
+     <string name="miuix_appcompat_delete_description">Vymazat</string>
+     <string name="miuix_appcompat_deselect_all">Odznačit</string>
+     <string name="miuix_appcompat_deselect_all_description">Odznačit</string>
+     <string name="miuix_appcompat_search_action_mode_cancel">Zrušit</string>
+     <string name="miuix_appcompat_search_input_description">Vyhledat</string>
+     <string name="miuix_appcompat_select_all">Vše</string>
+     <string name="miuix_appcompat_select_all_description">Vše</string>
+     <string name="miuix_appcompat_select_item">Vyberte položky</string>
+     <string name="search_events">Vyhledat událost</string>
+     <string name="search_history">Historie</string>
+     <string name="switch_orientation_desc">Orientace obrazovky</string>
+     <string name="time_picker_dialog_title">Nastavit čas</string>
+     <string name="time_picker_label_hour">H</string>
+     <string name="time_picker_label_minute">M</string>
 </resources>

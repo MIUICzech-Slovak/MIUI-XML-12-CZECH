@@ -322,5 +322,12 @@
   <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
 	<string name="misound_effect_setting">MI optimalizace zvuku</string>
+	<string name="expand_button_title">Rozšířené</string>
+     <string name="not_set">Nenastaveno</string>
+     <string name="preference_copied">\"%1$s\" zkopírováno do schránky.</string>
+     <string name="search_menu_title">Vyhledat</string>
+     <string name="switch_audio_device_bt">Bluetooth</string>
+     <string name="switch_audio_device_phone">Toto zařízení</string>
+     <string name="switch_audio_dialog_title">Přepnout zvuk na</string>
 </resources>
 

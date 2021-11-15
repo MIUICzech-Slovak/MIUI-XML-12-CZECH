@@ -625,4 +625,8 @@
         <item quantity="other">Synchr. %d položek</item>
         <item quantity="one">Synchr. %d položky</item>
     </plurals>
+	<plurals name="items_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
+     </plurals>
 </resources>

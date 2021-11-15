@@ -2681,5 +2681,21 @@ dd.MM"</string>
      <string name="miui_lock_screen_large_date">"EEE
 dd.MM"</string>
      <string name="miui_lock_screen_large_date_12">"EEE
-dd.MM"</string>	
+dd.MM"</string>
+	<string name="controls_error_removed_message">Nebylo možné přistoupit k %1$s. Zkontrolujte %2$s aplikaci.</string>
+     <string name="controls_error_removed_title">Kontrola je nedostupná</string>
+     <string name="controls_favorite_load_none">Ovládání je nedostupné</string>
+     <string name="controls_favorite_see_other_apps">Prohlédněte ostatní aplikace</string>
+     <string name="keyguard_accessibility_password">Heslo zařízení</string>
+     <string name="keyguard_enter_your_password">Zadejte heslo</string>
+     <string name="keyguard_enter_your_pattern">Zadejte vzor</string>
+     <string name="keyguard_enter_your_pin">Zadejte PIN</string>
+     <string name="keyguard_indication_charging_time">%2$s • Nabíjení (úplné nabití za %1$s)</string>
+     <string name="keyguard_indication_charging_time_fast">%2$s • Rychlé nabíjení (úplné nabití za %1$s)</string>
+     <string name="keyguard_indication_charging_time_slowly">%2$s • Pomalé nabíjení (úplné nabití za %1$s)</string>
+     <string name="keyguard_indication_charging_time_wireless">%2$s • Bezdrátové nabíjení (úplné nabití za %1$s)</string>
+     <string name="keyguard_indication_trust_unlocked">Odemknutí udržuje Smart Lock</string>
+     <string name="keyguard_indication_trust_unlocked_plugged_in">"%1$s
+%2$s"</string>
+     <string name="notification_menu_snooze_action">Připomenout</string>
 </resources>
