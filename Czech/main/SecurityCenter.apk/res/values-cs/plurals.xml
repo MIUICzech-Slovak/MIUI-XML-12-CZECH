@@ -1018,5 +1018,9 @@ Dejte si pauzu!"</item>
     <plurals name="gd_app_edit_desc_new">
         <item quantity="other">Můžete přidat %d apl. Stlačte a podržte pro přesunutí.</item>
         <item quantity="one">Můžete přidat %d apl. Stlačte a podržte pro přesunutí.</item>
-    </plurals>	
+    </plurals>
+	<plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Povoleno pro %s apl.</item>
+        <item quantity="one">Povoleno pro %s apl.</item>
+    </plurals>
 </resources>             

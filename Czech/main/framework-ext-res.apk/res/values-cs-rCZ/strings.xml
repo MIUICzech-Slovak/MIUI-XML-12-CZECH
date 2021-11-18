@@ -318,4 +318,11 @@
 	<string name="keyboard_connect_failed">Nebylo možné připojit klávesnici. Zkuste to znova.</string>
 	<string name="lockscreen_carrier_customized">Omezené služby</string>
 	<string name="fold_small_not_split">Rozdělení obrazovky není podporované na vnějším displeji</string>
+	<string name="dock_tip_floatwindow">Podržte lištu a přesuňte ji k okraji obrazovky, aby jste vstoupili do zobrazení rozdělené obrazovky.</string>
+     <string name="dock_tip_splitscreen_landscape_drag">Přesuňte panel vodorovně, aby jste vyměnili pozice dvou oken aplikací.</string>
+     <string name="dock_tip_splitscreen_landscape_float">Podržením a potáhnutím dolů přepnete na plovoucí okno.</string>
+     <string name="dock_tip_splitscreen_portrait_drag">Přesunutím panelu zvisle vyměníte pozice dvou oken aplikací.</string>
+     <string name="dock_tip_splitscreen_portrait_float">Podržením a potáhnutím na levou nebo pravou stranu obrazovky přepnete na plovoucí okno.</string>
+     <string name="miui_multiwindow_not_support_small_window">%1$s nepodporuje plovoucí okna</string>
+     <string name="miui_multiwindow_not_support_split">%1$s nepodporuje rozdělenou obrazovku</string>
 </resources>
