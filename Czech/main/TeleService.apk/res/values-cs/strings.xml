@@ -1888,5 +1888,11 @@ Kontaktujte vašeho operátora"</string>
     <string name="esim_goto_active">Aktivovat</string>
     <string name="esim_inactive_message">Neaktivní eSIM</string>
     <string name="esim_inactive_notification_message">Žádná SIM karta. Dotykem aktivujete eSIM.</string>
-    <string name="esim_inactive_settings_title">Duální SIM a mobilní sítě</string>	
+    <string name="esim_inactive_settings_title">Duální SIM a mobilní sítě</string>
+	<string name="limited_service_alert_dialog_description"><b>Tísňová volání přes Wi-Fi hovory</b>"
+Tísňová volání nejsou možná prostřednictvím Wi-Fi hovorů. 
+
+Zařízení se automaticky přepne na mobilní síť (2G/3G) a provede tísňové volání. 
+
+Tísňová volání jsou možná pouze v oblastech s pokrytím mobilní sítě."</string>
 </resources>
