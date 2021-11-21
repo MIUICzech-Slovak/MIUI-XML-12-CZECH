@@ -1895,4 +1895,5 @@ Tísňová volání nejsou možná prostřednictvím Wi-Fi hovorů.
 Zařízení se automaticky přepne na mobilní síť (2G/3G) a provede tísňové volání. 
 
 Tísňová volání jsou možná pouze v oblastech s pokrytím mobilní sítě."</string>
+     <string name="do_not_show_again">"Znovu nezobrazovat"</string>
 </resources>
