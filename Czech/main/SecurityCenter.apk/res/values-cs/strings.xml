@@ -5417,5 +5417,9 @@ ke zvýšené spotřebě baterie a přehřívání"</string>
     <string name="power_center_surface_temp_higher">Teplá</string>
     <string name="power_center_surface_temp_low">Studená</string>
     <string name="power_center_surface_temp_lower">Chladná</string>
-    <string name="power_center_surface_temp_normal">Normální</string>	
+    <string name="power_center_surface_temp_normal">Normální</string>
+    <string name="add_auto_task_desktop_icon">Přidat zástupce na plochu</string>
+	<string name="app_predict_dialog_button">Přidat na plochu</string>
+	<string name="app_predict_dialog_success">Přidání na plochu hotovo</string>
+     <string name="app_predict_guide_button">Přidat</string
 </resources>  
