@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-     <string name="app_label">Ukladací prostor médií</string>
+     <string name="app_label">Uložiště médií</string>
      <string name="artist_label">Umělec</string>
      <string name="root_audio">Zvuk</string>
      <string name="root_images">Obrázky</string>
