@@ -72,4 +72,5 @@ Vaše data budou zachována."</string>
     <string name="notif_service_title">Aplikace Aktualizace běží na pozadí</string>
     <string name="downgrade_warning">Pokoušíte se nainstalovat starší verzi MIUI! Instalace je zablokována aby nedošlo k poškození systému!</string>
     <string name="menu_title_show_notifications">Zobrazit upozornění</string>
+	<string name="fastboot_update_warning">Tato aktualizace se instaluje prostřednictvím FASTBOOT a ne v RECOVERY!</string>
 </resources>

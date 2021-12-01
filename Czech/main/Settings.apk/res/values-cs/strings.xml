@@ -7530,5 +7530,9 @@ Chcete odvolat souhlas s %s nyní?</string>
      <string name="oldman_mode_entry_name">Jednoduchý režim</string>
      <string name="security_center_title">Optimalizace</string>
      <string name="smart_space_clock">Na první pohled</string>
+	 <string name="freeform_guide_multi_window">Multitasking</string>
+     <string name="multi_window_cvw_summary">Přesunutím rohu prepnete na plovoucí okno a upravte jeho velikost</string>
+     <string name="multi_window_cvw_title">Plovoucí okno</string>
+     <string name="security_check_progress_dialog_message">Kontrolují se problémy se zabezpečením...</string>
 </resources>
 

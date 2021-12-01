@@ -127,4 +127,8 @@
         <item quantity="other">Položek: %1$s</item>
         <item quantity="one">Položek: %1$s</item>
     </plurals>
+	<plurals name="text_btn_list_with_message">
+        <item quantity="other">Nové nahrávky: %d</item>
+        <item quantity="one">Nové nahrávky: %d</item>
+     </plurals>
 </resources>             

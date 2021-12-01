@@ -878,5 +878,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="video_not_support_message">Toto video může být zobrazeno nesprávně nebo zpomaleně. Přesto ho použít?</string>
     <string name="video_not_support_title">Toto video je příliš velké</string>
     <string name="wallpaper_dark_mode_image_preview_tip">Náhled v tmavém režimu</string>
-    <string name="wallpaper_light_mode_image_preview_tip">Náhled ve světlém režimu</string>	
+    <string name="wallpaper_light_mode_image_preview_tip">Náhled ve světlém režimu</string>
+	<string name="login_theme">Přihlásit se do Témat</string>
+	<string name="read_and_agree_account_privacy"><Data>"Přečetl jsem a souhlasím s &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Podmínkami použití&lt;/a>&lt;/font> a &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Ochranou soukromí&lt;/a>&lt;/font> Mi účtu."</Data></string>
 </resources>  

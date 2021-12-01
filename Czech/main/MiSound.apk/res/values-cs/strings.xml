@@ -329,5 +329,65 @@
      <string name="switch_audio_device_bt">Bluetooth</string>
      <string name="switch_audio_device_phone">Toto zařízení</string>
      <string name="switch_audio_dialog_title">Přepnout zvuk na</string>
+	 <string name="sound_id_add_effect">Přidat</string>
+     <string name="sound_id_apply_effect_button">Použít</string>
+     <string name="sound_id_begin_test">Start</string>
+     <string name="sound_id_default_effect_name">Přizpůsobený zvuk %s</string>
+     <string name="sound_id_delete_effect_dialog_msg">Chcete natrvalo odstranit tento přizpůsobený zvuk?</string>
+     <string name="sound_id_delete_effect_dialog_positive">Odstranit</string>
+     <string name="sound_id_delete_effect_dialog_title">Odstranit přizpůsobený zvuk</string>
+     <string name="sound_id_dialog_exit_headset_disconnect">Rozumím</string>
+     <string name="sound_id_dialog_headset_disconnect_title">Připojte si sluchátka</string>
+     <string name="sound_id_dialog_msg_bt_disconnect">Zapněte %s a mějte je v blízkosti tohoto zařízení.</string>
+     <string name="sound_id_dialog_msg_wire_headset_disconnect">Připojte %s k tomuto zařízení.</string>
+     <string name="sound_id_effect_already_apply">Použito</string>
+     <string name="sound_id_effect_completed">Přizpůsobený zvuk byl úspešně vytvořen</string>
+     <string name="sound_id_effect_edit_delete">Odstranit přizpůsobený zvuk</string>
+     <string name="sound_id_effect_null">Vypnuto</string>
+     <string name="sound_id_effect_rename_note">Název</string>
+     <string name="sound_id_function_description">Přizpůsobte si křivku EQ podle svých preferencí</string>
+     <string name="sound_id_function_name">Přizpůsobený zvuk</string>
+     <string name="sound_id_headset_status">Aktuální sluchátka</string>
+     <string name="sound_id_hz_high">"Výšky
+%d Hz"</string>
+     <string name="sound_id_hz_low">"Basy
+%d Hz"</string>
+     <string name="sound_id_hz_media">"Středy
+%d Hz"</string>
+     <string name="sound_id_music_one_description">Jasné | %ds</string>
+     <string name="sound_id_music_one_title">Deštivé město</string>
+     <string name="sound_id_music_three_description">Melodické | %ds</string>
+     <string name="sound_id_music_three_title">Sledovat</string>
+     <string name="sound_id_music_two_description">Rytmické | %ds</string>
+     <string name="sound_id_music_two_title">Noční horečka</string>
+     <string name="sound_id_no_effect_msg">"Nepoužívat přizpůsobený zvuk"</string>
+     <string name="sound_id_notice_headset_change_msg">"Zdá se, že používáte jiný pár sluchátek. Test byl zastaven."</string>
+     <string name="sound_id_notice_headset_change_msg2">"Zdá sa, že používáte jiný pár sluchátek. Ujistěte se, že se tento přizpůsobený zvuk shoduje s tímto párem sluchátek."</string>
+     <string name="sound_id_notice_headset_change_positive">OK</string>
+     <string name="sound_id_notice_headset_change_title">Potvrzení stavu sluchátek</string>
+     <string name="sound_id_pref_description">Přizpůsobení zvukových efektů pro modely sluchátek</string>
+     <string name="sound_id_pref_name">Vlastní efekty</string>
+     <string name="sound_id_rename_dialog_title">Zadejte jméno</string>
+     <string name="sound_id_rename_fail">"Názvy nemohou obsahovat speciální znaky"</string>
+     <string name="sound_id_rename_repeat">Tento názov je už použitý. Zkuste jiný.</string>
+     <string name="sound_id_select_music">Vyberte ukázku, kterou chcete přehrát.</string>
+     <string name="sound_id_select_music_note">Pokud chcete přizpůsobit zvuk, poslechněte si ukázky. Každá z nich bude hřehrávána s dvěma sadami efektů, z kterých si můžete vybrat.</string>
+     <string name="sound_id_selection_default_keyboard_a">A</string>
+     <string name="sound_id_selection_keyboard_b">B</string>
+     <string name="sound_id_selection_neither">„Nelíbí se mi ani jeden“</string>
+     <string name="sound_id_selection_no_difference">Zní stejně</string>
+     <string name="sound_id_test_dialog_exit_button">Zastavit</string>
+     <string name="sound_id_test_dialog_finish_button">OK</string>
+     <string name="sound_id_test_dialog_negation">Zrušit</string>
+     <string name="sound_id_test_exit_note">"Tento test ješte není dokončený. Pokud nyní přestanete, nebudete si moci přizpůsobit zvuk. Přesto test zastavit?"</string>
+     <string name="sound_id_test_exit_title">Zastavit test</string>
+     <string name="sound_id_test_finish">Dokončit</string>
+     <string name="sound_id_test_finish_note">Dokončili jste test. Chcete nyní vytvořit přizpůsobený zvuk na základě výsledků?</string>
+     <string name="sound_id_test_finish_title">Dokončení testu</string>
+     <string name="sound_id_test_next_question">Další</string>
+     <string name="sound_id_test_pre_question">Zpět</string>
+     <string name="sound_id_test_select_note">Přehrajte si dvě ukázky a vyberte tu, která se vám líbí více</string>
+     <string name="sound_id_wired_analog_headset">Kabelové sluchátka</string>
+     <string name="speaker_scenario_resume">Obnovit původní efekty</string>
 </resources>
 

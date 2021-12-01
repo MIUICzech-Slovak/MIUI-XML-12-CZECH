@@ -30,5 +30,7 @@
   <string name="fullscreen_slide_to_small_freeform">Zmenšit obrazovku do plovoucího okna</string>
   <string name="fullscreen_slide_to_small_freeform_summary">Přejeďte ze spodní části obrazovky do pravého horního rohu obrazovky</string>
   <string name="freeform_demo_next_tutorial">Dále</string>
-    <string name="freeform_demo_previous_tutorial">Zpět</string> 
+    <string name="freeform_demo_previous_tutorial">Zpět</string>
+	<string name="multi_window_cvw">Plovoucí okno</string>
+     <string name="multi_window_cvw_summary">Přesunutím rohu přepnete na plovoucí okno a upravte jeho velikost</string>
 </resources>

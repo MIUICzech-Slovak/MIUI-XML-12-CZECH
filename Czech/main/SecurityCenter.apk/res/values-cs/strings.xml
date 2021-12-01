@@ -5182,7 +5182,7 @@ ke zvýšené spotřebě baterie a přehřívání"</string>
      <string name="auto_task_default_task_summary_listen_music">Přehrávání hudby a výběr typu sluchátek</string>
      <string name="auto_task_default_task_summary_meet">Naplánujte si čas schůzky a zapnutí režimu Nerušit</string>
      <string name="auto_task_default_task_summary_noon_break">Naplánujte si čas šlofíku a zapnoutí režimu Nerušit</string>
-     <string name="auto_task_default_task_summary_save_power">Zapnout šetřič baterie, jestliže je baterie nižší než %s</string>
+     <string name="auto_task_default_task_summary_save_power">Zapnout šetřič baterie, jestliže je baterie nižší než 30%</string>
      <string name="auto_task_default_task_summary_sleep">Naplánujte si večerku a přizpůsobte chování zařízení</string>
      <string name="auto_task_default_task_summary_watch_video">Spuštění aplikace, zapnutí Wi-Fi, upravení hlasitost</string>
      <string name="auto_task_default_task_title_driver_car">Jízda</string>

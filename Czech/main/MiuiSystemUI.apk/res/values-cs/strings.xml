@@ -2698,4 +2698,5 @@ dd.MM"</string>
      <string name="keyguard_indication_trust_unlocked_plugged_in">"%1$s
 %2$s"</string>
      <string name="notification_menu_snooze_action">Připomenout</string>
+	 <string name="input_pattern_after_restart_msg">Ochrana zabezpečení systému, zadejte svoje heslo</string>
 </resources>
