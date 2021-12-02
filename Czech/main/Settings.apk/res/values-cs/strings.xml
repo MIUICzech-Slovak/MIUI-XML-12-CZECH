@@ -7534,5 +7534,150 @@ Chcete odvolat souhlas s %s nyní?</string>
      <string name="multi_window_cvw_summary">Přesunutím rohu prepnete na plovoucí okno a upravte jeho velikost</string>
      <string name="multi_window_cvw_title">Plovoucí okno</string>
      <string name="security_check_progress_dialog_message">Kontrolují se problémy se zabezpečením...</string>
+	 <string name="accessibility_audio_adjustment_title">Nastavení zvuku</string>
+     <string name="accessibility_back">Zpět</string>
+     <string name="accessibility_banner_message_dismiss">Odmítnout</string>
+     <string name="accessibility_button_description">"Rychlý přístup k funkcím usnadnění z jakékoli obrazovky. 
+
+Chcete-li začít, přejděte do nastavení usnadnění a vyberte funkci. Klepněte na zástupce a vyberte tlačítko usnadnění."</string>
+     <string name="accessibility_button_fade_summary">Pro nerušení na obrazovce po několika sekundách zmizí.</string>
+     <string name="accessibility_button_fade_title">Skrýt při nepoužívání</string>
+     <string name="accessibility_button_gesture_description">"Rychlý přístup k funkcím usnadnění z jakékoli obrazovky.
+
+Chcete-li začít, přejděte do nastavení usnadnění a vyberte funkci. Klepněte na zástupce a vyberte tlačítko usnadnění.
+
+Chcete-li místo toho použít tlačítko usnadnění na navigačním panelu, přepněte na navigaci 2 nebo 3 tlačítky."</string>
+     <string name="accessibility_button_gesture_title">Tlačítko usnadnění &amp; gesta</string>
+     <string name="accessibility_button_high_label">Neprůhledný</string>
+     <string name="accessibility_button_intro">Použíjte tlačítko usnadnění. Gesto není k dispozici u navigace pomocí 3 tlačítek.</string>
+     <string name="accessibility_button_location_title">Umístění</string>
+     <string name="accessibility_button_low_label">Průhlednost</string>
+     <string name="accessibility_button_opacity_title">Průhlednost při nepoužívání</string>
+     <string name="accessibility_button_or_gesture_title">Použijte tlačítko nebo gesto</string>
+     <string name="accessibility_button_size_title">Velikost</string>
+     <string name="accessibility_button_summary">Rychlý přístup k funkcím usnadnění</string>
+     <string name="accessibility_button_title">Tlačítko usnadnění</string>
+     <string name="accessibility_caption_master_switch_title">Zobrazit titulky</string>
+     <string name="accessibility_caption_primary_switch_summary">Pouze pro podporované aplikace</string>
+     <string name="accessibility_caption_primary_switch_title">Zobrazit titulky</string>
+     <string name="accessibility_clear">Průhledný</string>
+     <string name="accessibility_close_tab">Zavřete aktuální kartu</string>
+     <string name="accessibility_control_timeout_preference_summary">"Zvolte jak dlouho se mají zobrazovat dočasné zprávy vyzývají k akci.
+
+Ne všechny aplikace toto nastavení podporují."</string>
+     <string name="accessibility_control_timeout_preference_title">Čas zobrazení akce</string>
+     <string name="accessibility_daltonizer_master_switch_title">Použít korekci barev</string>
+     <string name="accessibility_daltonizer_primary_switch_title">Použít korekci barev</string>
+     <string name="accessibility_description_state_stopped">Tato služba nefunguje správně.</string>
+     <string name="accessibility_dialog_button_allow">Povolit</string>
+     <string name="accessibility_dialog_button_cancel">Zrušit</string>
+     <string name="accessibility_dialog_button_deny">Odmítnout</string>
+     <string name="accessibility_dialog_button_stop">Stop</string>
+     <string name="accessibility_magnification_area_settings_all_summary">Přepínání mezi celou a částečnou obrazovkou</string>
+     <string name="accessibility_magnification_area_settings_full_screen_summary">Celá obrazovka</string>
+     <string name="accessibility_magnification_area_settings_message">Zvětšete celou obrazovku, určitou oblast nebo přepínejte mezi oběma možnostmi</string>
+     <string name="accessibility_magnification_area_settings_mode_switch_summary">Klepnutím na přepínací tlačítko můžete přecházet mezi oběma možnostmi</string>
+     <string name="accessibility_magnification_area_settings_window_screen_summary">Částečná obrazovka</string>
+     <string name="accessibility_magnification_enable_mode_title">Povolit zvětšení</string>
+     <string name="accessibility_magnification_mode_dialog_option_full_screen">Zvětšit celou obrazovku</string>
+     <string name="accessibility_magnification_mode_dialog_option_switch">Přepínání mezi celou a částečnou obrazovkou</string>
+     <string name="accessibility_magnification_mode_dialog_option_window">Zvětšit část obrazovky</string>
+     <string name="accessibility_magnification_mode_dialog_title">Vyberte způsob zvětšení</string>
+     <string name="accessibility_magnification_mode_title">Typ zvětšení</string>
+     <string name="accessibility_magnification_service_settings_title">Nastavení zvětšení</string>
+     <string name="accessibility_magnification_switch_shortcut_message">"Použití trojitého klepnutí ke zvětšení části obrazovky způsobuje překlepy a další zpoždění.
+
+Tlačítko usnadnění se na obrazovce zobrazuje nad ostatními aplikacemi. Klepnutím na něj jej zvětšíte."</string>
+     <string name="accessibility_magnification_switch_shortcut_negative_button">Použijte trojité poklepání</string>
+     <string name="accessibility_magnification_switch_shortcut_positive_button">Přepnout na tlačítko usnadnění</string>
+     <string name="accessibility_magnification_switch_shortcut_title">Přepnout na tlačítko usnadnění?</string>
+     <string name="accessibility_manual_zen_less_time">Méně času.</string>
+     <string name="accessibility_manual_zen_more_time">Více času.</string>
+     <string name="accessibility_more_settings">Další nastavení</string>
+     <string name="accessibility_notification_vibration_title">Vibrace upozornění</string>
+     <string name="accessibility_preference_magnification_summary">Přiblížení na obrazovce</string>
+     <string name="accessibility_ring_vibration_title">Vybrace vyzvánění</string>
+     <string name="accessibility_screen_magnification_gesture_navigation_warning">Gesto Usnadnění je nastaveno na %1$s. Chcete-li použít zvětšení, přejeďte dvěma prsty nahoru ze spodní části obrazovky a podržte. Poté zvolte zvětšení.</string>
+     <string name="accessibility_screen_magnification_gestures_title">Zvětšit trojitým poklepáním</string>
+     <string name="accessibility_screen_magnification_navbar_configuration_warning">Tlačítko Usnadnění je nastaveno na %1$s. Chcete-li použít zvětšení, klepněte &amp; podržte tlačítko Usnadnění a poté vyberte zvětšení.</string>
+     <string name="accessibility_screen_magnification_navbar_short_summary">Klepnutí na tlačítko pro přiblížení</string>
+     <string name="accessibility_screen_magnification_navbar_summary">"Pokud je zvětšení zapnuté, můžete si přiblížovat obrazovku.
+
+"<b>Pro přiblížení</b>", spusťte zvětšení a poté klepněte kamkoli na obrazovku.
+"<ul><li>Posouvejte tažením dvěma nebo více prsty</li>"
+"<li>Stažením/Roztažením dvěma nebo více prsty upravíte přiblížení</li></ul>"
+
+"<b>Pro dočasné přiblížení</b>", spusťte zvětšení a poté klepněte &amp; podržte kdekoli na obrazovce.
+"<ul><li>Tažením se můžete pohybovat po obrazovce</li>"
+"<li>Pro oddálení zvedněte prst</li></ul>"
+
+Na klávesnici nebo navigační liště nelze přibližovat."</string>
+     <string name="accessibility_screen_magnification_navbar_title">Zvětšit pomocí zkratky</string>
+     <string name="accessibility_screen_magnification_short_summary">3x poklepejte pro přiblížení</string>
+     <string name="accessibility_screen_magnification_state_navbar_gesture">Zvětšit pomocí zkratky &amp; trojitého poklepání</string>
+     <string name="accessibility_service_master_open_title">Otevřít %1$s</string>
+     <string name="accessibility_service_master_switch_title">Použít %1$s</string>
+     <string name="accessibility_service_primary_open_title">Otevřít %1$s</string>
+     <string name="accessibility_service_primary_switch_title">Použít %1$s</string>
+     <string name="accessibility_service_screen_control_description">Může číst veškerý obsah na obrazovce a zobrazovat obsah přes jiné aplikace.</string>
+     <string name="accessibility_service_screen_control_title">Zobrazení a ovládání obrazovky</string>
+     <string name="accessibility_service_warning">%1$s požaduje plnou kontrolu nad tímto zařízením. Služba může číst obrazovku a jednat jménem uživatelů, kteří potřebují přístupnost. Tato úroveň ovládání není vhodná pro většinu aplikací.</string>
+     <string name="accessibility_service_warning_description">Úplná kontrola je vhodná pro aplikace, které vám pomáhají s potřebami usnadnění, ale ne pro většinu aplikací.</string>
+     <string name="accessibility_setting_item_control_timeout_title">Čas na akci (vypršel časový limit pro usnadnění)</string>
+     <string name="accessibility_settings_summary">Displej, interakce, zvuk</string>
+     <string name="accessibility_shortcut_edit_dialog_summary_software_floating"><annotation id="link">Více nastavení</annotation></string>
+     <string name="accessibility_shortcut_edit_dialog_title_software_by_gesture">Použít gesto usnadnění</string>
+     <string name="accessibility_shortcut_edit_summary_software_gesture">Gesto usnadnění</string>
+     <string name="accessibility_shortcuts_settings_title">Zkratky usnadnění</string>
+     <string name="accessibility_system_controls_title">Ovládání systému</string>
+     <string name="accessibility_tap_assistance_title">Ovládání časování</string>
+     <string name="accessibility_text_and_display_title">Text a zobrazení</string>
+     <string name="accessibility_timeout_10secs">10 sekund</string>
+     <string name="accessibility_timeout_1min">1 minuta</string>
+     <string name="accessibility_timeout_2mins">2 minuty</string>
+     <string name="accessibility_timeout_30secs">30 sekund</string>
+     <string name="accessibility_timeout_default">Výchozí</string>
+     <string name="accessibility_toggle_large_pointer_icon_title">Velký ukazatel myši</string>
+     <string name="accessibility_toggle_master_balance_left_label">Levý</string>
+     <string name="accessibility_toggle_master_balance_right_label">Pravý</string>
+     <string name="accessibility_toggle_master_mono_summary">Kombinujte kanály při přehrávání zvuku</string>
+     <string name="accessibility_toggle_master_mono_title">Mono zvuk</string>
+     <string name="accessibility_toggle_primary_balance_left_label">Levý</string>
+     <string name="accessibility_toggle_primary_balance_right_label">Pravý</string>
+     <string name="accessibility_toggle_primary_balance_title">Vyvážení zvuku</string>
+     <string name="accessibility_toggle_primary_mono_summary">Kombinujte kanály při přehrávání zvuku</string>
+     <string name="accessibility_toggle_primary_mono_title">Mono zvuk</string>
+     <string name="accessibility_touch_vibration_title">Zpětná odezva dotyku</string>
+     <string name="accessibility_turn_screen_darker_title">Ztlumení obrazovky</string>
+     <string name="accessibility_tutorial_dialog_message_floating_button">Chcete-li použít tuto funkci, klepněte na tlačítko usnadnění na obrazovce.</string>
+     <string name="accessibility_usage_title">Využití Umístění</string>
+     <string name="accessibility_vibration_intensity_high">Vysoké</string>
+     <string name="accessibility_vibration_intensity_low">Nízké</string>
+     <string name="accessibility_vibration_intensity_medium">Střední</string>
+     <string name="accessibility_vibration_summary">Vyzvánění %1$s, oznámení %2$s, dotyk %3$s</string>
+     <string name="accessibility_vibration_summary_high">Vyzvánění &amp; oznámení nastaveno na vysoké</string>
+     <string name="accessibility_vibration_summary_low">Vyzvánění &amp; oznámení nastaveno na nízké</string>
+     <string name="accessibility_vibration_summary_medium">Vyzvánění &amp; oznámení nastaveno na střední</string>
+     <string name="accessibility_vibration_summary_off">Vyzvánění &amp; oznámení nastaveno na vypnuto</string>
+     <string name="accessibility_voice_access_title">Hlasové ovládání</string>
+	 <string name="emergency_address_summary">Pro získání vaší polohy při tísňovém volání přes Wi-Fi</string>
+     <string name="emergency_address_title">Tísňová adresa</string>
+     <string name="emergency_dashboard_summary">Nouzové SOS, lékařské informace, výstrahy</string>
+     <string name="emergency_gesture_call_for_help_dialog_title">Číslo pro volání o pomoc</string>
+     <string name="emergency_gesture_call_for_help_summary">%1$s. Klepnutím změníte</string>
+     <string name="emergency_gesture_call_for_help_title">Volání o pomoc</string>
+     <string name="emergency_gesture_category_call_for_help_title">Upozornit na pomoc</string>
+     <string name="emergency_gesture_entrypoint_summary">Spravováno %1$s</string>
+     <string name="emergency_gesture_number_override_notes">"Pokud zadáte jiné než tísňové číslo:
+ • Musí být vaše zařízení odemknuté, aby bylo možné používat nouzové SOS  
+ • Váš hovor nemusí být přijat"</string>
+     <string name="emergency_gesture_screen_summary">Chcete-li spustit níže uvedené akce, rychle stiskněte zapínací tlačítko 5krát nebo vícekrát</string>
+     <string name="emergency_gesture_screen_title">Nouzové SOS</string>
+     <string name="emergency_gesture_sound_setting_summary">Přehrát hlasitý zvuk při spuštění nouzového SOS</string>
+     <string name="emergency_gesture_sound_setting_title">Přehrát budík s odpočítáváním</string>
+     <string name="emergency_gesture_switchbar_title">Použít nouzové SOS</string>
+     <string name="emergency_info_summary">Informace &amp; kontakty pro %1$s</string>
+     <string name="emergency_info_title">Nouzové informace</string>
+     <string name="emergency_settings_preference_title">Nebezpečí &amp; stav nouze</string>
 </resources>
 
