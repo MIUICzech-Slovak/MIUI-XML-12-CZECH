@@ -156,18 +156,6 @@
         <item quantity="few">Certifikační autority byly nainstalovány</item>
         <item quantity="many">Certifikační autority byly nainstalovány</item>
     </plurals>
-    <plurals name="wifi_available">
-        <item quantity="other">K dispozici jsou sítě Wi-Fi</item>
-        <item quantity="one">K dispozici je síť Wi-Fi</item>
-        <item quantity="few">K dispozici jsou sítě Wi-Fi</item>
-        <item quantity="many">K dispozici jsou sítě Wi-Fi</item>
-    </plurals>
-    <plurals name="wifi_available_detailed">
-        <item quantity="other">K dispozici jsou veřejné sítě Wi-Fi</item>
-        <item quantity="one">K dispozici je veřejná síť Wi-Fi</item>
-        <item quantity="few">K dispozici jsou veřejné sítě Wi-Fi</item>
-        <item quantity="many">K dispozici jsou veřejné sítě Wi-Fi</item>
-    </plurals>
     <plurals name="zen_mode_duration_hours">
         <item quantity="other">%d hodin</item>
         <item quantity="one">1 hodina</item>
