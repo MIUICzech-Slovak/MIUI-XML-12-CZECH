@@ -326,4 +326,5 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
      <string name="saf_permission_dialog_no_more_tip">"Už nezobrazovat"</string>
      <string name="saf_permission_dialog_title">Jsou vyžadována povolení</string>
      <string name="settings_saf_permission">Povolení na správu souborů</string>
+	 <string name="privacy_settings">Soukromí</string>
 </resources>  

@@ -660,4 +660,6 @@ nejsou vytvářené v Druhém profilu"</string>
     <string name="desktop_widget_authorization_new">Dotykem zobrazíte čas displeje</string>
 	<string name="usage_cta_desc">"Vítejte! Aby vám tato aplikace mohla poskytovat statistiky času u obrazovky a režimu soustředění, potřebuje shromažďovat následující údaje: počet odemknutí zařízení, seznam vašich aplikací spolu s odpovídající dobou používání, počet rozsvícení obrazovky, a nastavení režimu soustředěni. Shromážděná data budou uložena pouze lokálně na tomto zařízení.
 "</string>
+    <string name="normal_mode_summary_new">Povolit blikání při slabém osvětlení</string>	
+    <string name="dc_light_hint_normal_anit">Anti-flicker režim může ovlivnit zobrazení položek.</string>
   </resources>

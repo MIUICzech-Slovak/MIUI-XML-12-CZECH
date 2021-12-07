@@ -249,4 +249,5 @@
     <string name="low_version_dialog_message">Aktualizujte MIUI+ ve vašem PC z plus.miui.com</string>
     <string name="low_version_dialog_title">Aktualizujte MIUI+</string>
     <string name="pcmode_not_support_multi_window">PC režim nepodporuje zobrazení více oken.</string>
+	<string name="settings_permission_description">Podrobnosti o povoleních</string>
 </resources>  

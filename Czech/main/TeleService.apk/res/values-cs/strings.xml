@@ -1896,4 +1896,7 @@ Zařízení se automaticky přepne na mobilní síť (2G/3G) a provede tísňov�
 
 Tísňová volání jsou možná pouze v oblastech s pokrytím mobilní sítě."</string>
      <string name="do_not_show_again">"Znovu nezobrazovat"</string>
+	 <string name="vonr_switch_title">Použít Vo5G</string>
+     <string name="vonr_switch_summary">Použít Vo5G pro zlepšení kvality hlasových hovorů</string>
+     <string name="more">Více</string>
 </resources>

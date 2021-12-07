@@ -4788,7 +4788,7 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="disable_sensitive_permissions_detail">"Vaše klávesnice nebude moci používat oprávnění související s ochranou soukromí (např. Přístup ke kontaktům nebo informace o poloze)."</string>
     <string name="ime_security_warning">%1$s může zaznamenat vše, co napíšete, včetně hesel a dalších citlivých informací. Přesto použít?</string>
     <string name="mi_ime_not_used">Použijte klávesnici autorizovanou společností Xiaomi</string>
-    <string name="network_assistant_privacy_title">Odesílání aplikací, využití sítě a diagnostických dat</string>
+    <string name="network_assistant_privacy_title">Odeslat data o používání aplikací a sítě pro diagnostické účely</string>
     <string name="offline_voice_input">Offline hlasový vstup</string>
     <string name="offline_voice_input_detail">"Pro hlasový vstup nebudete potřebovat internet."</string>
     <string name="pp_privacy_input_tips">Chraňte svou klávesnici</string>
