@@ -999,7 +999,6 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
      <string name="icon_pad_setting_local_icon">Místní ikony</string>
      <string name="icon_pad_setting_title">Ikony</string>
      <string name="install_failed">Nepodařilo se nainstalovat</string>
-     <string name="item_resource_audio_divider">│</string>
      <string name="item_resource_audio_optional_alarm_ring">Budíky</string>
      <string name="item_resource_audio_optional_color_ring">Tón zpětného volání</string>
      <string name="item_resource_audio_optional_notification_ring">Upozornění</string>
@@ -1193,7 +1192,6 @@ Toto povolení můžete udělit v části Nastavení > Ochrana osobních údajů
      <string name="resource_delete_icon_title">Odstranit ikony</string>
      <string name="resource_delete_ring_title">Odstranit vyzváněcí tóny</string>
      <string name="resource_delete_wallpaper_title">Odstranit tapety</string>
-     <string name="resource_detail_vertical_divider">|</string>
      <string name="resource_exchange_device_not_support">"Tato položka není na vašem zařízení podporována"</string>
      <string name="resource_free_download">Stáhnout zdarma</string>
      <string name="resource_get_auth_exceed_max_limit_tips_pad">Přizpůsobení můžete použít s jedním účtem až na 10 zařízeních.</string>
@@ -1255,7 +1253,6 @@ Toto povolení můžete udělit v části Nastavení > Ochrana osobních údajů
      <string name="theme_component_icon">Ikony</string>
      <string name="theme_designer_products">Témata designéra</string>
      <string name="theme_log_out">Odhlásit se</string>
-     <string name="theme_name">%1$s</string>
      <string name="theme_on_the_phone_alert">"Během hovorů nelze hrát"</string>
      <string name="theme_preview">Ukázka témat</string>
      <string name="theme_setting_all">Všechny témata</string>
