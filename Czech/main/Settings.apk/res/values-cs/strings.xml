@@ -7722,5 +7722,11 @@ Tato funkce funguje pouze když je navigace v systému nastavena na gesta."</str
      <string name="closed_beta">Stabilní (interní)</string>
 	 <string name="accessibility_vpn_settings_info">Konfigurace VPN</string>
      <string name="accessibility_work_profile_app_description">Práca %s</string>
+	 <string name="to_close">Vypnout</string>                                        
+     <string name="notification_listener_disable_warning_confirm">Vypnout</string>
+     <string name="dialog_location_ok">Vypnout</string>
+     <string name="dialog_background_check_ok">Vypnout</string>
+     <string name="condition_turn_off">Vypnout</string>     
+	<string name="memorycard_calculating">Výpočet...</string>  
 </resources>
 

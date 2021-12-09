@@ -12,9 +12,6 @@
         <item quantity="other">Upozornění: %d</item>
         <item quantity="one">Upozornění: %d</item>
     </plurals>
-
-
-
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Nyní</item>
     </plurals>
@@ -74,5 +71,21 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">Položek: %1$s</item>
         <item quantity="one">Položek: %1$s</item>
+    </plurals>
+	<plurals name="character_pitch_minus">
+        <item quantity="other">Zmenšený rozestup znaků. Rozestup %s.</item>
+        <item quantity="one">Zmenšený rozestup znaků. Rozestup %s.</item>
+    </plurals>
+    <plurals name="character_pitch_plus">
+        <item quantity="other">Zvýšený rozestup znaků. Rozestup %s.</item>
+        <item quantity="one">Zvýšený rozestup znaků. Rozestup %s.</item>
+    </plurals>
+    <plurals name="line_spacing_puls">
+        <item quantity="other">Zvýšený rozestup řádků. Rozestup %s.</item>
+        <item quantity="one">Zvýšený rozestup řádků. Rozestup %s.</item>
+    </plurals>
+    <plurals name="lines_pacing_minus">
+        <item quantity="other">Snížený rozestup řádků. Rozestup %s.</item>
+        <item quantity="one">Snížený rozestup řádků. Rozestup %s.</item>
     </plurals>
 </resources>             

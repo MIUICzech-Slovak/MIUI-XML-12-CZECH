@@ -2699,4 +2699,8 @@ dd.MM"</string>
 %2$s"</string>
      <string name="notification_menu_snooze_action">Připomenout</string>
 	 <string name="input_pattern_after_restart_msg">Ochrana zabezpečení systému, zadejte svoje heslo</string>
+	 <string name="face_unlock_locked">Odemknutí tváří nelze nyní použít</string>
+     <string name="input_pattern_after_face_not_allowed">Zadejte své heslo aspoň jednou za %d hodin, aby bylo toto zařízení zabezpečené</string>
+     <string name="input_pattern_or_finger_after_face_not_allowed">Zadejte své heslo nebo použíjte otisk prstu aspoň jednou za %d hodin, aby jste toto zařízení zabezpečili</string>
+     <string name="open_xmyzl_hint_text">Přejetím prstu doprava otevřete Xiaomi Magic Control</string>
 </resources>

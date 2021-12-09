@@ -396,4 +396,5 @@ Tato funkce není mimo Čínu doporučena"</string>
 	<string name="search_home_vif_show_more">Více</string>
      <string name="search_website_more">Více</string>
      <string name="xl_extend">Více</string>
+	 <string name="pref_download_storage_path_2">Umístění stažených položek</string>
 </resources>  

@@ -1328,4 +1328,5 @@ Toto povolení můžete udělit v části Nastavení > Ochrana osobních údajů
      <string name="wifi_check_confirm">Potvrdit</string>
      <string name="wifi_check_message">Používat pro stahování aktualizací mobilní data?</string>
      <string name="wifi_check_tip">Více nezobrazovat</string>
+	 <string name="privacy_pad_fold_Read_write_storage">Přístup k úložišti</string>
 </resources>  

@@ -5422,4 +5422,7 @@ ke zvýšené spotřebě baterie a přehřívání"</string>
 	<string name="app_predict_dialog_button">Přidat na plochu</string>
 	<string name="app_predict_dialog_success">Přidání na plochu hotovo</string>
      <string name="app_predict_guide_button">Přidat</string>
+	 <string name="gd_splite_screen_tips">Rozdělená obrazovka nepodporuje plovoucí okna</string>
+     <string name="pc_battery_chart_loading">Načítání...</string>
+     <string name="vb_video_effects_3d_summary_headset">Zvyšte pocit ponoření a obklopení při poslouchání zvuků ve sluchátcích</string> 
 </resources>  

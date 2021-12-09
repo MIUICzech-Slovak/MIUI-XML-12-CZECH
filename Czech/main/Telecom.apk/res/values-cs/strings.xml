@@ -505,4 +505,6 @@ Chcete-li pokračovat, vyberte možnost Vymazat a převést…"</string>
   <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
 	<string name="message_no_voice_capability">Na tomto zařízení není možné volat</string>
+	<string name="anti_fraud_notification_msg">Ukončete tento hovor, aby jste se vyhli telekomunikačním podvodům</string>
+     <string name="anti_fraud_notification_title">Upozornění na ochranu před podvody</string>
 </resources>

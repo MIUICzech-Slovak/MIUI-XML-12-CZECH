@@ -1899,4 +1899,13 @@ Tísňová volání jsou možná pouze v oblastech s pokrytím mobilní sítě."
 	 <string name="vonr_switch_title">Použít Vo5G</string>
      <string name="vonr_switch_summary">Použít Vo5G pro zlepšení kvality hlasových hovorů</string>
      <string name="more">Více</string>
+	 <string name="privacy_setting">Soukromí</string>     
+     <string name="preference_check_privacy">Zobrazit Ochranu soukromí</string>
+     <string name="preference_permission_related">Povolení</string>
+     <string name="permission_description">Podrobnosti o povoleních</string>   
+     <string name="read_call_log">Nahrávání zvuku</string>
+     <string name="read_call_log_summary">Pro nahrávání hovorů</string>      
+     <string name="notallow">Neuděleno</string>   
+     <string name="allow">Uděleno</string>
+	 <string name="ask">Zeptat se</string>
 </resources>

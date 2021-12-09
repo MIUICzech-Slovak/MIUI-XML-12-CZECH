@@ -825,4 +825,9 @@ Velikost delta aktualizace: %2$s"</string>
   <string name="dialog_privacy_disagree_msg">Vypnutím přepínače odvoláváte svůj souhlas se Zásadami ochrany osobních údajů Kalkulačky. Přestaneme shromažďovat vaše osobní údaje. Osobní údaje, které už byly shromážděny a uchovány, budou vymazány během konkrétního období, jak to vyžadují platné zákony. Kalkulačka potřebuje shromáždit potřebné osobní údaje, aby vám mohla poskytnout základní služby. Vaše odvolání souhlasu s její Zásadami ochrany osobních údajů bude považováno za odmítnutí přijetí její služeb na základě shromážděných osobních údajů.</string>
       <string name="dialog_privacy_revoke_btn_ok">Vybrat</string>
       <string name="dialog_privacy_revoke_title">Odvolání souhlasu</string>
+	  <string name="currency_dialog_privacy_content">Převodník měn se musí připojit k internetu, aby získal nejnovější výměnné kurzy. Před použitím této funkce si přečtěte a potvrďte naše Podmínky použití.</string>
+	  <string name="privacy_dialog_title">Ochrana osobních údajů</string>
+     <string name="privacy_revoke_error">"Nepodařilo se stáhnout. Zkuste to znova."</string>
+     <string name="privacy_revoke_progress">Odvolávání...</string>
+     <string name="privacy_switch">Odvolání souhlasu</string> 
 </resources>  
