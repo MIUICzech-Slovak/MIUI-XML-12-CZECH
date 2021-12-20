@@ -5424,5 +5424,9 @@ ke zvýšené spotřebě baterie a přehřívání"</string>
      <string name="app_predict_guide_button">Přidat</string>
 	 <string name="gd_splite_screen_tips">Rozdělená obrazovka nepodporuje plovoucí okna</string>
      <string name="pc_battery_chart_loading">Načítání...</string>
-     <string name="vb_video_effects_3d_summary_headset">Zvyšte pocit ponoření a obklopení při poslouchání zvuků ve sluchátcích</string> 
+     <string name="vb_video_effects_3d_summary_headset">Zvyšte pocit ponoření a obklopení při poslouchání zvuků ve sluchátcích</string>
+	<string name="system_app_permission_instruction">Tato aplikace potřebuje k poskytování základních systémových služeb následující oprávnění. Správa oprávnění je pro tuto aplikaci omezena, protože změna stavu oprávnění povede k abnormalitám fungování systému.</string>
+     <string name="system_permission_declare_analytics_declare">"Zveme vás, abyste se zaregistrovali do našeho Programu uživatelské zkušenosti. Tato aplikace se musí připojit k internetu a používat následující oprávnění nebo funkce ke shromažďování statistik za účelem zlepšení služeb, které vám poskytujeme. Shromažďujeme zde údaje pouze pro statistické účely a na základě těchto údajů, vás nemůžeme osobně identifikovat.“</string>
+     <string name="system_permission_declare_no_say_no_analytics">"Pokud tato oprávnění nechcete udělovat, můžete registraci zrušit v části Nastavení > Další nastavení > Soukromí > Program uživatelské zkušenosti."</string>
+     <string name="system_permission_declare_optional">"Abychom vám mohli při používání aplikace poskytovat další služby, můžeme potřebovat následující oprávnění: %s. Předvolby oprávnění můžete kdykoli upravit v Nastavení."</string> 
 </resources>  
