@@ -2810,7 +2810,7 @@ V tomto zařízení jsou přítomni další uživatelé.
   <string name="miui_sos_msg_call_log_prefix">Zde je má historie hovorů za poslední hodinu:</string>
   <string name="miui_sos_play_voice">Přehrát SOS zprávu</string>
   <string name="miui_sos_remind_add">Přidat</string>
-  <string name="miui_sos_remind_infocontent">Přidal jset si tě jako nouzový kontakt. V případě nouze dostanete SMS s mou aktuální polohou. [Mi Emergency SOS]</string>
+  <string name="miui_sos_remind_infocontent">Přidal jsem si tě jako nouzový kontakt. V případě nouze obdržíš SMS s mou aktuální polohou. [Mi Emergency SOS]</string>
   <string name="miui_sos_remind_open">Nouzové SOS vyžaduje alespoň 1 nouzový kontakt.</string>
   <string name="miui_sos_remind_sendinfo">Nezapomeňte povědět těmto kontaktům, že jste si je přidali jako nouzové kontakty.</string>
   <string name="miui_sos_remind_sendnow">Odeslat</string>
