@@ -994,7 +994,7 @@ Zdálo se, že ve městě nejsou koně ani jakákoli zvířata. Lidé k převá
   <string name="homepage_personal_settings">Návrhy</string>
   <string name="hwui_force_dark_summary">Přepíše vynucení stálého zapnutí tmavého režimu</string>
   <string name="hwui_force_dark_title">Přepsat vynucení tmavého režimu</string>
-  <string name="imei_multi_sim">IMEI (slot na SIM kartu %1$d)</string>
+  <string name="imei_multi_sim">IMEI (slot SIM %1$d)</string>
   <string name="ims_reg_status_not_registered">Neregistrováno</string>
   <string name="ims_reg_status_registered">Registrováno</string>
   <string name="ims_reg_title">Stav registrace IMS</string>
@@ -1215,7 +1215,7 @@ Tímto krokem nebude zrušen mobilní tarif."</string>
   <string name="media_output_summary_unavailable">Nedostupné</string>
   <string name="media_output_title">Přehrávat média v</string>
   <string name="media_transfer_this_device_name">Toto zařízení</string>
-  <string name="meid_multi_sim">MEID (slot na SIM kartu %1$d)</string>
+  <string name="meid_multi_sim">MEID (slot SIM %1$d)</string>
   <string name="memory_summary">Přibližné využití paměti: %1$s z %2$s</string>
   <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>
   <string name="mms_message_summary">Odesílání a příjem při vypnutých mobilních datech</string>
@@ -1782,7 +1782,7 @@ Poznámka: Otisk prstu nelze použít k odemykání tohoto zařízení. Další
   <string name="sim_lock_settings_summary_on">Uzamčeno</string>
   <string name="sim_selection_channel_title">Výběr SIM karty</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
-  <string name="sim_status_title_sim_slot">Stav SIM karty (slot na SIM kartu %1$d)</string>
+  <string name="sim_status_title_sim_slot">Stav SIM karty (slot SIM %1$d)</string>
   <string name="skip_anyway_button_label">Přeskočit</string>
   <string name="skip_lock_screen_dialog_button_label">Přeskočit</string>
   <string name="smart_battery_footer">"Adaptivní baterie prodlužuje výdrž baterie tím, že omezuje využití baterie aplikacemi, které nepoužíváte tak často. Telefon postupem času sám zjistí, jak aplikace využíváte.
@@ -1818,7 +1818,7 @@ Oznámení z těchto aplikací se mohou zobrazovat se zpožděním."</string>
   <string name="standby_bucket_summary">"Stav pohotovostního režimu aplikace:  %s"</string>
   <string name="status_data_network_type">Typ mobilní datové sítě</string>
   <string name="status_esim_id">EID</string>
-  <string name="status_number_sim_slot">Telefonní číslo (slot na SIM kartu %1$d)</string>
+  <string name="status_number_sim_slot">Telefonní číslo (slot SIM %1$d)</string>
   <string name="status_number_sim_status">Telefonní číslo na SIM kartě</string>
   <string name="status_voice_network_type">Typ mobilní hlasové sítě</string>
   <string name="storage_detail_dialog_system">Systém obsahuje soubory používané ke spuštění systému Android verze %s</string>

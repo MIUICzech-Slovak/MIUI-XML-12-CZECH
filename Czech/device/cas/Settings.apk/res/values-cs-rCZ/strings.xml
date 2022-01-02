@@ -1505,7 +1505,7 @@ Zdálo se, že ve městě nejsou koně ani jakákoli zvířata. Lidé k převá
      <string name="hwui_force_dark_summary">Přepíše vynucení stálého zapnutí tmavého režimu</string>
      <string name="hwui_force_dark_title">Přepsat vynucení tmavého režimu</string>
      <string name="icon_content_description">Ikona dialogového okna</string>
-     <string name="imei_multi_sim">IMEI (slot na SIM kartu %1$d)</string>
+     <string name="imei_multi_sim">IMEI (slot SIM %1$d)</string>
      <string name="important_bubble">Prioritní konverzace automaticky zobrazovat jako bubliny</string>
      <string name="important_conversation_behavior_summary">Prioritní konverzace se zobrazují v horní části vysouvacího panelu. Můžete také nastavit, aby se zobrazovaly v bublinách a v režimu Nerušit.</string>
      <string name="important_conversations">Prioritní konverzace</string>
@@ -1938,7 +1938,7 @@ V tomto zařízení jsou přítomni další uživatelé.
      <string name="media_transfer_this_phone">Tento telefon</string>
      <string name="media_transfer_wired_device_name">Kabelové audiozařízení</string>
      <string name="media_transfer_wired_usb_device_name">Kabelová sluchátka</string>
-     <string name="meid_multi_sim">MEID (slot na SIM kartu %1$d)</string>
+     <string name="meid_multi_sim">MEID (slot SIM %1$d)</string>
      <string name="memory_summary">Přibližné využití paměti: %1$s z %2$s</string>
      <string name="mic_toggle_title">Přístup k mikrofonu</string>
      <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>
@@ -2877,7 +2877,7 @@ Přepnutím nezrušíte službu %1$s."</string>
      <string name="sim_selection_channel_title">Výběr SIM karty</string>
      <string name="sim_setup_channel_id">Aktivace sítě</string>
      <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
-     <string name="sim_status_title_sim_slot">Stav SIM karty (slot na SIM kartu %1$d)</string>
+     <string name="sim_status_title_sim_slot">Stav SIM karty (slot SIM %1$d)</string>
      <string name="sim_switch_button">Přepnout</string>
      <string name="sim_switch_channel_id">Přepnutí operátora</string>
      <string name="skip_anyway_button_label">Přeskočit</string>
@@ -2919,7 +2919,7 @@ Přepnutím nezrušíte službu %1$s."</string>
      <string name="standby_bucket_summary">"Stav pohotovostního režimu aplikace:  %s"</string>
      <string name="status_data_network_type">Typ mobilní datové sítě</string>
      <string name="status_esim_id">EID</string>
-     <string name="status_number_sim_slot">Telefonní číslo (slot na SIM kartu %1$d)</string>
+     <string name="status_number_sim_slot">Telefonní číslo (slot SIM %1$d)</string>
      <string name="status_number_sim_status">Telefonní číslo na SIM kartě</string>
      <string name="status_voice_network_type">Typ mobilní hlasové sítě</string>
      <string name="storage_apps">Aplikace</string>
