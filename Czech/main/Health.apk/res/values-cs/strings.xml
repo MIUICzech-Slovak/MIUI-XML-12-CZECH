@@ -466,7 +466,7 @@ Pokud je pro vás stále obtížné usnout po 30 minutách v posteli, snižte fa
     <string name="rem_Duration_increase_description">Váš REM spánek je příliš dlouhý</string>
     <string name="rem_duration">REM doba spánku</string>
     <string name="rem_duration_decrease_description">Váš REM spánek je příliš krátký</string>
-    <string name="rem_duration_description" formatted="false">REM označuje rychlý pohyb očí. Spánek lze rozdělit na spánek s rychlým pohybem očí (REM) a spánek s pomalým pohybem očí (NREM). Spánek s rychlým pohybem očí představuje asi 20 až 25% celkové doby spánku. Lidé probuduzení v této fázi, v 74 až 95% říkájí, že snili a jsou schopni si vzpomenout na své sny. Mozek je velmi aktivní a tělo je během REM spánku zcela uvolněné, díky čemuž je tato fáze spánku nezbytná pro udržení kognitivních funkcí .</string>
+    <string name="rem_duration_description">REM označuje rychlý pohyb očí. Spánek lze rozdělit na spánek s rychlým pohybem očí (REM) a spánek s pomalým pohybem očí (NREM). Spánek s rychlým pohybem očí představuje asi 20 až 25%% celkové doby spánku. Lidé probuduzení v této fázi, v 74 až 95%% říkájí, že snili a jsou schopni si vzpomenout na své sny. Mozek je velmi aktivní a tělo je během REM spánku zcela uvolněné, díky čemuž je tato fáze spánku nezbytná pro udržení kognitivních funkcí .</string>
     <string name="rem_duration_normal_description">REM doba spánku je normální</string>
     <string name="remind">Připomenutí</string>
     <string name="remind_goto_sleep">Je pozdě. Nejvyšší čas jít do postele.</string>
