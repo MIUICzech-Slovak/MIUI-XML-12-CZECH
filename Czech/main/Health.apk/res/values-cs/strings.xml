@@ -358,7 +358,7 @@ Pokud je pro vás stále obtížné usnout po 30 minutách v posteli, snižte fa
     <string name="late">Pozdě</string>
     <string name="light_sleep">Lehký spánek</string>
     <string name="light_sleep_duration">Doba lehkého spánku</string>
-    <string name="light_sleep_duration_description">Když lidé spí, dochází k periodickým rychlým pohybům očí. Spánek lze rozdělit na spánek s rychlým pohybem očí (REM) a spánek s pomalým pohybem očí (NREM). Lehký spánek se vyskytuje během období spánku NREM, což představuje asi 50 až 60% celkové doby spánku. Během lehkého spánku se vědomí postupně snižuje a mozek je relativně statický, ale stále ho lze snadno probudit.</string>
+    <string name="light_sleep_duration_description">Když lidé spí, dochází k periodickým rychlým pohybům očí. Spánek lze rozdělit na spánek s rychlým pohybem očí (REM) a spánek s pomalým pohybem očí (NREM). Lehký spánek se vyskytuje během období spánku NREM, což představuje asi 50 až 60%% celkové doby spánku. Během lehkého spánku se vědomí postupně snižuje a mozek je relativně statický, ale stále ho lze snadno probudit.</string>
     <string name="light_sleep_time_decrease_description">Váš lehký spánek je příliš krátký</string>
     <string name="light_sleep_time_increase_description">Váš lehký spánek je příliš dlouhý</string>
     <string name="light_sleep_time_normal_description">Vaše tělo má dostatek lehkého spánku</string>
