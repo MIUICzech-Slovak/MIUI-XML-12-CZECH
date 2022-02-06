@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-<string name="accept">Příjmout</string>
+    <string name="accept">Příjmout</string>
     <string name="decline">Odmítnout</string>
     <string name="notification_channel_network_alerts">Upozornění sítě</string>
     <string name="notification_channel_network_available">Dostupná síť</string>

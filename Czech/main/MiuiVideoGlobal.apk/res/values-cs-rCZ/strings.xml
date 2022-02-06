@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="action_menu_text_video_download">Stáhnuté videa</string>
     <string name="action_menu_text_web_mode">Režim PC</string>
@@ -19,6 +19,7 @@
     <string name="friday">Pátek</string>
     <string name="friday_short">Pát</string>
     <string name="friday_shortest">Pá</string>
+    <string name="lv_local_folder">Složky</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Odznačit</string>
     <string name="miuix_appcompat_action_mode_select_all">Vše</string>
     <string name="miuix_appcompat_action_mode_title_empty">Vybrat položky</string>
@@ -72,6 +73,7 @@
     <string name="month_september">Září</string>
     <string name="month_september_short">Zář</string>
     <string name="month_september_shortest">Z</string>
+    <string name="plus_tab_gallery">Složky</string>
     <string name="pref_nav_mode_title">Režim PC</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob</string>
@@ -94,6 +96,4 @@
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="lv_local_folder">Složky</string>
-	<string name="plus_tab_gallery">Složky</string>
 </resources>

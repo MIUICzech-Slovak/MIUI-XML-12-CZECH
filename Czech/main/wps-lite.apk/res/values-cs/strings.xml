@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="BookTitleDisplayName">Název knihy</string>
     <string name="DefaultParagraphFontDisplayName">Výchozí písmo odstavce</string>
@@ -200,7 +200,7 @@
     <string name="public_search_empty">Nejprve zadejte obsah</string>
     <string name="public_searchnotfound">Žádné výsledky</string>
     <string name="public_secre_dialog_content_1">Pro poskytnutí a neustálé vylepšování našich služeb a produktů, vyžaduje tato aplikace přístup k úložišti vašeho zařízení a oprávnění ke shromažďování informací o tom, jak aplikaci využíváte.</string>
-    <string name="public_secre_dialog_content_2" formatted="false">&lt;Data>Vaše osobní údaje budou chráněny v souladu s našimi &lt;a href=\"%s\">Smluvními podmínkami&lt;/a > a &lt;a href=\"%s\">Zásadami ochrany osobních údajů&lt;/a >.&lt;/Data></string>
+    <string formatted="false" name="public_secre_dialog_content_2">&lt;Data&gt;Vaše osobní údaje budou chráněny v souladu s našimi &lt;a href=\"%s\"&gt;Smluvními podmínkami&lt;/a &gt; a &lt;a href=\"%s\"&gt;Zásadami ochrany osobních údajů&lt;/a &gt;.&lt;/Data&gt;</string>
     <string name="public_secre_dialog_exit">Ukončit</string>
     <string name="public_secre_dialog_positive">Souhlasím</string>
     <string name="public_secre_dialog_tips_agree">Pokud souhlasíte s našimi Smluvními podmínkami a Zásadami ochrany osobních údajů, klepněte na \"Souhlasím\" pro spuštění aplikace.</string>
@@ -254,12 +254,12 @@
     <string name="writer_page_break">Konec stránky</string>
     <string name="writer_page_setting_units"> cm</string>
     <string name="writer_page_setting_units_inch">palce</string>
-    <string name="writer_paragraph_set_firstlineindent" formatted="false">Odsazení prvního řádku: %.2f%2$s</string>
-    <string name="writer_paragraph_set_hangingindent" formatted="false">Závěsné odsazení: %.2f%2$s</string>
-    <string name="writer_paragraph_set_leftindent" formatted="false">Odsazení zleva: %.2f%2$s</string>
-    <string name="writer_paragraph_set_rightindent" formatted="false">Odsazení zprava: %.2f%2$s</string>
-    <string name="writer_paragraph_set_spaceafter" formatted="false">Mezera za odstavcem: %.2f%2$s</string>
-    <string name="writer_paragraph_set_spacebefore" formatted="false">Mezera před odstavcem: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_firstlineindent">Odsazení prvního řádku: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_hangingindent">Závěsné odsazení: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_leftindent">Odsazení zleva: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_rightindent">Odsazení zprava: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_spaceafter">Mezera za odstavcem: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_spacebefore">Mezera před odstavcem: %.2f%2$s</string>
     <string name="writer_read_mode">Režim zobrazení</string>
     <string name="writer_revision_edit_nottrack">Tato akce nebude označena jako revize. Pokračovat?</string>
     <string name="writer_revision_unsupportedRevisionSubDocument">Tuto revizi nelze momentálně upravit</string>

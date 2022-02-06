@@ -1,31 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="cancel">Zrušit</string>
-    <string name="copy">Kopírovat</string>
-    <string name="copyUrl">Kopírovat adresu URL</string>
-    <string name="cut">Vyjmout</string>
-    <string name="defaultVoiceMailAlphaTag">Hlasová schránka</string>
-    <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-    <string name="emptyPhoneNumber">(žádné telefonní číslo)</string>
-    <string name="httpErrorBadUrl">Stránku nelze otevřít. Adresa URL je neplatná.</string>
-    <string name="httpErrorUnsupportedScheme">Protokol není podporován.</string>
-    <string name="no">Zrušit</string>
-    <string name="ok">OK</string>
-    <string name="paste">Vložit</string>
-    <string name="search_go">Hledat</string>
-    <string name="selectAll">Vše</string>
-    <string name="unknownName">Není známo</string>
-    <string name="untitled">&lt;Bez názvu></string>
-    <string name="VideoView_error_button">OK</string>
-    <string name="VideoView_error_text_unknown">Toto video nelze přehrát.</string>
-    <string name="VideoView_error_title">Potíže s videem</string>
-    <string name="yes">OK</string>
-    <string name="dialog_alert_title">Upozornění</string>
-    <string name="VideoView_error_text_invalid_progressive_playback">Toto video nelze přenášet datovým proudem do tohoto zařízení.</string>
-    <string name="selectTextMode">Vybrat text</string>
-    <string name="fingerprint_icon_content_description">Ikona otisku prstů</string>
-    <string name="paste_as_plain_text">Vložit jako prostý text</string>
-    <string name="autofill">Automatické vyplňování</string>
     <string name="BaMmi">Blokování hovorů</string>
     <string name="CLIRDefaultOffNextCallOff">Ve výchozím nastavení není funkce ID volajícího omezena. Příští hovor: Neomezeno</string>
     <string name="CLIRDefaultOffNextCallOn">Ve výchozím nastavení není funkce ID volajícího omezena. Příští hovor: Omezeno</string>
@@ -167,6 +141,10 @@
     <string name="RuacMmi">Odmítnutí nevyžádaných obtěžujících hovorů</string>
     <string name="SetupCallDefault">Přijmout hovor?</string>
     <string name="ThreeWCMmi">Konference tří účastníků</string>
+    <string name="VideoView_error_button">OK</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Toto video nelze přenášet datovým proudem do tohoto zařízení.</string>
+    <string name="VideoView_error_text_unknown">Toto video nelze přehrát.</string>
+    <string name="VideoView_error_title">Potíže s videem</string>
     <string name="accept">Přijmout</string>
     <string name="accessibility_binding_label">Přístupnost</string>
     <string name="accessibility_button_instructional_text">Chcete-li přepnout mezi funkcemi, podržte tlačítko přístupnosti.</string>
@@ -199,13 +177,13 @@
 
 Aktuální funkce:
 %1$s
-Vybrané funkce můžete změnit v Nastavení > Přístupnost."</string>
+Vybrané funkce můžete změnit v Nastavení &gt; Přístupnost."</string>
     <string name="accessibility_shortcut_multiple_service_warning_title">Zapnout zkratku funkcí pro usnadnění přístupu?</string>
     <string name="accessibility_shortcut_off">Nezapínat</string>
     <string name="accessibility_shortcut_on">Zapnout</string>
     <string name="accessibility_shortcut_single_service_warning">"Podržením obou tlačítek hlasitosti po dobu několika sekund zapnete funkci pro usnadnění přístupu %1$s. Tato funkce může změnit fungování zařízení.
 
-Zkratku můžete nastavit na jinou funkci v Nastavení > Přístupnost."</string>
+Zkratku můžete nastavit na jinou funkci v Nastavení &gt; Přístupnost."</string>
     <string name="accessibility_shortcut_single_service_warning_title">Zapnout zkratku služby %1$s?</string>
     <string name="accessibility_shortcut_spoken_feedback">Chcete-li používat službu %1$s, tři sekundy podržte stisknutá obě tlačítka hlasitosti</string>
     <string name="accessibility_shortcut_toogle_warning">Když je tato zkratka zapnutá, můžete funkci přístupnosti spustit tím, že na tři sekundy podržíte obě tlačítka hlasitosti.</string>
@@ -297,6 +275,7 @@ Zkratku můžete nastavit na jinou funkci v Nastavení > Přístupnost."</strin
     <string name="app_suspended_unsuspend_message">Zrušit pozastavení aplikace</string>
     <string name="app_upgrading_toast">Aplikace %1$s se upgraduje…</string>
     <string name="as_app_forced_to_restricted_bucket">Balíček %1$s byl vložen do sekce OMEZENO</string>
+    <string name="autofill">Automatické vyplňování</string>
     <string name="autofill_address_name_separator">" "</string>
     <string name="autofill_address_summary_format">$1$2$3</string>
     <string name="autofill_address_summary_name_format">$1$2$3</string>
@@ -319,10 +298,10 @@ Zkratku můžete nastavit na jinou funkci v Nastavení > Přístupnost."</strin
     <string name="autofill_save_never">Nikdy</string>
     <string name="autofill_save_no">Ne, děkuji</string>
     <string name="autofill_save_notnow">Teď ne</string>
-    <string name="autofill_save_title">Uložit do služby <b>%1$s</b>?</string>
-    <string name="autofill_save_title_with_2types">Uložit údaje %1$s a %2$s do služby <b>%3$s</b>?</string>
-    <string name="autofill_save_title_with_3types">Uložit údaje %1$s, %2$s a %3$s do služby <b>%4$s</b>?</string>
-    <string name="autofill_save_title_with_type">Uložit údaj %1$s do služby <b>%2$s</b>?</string>
+    <string name="autofill_save_title">Uložit do služby </string>
+    <string name="autofill_save_title_with_2types">Uložit údaje %1$s a %2$s do služby </string>
+    <string name="autofill_save_title_with_3types">Uložit údaje %1$s, %2$s a %3$s do služby </string>
+    <string name="autofill_save_title_with_type">Uložit údaj %1$s do služby </string>
     <string name="autofill_save_type_address">adresa</string>
     <string name="autofill_save_type_credit_card">platební karta</string>
     <string name="autofill_save_type_debit_card">debetní karta</string>
@@ -334,10 +313,10 @@ Zkratku můžete nastavit na jinou funkci v Nastavení > Přístupnost."</strin
     <string name="autofill_save_yes">Uložit</string>
     <string name="autofill_state">Stát</string>
     <string name="autofill_this_form">Aut.vyp.</string>
-    <string name="autofill_update_title">Aktualizovat ve službě <b>%1$s</b>?</string>
-    <string name="autofill_update_title_with_2types">Aktualizovat údaje %1$s a %2$s ve službě <b>%3$s</b>?</string>
-    <string name="autofill_update_title_with_3types">Aktualizovat tyto položky ve službě <b>%4$s</b>: %1$s, %2$s a %3$s?</string>
-    <string name="autofill_update_title_with_type">Aktualizovat údaj %1$s ve službě <b>%2$s</b>?</string>
+    <string name="autofill_update_title">Aktualizovat ve službě </string>
+    <string name="autofill_update_title_with_2types">Aktualizovat údaje %1$s a %2$s ve službě </string>
+    <string name="autofill_update_title_with_3types">Aktualizovat tyto položky ve službě </string>
+    <string name="autofill_update_title_with_type">Aktualizovat údaj %1$s ve službě </string>
     <string name="autofill_update_yes">Aktualizovat</string>
     <string name="autofill_window_title">Automatické vyplňování pomocí služby %1$s</string>
     <string name="autofill_zip_code">PSČ</string>
@@ -379,6 +358,7 @@ Zkratku můžete nastavit na jinou funkci v Nastavení > Přístupnost."</strin
     <string name="call_notification_incoming_text">Příchozí hovor</string>
     <string name="call_notification_ongoing_text">Probíhající hovor</string>
     <string name="call_notification_screening_text">Prověřování příchozího hovoru</string>
+    <string name="cancel">Zrušit</string>
     <string name="capability_desc_canCaptureFingerprintGestures">Dokáže rozpoznat gesta zadaná na snímači otisků prstů.</string>
     <string name="capability_desc_canControlMagnification">Určuje umístění a úroveň přiblížení displeje.</string>
     <string name="capability_desc_canPerformGestures">Může provádět gesta klepnutí, přejetí, stažení prstů a další.</string>
@@ -412,7 +392,7 @@ Zkratku můžete nastavit na jinou funkci v Nastavení > Přístupnost."</strin
     <string name="chooser_all_apps_button_label">Seznam aplikací</string>
     <string name="chooser_no_direct_share_targets">Žádní doporučení lidé, s nimiž můžete sdílet</string>
     <string name="chooser_wallpaper">Změnit tapetu</string>
-    <string name="clearDefaultHintMsg">Výchozí nastavení vymažete v sekci Nastavení systému > Aplikace > Stažené.</string>
+    <string name="clearDefaultHintMsg">Výchozí nastavení vymažete v sekci Nastavení systému &gt; Aplikace &gt; Stažené.</string>
     <string name="close_button_text">Zavřít</string>
     <string name="color_correction_feature_name">Oprava barev</string>
     <string name="color_inversion_feature_name">Převrácení barev</string>
@@ -435,11 +415,14 @@ Zkratku můžete nastavit na jinou funkci v Nastavení > Přístupnost."</strin
     <string name="conversation_title_fallback_group_chat">Skupinová konverzace</string>
     <string name="conversation_title_fallback_one_to_one">Konverzace</string>
     <string name="copied">Zkopírováno</string>
+    <string name="copy">Kopírovat</string>
+    <string name="copyUrl">Kopírovat adresu URL</string>
     <string name="country_detector">Detektor země</string>
     <string name="country_selection_title">Preferovaná oblast</string>
     <string name="create_contact_using">"Vytvořit kontakt
 pro %s."</string>
     <string name="crossSimFormat_spn_cross_sim_calling">%s Záložní volání</string>
+    <string name="cut">Vyjmout</string>
     <string name="data_saver_description">S cílem snížit spotřebu dat brání spořič dat některým aplikacím odesílat nebo přijímat data na pozadí. Aplikace, kterou právě používáte, data přenášet může, ale může tak činit méně často. V důsledku toho se například obrázky nemusejí zobrazit, dokud na ně neklepnete.</string>
     <string name="data_saver_enable_button">Zapnout</string>
     <string name="data_saver_enable_title">Chcete zapnout Spořič dat?</string>
@@ -456,7 +439,7 @@ pro %s."</string>
     <string name="data_usage_warning_title">Upozornění na data</string>
     <string name="data_usage_wifi_limit_snoozed_title">Byl překročen limit Wi-Fi</string>
     <string name="data_usage_wifi_limit_title">Dosáhli jste limitu dat Wi-Fi</string>
-    <string name="date_and_time" formatted="false">%-k:%M:%S %-e. %-m. %Y</string>
+    <string formatted="false" name="date_and_time">%-k:%M:%S %-e. %-m. %Y</string>
     <string name="date_picker_decrement_day_button">Ubrat den</string>
     <string name="date_picker_decrement_month_button">Ubrat měsíc</string>
     <string name="date_picker_decrement_year_button">Ubrat rok</string>
@@ -473,6 +456,8 @@ pro %s."</string>
     <string name="days">d.</string>
     <string name="decline">Odmítnout</string>
     <string name="decline_remote_bugreport_action">ODMÍTNOUT</string>
+    <string name="defaultMsisdnAlphaTag">MSISDN1</string>
+    <string name="defaultVoiceMailAlphaTag">Hlasová schránka</string>
     <string name="default_audio_route_category_name">Systém</string>
     <string name="default_audio_route_name">Telefon</string>
     <string name="default_audio_route_name_dock_speakers">Reproduktory doku</string>
@@ -493,6 +478,7 @@ pro %s."</string>
     <string name="device_storage_monitor_notification_channel">Úložiště zařízení</string>
     <string name="dial_number_using">"Vytočit číslo
  %s."</string>
+    <string name="dialog_alert_title">Upozornění</string>
     <string name="disable_accessibility_shortcut">Vypnout zkratku</string>
     <string name="dismiss_action">Zavřít</string>
     <string name="display_manager_built_in_display_name">Integrovaná obrazovka</string>
@@ -525,6 +511,7 @@ pro %s."</string>
     <string name="emailTypeWork">Práce</string>
     <string name="emergency_call_dialog_number_for_display">Číslo tísňové linky</string>
     <string name="emergency_calls_only">Pouze tísňová volání</string>
+    <string name="emptyPhoneNumber">(žádné telefonní číslo)</string>
     <string name="enablePin">Operace nebyla úspěšná, povolte zámek SIM/RUIM karty.</string>
     <string name="enable_explore_by_touch_warning_message">Služba %1$s požaduje povolení funkce Prozkoumání dotykem. Pokud je funkce Prozkoumání dotykem zapnuta, můžete slyšet nebo vidět popisy objektů pod vaším prstem nebo ovládat telefon gesty.</string>
     <string name="enable_explore_by_touch_warning_title">Povolit funkci Prozkoumání dotykem?</string>
@@ -669,6 +656,7 @@ V případě dotazů vám pomůže administrátor organizace."</string>
     <string name="fingerprint_error_timeout">Časový limit sejmutí otisku prstu vypršel. Zkuste to znovu.</string>
     <string name="fingerprint_error_unable_to_process">Zkuste to znovu.</string>
     <string name="fingerprint_error_user_canceled">Uživatel operaci s otiskem prstu zrušil.</string>
+    <string name="fingerprint_icon_content_description">Ikona otisku prstů</string>
     <string name="fingerprint_name_template">Prst %d</string>
     <string name="fingerprint_or_screen_lock_app_setting_name">Použít otisk prstu nebo zámek obrazovky</string>
     <string name="fingerprint_or_screen_lock_dialog_default_subtitle">Pokračujte ověřením pomocí otisku prstu nebo zámku obrazovky</string>
@@ -742,6 +730,7 @@ Ten obvykle vypne obrazovku."</string>
     <string name="hours">hod.</string>
     <string name="httpError">Došlo k chybě sítě.</string>
     <string name="httpErrorAuth">Nelze provést ověření.</string>
+    <string name="httpErrorBadUrl">Stránku nelze otevřít. Adresa URL je neplatná.</string>
     <string name="httpErrorConnect">K serveru se nelze připojit.</string>
     <string name="httpErrorFailedSslHandshake">Nelze navázat bezpečné připojení.</string>
     <string name="httpErrorFile">Do souboru nelze získat přístup.</string>
@@ -754,6 +743,7 @@ Ten obvykle vypne obrazovku."</string>
     <string name="httpErrorTimeout">Spojení se serverem vypršelo.</string>
     <string name="httpErrorTooManyRequests">Je zpracováváno příliš mnoho požadavků. Opakujte akci později.</string>
     <string name="httpErrorUnsupportedAuthScheme">Schéma ověření webu není podporováno.</string>
+    <string name="httpErrorUnsupportedScheme">Protokol není podporován.</string>
     <string name="imProtocolAim">AIM</string>
     <string name="imProtocolCustom">Vlastní</string>
     <string name="imProtocolGoogleTalk">Hangouts</string>
@@ -837,7 +827,7 @@ Opravdu tuto stránku chcete opustit?"</string>
     <string name="keyguard_password_enter_pin_prompt">Nový kód PIN</string>
     <string name="keyguard_password_enter_puk_code">Zadejte kód PUK a nový kód PIN.</string>
     <string name="keyguard_password_enter_puk_prompt">Kód PUK</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Klepnutím zadáte heslo</font></string>
+    <string name="keyguard_password_entry_touch_hint" />
     <string name="keyguard_password_wrong_pin_code">Nesprávný kód PIN.</string>
     <string name="kg_enter_confirm_pin_hint">Potvrďte požadovaný kód PIN.</string>
     <string name="kg_failed_attempts_almost_at_login">"Již %1$dkrát jste nesprávně nakreslili své heslo odemknutí. Po %2$d dalších neúspěšných pokusech budete požádáni o odemčení telefonu pomocí e-mailového účtu.
@@ -851,7 +841,7 @@ Opravdu tuto stránku chcete opustit?"</string>
     <string name="kg_invalid_sim_pin_hint">Zadejte kód PIN o délce 4–8 číslic.</string>
     <string name="kg_invalid_sim_puk_hint">Kód PUK by měl obsahovat 8 číslic.</string>
     <string name="kg_login_account_recovery_hint">"Zapomněli jste uživatelské jméno nebo heslo?
-Přejděte na stránku "<b>google.com/accounts/recovery</b>.</string>
+Přejděte na stránku "</string>
     <string name="kg_login_checking_password">Kontrola účtu…</string>
     <string name="kg_login_instructions">Chcete-li telefon odemknout, přihlaste se pomocí svého účtu Google.</string>
     <string name="kg_login_invalid_input">Neplatné uživatelské jméno nebo heslo.</string>
@@ -913,7 +903,7 @@ Zkuste to znovu za %2$d s."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Telefon jste se pokusili nesprávným způsobem odemknout %dkrát. V telefonu se teď obnoví výchozí tovární nastavení.</string>
     <string name="lockscreen_forgot_pattern_button_text">Zapomněli jste gesto?</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Zapomněli jste uživatelské jméno nebo heslo?
-Přejděte na stránku "<b>google.com/accounts/recovery</b>.</string>
+Přejděte na stránku "</string>
     <string name="lockscreen_glogin_checking_password">Kontrola...</string>
     <string name="lockscreen_glogin_forgot_pattern">Odemčení účtu</string>
     <string name="lockscreen_glogin_instructions">Chcete-li telefon odemknout, přihlaste se pomocí svého účtu Google.</string>
@@ -1130,7 +1120,7 @@ Zkuste to znovu za %2$d s."</string>
     <string name="mmiErrorWhileRoaming">Když je aktivní roaming, nastavení přesměrování hovorů z telefonu nelze změnit.</string>
     <string name="mmiFdnError">Operace je omezena pouze na povolená telefonní čísla.</string>
     <string name="mobile_no_internet">Mobilní síť nemá přístup k internetu</string>
-    <string name="month_day_year" formatted="false">%-e. %B %Y</string>
+    <string formatted="false" name="month_day_year">%-e. %B %Y</string>
     <string name="more_item_label">Více</string>
     <string name="music_recognition_manager_service">Služba správy rozpoznávání hudby</string>
     <string name="muted_by">%1$s vypíná určité zvuky</string>
@@ -1159,6 +1149,7 @@ Vylepšená oznámení mají přístup k obsahu oznámení, včetně osobních 
     <string name="new_sms_notification_content">Zobrazíte je v aplikaci pro SMS</string>
     <string name="new_sms_notification_title">Máte nové zprávy</string>
     <string name="next_button_label">Další</string>
+    <string name="no">Zrušit</string>
     <string name="noApplications">Tuto činnost nemohou provádět žádné aplikace.</string>
     <string name="no_file_chosen">Není vybrán žádný soubor</string>
     <string name="no_matches">Žádné shody</string>
@@ -1223,6 +1214,7 @@ Vylepšená oznámení mají přístup k obsahu oznámení, včetně osobních 
     <string name="number_picker_increment_button">Zvýšit</string>
     <string name="number_picker_increment_scroll_action">Chcete-li hodnotu zvýšit, přijeďte prstem nahoru, chcete-li hodnotu snížit, přejeďte prstem dolů.</string>
     <string name="number_picker_increment_scroll_mode">%skrát klepněte a podržte.</string>
+    <string name="ok">OK</string>
     <string name="old_app_action">Zpět do aplikace %1$s</string>
     <string name="older">Starší</string>
     <string name="oneMonthDurationPast">před 1 měsícem</string>
@@ -1242,6 +1234,8 @@ Vylepšená oznámení mají přístup k obsahu oznámení, včetně osobních 
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">Alt</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
+    <string name="paste">Vložit</string>
+    <string name="paste_as_plain_text">Vložit jako prostý text</string>
     <string name="pasted_content">Aplikace %1$s vložila zkopírovaný obsah</string>
     <string name="pasted_from_app">Aplikace %1$s vložila data z aplikace %2$s</string>
     <string name="pasted_from_clipboard">Aplikace %1$s vložila obsah ze schránky</string>
@@ -1549,7 +1543,7 @@ pro účet %s."</string>
     <string name="permlab_writeSettings">změna nastavení systému</string>
     <string name="permlab_writeSyncSettings">vypnutí nebo zapnutí synchronizace</string>
     <string name="perms_description_app">Poskytuje: %1$s.</string>
-    <string name="perms_new_perm_prefix"><font fgcolor="#ff33b5e5" size="12">NOVÉ: </font></string>
+    <string name="perms_new_perm_prefix" />
     <string name="personal_apps_suspended_turn_profile_on">Zapnout</string>
     <string name="personal_apps_suspension_soon_text">Osobní aplikace budou zablokovány %1$s v %2$s. Administrátor IT nepovoluje vypnutí pracovního profilu na déle než tento počet dní: %3$d.</string>
     <string name="personal_apps_suspension_text">Vaše osobní aplikace jsou zablokovány, dokud nezapnete pracovní profil</string>
@@ -1708,13 +1702,14 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
     <string name="save_password_never">Nikdy</string>
     <string name="save_password_notnow">Teď ne</string>
     <string name="save_password_remember">Zapamatovat</string>
-    <string name="screen_compat_mode_hint">Tento režim znovu povolíte v sekci Nastavení systému > Aplikace > Stažené.</string>
+    <string name="screen_compat_mode_hint">Tento režim znovu povolíte v sekci Nastavení systému &gt; Aplikace &gt; Stažené.</string>
     <string name="screen_compat_mode_scale">Měřítko</string>
     <string name="screen_compat_mode_show">Vždy zobrazovat</string>
     <string name="screen_lock">Zámek obrazovky</string>
     <string name="screen_lock_app_setting_name">Použít zámek obrazovky</string>
     <string name="screen_lock_dialog_default_subtitle">Pokračujte zadáním zámku obrazovky</string>
     <string name="screenshot_edit">Upravit</string>
+    <string name="search_go">Hledat</string>
     <string name="search_hint">Vyhledat…</string>
     <string name="search_language_hint">Zadejte název jazyka</string>
     <string name="searchview_description_clear">Smazat dotaz</string>
@@ -1724,6 +1719,8 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
     <string name="searchview_description_voice">Hlasové vyhledávání</string>
     <string name="second">s</string>
     <string name="seconds">s</string>
+    <string name="selectAll">Vše</string>
+    <string name="selectTextMode">Vybrat text</string>
     <string name="select_character">Vkládání znaků</string>
     <string name="select_day">Vyberte měsíc a den</string>
     <string name="select_hours">Zvolte hodiny</string>
@@ -1740,7 +1737,7 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
     <string name="sensor_privacy_start_use_camera_notification_content_title">Odblokovat fotoaparát zařízení</string>
     <string name="sensor_privacy_start_use_dialog_turn_on_button">Odblokovat</string>
     <string name="sensor_privacy_start_use_mic_notification_content_title">Odblokovat mikrofon zařízení</string>
-    <string name="sensor_privacy_start_use_notification_content_text">Pro aplikaci &lt;b>%s&lt;/b> a všechny aplikace a služby</string>
+    <string name="sensor_privacy_start_use_notification_content_text">Pro aplikaci &lt;b&gt;%s&lt;/b&gt; a všechny aplikace a služby</string>
     <string name="serial_number">Sériové číslo:</string>
     <string name="serviceClassData">Data</string>
     <string name="serviceClassDataAsync">Async</string>
@@ -1793,19 +1790,19 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
     <string name="skip_button_label">Přeskočit</string>
     <string name="slice_more_content">a ještě %1$d</string>
     <string name="slices_permission_request">Aplikace %1$s chce zobrazovat ukázky z aplikace %2$s</string>
-    <string name="sms_control_message">Aplikace &lt;b>%1$s&lt;/b>odesílá velký počet SMS zpráv. Chcete aplikaci povolit, aby zprávy odesílala i nadále?</string>
+    <string name="sms_control_message">Aplikace &lt;b&gt;%1$s&lt;/b&gt;odesílá velký počet SMS zpráv. Chcete aplikaci povolit, aby zprávy odesílala i nadále?</string>
     <string name="sms_control_no">Odmítnout</string>
     <string name="sms_control_title">Odesílání zpráv SMS</string>
     <string name="sms_control_yes">Povolit</string>
-    <string name="sms_premium_short_code_details"><b>Tato akce povede k naúčtování poplatku na váš účet u mobilního operátora.</b></string>
+    <string name="sms_premium_short_code_details" />
     <string name="sms_short_code_confirm_allow">Odeslat</string>
     <string name="sms_short_code_confirm_always_allow">Povolit vždy</string>
     <string name="sms_short_code_confirm_deny">Zrušit</string>
-    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> chce odeslat zprávu na adresu &lt;b>%2$s&lt;/b>.</string>
+    <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; chce odeslat zprávu na adresu &lt;b&gt;%2$s&lt;/b&gt;.</string>
     <string name="sms_short_code_confirm_never_allow">Nepovolit nikdy</string>
-    <string name="sms_short_code_details">Tato akce <b>může vést k naúčtování poplatků</b> na váš účet u mobilního operátora.</string>
+    <string name="sms_short_code_details">Tato akce </string>
     <string name="sms_short_code_remember_choice">Zapamatovat moji volbu</string>
-    <string name="sms_short_code_remember_undo_instruction">Svoji volbu můžete později změnit v nabídce Nastavení > Aplikace.</string>
+    <string name="sms_short_code_remember_undo_instruction">Svoji volbu můžete později změnit v nabídce Nastavení &gt; Aplikace.</string>
     <string name="smv_application">Aplikace %1$s (proces %2$s) porušila své vlastní vynucené zásady StrictMode.</string>
     <string name="smv_process">Proces %1$s porušil své vlastní vynucené zásady StrictMode.</string>
     <string name="splash_screen_view_branding_description">Image značky aplikace</string>
@@ -1845,7 +1842,7 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
     <string name="test_harness_mode_notification_title">Režim správce testů je aktivní</string>
     <string name="textSelectionCABTitle">Výběr textu</string>
     <string name="text_copied">Text byl zkopírován do schránky.</string>
-    <string name="time_of_day" formatted="false">%-k:%M:%S</string>
+    <string formatted="false" name="time_of_day">%-k:%M:%S</string>
     <string name="time_picker_decrement_hour_button">Ubrat hodinu</string>
     <string name="time_picker_decrement_minute_button">Ubrat minutu</string>
     <string name="time_picker_decrement_set_am_button">Nastavit AM</string>
@@ -1870,6 +1867,7 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
     <string name="ui_translation_accessibility_translated_text">Překlad textu %1$s.</string>
     <string name="ui_translation_accessibility_translation_finished">Zpráva byla přeložena z jazyka %1$s do jazyka %2$s.</string>
     <string name="undo">Vrátit zpět</string>
+    <string name="unknownName">Není známo</string>
     <string name="unpin_specific_target">Odepnout: %1$s</string>
     <string name="unpin_target">Odepnout</string>
     <string name="unread_convo_overflow">%1$d+</string>
@@ -1878,6 +1876,7 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
     <string name="unsupported_compile_sdk_show">Vždy zobrazovat</string>
     <string name="unsupported_display_size_message">Aplikace %1$s aktuální nastavení velikosti zobrazení nepodporuje a může se chovat neočekávaně.</string>
     <string name="unsupported_display_size_show">Vždy zobrazovat</string>
+    <string name="untitled">&lt;Bez názvu&gt;</string>
     <string name="upload_file">Zvolit soubor</string>
     <string name="usb_accessory_notification_title">Je připojeno příslušenství USB</string>
     <string name="usb_charging_notification_title">Nabíjení zařízení přes USB</string>
@@ -2003,6 +2002,7 @@ Chcete ji zavřít?"</string>
     <string name="write_fail_reason_cannot_write">Při zápisu obsahu došlo k chybě</string>
     <string name="year">rokem</string>
     <string name="years">lety</string>
+    <string name="yes">OK</string>
     <string name="zen_mode_alarm">Do %1$s (příští budík)</string>
     <string name="zen_mode_default_events_name">Událost</string>
     <string name="zen_mode_default_every_night_name">Spánek</string>
