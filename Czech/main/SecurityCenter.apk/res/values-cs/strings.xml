@@ -1348,7 +1348,7 @@ For more info check the message you received from your service provider"</string
     <string name="deep_save_memory_clean_summary">Vyčistit cache, když je zařízení uzamčeno a zabránit tak aplikacím vybíjet baterii.</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Nastavit čas, kdy se má zařízení zapnout a vypnout</string>
     <string name="deepclean_cache_header_left">Cache: %d</string>
-    <string name="default_condition_summary">Napr. \"Baterie je nižší než %s\"</string>
+    <string name="default_condition_summary">Napr. \"Baterie je nižší než 20%\"</string>
     <string name="default_condition_title">Přidat podmínku</string>
     <string name="default_condition_title_continue">Přidat podmínku</string>
     <string name="default_result_summary">Napr. \"Vypnout režim Letadlo\"</string>
