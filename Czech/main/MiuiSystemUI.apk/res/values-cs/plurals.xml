@@ -71,7 +71,7 @@
    </plurals>
    <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s Hodin %2$s"</item>
-        <item quantity="other">" %1$s Hodina %2$s"</item>
+        <item quantity="one">" %1$s Hodina %2$s"</item>
     </plurals>	
 	    <plurals name="keyguard_charging_info_could_use_time_text">
        <item quantity="other">Zbývá okolo %1$dh %2$dmin</item>
