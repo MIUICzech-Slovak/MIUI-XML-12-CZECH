@@ -59,7 +59,7 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
     <string name="error_sdcard_access">SD karta není dostupná</string>
     <string name="error_sdcard_unmounted">SD karta je odpojena, vložte SD kartu</string>
     <string name="export_to_note">Exportovat Poznámku</string>
-    <string name="fm_record">Nahrávání FM rádia (%d)</string>
+    <string name="fm_record">Nahrávání FM rádia</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d. MMMM</string>
     <string name="fmt_date_long_year_month">MMMM, yyyy</string>
